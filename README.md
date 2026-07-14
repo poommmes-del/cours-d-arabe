@@ -10,6 +10,12 @@ commentaries, and transcripts into a guided learning experience for *nahw*
 
 **[Open the live application](https://cours-arabe-xi.vercel.app)**
 
+## Video demo
+
+[![Watch the silent Cours d'Arabe product demo](https://img.youtube.com/vi/IEp2CNY-M2E/maxresdefault.jpg)](https://www.youtube.com/watch?v=IEp2CNY-M2E)
+
+**[Watch the sub-30-second demo on YouTube](https://www.youtube.com/watch?v=IEp2CNY-M2E)**
+
 ## At a glance
 
 | Content | Total |
@@ -186,7 +192,8 @@ npx --yes -p @playwright/test@latest bash -lc \
 
 ## Product demo
 
-The silent, sub-30-second product video was built with HyperFrames and GSAP.
+The [silent, sub-30-second product video](https://www.youtube.com/watch?v=IEp2CNY-M2E)
+was built with HyperFrames and GSAP.
 Composition source, storyboard, script, and Devpost project story live in
 [`video-demo/`](video-demo/). Generated MP4 and inspection captures remain
 outside Git.

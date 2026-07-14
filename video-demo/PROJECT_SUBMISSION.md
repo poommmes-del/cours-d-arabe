@@ -62,4 +62,4 @@ Next steps include stronger search across Arabic concepts, richer progress analy
 
 # Video demo link
 
-Upload the approved MP4 to YouTube or Vimeo, then replace this line with its public URL.
+https://www.youtube.com/watch?v=IEp2CNY-M2E
