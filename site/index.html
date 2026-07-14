@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="fr" data-theme="dark">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Interface d'étude des cours d'arabe de Mahmoud Ash-Shafi'i : nahw, sarf, balagha. Modules pédagogiques, questionnaires, transcriptions, audios et ressources PDF." />
+    <meta name="color-scheme" content="dark light" />
+    <title>Cours d'arabe — محمود الشافعي</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Naskh+Arabic:wght@400;600;700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="assets/app.css?v=20260713-26px-titles" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <main id="workspace" class="workspace is-home">
+        <section id="homePanel" class="home-panel">
+          <header class="home-hero">
+            <div>
+              <p class="eyebrow">محمود الشافعي</p>
+              <h1>Cours d'arabe</h1>
+              <h2>Choisir un cours</h2>
+            </div>
+            <div>
+              <div id="totalStats" class="home-stats"></div>
+              <div id="homeStats" class="home-stats"></div>
+            </div>
+          </header>
+          <div class="home-tools">
+            <label class="search-box">
+              <span>Recherche</span>
+              <input id="searchInput" type="search" autocomplete="off" placeholder="cours, notion, transcription…" />
+            </label>
+          </div>
+
+          <div id="homeGrid" class="course-tile-grid" aria-label="Liste des cours"></div>
+        </section>
+
+        <section class="course-panel">
+          <div class="course-heading">
+            <div>
+              <p id="courseGroup" class="eyebrow"></p>
+              <h2 id="courseTitle"></h2>
+            </div>
+            <div class="course-actions">
+              <div id="courseStats" class="course-stats"></div>
+              <button id="courseDoneButton" class="source-link" type="button">Cours fait</button>
+              <button id="backHomeButton" class="source-link" type="button">Accueil</button>
+            </div>
+          </div>
+          <div id="moduleGrid" class="module-tile-grid" aria-label="Modules"></div>
+        </section>
+
+        <section class="lesson-panel">
+          <header class="lesson-header">
+            <div>
+              <p id="lessonCourse" class="eyebrow"></p>
+              <h2 id="moduleTitle"></h2>
+              <p id="moduleProgress" class="module-progress"></p>
+            </div>
+            <div class="lesson-actions">
+              <label class="lesson-select">
+                <span>Audio</span>
+                <select id="lessonSelect"></select>
+              </label>
+              <button id="moduleDoneButton" class="source-link" type="button">Module fait</button>
+              <a id="sourceLink" class="source-link" target="_blank" rel="noreferrer">Archive</a>
+            </div>
+          </header>
+
+          <audio id="audioPlayer" class="audio-player" controls preload="metadata"></audio>
+
+          <div class="tabbar" role="tablist">
+            <button class="tab is-active" data-tab="course" type="button">Cours</button>
+            <button class="tab" data-tab="quiz" type="button">Questionnaire</button>
+            <button class="tab" data-tab="resources" type="button">Matn / Charh</button>
+            <button class="tab" data-tab="transcript" type="button">Transcription</button>
+            <button class="tab" data-tab="segments" type="button">Segments</button>
+          </div>
+
+          <section id="courseTab" class="tab-panel is-active">
+            <article id="courseContent" class="course-content" dir="rtl" lang="ar"></article>
+          </section>
+
+          <section id="quizTab" class="tab-panel">
+            <div id="quizList" class="quiz-list" dir="rtl" lang="ar"></div>
+          </section>
+
+          <section id="resourcesTab" class="tab-panel">
+            <div id="resourceList" class="resource-list"></div>
+          </section>
+
+          <section id="transcriptTab" class="tab-panel">
+            <div id="transcriptMeta" class="meta-row"></div>
+            <article id="transcriptText" class="transcript-text" dir="rtl" lang="ar"></article>
+          </section>
+
+          <section id="segmentsTab" class="tab-panel">
+            <div id="segmentList" class="segment-list" dir="rtl" lang="ar"></div>
+          </section>
+        </section>
+      </main>
+    </div>
+
+    <button id="themeToggle" class="theme-toggle" type="button" aria-label="Changer le thème">
+      <svg class="icon-moon" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 3a9 9 0 1 0 9 9c0-.46-.04-.92-.1-1.36a5.389 5.389 0 0 1-4.4 2.26 5.403 5.403 0 0 1-3.14-9.8c-.44-.06-.9-.1-1.36-.1z"/></svg>
+      <svg class="icon-sun" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 7a5 5 0 1 0 0 10 5 5 0 0 0 0-10zm0-4a1 1 0 0 1 1 1v1a1 1 0 1 1-2 0V4a1 1 0 0 1 1-1zm0 17a1 1 0 0 1 1 1v1a1 1 0 1 1-2 0v-1a1 1 0 0 1 1-1zm9-9a1 1 0 0 1 0 2h-1a1 1 0 1 1 0-2h1zM4 11a1 1 0 0 1 0 2H3a1 1 0 1 1 0-2h1zm14.36-5.95a1 1 0 0 1 0 1.41l-.7.71a1 1 0 1 1-1.42-1.42l.71-.7a1 1 0 0 1 1.41 0zM7.76 16.53a1 1 0 0 1 0 1.42l-.71.7a1 1 0 1 1-1.41-1.41l.7-.71a1 1 0 0 1 1.42 0zm10.59 1.42a1 1 0 0 1-1.41 0l-.71-.71a1 1 0 1 1 1.42-1.42l.7.71a1 1 0 0 1 0 1.42zM7.76 7.47a1 1 0 0 1-1.42 0l-.7-.71a1 1 0 0 1 1.41-1.41l.71.7a1 1 0 0 1 0 1.42z"/></svg>
+    </button>
+
+    <script src="assets/app.js" defer></script>
+  </body>
+</html>

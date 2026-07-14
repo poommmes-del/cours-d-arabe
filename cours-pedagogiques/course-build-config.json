@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "courses": [
+    {
+      "identifier": "moutammima",
+      "order": 1,
+      "wave": 1,
+      "lesson_count": 59,
+      "module_count_range": [30, 55]
+    },
+    {
+      "identifier": "qatr-nada",
+      "order": 2,
+      "wave": 1,
+      "lesson_count": 69,
+      "module_count_range": [30, 55]
+    },
+    {
+      "identifier": "qawaid-i3raab-sa3di",
+      "order": 3,
+      "wave": 1,
+      "lesson_count": 44,
+      "module_count_range": [30, 55]
+    },
+    {
+      "identifier": "qawaid-i3raab-zawawi",
+      "order": 4,
+      "wave": 2,
+      "lesson_count": 37,
+      "module_count_range": [25, 40]
+    },
+    {
+      "identifier": "mawsil-toullab",
+      "order": 5,
+      "wave": 2,
+      "lesson_count": 48,
+      "module_count_range": [30, 55]
+    },
+    {
+      "identifier": "shoudhour-dhahab",
+      "order": 6,
+      "wave": 2,
+      "lesson_count": 76,
+      "module_count_range": [30, 55]
+    },
+    {
+      "identifier": "alfiya-nahw",
+      "order": 7,
+      "wave": 3,
+      "lesson_count": 163,
+      "module_count_range": [70, 110]
+    },
+    {
+      "identifier": "moulakhas-sarfi",
+      "order": 8,
+      "wave": 3,
+      "lesson_count": 43,
+      "module_count_range": [30, 55]
+    },
+    {
+      "identifier": "nadhm-maqsoud",
+      "order": 9,
+      "wave": 3,
+      "lesson_count": 60,
+      "module_count_range": [30, 55]
+    },
+    {
+      "identifier": "alfiya-sarf",
+      "order": 10,
+      "wave": 4,
+      "lesson_count": 32,
+      "module_count_range": [25, 40]
+    },
+    {
+      "identifier": "laamiya-af3al",
+      "order": 11,
+      "wave": 4,
+      "lesson_count": 41,
+      "module_count_range": [30, 55]
+    },
+    {
+      "identifier": "dourous-balagha",
+      "order": 12,
+      "wave": 4,
+      "lesson_count": 60,
+      "module_count_range": [30, 55]
+    },
+    {
+      "identifier": "maani-we-bayan",
+      "order": 13,
+      "wave": 5,
+      "lesson_count": 30,
+      "module_count_range": [25, 40]
+    }
+  ]
+}

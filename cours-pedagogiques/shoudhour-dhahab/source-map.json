@@ -1,0 +1,1347 @@
+{
+  "schema_version": 2,
+  "course_id": "shoudhour-dhahab",
+  "module_count_range": [
+    30,
+    55
+  ],
+  "source_inventory": {
+    "canonical_available": true
+  },
+  "modules": [
+    {
+      "id": "shoudhour-dhahab-module-01-منزلة-شذور-الذهب-ومنهج-الدراسة",
+      "title": "منزلة شذور الذهب ومنهج الدراسة",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "001-1",
+          "start_seconds": 0,
+          "end_seconds": 3602,
+          "evidence": "منزلة الكتاب بعد المتممة، وطريقة قراءة المتن والشرح وربط القاعدة بالتطبيق."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-02-الكلمة-وأقسامها-وأثر-الإعراب",
+      "title": "الكلمة وأقسامها وأثر الإعراب",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {
+          "lesson_id": "002-2",
+          "start_seconds": 0,
+          "end_seconds": 5307,
+          "evidence": "تعريف الكلمة وتقسيمها إلى اسم وفعل وحرف، وأثر العلاقات الإعرابية في المعنى."
+        },
+        {
+          "lesson_id": "003-3",
+          "start_seconds": 0,
+          "end_seconds": 4895,
+          "evidence": "أدوات المعاني وأسماء الأفعال السماعية والقياسية، وفتح حرف المضارعة لغير الرباعي وضمه للرباعي."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-03-الكلام-والقول-الحالي-والمعرب-والمبني",
+      "title": "الكلام والقول الحالي والمعرب والمبني",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "004-4",
+          "start_seconds": 0,
+          "end_seconds": 5260,
+          "evidence": "نائب الفاعل وحد الكلام بين الاصطلاح واللغة ولسان الحال."
+        },
+        {
+          "lesson_id": "005-5",
+          "start_seconds": 0,
+          "end_seconds": 5263,
+          "evidence": "القول الحالي والمصدر الواقع حالا، ثم انقسام الاسم إلى معرب ومبني."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-04-علامات-الإعراب-والأسماء-الخمسة",
+      "title": "علامات الإعراب والأسماء الخمسة",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "006-6",
+          "start_seconds": 0,
+          "end_seconds": 5083,
+          "evidence": "الأثر الظاهر والمقدر والعامل وحذف الخبر في مواضعه."
+        },
+        {
+          "lesson_id": "007-7",
+          "start_seconds": 0,
+          "end_seconds": 4646,
+          "evidence": "العلامات النائبة في الأفعال الخمسة والمعتل والأسماء الخمسة."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-05-تعدد-الأوجه-والعطف-واللام-وإن",
+      "title": "تعدد الأوجه والعطف واللام وإن",
+      "estimated_study_minutes": 23,
+      "audio_spans": [
+        {
+          "lesson_id": "008-8",
+          "start_seconds": 0,
+          "end_seconds": 5110,
+          "evidence": "احتمال الموضع أوجها إعرابية والعطف على الضمير المجرور."
+        },
+        {
+          "lesson_id": "009-9",
+          "start_seconds": 0,
+          "end_seconds": 4743,
+          "evidence": "رد المحذوف في الجمع واللام الموطئة للقسم ومعاني إن."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-06-توجيه-المشكل-في-الرسم-والقراءات",
+      "title": "توجيه المشكل في الرسم والقراءات",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {
+          "lesson_id": "010-10",
+          "start_seconds": 0,
+          "end_seconds": 4672,
+          "evidence": "توجيه إن هذان ورفض دعوى اللحن مع فصل الثابت عن الأقوال المتعددة."
+        },
+        {
+          "lesson_id": "011-11",
+          "start_seconds": 0,
+          "end_seconds": 4915,
+          "evidence": "توجيه المقيمين والصابئون بقطع النعت والاستئناف دون الألفاظ الشعرية."
+        },
+        {
+          "lesson_id": "012-12",
+          "start_seconds": 0,
+          "end_seconds": 5130,
+          "evidence": "الحذف والتقدير وتبعية اللفظ أو المحل في التراكيب القرآنية."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-07-الأفعال-الخمسة-والإعراب-المقدر",
+      "title": "الأفعال الخمسة والإعراب المقدر",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "013-13",
+          "start_seconds": 0,
+          "end_seconds": 2950,
+          "evidence": "ثبوت النون وحذفها وجزم المعتل والتمييز من نون النسوة."
+        },
+        {
+          "lesson_id": "014-14",
+          "start_seconds": 0,
+          "end_seconds": 5048,
+          "evidence": "تقدير الحركات في المقصور والمنقوص والمضاف لياء المتكلم."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-08-بناء-الأفعال-والمركبات",
+      "title": "بناء الأفعال والمركبات",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "015-15",
+          "start_seconds": 0,
+          "end_seconds": 4787,
+          "evidence": "بناء المضارع مع نوني النسوة والتوكيد وبناء الماضي."
+        },
+        {
+          "lesson_id": "016-16",
+          "start_seconds": 0,
+          "end_seconds": 5218,
+          "evidence": "بناء الأعداد والظروف والأحوال والأعلام المركبة على الفتح."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-09-بناء-الظروف-والمبهم-المضاف",
+      "title": "بناء الظروف والمبهم المضاف",
+      "estimated_study_minutes": 23,
+      "audio_spans": [
+        {
+          "lesson_id": "017-17",
+          "start_seconds": 0,
+          "end_seconds": 4300,
+          "evidence": "بناء الظرف المضاف إلى الجملة والخلاف في إعرابه."
+        },
+        {
+          "lesson_id": "017-17",
+          "start_seconds": 4380,
+          "end_seconds": 4588,
+          "evidence": "خاتمة أحكام بناء الظروف بعد حذف الشاهد الشعري المضطرب."
+        },
+        {
+          "lesson_id": "018-18",
+          "start_seconds": 0,
+          "end_seconds": 4967,
+          "evidence": "المبهم المضاف إلى مبني وعلامة النصب في الجمع بالألف والتاء."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-10-العلم-المركب-واسم-الفعل",
+      "title": "العلم المركب واسم الفعل",
+      "estimated_study_minutes": 20,
+      "audio_spans": [
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 0,
+          "end_seconds": 4507,
+          "evidence": "العلم المختوم بويه واسم فعل الأمر على فعال والفرق من المصدر المعدول."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-11-القطع-عن-الإضافة-وأي-الموصولة",
+      "title": "القطع عن الإضافة وأي الموصولة",
+      "estimated_study_minutes": 23,
+      "audio_spans": [
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 0,
+          "end_seconds": 5068,
+          "evidence": "أعلام حذام وقبل وبعد عند القطع عن الإضافة لفظا."
+        },
+        {
+          "lesson_id": "021-21",
+          "start_seconds": 0,
+          "end_seconds": 4275,
+          "evidence": "الظروف المبهمة وأي الموصولة إذا حذف صدر صلتها."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-12-المنادى-المبني-والحروف",
+      "title": "المنادى المبني والحروف",
+      "estimated_study_minutes": 20,
+      "audio_spans": [
+        {
+          "lesson_id": "022-22",
+          "start_seconds": 0,
+          "end_seconds": 5506,
+          "evidence": "بناء المنادى المفرد المعرفة وحركات بناء الحروف."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-13-أسماء-الإشارة-وأي-والاستفهام",
+      "title": "أسماء الإشارة وأي والاستفهام",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "023-23",
+          "start_seconds": 0,
+          "end_seconds": 4838,
+          "evidence": "الموصولات المبنية والمعربة ودخول أل في الاستعمالات الخاصة."
+        },
+        {
+          "lesson_id": "024-24",
+          "start_seconds": 0,
+          "end_seconds": 4986,
+          "evidence": "أسماء الإشارة وأي بين الوصل والاستفهام والتعليق."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-14-إذ-والآن-والضمير-ومراتب-المعرفة",
+      "title": "إذ والآن والضمير ومراتب المعرفة",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "025-25",
+          "start_seconds": 0,
+          "end_seconds": 4987,
+          "evidence": "معاني إذ وبناء الآن وعودة الضمير إلى النكرة بالسياق."
+        },
+        {
+          "lesson_id": "026-26",
+          "start_seconds": 0,
+          "end_seconds": 5015,
+          "evidence": "مراتب المعرفة وضمير الشأن والتقديم اللفظي والرتبي."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-15-علم-الشخص-والجنس-والكنية-واللقب",
+      "title": "علم الشخص والجنس والكنية واللقب",
+      "estimated_study_minutes": 20,
+      "audio_spans": [
+        {
+          "lesson_id": "027-27",
+          "start_seconds": 0,
+          "end_seconds": 4938,
+          "evidence": "الفرق بين علم الشخص وعلم الجنس وترتيب الاسم والكنية واللقب."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-16-صلة-الموصول-والعائد",
+      "title": "صلة الموصول والعائد",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "028-28",
+          "start_seconds": 0,
+          "end_seconds": 2440,
+          "evidence": "كاف الخطاب وافتقار الموصول إلى صلة وعائد."
+        },
+        {
+          "lesson_id": "028-28",
+          "start_seconds": 2530,
+          "end_seconds": 4781,
+          "evidence": "حذف العائد ولغات الموصولات بعد إسقاط الشاهد غير المنضبط."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-17-الموصولات-العامة-وأل",
+      "title": "الموصولات العامة وأل",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "029-29",
+          "start_seconds": 0,
+          "end_seconds": 5133,
+          "evidence": "من وما وذو وذا وأي وأل موصولات عامة على شروطها."
+        },
+        {
+          "lesson_id": "030-30",
+          "start_seconds": 0,
+          "end_seconds": 4617,
+          "evidence": "أل العهد والجنس وثبوتها وحذفها في النداء والإضافة."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-18-المرفوعات-والفاعل-ونائبه",
+      "title": "المرفوعات والفاعل ونائبه",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "031-31",
+          "start_seconds": 0,
+          "end_seconds": 3358,
+          "evidence": "خريطة المرفوعات وتعريف الفاعل ونائب الفاعل."
+        },
+        {
+          "lesson_id": "032-32",
+          "start_seconds": 0,
+          "end_seconds": 4320,
+          "evidence": "نيابة المفعول والمصدر والظرف والمجرور وتعدد متعلقات الفعل، دون الشعر المضطرب."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-19-تأنيث-الفعل-ولغة-أكلوني-البراغيث",
+      "title": "تأنيث الفعل ولغة أكلوني البراغيث",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "033-33",
+          "start_seconds": 0,
+          "end_seconds": 4990,
+          "evidence": "وجوب تأنيث الفعل وجوازه بحسب حقيقة الفاعل واتصاله وجمعه."
+        },
+        {
+          "lesson_id": "034-34",
+          "start_seconds": 0,
+          "end_seconds": 4700,
+          "evidence": "تفصيل جمع التكسير ولغة إلحاق علامة التثنية أو الجمع بالفعل."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-20-المبتدأ-والخبر-والوصف-الرافع",
+      "title": "المبتدأ والخبر والوصف الرافع",
+      "estimated_study_minutes": 20,
+      "audio_spans": [
+        {
+          "lesson_id": "035-35",
+          "start_seconds": 0,
+          "end_seconds": 4598,
+          "evidence": "عامل الابتداء والوصف المعتمد الرافع لمكتف به والفروق في التخريج."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-21-كان-وأخواتها",
+      "title": "كان وأخواتها",
+      "estimated_study_minutes": 15,
+      "audio_spans": [
+        {
+          "lesson_id": "036-36",
+          "start_seconds": 0,
+          "end_seconds": 4968,
+          "evidence": "عمل كان وأخواتها وتمامها ونقصها وحذفها وحذف نون مضارعها."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-22-ما-ولا-ولات-وإن-العاملات-عمل-ليس",
+      "title": "ما ولا ولات وإن العاملات عمل ليس",
+      "estimated_study_minutes": 15,
+      "audio_spans": [
+        {
+          "lesson_id": "037-37",
+          "start_seconds": 0,
+          "end_seconds": 1900,
+          "evidence": "شروط عمل الحروف النافية عمل ليس واختصاص لات بالزمان."
+        },
+        {
+          "lesson_id": "038-38",
+          "start_seconds": 0,
+          "end_seconds": 4940,
+          "evidence": "الفروق بين لا العاملة عمل ليس والنافية للجنس، ومواضع كسر إن."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-23-إن-وأفعال-القلوب-ولا-النافية-للجنس",
+      "title": "إن وأفعال القلوب ولا النافية للجنس",
+      "estimated_study_minutes": 15,
+      "audio_spans": [
+        {
+          "lesson_id": "039-39",
+          "start_seconds": 0,
+          "end_seconds": 5129,
+          "evidence": "فتح همزة إن وكسرها، وأفعال القلوب، وشروط لا النافية للجنس."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-24-حذف-العامل-والاشتغال-والنداء",
+      "title": "حذف العامل والاشتغال والنداء",
+      "estimated_study_minutes": 15,
+      "audio_spans": [
+        {
+          "lesson_id": "040-40",
+          "start_seconds": 0,
+          "end_seconds": 5038,
+          "evidence": "حذف عامل المفعول والاشتغال ونيابة حرف النداء وعمل اسم الشرط."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-25-المفعول-المطلق-والمفعول-لأجله",
+      "title": "المفعول المطلق والمفعول لأجله",
+      "estimated_study_minutes": 15,
+      "audio_spans": [
+        {
+          "lesson_id": "041-41",
+          "start_seconds": 0,
+          "end_seconds": 4969,
+          "evidence": "المصدر المؤكد أو المبين ونوابه، وشروط المفعول لأجله."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-26-الظرف-والمفعول-معه",
+      "title": "الظرف والمفعول معه",
+      "estimated_study_minutes": 15,
+      "audio_spans": [
+        {
+          "lesson_id": "042-42",
+          "start_seconds": 0,
+          "end_seconds": 2547,
+          "evidence": "ضابط ظرف الزمان والمكان وما ينصب منه قياسا."
+        },
+        {
+          "lesson_id": "043-43",
+          "start_seconds": 0,
+          "end_seconds": 4993,
+          "evidence": "المفعول معه والتمييز بين واو المصاحبة والعطف، ومدخل الحال."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-27-الحال-والتمييز",
+      "title": "الحال والتمييز",
+      "estimated_study_minutes": 15,
+      "audio_spans": [
+        {
+          "lesson_id": "044-44",
+          "start_seconds": 0,
+          "end_seconds": 3266,
+          "evidence": "صاحب الحال ومجيء الحال من المضاف إليه."
+        },
+        {
+          "lesson_id": "045-45",
+          "start_seconds": 0,
+          "end_seconds": 4128,
+          "evidence": "شروط الحال الجامدة والمعرفة والنكرة، ومدخل تمييز النسبة."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-28-تمييز-الذات-والنسبة",
+      "title": "تمييز الذات والنسبة",
+      "estimated_study_minutes": 15,
+      "audio_spans": [
+        {
+          "lesson_id": "046-46",
+          "start_seconds": 0,
+          "end_seconds": 4576,
+          "evidence": "تمييز العدد والمقدار والمحول عن الفاعل أو المفعول، قبل الانتقال للاستثناء."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-29-الاستثناء-بإلا-وغير-وسوى",
+      "title": "الاستثناء بإلا وغير وسوى",
+      "estimated_study_minutes": 15,
+      "audio_spans": [
+        {
+          "lesson_id": "047-47",
+          "start_seconds": 0,
+          "end_seconds": 4568,
+          "evidence": "الاستثناء التام والمفرغ والمتصل والمنقطع، وأحكام غير وسوى."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-30-بقية-المنصوبات-وعمل-النواسخ",
+      "title": "بقية المنصوبات وعمل النواسخ",
+      "estimated_study_minutes": 15,
+      "audio_spans": [
+        {
+          "lesson_id": "048-48",
+          "start_seconds": 0,
+          "end_seconds": 4974,
+          "evidence": "خبر كان وما واسم إن ولا، والحذف والإعمال والإلغاء في الشواهد الواضحة."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-31-إن-وأن-المخففتان",
+      "title": "إن وأن المخففتان",
+      "estimated_study_minutes": 15,
+      "audio_spans": [
+        {
+          "lesson_id": "049-49",
+          "start_seconds": 0,
+          "end_seconds": 4890,
+          "evidence": "عمل إن وأن المخففتين وضمير الشأن واللام الفارقة وفواصل الخبر."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-32-لا-النافية-للجنس-وأنواع-أن",
+      "title": "لا النافية للجنس وأنواع أن",
+      "estimated_study_minutes": 15,
+      "audio_spans": [
+        {
+          "lesson_id": "050-50",
+          "start_seconds": 0,
+          "end_seconds": 5705,
+          "evidence": "بناء اسم لا المفرَد، ونصب المضاف، والفرق بين أن الناصبة والمخففة والمفسرة."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-33-نصب-المضارع-بعد-حروف-العطف",
+      "title": "نصب المضارع بعد حروف العطف",
+      "estimated_study_minutes": 15,
+      "audio_spans": [
+        {
+          "lesson_id": "051-51",
+          "start_seconds": 0,
+          "end_seconds": 4463,
+          "evidence": "إضمار أن بعد أو والفاء والواو وثم على معاني الغاية والسببية والمعية."
+        },
+        {
+          "lesson_id": "052-52",
+          "start_seconds": 0,
+          "end_seconds": 5892,
+          "evidence": "فاء السببية وواو المعية بعد النفي والطلب وتقدير المصدر."
+        },
+        {
+          "lesson_id": "053-53",
+          "start_seconds": 0,
+          "end_seconds": 3938,
+          "evidence": "جواب الطلب والرفع أو النصب بحسب العطف والاستئناف."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-34-إضمار-أن-وحروف-الجر-والقسم",
+      "title": "إضمار أن وحروف الجر والقسم",
+      "estimated_study_minutes": 15,
+      "audio_spans": [
+        {
+          "lesson_id": "054-54",
+          "start_seconds": 0,
+          "end_seconds": 4125,
+          "evidence": "إضمار أن جوازا عند العطف على اسم صريح، وحروف القسم."
+        },
+        {
+          "lesson_id": "055-55",
+          "start_seconds": 0,
+          "end_seconds": 3174,
+          "evidence": "رب وحذف الجار وجر المصدر المؤول على الخلاف."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-35-الإضافة-والجر-على-الجوار",
+      "title": "الإضافة والجر على الجوار",
+      "estimated_study_minutes": 15,
+      "audio_spans": [
+        {
+          "lesson_id": "056-56",
+          "start_seconds": 0,
+          "end_seconds": 4270,
+          "evidence": "الإضافة المعنوية واللفظية وأثرها في التعريف والتخصيص."
+        },
+        {
+          "lesson_id": "057-57",
+          "start_seconds": 0,
+          "end_seconds": 4494,
+          "evidence": "توابع المضاف والمضاف إليه والجر على الجوار بوصفه سماعا مختلفا فيه."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-36-أدوات-الشرط-والحذف-واجتماع-القسم",
+      "title": "أدوات الشرط والحذف واجتماع القسم",
+      "estimated_study_minutes": 15,
+      "audio_spans": [
+        {
+          "lesson_id": "058-58",
+          "start_seconds": 0,
+          "end_seconds": 5060,
+          "evidence": "أدوات الشرط واستعمالاتها وحذف جواب الشرط لدليل."
+        },
+        {
+          "lesson_id": "059-59",
+          "start_seconds": 0,
+          "end_seconds": 4165,
+          "evidence": "حذف فعل الشرط والجواب ووجوب المناسبة الدلالية."
+        },
+        {
+          "lesson_id": "060-60",
+          "start_seconds": 0,
+          "end_seconds": 4480,
+          "evidence": "اجتماع الشرط والقسم وتعيين الجواب للسابق ووجوه المتقدم."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-37-تعدي-الأفعال-والتعليق",
+      "title": "تعدي الأفعال والتعليق",
+      "estimated_study_minutes": 15,
+      "audio_spans": [
+        {
+          "lesson_id": "061-61",
+          "start_seconds": 0,
+          "end_seconds": 4881,
+          "evidence": "اللازم والمتعدي إلى مفعول أو مفعولين أو ثلاثة وأفعال التصيير."
+        },
+        {
+          "lesson_id": "062-62",
+          "start_seconds": 0,
+          "end_seconds": 5425,
+          "evidence": "تعليق أفعال القلوب عن العمل مع بقاء محل الجملة."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-38-الإلغاء-وعمل-المصدر",
+      "title": "الإلغاء وعمل المصدر",
+      "estimated_study_minutes": 15,
+      "audio_spans": [
+        {
+          "lesson_id": "063-63",
+          "start_seconds": 0,
+          "end_seconds": 2700,
+          "evidence": "الفرق بين الإلغاء والتعليق وحذف مفاعيل أفعال القلوب، دون البيت المصحف."
+        },
+        {
+          "lesson_id": "064-64",
+          "start_seconds": 0,
+          "end_seconds": 4851,
+          "evidence": "عمل المصدر وإضافته إلى الفاعل أو المفعول وحذف المعمول."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-39-عمل-أسماء-الفاعلين-والصفة-المشبهة",
+      "title": "عمل أسماء الفاعلين والصفة المشبهة",
+      "estimated_study_minutes": 15,
+      "audio_spans": [
+        {
+          "lesson_id": "065-65",
+          "start_seconds": 0,
+          "end_seconds": 5001,
+          "evidence": "شروط عمل اسم الفاعل واسم المفعول واعتمادهما."
+        },
+        {
+          "lesson_id": "066-66",
+          "start_seconds": 0,
+          "end_seconds": 4598,
+          "evidence": "معمول الصفة المشبهة وأسماء الأفعال وعمل شبه الجملة."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-40-اسم-التفضيل-والتعجب",
+      "title": "اسم التفضيل والتعجب",
+      "estimated_study_minutes": 15,
+      "audio_spans": [
+        {
+          "lesson_id": "067-67",
+          "start_seconds": 0,
+          "end_seconds": 3614,
+          "evidence": "صيغ المصدر وأحوال اسم التفضيل في التجرد والإضافة والتحلية بأل."
+        },
+        {
+          "lesson_id": "068-68",
+          "start_seconds": 0,
+          "end_seconds": 4000,
+          "evidence": "صيغ التعجب وشروطها قبل بدء باب التنازع."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-41-التنازع-والاشتغال",
+      "title": "التنازع والاشتغال",
+      "estimated_study_minutes": 15,
+      "audio_spans": [
+        {
+          "lesson_id": "068-68",
+          "start_seconds": 4000,
+          "end_seconds": 5280,
+          "evidence": "تنازع العاملين واختيار الأقرب أو الأول وإضمار معمول المهمل."
+        },
+        {
+          "lesson_id": "069-69",
+          "start_seconds": 0,
+          "end_seconds": 5344,
+          "evidence": "الاشتغال ورفع الاسم المتقدم أو نصبه ومواضع الترجيح والوجوب."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-42-النعت-والتوكيد",
+      "title": "النعت والتوكيد",
+      "estimated_study_minutes": 15,
+      "audio_spans": [
+        {
+          "lesson_id": "070-70",
+          "start_seconds": 0,
+          "end_seconds": 4101,
+          "evidence": "الإسناد الحقيقي والمجازي، والنعت، وألفاظ التوكيد الدافعة لاحتمال البعض."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-43-عطف-البيان-والبدل",
+      "title": "عطف البيان والبدل",
+      "estimated_study_minutes": 15,
+      "audio_spans": [
+        {
+          "lesson_id": "071-71",
+          "start_seconds": 0,
+          "end_seconds": 5480,
+          "evidence": "عطف البيان وفروقه من البدل وأقسام البدل المقصود بالحكم."
+        },
+        {
+          "lesson_id": "072-72",
+          "start_seconds": 0,
+          "end_seconds": 2100,
+          "evidence": "مطابقة البدل وإبدال الظاهر من الضمير قبل الانتقال لعطف النسق."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-44-عطف-النسق-ومعاني-الحروف",
+      "title": "عطف النسق ومعاني الحروف",
+      "estimated_study_minutes": 15,
+      "audio_spans": [
+        {
+          "lesson_id": "072-72",
+          "start_seconds": 2100,
+          "end_seconds": 2267,
+          "evidence": "شروط العطف على الضمائر وإعادة الخافض."
+        },
+        {
+          "lesson_id": "073-73",
+          "start_seconds": 0,
+          "end_seconds": 3005,
+          "evidence": "معاني الواو والفاء وثم وحتى وأو وأم وتطبيقات عطف النسق."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "shoudhour-dhahab-module-45-توابع-المنادى-ومنع-الصرف-والعدد",
+      "title": "توابع المنادى ومنع الصرف والعدد",
+      "estimated_study_minutes": 20,
+      "audio_spans": [
+        {
+          "lesson_id": "074-74",
+          "start_seconds": 0,
+          "end_seconds": 4837,
+          "evidence": "توابع المنادى ومدخل علل منع الصرف وصيغة منتهى الجموع."
+        },
+        {
+          "lesson_id": "075-75",
+          "start_seconds": 0,
+          "end_seconds": 3493,
+          "evidence": "الوصفية المقيدة بأفعل فعلاء وفعلان فعلى، ومنع أُخْرَى لألف التأنيث المقصورة وأُخَر للوصفية والعدل، وعلل العلمية."
+        },
+        {
+          "lesson_id": "076-76",
+          "start_seconds": 0,
+          "end_seconds": 2062,
+          "evidence": "موافقة الواحد والاثنين بلا تمييز مستقل، وأحكام بقية العدد، وجر تمييز كم بعد الخافض على الخلاف."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/shoudhour-dhahab/matn/96770/book.md",
+        "livres/shamela/shoudhour-dhahab/sharh/6969/book.md"
+      ],
+      "supporting_refs": [],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    }
+  ],
+  "excluded_spans": [
+    {
+      "lesson_id": "017-17",
+      "start_seconds": 4300,
+      "end_seconds": 4380,
+      "reason": "بيت شعري وروايته مضطربان في ASR؛ حذفا من الدليل المعماري ولم يعادا من الذاكرة."
+    },
+    {
+      "lesson_id": "028-28",
+      "start_seconds": 2440,
+      "end_seconds": 2530,
+      "reason": "شاهد شعري في قيام الظاهر مقام العائد غير منضبط آليا؛ القاعدة مثبتة من المتن دون نقل الشاهد."
+    },
+    {
+      "lesson_id": "032-32",
+      "start_seconds": 4320,
+      "end_seconds": 4614,
+      "reason": "خاتمة شعرية شديدة التصحيف؛ لا تستعمل مثالا أو دليلا."
+    },
+    {
+      "lesson_id": "037-37",
+      "start_seconds": 1900,
+      "end_seconds": 2082,
+      "reason": "حديث إداري وشخصي عن الامتحانات والمقابلات، خارج المادة النحوية."
+    },
+    {
+      "lesson_id": "063-63",
+      "start_seconds": 2700,
+      "end_seconds": 2942,
+      "reason": "أبيات الإلغاء والتعليق غير مستقرة في ASR؛ أبقي الحكم وحذف اللفظ الشعري."
+    },
+    {
+      "lesson_id": "071-71",
+      "start_seconds": 5480,
+      "end_seconds": 5880,
+      "reason": "أحاديث وأبيات بدل الإضراب مصحفة؛ لا تنقل في الوحدات."
+    },
+    {
+      "lesson_id": "076-76",
+      "start_seconds": 2062,
+      "end_seconds": 2120,
+      "reason": "خاتمة المؤلف والدعاء والمجاملات بعد انتهاء الشرح النحوي."
+    }
+  ]
+}

@@ -1,0 +1,546 @@
+<template id="beat-3-library-template">
+  <div data-hf-id="hf-b3-root" id="beat-3-library" data-composition-id="beat-3-library" data-width="1920" data-height="1080" data-start="0" data-duration="6">
+    <link rel="preload" href="capture/screenshots/scroll-000.png" as="image" type="image/png">
+    <link rel="preload" href="capture/screenshots/scroll-100.png" as="image" type="image/png">
+    <link rel="preload" href="capture/assets/fonts/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf" as="font" type="font/ttf" crossorigin="anonymous">
+
+    <div data-hf-id="hf-b3-field" class="library-field" aria-hidden="true"></div>
+
+    <section data-hf-id="hf-b3-stage" class="library-stage" aria-label="Real Cours d'arabe catalogue">
+      <div data-hf-id="hf-b3-camera" class="camera-rig" data-layout-allow-overflow>
+        <div data-hf-id="hf-b3-world" class="catalogue-world" data-layout-allow-overflow>
+          <div data-hf-id="hf-b3-lower-plane" class="capture-plane lower-plane">
+            <div data-hf-id="hf-b3-lower-surface" class="capture-surface lower-surface">
+              <img data-hf-id="hf-b3-lower-image" class="catalogue-capture" src="capture/screenshots/scroll-100.png" width="1920" height="1080" alt="Lower section of the real course catalogue" draggable="false">
+
+              <svg data-hf-id="hf-b3-lower-annotations" class="plane-annotations" viewBox="0 0 1920 1080" aria-hidden="true">
+                <path data-hf-id="hf-b3-lower-route" class="focus-route lower-focus-route" pathLength="1000" d="M1271.375 706.058 C1285 730 1320 770 1354 782"></path>
+                <path data-hf-id="hf-b3-balagha-bracket" class="focus-bracket bracket-balagha" pathLength="100" d="M1292 778 V756 H1314 M1395 756 H1417 V778 M1417 786 V808 H1395 M1314 808 H1292 V786"></path>
+              </svg>
+              <div data-hf-id="hf-b3-lower-node" class="focus-node lower-focus-node" aria-hidden="true"></div>
+            </div>
+          </div>
+
+          <div data-hf-id="hf-b3-front-plane" class="capture-plane front-plane">
+            <div data-hf-id="hf-b3-front-surface" class="capture-surface front-surface">
+              <img data-hf-id="hf-b3-front-image" class="catalogue-capture" src="capture/screenshots/scroll-000.png" width="1920" height="1080" alt="Full real Cours d'arabe course catalogue" draggable="false">
+
+              <svg data-hf-id="hf-b3-front-annotations" class="plane-annotations" viewBox="0 0 1920 1080" aria-hidden="true">
+                <path data-hf-id="hf-b3-front-route" class="focus-route front-focus-route" pathLength="1000" d="M82 321 C42 400 42 560 82 671 C350 720 880 770 1348 820"></path>
+                <path data-hf-id="hf-b3-nahw-bracket" class="focus-bracket bracket-nahw" pathLength="100" d="M46 300 V310 H54 M106 310 H114 V300 M114 342 V332 H106 M54 332 H46 V342"></path>
+                <path data-hf-id="hf-b3-sarf-bracket" class="focus-bracket bracket-sarf" pathLength="100" d="M46 649 V659 H54 M101 659 H109 V649 M109 691 V681 H101 M54 681 H46 V691"></path>
+              </svg>
+              <div data-hf-id="hf-b3-front-node" class="focus-node front-focus-node" aria-hidden="true"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div data-hf-id="hf-b3-footer-rail" class="category-rail" aria-label="Nahw · Sarf · Balagha">
+      <span data-hf-id="hf-b3-token-nahw" class="category-token token-nahw">Nahw</span>
+      <span data-hf-id="hf-b3-separator-one" class="category-separator" aria-hidden="true">·</span>
+      <span data-hf-id="hf-b3-token-sarf" class="category-token token-sarf">Sarf</span>
+      <span data-hf-id="hf-b3-separator-two" class="category-separator" aria-hidden="true">·</span>
+      <span data-hf-id="hf-b3-token-balagha" class="category-token token-balagha">Balagha</span>
+    </div>
+
+    <style>
+      @font-face {
+        font-family: "Cours Inter Overlay";
+        src: url("capture/assets/fonts/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf") format("truetype");
+        font-weight: 600;
+        font-style: normal;
+        font-display: block;
+      }
+
+      #beat-3-library {
+        position: relative;
+        width: 1920px;
+        height: 1080px;
+        overflow: hidden;
+        isolation: isolate;
+        color: #e2e8f0;
+        background-color: #06090f;
+      }
+
+      #beat-3-library *,
+      #beat-3-library *::before,
+      #beat-3-library *::after {
+        box-sizing: border-box;
+      }
+
+      .library-field {
+        position: absolute;
+        inset: 0;
+        z-index: 0;
+        width: 1920px;
+        height: 1080px;
+        background-color: #06090f;
+        background-image: radial-gradient(circle at 72% 76%, rgba(240, 180, 41, 0.14) 0, rgba(6, 9, 15, 0) 38%);
+      }
+
+      .library-stage {
+        position: absolute;
+        inset: 0;
+        z-index: 1;
+        width: 1920px;
+        height: 1080px;
+        overflow: hidden;
+        perspective: 1800px;
+        background-color: #06090f;
+      }
+
+      .camera-rig,
+      .catalogue-world {
+        position: absolute;
+        inset: 0;
+        width: 1920px;
+        height: 1080px;
+        transform-style: preserve-3d;
+        transform-origin: 50% 48%;
+        will-change: transform;
+      }
+
+      .capture-plane {
+        position: absolute;
+        width: 1920px;
+        height: 1080px;
+        transform-style: preserve-3d;
+      }
+
+      .lower-plane {
+        left: 100px;
+        top: 130px;
+        z-index: 1;
+        transform: translateZ(-100px) rotateY(-1deg);
+        transform-origin: 50% 50%;
+      }
+
+      .front-plane {
+        left: 0;
+        top: 0;
+        z-index: 2;
+        transform: translateZ(20px);
+      }
+
+      .capture-surface {
+        position: relative;
+        width: 1920px;
+        height: 1080px;
+        overflow: hidden;
+        border: 2px solid rgba(148, 163, 184, 0.26);
+        background-color: #0c1119;
+        box-shadow: 0 30px 80px rgba(6, 9, 15, 0.78);
+      }
+
+      .catalogue-capture {
+        position: absolute;
+        inset: 0;
+        display: block;
+        width: 1920px;
+        height: 1080px;
+        object-fit: contain;
+        user-select: none;
+        pointer-events: none;
+      }
+
+      .plane-annotations {
+        position: absolute;
+        inset: 0;
+        z-index: 3;
+        display: block;
+        width: 1920px;
+        height: 1080px;
+        overflow: visible;
+        pointer-events: none;
+      }
+
+      .focus-route,
+      .focus-bracket {
+        fill: none;
+        stroke: #f0b429;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        filter: drop-shadow(0 0 10px rgba(240, 180, 41, 0.54));
+      }
+
+      .focus-route {
+        stroke-width: 3;
+        stroke-dasharray: 1000;
+        stroke-dashoffset: 0;
+        opacity: 0.72;
+      }
+
+      .focus-bracket {
+        stroke-width: 4;
+        stroke-dasharray: 100;
+        stroke-dashoffset: 0;
+      }
+
+      .focus-node {
+        position: absolute;
+        z-index: 4;
+        width: 20px;
+        height: 20px;
+        margin-left: -10px;
+        margin-top: -10px;
+        border: 4px solid #131b28;
+        border-radius: 50%;
+        background-color: #f0b429;
+        box-shadow: 0 0 0 2px #f0b429, 0 0 24px rgba(240, 180, 41, 0.7);
+        transform-origin: 50% 50%;
+        will-change: transform, opacity;
+      }
+
+      .front-focus-node {
+        left: 0;
+        top: 0;
+      }
+
+      .lower-focus-node {
+        left: 0;
+        top: 0;
+      }
+
+      .category-rail {
+        position: absolute;
+        left: 120px;
+        top: 846px;
+        z-index: 10;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 38px;
+        width: 1680px;
+        height: 138px;
+        overflow: hidden;
+        border: 2px solid rgba(148, 163, 184, 0.28);
+        border-radius: 16px;
+        background-color: rgba(12, 17, 25, 0.94);
+        box-shadow: 0 24px 60px rgba(6, 9, 15, 0.74), inset 0 1px 0 rgba(248, 250, 252, 0.08);
+        font-family: "Cours Inter Overlay", Inter, sans-serif;
+        font-size: 64px;
+        font-weight: 600;
+        line-height: 1;
+        letter-spacing: -0.025em;
+        white-space: nowrap;
+        font-variant-numeric: tabular-nums;
+        will-change: transform, opacity;
+      }
+
+      .category-token,
+      .category-separator {
+        position: relative;
+        display: inline-block;
+        flex: 0 0 auto;
+        min-width: 1px;
+        min-height: 64px;
+        will-change: transform, opacity;
+      }
+
+      .token-nahw { color: #34d399; }
+      .token-sarf { color: #a78bfa; }
+      .token-balagha { color: #fb923c; }
+      .category-separator { color: #f0b429; }
+    </style>
+
+    <script>
+      (function buildBeatThreeTimeline() {
+        window.__timelines = window.__timelines || {};
+
+        const root = "#beat-3-library";
+        const timeline = gsap.timeline({ paused: true });
+
+        timeline.addLabel("transition-clear", 0);
+        timeline.addLabel("camera-push", 0.18);
+        timeline.addLabel("discipline-tour", 1);
+        timeline.addLabel("catalogue-glide", 2.2);
+        timeline.addLabel("copy-build", 2.7);
+        timeline.addLabel("resolved-hold", 4.6);
+
+        timeline.fromTo(
+          `${root} .camera-rig`,
+          { scale: 0.98, rotationY: -2, z: -40 },
+          {
+            scale: 1.055,
+            rotationY: 0,
+            z: 0,
+            duration: 1.92,
+            ease: "power2.inOut",
+          },
+          0.18,
+        );
+
+        timeline.fromTo(
+          `${root} .catalogue-world`,
+          { x: 0, y: 0 },
+          {
+            x: -90,
+            y: -110,
+            duration: 2.15,
+            ease: "power3.inOut",
+          },
+          2.2,
+        );
+
+        timeline.fromTo(
+          `${root} .front-focus-route`,
+          { strokeDashoffset: 1000, opacity: 0 },
+          {
+            strokeDashoffset: 0,
+            opacity: 0.72,
+            duration: 2.15,
+            ease: "none",
+          },
+          1,
+        );
+
+        timeline.fromTo(
+          `${root} .front-focus-node`,
+          { scale: 0, opacity: 0 },
+          {
+            scale: 1,
+            opacity: 1,
+            duration: 0.28,
+            ease: "back.out(1.2)",
+          },
+          1,
+        );
+
+        const frontNode = document.querySelector("#beat-3-library .front-focus-node");
+        const lowerNode = document.querySelector("#beat-3-library .lower-focus-node");
+        const pathState = { progress: 0 };
+        const HANDOFF_PROGRESS = 0.8;
+        const FRONT_CURVE_SPLIT = 0.38;
+        const frontStart = { x: 82, y: 321 };
+        const sarfPoint = { x: 82, y: 671 };
+        const frontHandoff = { x: 1348, y: 820 };
+        const lowerHandoff = { x: 1271.374598, y: 706.057925 };
+        const balaghaPoint = { x: 1354, y: 782 };
+
+        function cubicBezierPoint(p0, p1, p2, p3, t) {
+          const inverse = 1 - t;
+          const inverseSquared = inverse * inverse;
+          const tSquared = t * t;
+          return {
+            x:
+              inverseSquared * inverse * p0.x +
+              3 * inverseSquared * t * p1.x +
+              3 * inverse * tSquared * p2.x +
+              tSquared * t * p3.x,
+            y:
+              inverseSquared * inverse * p0.y +
+              3 * inverseSquared * t * p1.y +
+              3 * inverse * tSquared * p2.y +
+              tSquared * t * p3.y,
+          };
+        }
+
+        function pointOnFrontCurve(progress) {
+          if (progress <= FRONT_CURVE_SPLIT) {
+            return cubicBezierPoint(
+              frontStart,
+              { x: 42, y: 400 },
+              { x: 42, y: 560 },
+              sarfPoint,
+              progress / FRONT_CURVE_SPLIT,
+            );
+          }
+
+          return cubicBezierPoint(
+            sarfPoint,
+            { x: 350, y: 720 },
+            { x: 880, y: 770 },
+            frontHandoff,
+            (progress - FRONT_CURVE_SPLIT) / (1 - FRONT_CURVE_SPLIT),
+          );
+        }
+
+        function renderFocusPath() {
+          const progress = pathState.progress;
+
+          if (progress <= HANDOFF_PROGRESS) {
+            const frontPoint = pointOnFrontCurve(progress / HANDOFF_PROGRESS);
+            gsap.set(frontNode, { x: frontPoint.x, y: frontPoint.y });
+            gsap.set(lowerNode, { x: lowerHandoff.x, y: lowerHandoff.y });
+            return;
+          }
+
+          const lowerProgress = (progress - HANDOFF_PROGRESS) / (1 - HANDOFF_PROGRESS);
+          const lowerPoint = cubicBezierPoint(
+            lowerHandoff,
+            { x: 1285, y: 730 },
+            { x: 1320, y: 770 },
+            balaghaPoint,
+            lowerProgress,
+          );
+          gsap.set(frontNode, { x: frontHandoff.x, y: frontHandoff.y });
+          gsap.set(lowerNode, { x: lowerPoint.x, y: lowerPoint.y });
+        }
+
+        renderFocusPath();
+
+        timeline.fromTo(
+          pathState,
+          { progress: 0 },
+          {
+            progress: HANDOFF_PROGRESS,
+            duration: 2.15,
+            ease: "none",
+            onUpdate: renderFocusPath,
+          },
+          1,
+        );
+
+        timeline.fromTo(
+          `${root} .bracket-nahw`,
+          { strokeDashoffset: 100, opacity: 0 },
+          {
+            strokeDashoffset: 0,
+            opacity: 1,
+            duration: 0.42,
+            ease: "power2.out",
+          },
+          1.08,
+        );
+
+        timeline.fromTo(
+          `${root} .bracket-sarf`,
+          { strokeDashoffset: 100, opacity: 0 },
+          {
+            strokeDashoffset: 0,
+            opacity: 1,
+            duration: 0.44,
+            ease: "power2.out",
+          },
+          1.82,
+        );
+
+        timeline.fromTo(
+          `${root} .front-focus-node`,
+          { opacity: 1 },
+          {
+            opacity: 0,
+            duration: 0.12,
+            ease: "sine.inOut",
+            immediateRender: false,
+          },
+          3.15,
+        );
+
+        timeline.fromTo(
+          `${root} .lower-focus-node`,
+          { scale: 1, opacity: 0 },
+          {
+            scale: 1,
+            opacity: 1,
+            duration: 0.12,
+            ease: "sine.inOut",
+          },
+          3.15,
+        );
+
+        timeline.fromTo(
+          pathState,
+          { progress: HANDOFF_PROGRESS },
+          {
+            progress: 1,
+            duration: 0.53,
+            ease: "none",
+            onUpdate: renderFocusPath,
+            immediateRender: false,
+          },
+          3.27,
+        );
+
+        timeline.fromTo(
+          `${root} .lower-focus-route`,
+          { strokeDashoffset: 1000, opacity: 0 },
+          {
+            strokeDashoffset: 0,
+            opacity: 0.72,
+            duration: 0.53,
+            ease: "none",
+          },
+          3.27,
+        );
+
+        timeline.fromTo(
+          `${root} .bracket-balagha`,
+          { strokeDashoffset: 100, opacity: 0 },
+          {
+            strokeDashoffset: 0,
+            opacity: 1,
+            duration: 0.3,
+            ease: "power2.out",
+          },
+          3.5,
+        );
+
+        timeline.fromTo(
+          `${root} .category-rail`,
+          { y: 24, opacity: 0 },
+          {
+            y: 0,
+            opacity: 1,
+            duration: 0.5,
+            ease: "power3.out",
+          },
+          2.55,
+        );
+
+        timeline.fromTo(
+          `${root} .token-nahw`,
+          { x: 36, opacity: 0 },
+          { x: 0, opacity: 1, duration: 0.48, ease: "power3.out" },
+          2.7,
+        );
+
+        timeline.fromTo(
+          `${root} [data-hf-id="hf-b3-separator-one"]`,
+          { x: 28, opacity: 0 },
+          { x: 0, opacity: 1, duration: 0.48, ease: "power3.out" },
+          3.08,
+        );
+
+        timeline.fromTo(
+          `${root} .token-sarf`,
+          { x: 24, opacity: 0 },
+          { x: 0, opacity: 1, duration: 0.48, ease: "power3.out" },
+          3.42,
+        );
+
+        timeline.fromTo(
+          `${root} [data-hf-id="hf-b3-separator-two"]`,
+          { x: 20, opacity: 0 },
+          { x: 0, opacity: 1, duration: 0.48, ease: "power3.out" },
+          3.78,
+        );
+
+        timeline.fromTo(
+          `${root} .token-balagha`,
+          { x: 16, opacity: 0 },
+          { x: 0, opacity: 1, duration: 0.48, ease: "power3.out" },
+          4.12,
+        );
+
+        timeline.fromTo(
+          `${root} .camera-rig`,
+          { scale: 1.055, rotationX: 0, z: 0 },
+          {
+            scale: 1.04,
+            rotationX: -0.25,
+            z: 0,
+            duration: 1.15,
+            ease: "sine.out",
+            immediateRender: false,
+          },
+          4.6,
+        );
+
+        window.__timelines["beat-3-library"] = timeline;
+      })();
+    </script>
+  </div>
+</template>

@@ -1,0 +1,2181 @@
+{
+  "schema_version": 2,
+  "course_id": "nadhm-maqsoud",
+  "module_count_range": [
+    30,
+    55
+  ],
+  "source_inventory": {
+    "canonical_available": true
+  },
+  "modules": [
+    {
+      "id": "nadhm-maqsoud-module-01-مدخل-علم-الصرف-والمبادئ-العشرة",
+      "title": "مدخل علم الصرف والمبادئ العشرة",
+      "estimated_study_minutes": 20,
+      "audio_spans": [
+        {
+          "lesson_id": "001-1",
+          "start_seconds": 197.88,
+          "end_seconds": 221.6,
+          "evidence": "مبادئ علم الصرف وتعريفه — المحور 1: مبادئ كل علم تضبط حده وموضوعه وثمرته. شاهد التفريغ: هذه المبادئ العشره في ثلاثه ابيات قال قال رحمه الله ان مبادئ كل فن عشره الحد والموضوع ثم الثمره وفضله نسبه والواضع والاسم الاستمداد حك الشارع هذه تسعه"
+        },
+        {
+          "lesson_id": "001-1",
+          "start_seconds": 891.93,
+          "end_seconds": 928.68,
+          "evidence": "مبادئ علم الصرف وتعريفه — المحور 2: الصرف علم تحويل الأصل الواحد إلى صور مختلفة لمعان مقصودة. شاهد التفريغ: قال علم يع فيه كيفيه تحويل الاصل لواحد الى ص مختلفه للتعبير عن معاني مقصوده مره اخرى يقولون علم الصفي علم يع كيفيه تحويل الاصل واحد الى ص و واشكال مخت"
+        },
+        {
+          "lesson_id": "002-2",
+          "start_seconds": 70.5,
+          "end_seconds": 98.64,
+          "evidence": "موضوع علم الصرف وثمرته — المحور 1: موضوع الصرف الاسم المعرب والفعل المتصرف. شاهد التفريغ: موضوع علم الصرف شيئان فقط لا ثالث لهما موضوعه الاسماء المعربه والافعال المتصرفه انتبه موضوع الصرف اي الاشياء التي تدرس في علم الصرف ما الذي يدرس في عل"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-02-موضوع-الصرف-وثمرته-واستمداده",
+      "title": "موضوع الصرف وثمرته واستمداده",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "002-2",
+          "start_seconds": 538.21,
+          "end_seconds": 577.13,
+          "evidence": "موضوع علم الصرف وثمرته — المحور 2: من ثمرته فهم النص وصيانة اللسان من الخطأ. شاهد التفريغ: فهذه الفائده الاولى الفائده الثانيه قال يعين على حفظ اللسان من اللحن والخطا في الكلام نعم من فوائد الصرف انه عصمه للسانك من الخطا يعصم لسانك انت تتعلم"
+        },
+        {
+          "lesson_id": "003-3",
+          "start_seconds": 2.8,
+          "end_seconds": 41.51,
+          "evidence": "استمداد الصرف ومسائله ونسبته وحكمه — المحور 1: الصرف مستمد من كلام العرب الفصيح ومسائله قواعد الصياغة. شاهد التفريغ: اكمل بقيه المبادئ من المبادئ المبدا الرابع او المقدمه الرابعه استمداده كلمه استمداد مصدر للفعل استمد استمد يعني من اين من اين اخذ من اين استخرج من اين"
+        },
+        {
+          "lesson_id": "003-3",
+          "start_seconds": 168.15,
+          "end_seconds": 203.47,
+          "evidence": "استمداد الصرف ومسائله ونسبته وحكمه — المحور 2: هو من علوم العربية وحكم تعلم ما تقوم به الكفاية فرض كفاية. شاهد التفريغ: بعد ذلك المقدمه السادسه نسبته النسبه بمعنى الى اي شيء ينسب ويسند هذا كما هو هو المعروف هو احد علوم اللغه عربيه ف هو ينسب الى العرب اليس كذلك ولا ينسب "
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-03-الاسم-المتمكن-ومراجعة-المبادئ",
+      "title": "الاسم المتمكن ومراجعة المبادئ",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "004-4",
+          "start_seconds": 73.53,
+          "end_seconds": 104.56,
+          "evidence": "الاسم المتمكن وقراءة شرح المبادئ — المحور 1: الاسم المتمكن هو المعرب لقوته في باب الاسمية. شاهد التفريغ: نعم هذا الذي يدخل في علم الصرف الاسم المتمكن والفعل المتصرف اما الفعل المتصرف فمعروف كما بيننا امس هو الذي يتقلب فيتغير ولا يلزم صوره واحده فماذا يقصد"
+        },
+        {
+          "lesson_id": "004-4",
+          "start_seconds": 3270.89,
+          "end_seconds": 3309.82,
+          "evidence": "الاسم المتمكن وقراءة شرح المبادئ — المحور 2: المبني يشبه الحرف ولذلك لا تدخله التحولات الصرفية نفسها. شاهد التفريغ: فقال واغمضها قال فالذي فالذي يبين شرفه احتياج جميع المشتغلين باللغه عربيه من نحوي ونبوي اليهم اياما حاكم اه هو اراض ان يدلل على كلامه هو حكم على الصرف"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-04-المجرد-والمزيد-وحروف-الزيادة",
+      "title": "المجرد والمزيد وحروف الزيادة",
+      "estimated_study_minutes": 20,
+      "audio_spans": [
+        {
+          "lesson_id": "005-5",
+          "start_seconds": 137.9,
+          "end_seconds": 177.93,
+          "evidence": "المجرد والمزيد وحروف الزيادة — المحور 1: المجرد ما كانت حروفه كلها أصولا والمزيد ما اشتمل على زائد. شاهد التفريغ: انتبه المجرد الفعل المجرد هو الذي حروفه كلها اصليه ليس منها حرف زئ والمزيد هو الذي يشتمل على حروف زائده مع الحروف الاصل فمعنى هذا الكلام انظر لهذه الا"
+        },
+        {
+          "lesson_id": "005-5",
+          "start_seconds": 999.39,
+          "end_seconds": 1035.85,
+          "evidence": "المجرد والمزيد وحروف الزيادة — المحور 2: حروف سألتمونيها محتملة للزيادة وليست زائدة في كل كلمة. شاهد التفريغ: حرفا يمكن ان تكون سائله حروف الزياده اي الحروف التي كان العرب يزيدون منها عشره فقط ما كان العرب يزيدون الا منها وهذه العشره هي قد جمعت في كلمه من هذه "
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-05-أصول-الفعل-الثلاثي-والرباعي",
+      "title": "أصول الفعل الثلاثي والرباعي",
+      "estimated_study_minutes": 18,
+      "audio_spans": [
+        {
+          "lesson_id": "006-6",
+          "start_seconds": 16.77,
+          "end_seconds": 58.18,
+          "evidence": "أصول الفعل وأبواب الثلاثي — المحور 1: أصول الفعل ثلاثة أو أربعة ولا يوجد مجرد ثنائي أو خماسي. شاهد التفريغ: مجرد ثلاثي ومجرد رباعي ان اصول الفعل لا تقلوا عن ثلاثه ولا تزيدوا عن اربعه اصول الفعل لا تقلوا عن ثلاثه احرف ولا تزيدوا على اربعه احرف لا يوجد مجرد خم"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-06-أبواب-الثلاثي-المجرد",
+      "title": "أبواب الثلاثي المجرد",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "006-6",
+          "start_seconds": 611.63,
+          "end_seconds": 645.62,
+          "evidence": "أصول الفعل وأبواب الثلاثي — المحور 2: الثلاثي المجرد تتنوع أبوابه بحسب حركة العين في الماضي والمضارع. شاهد التفريغ: له في الماضي ثلاثه ابواب يخرج منها ست كلكم يعرفوا اه طبعا فالباب الاول باب فعل ب فح العين وهذا يخرج منه في المضارع ثلاثه يفعل كخرج يخرج وفعل يفعل كضرب"
+        },
+        {
+          "lesson_id": "007-7",
+          "start_seconds": 123.91,
+          "end_seconds": 145.49,
+          "evidence": "أبواب الثلاثي المجرد وضبطها — المحور 1: باب فعل يفعل بفتح العين يرتبط غالبا بحرف حلق في العين أو اللام. شاهد التفريغ: التي عينها اولاها حرفا من حروف الحلق ما معى هذا حروف الحلق ست الهمزه والهاء والعين والحاء والغين والخاء هذه حروف الحلق همز فهاء"
+        },
+        {
+          "lesson_id": "007-7",
+          "start_seconds": 1841.16,
+          "end_seconds": 1875.69,
+          "evidence": "أبواب الثلاثي المجرد وضبطها — المحور 2: يعرف باب الفعل بالسماع والرجوع إلى المصدر والمعجم. شاهد التفريغ: من جاء من باب فعل يفعل ولم يك عين اولام حرفا حلقها فو ماذا شاذ قال مثل ابا يابا او من تداخل اللغات مثل ركنيركن انتبه الناظم رحمه الله لم يذكر مساله تد"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-07-الرباعي-المجرد-ومعنى-الإلحاق",
+      "title": "الرباعي المجرد ومعنى الإلحاق",
+      "estimated_study_minutes": 21,
+      "audio_spans": [
+        {
+          "lesson_id": "008-8",
+          "start_seconds": 0.16,
+          "end_seconds": 32.23,
+          "evidence": "الرباعي المجرد ومعنى الإلحاق — المحور 1: الرباعي المجرد على فعلل يفعلل. شاهد التفريغ: المجرد الرباعي انتبه جيده المجرد الرباعي ليس له الا وزن واحد في الماضي والمضارع وهو وزن فعلا لا يفعلل المجرد الرباعي ليس له الا وزن واحد فقط في الماضي"
+        },
+        {
+          "lesson_id": "008-8",
+          "start_seconds": 153.48,
+          "end_seconds": 184.06,
+          "evidence": "الرباعي المجرد ومعنى الإلحاق — المحور 2: الإلحاق زيادة لفظية تجعل الكلمة تجري مجرى وزن آخر في التصريف. شاهد التفريغ: انتبه معي هناك مساله صرفيه اسم الاحاق الالحاق في الوزن او الزياده بغرض الالحاق انتبه هناك مساله صرفيه تسمى ال الحاق في الوزن او تسمى الزياده بغرض الال"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-08-أوزان-الإلحاق-وتصريفها",
+      "title": "أوزان الإلحاق وتصريفها",
+      "estimated_study_minutes": 23,
+      "audio_spans": [
+        {
+          "lesson_id": "009-9",
+          "start_seconds": 88.88,
+          "end_seconds": 116.94,
+          "evidence": "أوزان الإلحاق وزيادتها — المحور 1: تزاد حروف الإلحاق ليبلغ الثلاثي عدد حروف الرباعي. شاهد التفريغ: معنويا اما الغرض الثاني فه ان تكون الزياده لغرض لفظي وهذا الغرض اللفظي هو الذي يسمى الحاق والمقصود ان يزاد في عدد حروف الفعل بحيث يصل في عدد حروفه الى"
+        },
+        {
+          "lesson_id": "009-9",
+          "start_seconds": 266.9,
+          "end_seconds": 298.97,
+          "evidence": "أوزان الإلحاق وزيادتها — المحور 2: الأوزان الملحقة تعرف من تصريفها ومصدرها لا من المعنى وحده. شاهد التفريغ: به ست اوزان زيد فيها بغرض ان تلتحق به في التصريف وهذه الاوزان السته هي كالاتي فعل فعول وفعل وفيعل وفعل وفعل انتبه وانت طبعا الخبير بالحرف الزائد فوعلا"
+        },
+        {
+          "lesson_id": "010-10",
+          "start_seconds": 11.52,
+          "end_seconds": 48.09,
+          "evidence": "استكمال أوزان الإلحاق — المحور 1: وردت ستة أوزان للإلحاق وزاد بعضهم فعنل. شاهد التفريغ: ثم الرباعي باب واحد والحق به ستا غير زائده اه المعنى مفهوم ثم الرباعي بباب واحد ليس له الا باب واحد وهو ها فعلا يفعل ثم قال والحق به ست والحق الاصل وا"
+        },
+        {
+          "lesson_id": "010-10",
+          "start_seconds": 51.91,
+          "end_seconds": 88.31,
+          "evidence": "استكمال أوزان الإلحاق — المحور 2: الفرق بين اللازم والمتعدي في بعض الملحقات يحفظ بالسماع. شاهد التفريغ: في غير هذا ال كتاب يزيدون وزنا سابعا وهو فعنل وهو الذي كتبته قبل قليل فعنل يزيدون هذا الوزن ويمثلون له بقلنسه قلنسه يعني البسه قلنصوع قلنسه البسه ماذا"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-09-أوزان-الفعل-المزيد",
+      "title": "أوزان الفعل المزيد",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "011-11",
+          "start_seconds": 109.07,
+          "end_seconds": 148.66,
+          "evidence": "أوزان الثلاثي المزيد — المحور 1: الثلاثي المزيد بحرف له أفعل وفعل وفاعل. شاهد التفريغ: الفعل مع الزياده لا لا يتجاوز كم ست جميل جدا فنبض مثلا بالثلاثي المزيد اذا كانت الاصول في الفعل ثلاثه ثم زيد عليها زيد على الاصول حروفه قد يزاد حرف وق"
+        },
+        {
+          "lesson_id": "011-11",
+          "start_seconds": 245.26,
+          "end_seconds": 268.0,
+          "evidence": "أوزان الثلاثي المزيد — المحور 2: يزاد بحرفين أو ثلاثة في أوزان محفوظة منها افتعل واستفعل. شاهد التفريغ: وجاء طيب الثلاثي المزيد بحرفين الثلاثي المزيد بحرفين كم وزنه له خمسه اوزان وهذه هي افتعل انفعل تفعل تفاعل افعل ومواضع الزياده واضحه هذا ثلاثي مزيد بكم"
+        },
+        {
+          "lesson_id": "012-12",
+          "start_seconds": 1.28,
+          "end_seconds": 37.84,
+          "evidence": "أوزان الرباعي المزيد ومدخل المصدر — المحور 1: الرباعي المزيد بحرف على تفعلل وبحرفين على وزنين. شاهد التفريغ: الرباعي المزيد نوعان فقط فقط يزاد حرف وقد يزاد حرفان لان الزياده لا تتجاوز 6 فان زيد في حرف كان خمسه وان زيد فيه حرفان كان ست فاذا هو نوعان قلت الرباع"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-10-تعريف-المصدر-وأنواعه",
+      "title": "تعريف المصدر وأنواعه",
+      "estimated_study_minutes": 20,
+      "audio_spans": [
+        {
+          "lesson_id": "012-12",
+          "start_seconds": 462.6,
+          "end_seconds": 495.12,
+          "evidence": "أوزان الرباعي المزيد ومدخل المصدر — المحور 2: المصدر اسم يدل على الحدث ويكون ميميا أو غير ميمي. شاهد التفريغ: زمن واقع فيه الحدث فاذا قيل جلوس ف في اي زمن هذا الجلوس لا يضرب انتم معي يا اخ لا دلاله في المصدر على ز المصادر وانواع هناك ما يسمى بالمصدر الاصلي وهن"
+        },
+        {
+          "lesson_id": "013-13",
+          "start_seconds": 233.34,
+          "end_seconds": 276.1,
+          "evidence": "تعريف المصدر والميمي واسم المصدر — المحور 1: المصدر يدل على الحدث مجردا من الزمن. شاهد التفريغ: ان شاء الله نبدا بالميمي ما المصدر الميمي قال الله سبحانه وتعالى قل ان صلاتي ومسكي ومحياي ومماتي لله رب العالم انظر لاتين الكلمتين المبدوءتين بنيم محي"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-11-المصدر-الميمي-واسم-المصدر",
+      "title": "المصدر الميمي واسم المصدر",
+      "estimated_study_minutes": 18,
+      "audio_spans": [
+        {
+          "lesson_id": "013-13",
+          "start_seconds": 2402.91,
+          "end_seconds": 2441.45,
+          "evidence": "تعريف المصدر والميمي واسم المصدر — المحور 2: المصدر الميمي يبدأ بميم زائدة لغير المفاعلة واسم المصدر أنقص حروفا من فعله. شاهد التفريغ: يعني من اي شيء يحترزون بهذا الكلام انتبه هناك شيئان شيء اسمه المصدر وشيء اسمه اسم المصدر هناك شيئان شيء يسمى المصدر كل هذا سنكتبه لا تقلقك ان تفهم فقط"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-12-تمهيد-الصحيح-والمعتل",
+      "title": "تمهيد الصحيح والمعتل",
+      "estimated_study_minutes": 21,
+      "audio_spans": [
+        {
+          "lesson_id": "014-14",
+          "start_seconds": 304.5,
+          "end_seconds": 341.04,
+          "evidence": "أقسام الصحيح والمعتل — المحور 2: موضع حرف العلة يميز المثال والأجوف والناقص واللفيفين. شاهد التفريغ: المهموز وهناك المضاعف وهناك السالب وهناك المثال وهناك الاجوف وهناك الناقص هناك اللفيف المفروق والمقرون هذه المصطلحات والالفاظ التي تسمى بها الافعال ال"
+        },
+        {
+          "lesson_id": "014-14",
+          "start_seconds": 645.8,
+          "end_seconds": 683.39,
+          "evidence": "أقسام الصحيح والمعتل — المحور 1: الفعل الصحيح سالم أو مهموز أو مضاعف والمعتل خمسة أقسام. شاهد التفريغ: انا اقصد الحروف الاصليه كما سيتبين ذلك الان ان شاء الله ينقسم الفعل على كل حال الى صحيح ومعتل ونبدا بالصحيح ما الفعل الصحيح الفعل الصحيح هو الذي خلت ا"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-13-المصدر-الميمي-والزمان-والمكان",
+      "title": "المصدر الميمي والزمان والمكان",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "015-15",
+          "start_seconds": 93.41,
+          "end_seconds": 141.71,
+          "evidence": "صياغة المصدر الميمي والزمان والمكان — المحور 1: المصدر الميمي من الثلاثي على مفعل غالبا ويكسر في المثال المحذوف الفاء. شاهد التفريغ: قد شذت عنه افعال بقى ان نتكلم على صياغه المصدر الميمي من الفعل الثلاثي حتى نكونا قد انتهينا من الفعل الثلاثي تمام فالطريقه ان نبين صياغه المصدر من الث"
+        },
+        {
+          "lesson_id": "015-15",
+          "start_seconds": 438.91,
+          "end_seconds": 480.13,
+          "evidence": "صياغة المصدر الميمي والزمان والمكان — المحور 2: اسم الزمان والمكان يوافقانه في الصياغة ويفرق السياق بين الدلالات. شاهد التفريغ: مشتقين من المصدر وهما اسم الزمان واسمه ما كان ولماذا جاء بهما مباشره بعد المصدر الميمي لانهما من الفعل الثلاثي يكونان على نفس وزنه اما على مفعل واما ع"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-14-حركات-آخر-الماضي-ومدخل-همزة-الوصل",
+      "title": "حركات آخر الماضي ومدخل همزة الوصل",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "016-16",
+          "start_seconds": 175.27,
+          "end_seconds": 216.78,
+          "evidence": "حركات آخر الماضي وهمزة الوصل — المحور 2: استطراد همزة الوصل جاء من كسر أول الماضي الخماسي والسداسي. شاهد التفريغ: منها حركات اخر الفعل الماضي عند اتصال الضمائر به ثم كلم على همزه الوصل ومواضعها في الفعل والاسم والحرف ثم كلم على اول الفعل الماضي قد يكون مفتوحا الا "
+        },
+        {
+          "lesson_id": "016-16",
+          "start_seconds": 256.28,
+          "end_seconds": 288.07,
+          "evidence": "حركات آخر الماضي وهمزة الوصل — المحور 1: آخر الماضي يفتح أو يضم أو يسكن بحسب الضمير المتصل. شاهد التفريغ: اخر شيء وصلنا الى بعد ذلك كلم على حركات اخر الماضي عند اتصال الضمائر به الفعل الماضي كما تعلم له ثلاثه احوال من حيث اخره قد يكون مفتوحا الاخر ككتب وضر"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-15-مواضع-همزة-الوصل-وحركتها",
+      "title": "مواضع همزة الوصل وحركتها",
+      "estimated_study_minutes": 23,
+      "audio_spans": [
+        {
+          "lesson_id": "017-17",
+          "start_seconds": 19.79,
+          "end_seconds": 53.14,
+          "evidence": "مواضع همزة الوصل — المحور 2: تكون في أمر الثلاثي وماضي الخماسي والسداسي وأمرهما ومصدرهما وأسماء مسموعة وأل. شاهد التفريغ: و حروف فم مواضع الهمزه في الافعال وفي الاسماء وفي الحروف انتما يا اخوانا سنبين مواضع همزه الوصل في الفعل وفي الاسم وفي الحرف ونبدا بالافعال اول في الا"
+        },
+        {
+          "lesson_id": "017-17",
+          "start_seconds": 57.4,
+          "end_seconds": 82.76,
+          "evidence": "مواضع همزة الوصل — المحور 1: همزة الوصل تثبت في الابتداء وتسقط في الوصل. شاهد التفريغ: ثلاثه انواع من الفعل وهي كالاتي النوع الاول الامر من الفعل الثلاثي الامر من الفعل الثلاثي همزته همزه وصل ما الامر من كتبه اكتب من من من ذهبه من شربه م"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-16-بناء-الماضي-للمجهول",
+      "title": "بناء الماضي للمجهول",
+      "estimated_study_minutes": 18,
+      "audio_spans": [
+        {
+          "lesson_id": "018-18",
+          "start_seconds": 18.45,
+          "end_seconds": 60.18,
+          "evidence": "بناء الماضي للمجهول — المحور 1: الماضي المجهول يضم أوله ويكسر ما قبل آخره. شاهد التفريغ: قد يكون مبنيا للمعلوم وقد يكون مبنيا للمجهول فاما المبني للمجهول فهويبدا بالضم كما سنبين هذا الان ان شاء الله اما المبني للمعلوم فاما ان دا بالفتح او "
+        },
+        {
+          "lesson_id": "018-18",
+          "start_seconds": 161.69,
+          "end_seconds": 205.78,
+          "evidence": "بناء الماضي للمجهول — المحور 2: الحكم يشمل المبدوء بهمزة الوصل وغيره. شاهد التفريغ: تقاتل فاذا الفعل المبني للمجهول يضم اوله مطلقا وطبعا يكسروا ما قبل اخره ونحن الان نتكلم على الماضي المضار سياتي الكلام عليه بعد قليل فاذا الفعل الماضي"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-17-بنية-المضارع-وحركاته",
+      "title": "بنية المضارع وحركاته",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 53.92,
+          "end_seconds": 90.18,
+          "evidence": "حروف المضارعة ومعانيها وحركتها — المحور 1: حروف المضارعة الهمزة والنون والياء والتاء ولكل دلالة. شاهد التفريغ: يجب ان يب بحرف من الاربعه المعروف وهي الهمزه والنون والياء والتاء وهذه الحروف الاربعه تسمى حروف المضارعه وهي مجموعه في احدى هذه الكلمات يقال او يقال ا"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 862.61,
+          "end_seconds": 900.8,
+          "evidence": "حروف المضارعة ومعانيها وحركتها — المحور 2: حرف المضارعة يضم في الرباعي ويفتح في غيره في المبني للمعلوم. شاهد التفريغ: طيب متى تكون الحركه ضمه ومتى تكون الحركه فتحه الامر سهلا قال تكون حركه حرف المضارعه ضمه اذا كان الماضي رباعيا مجردا كان او مزيدا استمع جيده نحن قلنا ح"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 83.53,
+          "end_seconds": 114.83,
+          "evidence": "ما قبل آخر المضارع والمجهول — المحور 1: عين مضارع الثلاثي سماعية. شاهد التفريغ: اذا كان المضارع مضارعا للثلاثي فحركه ما قبل الاخر هي حركه عين هي حركه ماذا عين اه ونحنم في البداية في الحديث على الاوزان قلنا المضارع اما مظلوم العين "
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 756.0,
+          "end_seconds": 792.98,
+          "evidence": "ما قبل آخر المضارع والمجهول — المحور 2: ما قبل آخر مضارع غير الثلاثي يفتح في المبدوء بتاء زائدة ويكسر في غيره، والمجهول يفتح ما قبل آخره. شاهد التفريغ: بين فع واخر لذ ذلك قال وان بمجهول فضمها لازم كفتح سابق الذي به اختتم اه وان بمجهول اي وان اتصلت حروف المضارعه بمجهول اي بمضارع مجهول فضمها لازم ضم حرو"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-18-إعراب-المضارع-وبناؤه",
+      "title": "إعراب المضارع وبناؤه",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "021-21",
+          "start_seconds": 168.78,
+          "end_seconds": 196.96,
+          "evidence": "إعراب المضارع وبناؤه — المحور 1: المضارع يرفع وينصب ويجزم بحسب العامل. شاهد التفريغ: انتبه الفعل المضارع اما معرب واما مبني نبدا بالكلام على المبتد الفين المضارع الاصل فيه انه معرب الاصل فيه الاعراب يرفع وينصب ويجزم بحسب ما يسبقه من ال"
+        },
+        {
+          "lesson_id": "021-21",
+          "start_seconds": 329.15,
+          "end_seconds": 358.56,
+          "evidence": "إعراب المضارع وبناؤه — المحور 2: يبنى على الفتح مع نون التوكيد وعلى السكون مع نون النسوة. شاهد التفريغ: الخمسه اليس كذلك الافعال الخمسه هي التي تتعلق بعلامه الاعراب النون وعلامه الاعراب النون هي هي لا تتعلق الا بالافعال الخمسه والافعال الخمسه هي كل مضارع"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-19-صياغة-الأمر-وبناؤه",
+      "title": "صياغة الأمر وبناؤه",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "022-22",
+          "start_seconds": 20.71,
+          "end_seconds": 61.97,
+          "evidence": "صياغة الأمر وبناؤه — المحور 1: الأمر يؤخذ من المضارع بحذف حرف المضارعة وجلب همزة الوصل عند بقاء السكون. شاهد التفريغ: الفعل المضارع يدا بحرف المضارعه وعند صياغه الامر سنحذف حرف المضارعه الفعل المضارع يبدا بحرف المضارع المضارع المضارعه وعند صياغه الامر سنحذف حرف المضار"
+        },
+        {
+          "lesson_id": "022-22",
+          "start_seconds": 550.71,
+          "end_seconds": 604.73,
+          "evidence": "صياغة الأمر وبناؤه — المحور 2: يبنى الأمر على ما يجزم به مضارعه. شاهد التفريغ: في المضارع لم يكتبوا لم يكتبا لم تكتبي ويقال في الامر اكتبوا اكتبا اكتبي بحرف النون هنا وهنا لكن جزم وبناء لذ ذلك قال يبنى الامر على ما يجزم به مضارع "
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-20-اسم-الفاعل-والصفة-المشبهة",
+      "title": "اسم الفاعل والصفة المشبهة",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {
+          "lesson_id": "023-23",
+          "start_seconds": 22.61,
+          "end_seconds": 70.0,
+          "evidence": "تعريف اسم الفاعل — المحور 1: اسم الفاعل وصف مشتق من فعل معلوم متصرف لصاحب الحدث. شاهد التفريغ: في الصفحه الثالثه والاربعين اسم الفاعل اسم الفاعل لقد كلم الناظر على المصادر ثم ثنى بالافعال الماضي والمضارع والاب ثم ثلث بالكلام على المشتقات التي تؤ"
+        },
+        {
+          "lesson_id": "023-23",
+          "start_seconds": 129.72,
+          "end_seconds": 168.06,
+          "evidence": "تعريف اسم الفاعل — المحور 2: قيد المعلوم يخرجه من اسم المفعول. شاهد التفريغ: قال تعريف اسم الفاعل قال هي صفه تشتق من مصدر الفعل المتصرف المبني للمعلوم للدلاله على من وقع منه الفعل على جهه الحدود انتبه انا اثرت ان اشرح ما يتيسر "
+        },
+        {
+          "lesson_id": "024-24",
+          "start_seconds": 171.12,
+          "end_seconds": 205.43,
+          "evidence": "اسم الفاعل والصفة المشبهة وأوزانهما — المحور 1: اسم الفاعل يدل على الحدوث والصفة المشبهة على الثبوت غالبا. شاهد التفريغ: وتعلق بينهما وهما اسم الفاعل والصفه المشبهه انتبهوا جيدا لو سمحت. هناك نوعان من المشتقات احدهما اسم الفاعل والاخر صفه المشبهه هذان النوعان بينهما اتفا"
+        },
+        {
+          "lesson_id": "024-24",
+          "start_seconds": 1113.94,
+          "end_seconds": 1144.8,
+          "evidence": "اسم الفاعل والصفة المشبهة وأوزانهما — المحور 2: يصاغ فاعل من الثلاثي وتتنوع صفة اللازم بحسب بابه. شاهد التفريغ: وهذا يذ كر في علامات الفعل اللازم كما سياتي في الملخص يقولون من علامات الفعل اللازم القاطعه ان يكون الفعل على وزني فعلا يعني مباشره ان وجدت فعلا على ف"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-21-لام-الأمر-ولا-الناهية",
+      "title": "لام الأمر ولا الناهية",
+      "estimated_study_minutes": 19,
+      "audio_spans": [
+        {
+          "lesson_id": "025-25",
+          "start_seconds": 25.45,
+          "end_seconds": 58.34,
+          "evidence": "لام الأمر ولا الناهية — المحور 1: لام الأمر تدخل على الغائب وقد تدخل على المخاطب والمتكلم. شاهد التفريغ: فدونا هما خشيه النسيان فيما بعد الفائده الاولى ذكرنا ان الفعل المضارع المتصله بلام الامر قد يكون للغايه وقد يكون للمخاطب وقد يكون للمتكبر قد يكون للغا"
+        },
+        {
+          "lesson_id": "025-25",
+          "start_seconds": 275.36,
+          "end_seconds": 318.46,
+          "evidence": "لام الأمر ولا الناهية — المحور 2: لا الناهية يغلب دخولها على المخاطب وقد تدخل على الغائب والمتكلم. شاهد التفريغ: كذلك ذكرنا قبل ان الفعل المضارع قد يسبق بلا الناهيه ذكرنا قبل ان الفعل المضارع قد يسبق بلاناهيه وهذه الفوائد تتعلق بالافعال لما تكلمنا على المضارع قد "
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-22-اسم-المفعول-من-الأجوف-والناقص",
+      "title": "اسم المفعول من الأجوف والناقص",
+      "estimated_study_minutes": 21,
+      "audio_spans": [
+        {
+          "lesson_id": "026-26",
+          "start_seconds": 36.71,
+          "end_seconds": 68.78,
+          "evidence": "اسم المفعول من الأجوف والناقص — المحور 1: اسم مفعول الأجوف يصاغ من المضارع بإبدال حرف المضارعة ميما مفتوحة. شاهد التفريغ: طيب هذا هذان النوعان ما طريقه صياغته ما بالض انتم معي اخواتي اه نبدا بالنوع الاول وهو الاجوف اذا كان الفعل اجوف كقال وصام وباع وزاد فكيف يكون اسم المف"
+        },
+        {
+          "lesson_id": "026-26",
+          "start_seconds": 353.83,
+          "end_seconds": 394.67,
+          "evidence": "اسم المفعول من الأجوف والناقص — المحور 2: اسم مفعول الناقص ينتهي بإدغام بعد رد الأصل وإجراء القلب. شاهد التفريغ: كيف يصار اسم المفعول منه الناقص كهذه الامثله الاربعه دعا ورجى وجرى وهدى اذا كان الفعل ناقصا فاسم المفعول منه على وزن المضارع كذلك مع ابدال حرف المضارع"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-23-صيغ-المبالغة-ودلالتها",
+      "title": "صيغ المبالغة ودلالتها",
+      "estimated_study_minutes": 20,
+      "audio_spans": [
+        {
+          "lesson_id": "027-27",
+          "start_seconds": 0.32,
+          "end_seconds": 31.26,
+          "evidence": "صيغ المبالغة ودلالتها — المحور 1: صيغ المبالغة تدل على كثرة الحدث وأشهرها فعال ومفعال وفعول. شاهد التفريغ: المشتقات المذكوره في التاب صيغ المبالغه او صيغه المبالغه صيغه المبالغه هي الاوزان الخمسه المعروفه فعول وفعال ومفعال وفعيل وفعل التي تدل على كثره وقوع "
+        },
+        {
+          "lesson_id": "027-27",
+          "start_seconds": 835.13,
+          "end_seconds": 878.14,
+          "evidence": "صيغ المبالغة ودلالتها — المحور 2: قد تستعمل صيغة ظلام لمجرد النسبة بحسب السياق لا للمبالغة. شاهد التفريغ: ظلام في الا ليست في المبالغه لهذا الخطا انتم معي فقالوا هي لمجرد النسبه وما رب بالظلام اي وما ربك بصاحب ظلم نسبه فقط يعني يعني وما رب يظلم هذا هو المق"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-24-تصريف-الأفعال-والمشتقات",
+      "title": "تصريف الأفعال والمشتقات",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "028-28",
+          "start_seconds": 282.16,
+          "end_seconds": 319.67,
+          "evidence": "تصريف الأفعال والمشتقات — المحور 1: الفعل يتصرف مع ضمائر الغيبة والخطاب والتكلم. شاهد التفريغ: جروا فهوو جعله للصحيح قال شرع الناظم رحمه الله في ذك تصريف الافعال الصحيحه الخاليه من حروف العله فقالت وماضنا ومضارع تصرف لاوجه كالامر والنهي عرفا اه "
+        },
+        {
+          "lesson_id": "028-28",
+          "start_seconds": 1427.01,
+          "end_seconds": 1455.26,
+          "evidence": "تصريف الأفعال والمشتقات — المحور 2: اسم الفاعل والمفعول يتصرفان في النوع والعدد. شاهد التفريغ: وفواعل ككواتب وضوارب جمعوا تكسير انتم معي اه فهذه عشره اوجه فعلت وفاعلين وفاعل وفاعلين وفعل وفعال وفاعله وفاعلين وفاعلات وفواعل عشره خروج للمفرد والمث"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-25-حكم-توكيد-الأفعال-بالنون",
+      "title": "حكم توكيد الأفعال بالنون",
+      "estimated_study_minutes": 21,
+      "audio_spans": [
+        {
+          "lesson_id": "029-29",
+          "start_seconds": 170.04,
+          "end_seconds": 203.11,
+          "evidence": "حكم توكيد الفعل بالنون — المحور 1: الماضي لا يؤكد بالنون والامر يؤكد مطلقا. شاهد التفريغ: الفعل دام هذا فعل ماضي اكده هو بالنون فق قال دامن هذا يعد شاذا لا يقاس عليه انتم معي يا اخواني اه فاذا الماضي لا يؤكد بالنون مطلقا لان النون للمستقبل "
+        },
+        {
+          "lesson_id": "029-29",
+          "start_seconds": 353.49,
+          "end_seconds": 392.46,
+          "evidence": "حكم توكيد الفعل بالنون — المحور 2: يجب توكيد المضارع إذا كان جواب قسم مستوفيا الشروط. شاهد التفريغ: نبدأ بالمساله الاولى وهي وجوب التوكيد متى يجب توكيد المضارع بنون التوكيد يكون ذلك بخمسه شروط توكيد المضارع بالنون يكون بكم شرطا انتبه جيدا توكيد المضا"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-26-جواز-توكيد-المضارع-وامتناعه",
+      "title": "جواز توكيد المضارع وامتناعه",
+      "estimated_study_minutes": 21,
+      "audio_spans": [
+        {
+          "lesson_id": "030-30",
+          "start_seconds": 46.8,
+          "end_seconds": 88.66,
+          "evidence": "جواز توكيد المضارع — المحور 1: يجوز توكيد المضارع بعد إمّا الشرطية وفي سياقات الطلب وغيرها. شاهد التفريغ: يجوز فيها توكيد الفعل المضارع وهذه الحالات كالاتي الحاله الاولى اذا وقع بعد اما الشرطيه اذا وقع المضارع بعد اما الشرطيه واحد سيقول يا استاذه ماذا تقصد"
+        },
+        {
+          "lesson_id": "030-30",
+          "start_seconds": 734.56,
+          "end_seconds": 824.71,
+          "evidence": "جواز توكيد المضارع — المحور 2: يمتنع التوكيد إذا لم يتحقق موضع الوجوب أو الجواز. شاهد التفريغ: الوجوب عرفناه والجواز عرفناه اذا في غير ذلك يمتلك افتحك قال في صفحه ال حكم نون التوكيد قال ونون توكيد ونون توكيد بالامر ونون توكيد بالامر والنهي صل نع"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-27-صورة-الفعل-مع-نون-التوكيد",
+      "title": "صورة الفعل مع نون التوكيد",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "031-31",
+          "start_seconds": 241.81,
+          "end_seconds": 281.17,
+          "evidence": "صورة الفعل مع نون التوكيد — المحور 1: نون التوكيد ثقيلة مشددة وخفيفة ساكنة. شاهد التفريغ: هذا الشطر هو هذه الفائده الاخير هذا الشطر الثاني وذات خف يقصد النونه الخفيفه مع سكون لا تصل يتعلق بالفائده التي ذكرناها الان قال ابن قال الشارح نون ال"
+        },
+        {
+          "lesson_id": "031-31",
+          "start_seconds": 674.7,
+          "end_seconds": 712.45,
+          "evidence": "صورة الفعل مع نون التوكيد — المحور 2: صورة الفعل تتغير بحسب الضمير المتصل عند التوكيد. شاهد التفريغ: النونو الثقيله تاتي في كل حالسواء كان مع الفعل ضمير او لم يكن سواء كان مع الفعل ضمير او لم اه تسافر لا ضميره مع الفعل الاصل متى تسافر متى تسافرن واقول"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-28-المتعدي-واللازم-وأنواع-التعدي",
+      "title": "المتعدي واللازم وأنواع التعدي",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "032-32",
+          "start_seconds": 169.89,
+          "end_seconds": 200.71,
+          "evidence": "المتعدي واللازم وأنواع المتعدي — المحور 1: المتعدي يصل إلى المفعول بنفسه واللازم لا يصل أو يصل بحرف. شاهد التفريغ: بي اه فالفعل المتعدي هو الذي يصل الى مفعوله بنفسه بدون واسطه حرف جر واما اللازم فهو مخالف له الفعل اللازم له حالتان الحاله الاولى اما ان يصل الى المفع"
+        },
+        {
+          "lesson_id": "032-32",
+          "start_seconds": 823.6,
+          "end_seconds": 855.55,
+          "evidence": "المتعدي واللازم وأنواع المتعدي — المحور 2: المتعدي يكون لمفعول أو مفعولين أو ثلاثة بحسب الفعل. شاهد التفريغ: متعدل ل ثلاثه مفاعيل هناك افعال تنصب ثلاثه مفعولات المفعول الثاني والثالث اصلهما مبتدا وخبر هناك افعال تنصب ثلاثه مفعولات الثاني والثالث اصلهما مبتدا "
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-29-علامات-الفعل-اللازم",
+      "title": "علامات الفعل اللازم",
+      "estimated_study_minutes": 18,
+      "audio_spans": [
+        {
+          "lesson_id": "033-33",
+          "start_seconds": 12.98,
+          "end_seconds": 46.01,
+          "evidence": "علامات الفعل اللازم — المحور 1: تعرف أفعال لازمة بدلالة اللون والعيب والحركة والسكون. شاهد التفريغ: علامات الفعل اللازم من المسائل علامات الفعل اللازم هل هناك علامات نعرف بها الفعل اللازم الطالب مثلا قد يختلط الامر عليه لا يدري هل الفعل ضربه لازم ام "
+        },
+        {
+          "lesson_id": "033-33",
+          "start_seconds": 357.83,
+          "end_seconds": 384.21,
+          "evidence": "علامات الفعل اللازم — المحور 2: أوزان مثل انفعل وافعل يغلب أو يلزم فيها اللزوم. شاهد التفريغ: تفاعل افعل ل اذا كان الفعل على وزن من هذه الاوزان السته ف هو لازم قطعا دون نظر للمعنى يعني مثلا كل فعل على وزني فعلى لازم جمله قبح ناظف نجس معناه نجاس"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-30-نقل-اللزوم-والتعدية-بالهمز-والتضعيف",
+      "title": "نقل اللزوم والتعدية بالهمز والتضعيف",
+      "estimated_study_minutes": 23,
+      "audio_spans": [
+        {
+          "lesson_id": "034-34",
+          "start_seconds": 381.93,
+          "end_seconds": 419.82,
+          "evidence": "نقل اللزوم والتعدية بالهمز والتضعيف — المحور 1: تعدي الهمزة الفعل اللازم وتضعيف العين يعديه أيضا. شاهد التفريغ: همزه في اوله من الطرق تحويل اللازم الى متعدد زياده الهمزه في الاول كما تر نزل هذا لازم انزل متعد جلس هذا لازم اجلس متعد طبعا انت الامثله جلس زيد اجلست"
+        },
+        {
+          "lesson_id": "034-34",
+          "start_seconds": 850.88,
+          "end_seconds": 904.78,
+          "evidence": "نقل اللزوم والتعدية بالهمز والتضعيف — المحور 2: قد ينقل الوزن المتعدي إلى اللزوم مثل كسر وانكسر. شاهد التفريغ: كهذه الامثله نزل نظم تضعيف عين الفعل اي تشديدها يعني ان يصير الفعل على وزني فعاله فيقال نزل نزله خرجه خرجه جمل ها جمل قبح ها قبح فتضع العين يجعل الفعل"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-31-التعدية-بحرف-الجر",
+      "title": "التعدية بحرف الجر",
+      "estimated_study_minutes": 20,
+      "audio_spans": [
+        {
+          "lesson_id": "035-35",
+          "start_seconds": 42.84,
+          "end_seconds": 78.0,
+          "evidence": "التعدية بحرف الجر — المحور 1: حرف الجر يوصل معنى الفعل اللازم إلى متعلقه. شاهد التفريغ: من الطرق كذلك انتبه من طرق تحويل اللازم الى متعد التعدي بحرف جر التعدي بحرف جر انتبه نحن لما اردنا ان نجعل اللازمه متعديا مره زدنا الهمزه فوصل الى الم"
+        },
+        {
+          "lesson_id": "035-35",
+          "start_seconds": 138.59,
+          "end_seconds": 173.93,
+          "evidence": "التعدية بحرف الجر — المحور 2: المجرور منصوب محلا إذا كان متعلقا بالفعل على معنى المفعول. شاهد التفريغ: اللازم هو الذي يصل الى المفعول بحرف الجرب والمجرور يكون في محل مفعول كمثل مررت بزيد مررت ب اه فالباء حرف جر وزيدن يقال في الاعراب اسم مجرور في محل نصب"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-32-التعدية-بفاعل-واستفعل",
+      "title": "التعدية بفاعل واستفعل",
+      "estimated_study_minutes": 21,
+      "audio_spans": [
+        {
+          "lesson_id": "036-36",
+          "start_seconds": 124.21,
+          "end_seconds": 158.94,
+          "evidence": "التعدية بفاعل واستفعل — المحور 1: فاعل قد يعدي اللازم إذا أفاد المشاركة. شاهد التفريغ: الى متعدي من هذه الطرق تحويل الفعل الى وزن فاعل من الطرق التي تجعل اللازمه متعديا ان تحوله من وزنه الى وزن فاعل انتبه من الطرق التي تجعل اللازمه متعدي"
+        },
+        {
+          "lesson_id": "036-36",
+          "start_seconds": 439.15,
+          "end_seconds": 492.02,
+          "evidence": "التعدية بفاعل واستفعل — المحور 2: استفعل يتعدى إذا أفاد الطلب ولا يلزم ذلك في كل استعمال. شاهد التفريغ: سياده الهمزه في اول الفعل ان تصيره على وزن استفعل من الطرق زياده الهمزه والسين والتاء في اول الفعل يعني ان يصيره على وزن استفعل اه ايضا هناك تنبيه وزن"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-33-التضمين-في-التعدية-واللزوم",
+      "title": "التضمين في التعدية واللزوم",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "037-37",
+          "start_seconds": 13.46,
+          "end_seconds": 57.07,
+          "evidence": "التضمين في التعدية واللزوم — المحور 1: التضمين إشراب فعل معنى فعل يناسبه فيأخذ تعديته أو لزومه. شاهد التفريغ: ما التضمين التضمين معناه ان يكون الفعل لازما فتحمله معى فعل متعد وبين الفعلين تناسب في المعنى فيتعدى مثله مره اخرى التضمين معناه ان يكون الفعل لازم فت"
+        },
+        {
+          "lesson_id": "037-37",
+          "start_seconds": 332.74,
+          "end_seconds": 358.04,
+          "evidence": "التضمين في التعدية واللزوم — المحور 2: لا يصح التضمين بين فعلين متباعدين في المعنى. شاهد التفريغ: ان تصيبهم فتنه او يصيبهم عذاب اليهم فليحذر الذين يخالفون عن امره الفعل يخالفون متعدد اصلا في غير ال فليحذر الذين يخالفون امرهم صيح ام لا متعد اصلا طيب"
+        },
+        {
+          "lesson_id": "038-38",
+          "start_seconds": 98.44,
+          "end_seconds": 133.13,
+          "evidence": "تطبيقات التضمين — المحور 1: عزم يتعدى بعلى وقد يتضمن معنى نوى فيتعدى بنفسه. شاهد التفريغ: من باب الفعل مثلا عزم عزما عزما يقال عزم على السفر يعني نوى نوى نيه قويه عزمه على الدراسي اي نوى الفعل عزمه لازم لاننا نقول عزم على لا نقول عزم السفر "
+        },
+        {
+          "lesson_id": "038-38",
+          "start_seconds": 338.08,
+          "end_seconds": 369.38,
+          "evidence": "تطبيقات التضمين — المحور 2: خالف المتعدي قد يتضمن معنى خرج فيتعدى بعن. شاهد التفريغ: في المتعدي تجعله لازما العكس العكس تمام كقوله سبحانه فليحذر الذين يخالفون عن امره الفعل خالف اصلا متعدد الاصل انه يقال يخالفون امره يخالفون ها امره مت"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-34-طرق-تصيير-المتعدي-لازما",
+      "title": "طرق تصيير المتعدي لازما",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "039-39",
+          "start_seconds": 234.75,
+          "end_seconds": 264.69,
+          "evidence": "تصيير المتعدي لازما — المحور 1: يصير المتعدي لازما ببنائه على انفعل أو فعل أو تفاعل في مواضع. شاهد التفريغ: نقول كسره طفل الكوبا هذا متعد اذا حولنا كسره الى انكسر نقول انكسر الكوب خلاص لا نقول انكسر الطفل الكوب لا يصبح لازما في هذه الحاله الفاعل يزول الطفل و"
+        },
+        {
+          "lesson_id": "039-39",
+          "start_seconds": 511.21,
+          "end_seconds": 556.67,
+          "evidence": "تصيير المتعدي لازما — المحور 2: تغيير الوزن يغير علاقة الفعل بالفاعل والمفعول. شاهد التفريغ: الاخير من طر تحويل المتعدي الى لازم تحويله الى و تفاعل من اوزان من اوزان اللازم كما ذكرنا قبل وزنه تفاعل فمنط ق تحويل المتعدي الى لازم تحويله الى وزن "
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-35-الإبدال-في-تاء-افتعل",
+      "title": "الإبدال في تاء افتعل",
+      "estimated_study_minutes": 23,
+      "audio_spans": [
+        {
+          "lesson_id": "040-40",
+          "start_seconds": 0.32,
+          "end_seconds": 33.22,
+          "evidence": "الإبدال في افتعل — المحور 1: الإبدال تغيير حرف بحرف للمناسبة الصوتية. شاهد التفريغ: ابدال الابدال هذا درس صرفي من الدروس المشتركه بين الافعال والاسماء ليس مختصا بالافعال وقد شرحناه في الملخص الصرفي والان نعيده وله باختصار فانتم تعلمون"
+        },
+        {
+          "lesson_id": "040-40",
+          "start_seconds": 286.48,
+          "end_seconds": 321.19,
+          "evidence": "الإبدال في افتعل — المحور 2: تاء افتعل تقلب طاء بعد الصاد والضاد والطاء والظاء. شاهد التفريغ: مفهوم له قواعد سنعرفها كلام ازدحم الفعل ازدحم ازد انتبه نحن وزنا في صباح كذلك ازدحم اصله ها ازدحم لانه على وزنف فالتاب لا تتناسب مع الزاهي التاب لا تت"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-36-إبدال-فاء-افتعل",
+      "title": "إبدال فاء افتعل",
+      "estimated_study_minutes": 19,
+      "audio_spans": [
+        {
+          "lesson_id": "041-41",
+          "start_seconds": 44.32,
+          "end_seconds": 76.58,
+          "evidence": "إبدال فاء افتعل — المحور 2: في ازدحم تقلب تاء افتعل دالا بعد الزاي ولا إدغام بين الزاي والدال. شاهد التفريغ: ستقلب فقالوا اذا كان الفعل رسم اشتعل وكانت الفاء واوا او يا او ثاء قلبت هذه الحروف تاء واظلم التاء في التاء الثعلب انتم ما يا اخوانا في القاعدتين السا"
+        },
+        {
+          "lesson_id": "041-41",
+          "start_seconds": 379.38,
+          "end_seconds": 420.24,
+          "evidence": "إبدال فاء افتعل — المحور 1: إذا كانت فاء افتعل واوا أو ياء أو ثاء قلبت تاء وأدغمت في تاء الافتعال. شاهد التفريغ: الى اخره فه هي اصلا مقصوره هي اصلا ممدوده ياء هو جعلها مقصوره ين انتم معي كانها ليس ممدوده المهم يعنينا القاعده قال الشارح اي اذا كانت فاء افتعل ياء س"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-37-حروف-الزيادة-وتمييزها",
+      "title": "حروف الزيادة وتمييزها",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "042-42",
+          "start_seconds": 9.6,
+          "end_seconds": 53.86,
+          "evidence": "حروف الزيادة وتمييزها — المحور 1: حروف الزيادة مجموعة في سألتمونيها. شاهد التفريغ: وعلى اله وصحبه ومن تبعه هداه اما بعد اما بعد فاليوم ان شاء الله تعالى نب دا في فصل جديد من فصول نظم المقصود وهو وهذا الفصل يكلمنا عن حروف الزياده حروف"
+        },
+        {
+          "lesson_id": "042-42",
+          "start_seconds": 575.57,
+          "end_seconds": 614.64,
+          "evidence": "حروف الزيادة وتمييزها — المحور 2: يعرف الأصلي بلزومه في التصاريف والزائد بسقوطه مع بقاء الأصل. شاهد التفريغ: منها الاصلي ومنها الزالد اليس كذلك الخلاصه وقد ع الحروف التي يمكن ان تزاد كيف نع الحرف الاصليه من الزائد كيف اع عرف ان الحرف اصلي يعني كيف كيف اعرف ان"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-38-أغراض-الزيادة-ومعاني-أفعل",
+      "title": "أغراض الزيادة ومعاني أفعل",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "043-43",
+          "start_seconds": 58.99,
+          "end_seconds": 91.16,
+          "evidence": "أغراض الزيادة ومعاني أفعل — المحور 2: من معاني أفعل التعدية والصيرورة والسلب والدخول في الوقت. شاهد التفريغ: رحمه الله تعالى صاحب نظم المقصود فصلا في بياد معاني حروف الزياده لكنه ل لم يتكلم الا على وزنين فقط وهما وزن افعل واستفعل عقد فصلا لمعاني الحروف الزائد"
+        },
+        {
+          "lesson_id": "043-43",
+          "start_seconds": 164.83,
+          "end_seconds": 206.92,
+          "evidence": "أغراض الزيادة ومعاني أفعل — المحور 1: الزيادة تكون لمعنى أو إلحاق أو توصل إلى النطق. شاهد التفريغ: هو الغالب كما اشرنا قبل الى هذا الامر اليوم ان شاء الله تعالى سنزيد الامر بيانا بسوره او فالغرض الاول من اغراض الزياده ان تكون لاجل المعنى فالهزه التي"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-39-معاني-استفعل",
+      "title": "معاني استفعل",
+      "estimated_study_minutes": 20,
+      "audio_spans": [
+        {
+          "lesson_id": "044-44",
+          "start_seconds": 0.32,
+          "end_seconds": 29.15,
+          "evidence": "معاني استفعل — المحور 1: من أشهر معاني استفعل الطلب الحقيقي والمجازي. شاهد التفريغ: الناظم وبه نبذه وزن استفعل وبعده نكمل الاوزان الاخرى ان شاء الله وزن استفعل هذا الوزن له معاني كذلك منها الطلب حقيقه او مجازا من اشهر معاني هذا الوزن "
+        },
+        {
+          "lesson_id": "044-44",
+          "start_seconds": 189.25,
+          "end_seconds": 213.78,
+          "evidence": "معاني استفعل — المحور 2: يأتي استفعل للصيرورة وحكاية القول والمصادفة بحسب السياق. شاهد التفريغ: مختصره قصيره من معاني وزني استفعل الصيروره الصيروره ان يتحول الشيء من صوره الى كقولهم استحجر الطين استحجر الطين اي صار كالحجر استاسد القبط اي صار كالا"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-40-معاني-فعل-وفاعل-وافتعل",
+      "title": "معاني فعل وفاعل وافتعل",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "045-45",
+          "start_seconds": 59.56,
+          "end_seconds": 90.42,
+          "evidence": "معاني فعل وفاعل وافتعل — المحور 1: من معاني فعل التعدية والتكثير والسلب وحكاية القول. شاهد التفريغ: متعدده وكثيره فم معاني وزني فع التعديل من اشهر معانيه التعديل قولنا نزل الله القرانه وفهم المدرس الطالبه المساله ومن هذا قوله سبحانه ففهمناها سليمانه "
+        },
+        {
+          "lesson_id": "045-45",
+          "start_seconds": 263.96,
+          "end_seconds": 298.3,
+          "evidence": "معاني فعل وفاعل وافتعل — المحور 2: فاعل للمشاركة أو الموالاة وقد يأتي بمعنى المجرد، وافتعل له معان أخرى. شاهد التفريغ: يقال تابع العمل تابع العمل اي ها واصل العمل فمن معاني فاعل الاستمرار والموال من معاني فاعل ان يكون بمعنى الفعل المجرد من معاني فاعل ان يكون بمعنى المج"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-41-معاني-انفعل-وتفعل-وتفاعل",
+      "title": "معاني انفعل وتفعل وتفاعل",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "046-46",
+          "start_seconds": 32.3,
+          "end_seconds": 71.17,
+          "evidence": "معاني انفعل وتفعل وتفاعل — المحور 1: انفعل للمطاوعة وتفعل للتكلف أو المطاوعة. شاهد التفريغ: فقط واسمه المطاوعه هذا الوزن انفعل ليس له الا معنى واحد واسمه المطاوعه ما معنى المطاوعه المطاوعه من الطاعه الطاعه ضد المعصيه الطاعه ان يقبل الشيء الفع"
+        },
+        {
+          "lesson_id": "046-46",
+          "start_seconds": 182.81,
+          "end_seconds": 208.14,
+          "evidence": "معاني انفعل وتفعل وتفاعل — المحور 2: تفاعل للمشاركة وقد يأتي للتظاهر أو التدريج. شاهد التفريغ: تفعل هذا الوزن من معانيه التكلف التكلف اي محاوله تحصيل الفعل الفعل اصلا ليس موجوده انت تحاول ان تحصل على الفعل انتم معي فتجتهد في الحصول عليه هذا اسمه"
+        },
+        {
+          "lesson_id": "047-47",
+          "start_seconds": 222.42,
+          "end_seconds": 242.81,
+          "evidence": "الأوزان النادرة وأقسام الفعل — المحور 1: بعض الأوزان النادرة تفيد المبالغة أو المطاوعة. شاهد التفريغ: افعل ولا احمار افعال اقشعر افعل ل الاوزان الباقيه كلها وهي الخمسه التي امامنا يجمعها شيء واحد معنا واحد وهو الدلاله على المبالغه"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-42-أقسام-الصحيح-والمعتل",
+      "title": "أقسام الصحيح والمعتل",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {
+          "lesson_id": "047-47",
+          "start_seconds": 510.44,
+          "end_seconds": 558.39,
+          "evidence": "الأوزان النادرة وأقسام الفعل — المحور 2: الفعل يقسم إلى صحيح ومعتل بالنظر إلى أصوله. شاهد التفريغ: طيب الفصل الاتي شرحناه قبل وهو تقسيم الفعل الى صحيح ومعتل وتقسيم الصحيح الى مضاعف ومهموز وسالب وتقسيم المعتل الى مثال واجوف وناقص ولا في افواف ولا في "
+        },
+        {
+          "lesson_id": "048-48",
+          "start_seconds": 112.34,
+          "end_seconds": 158.12,
+          "evidence": "تعريف الصحيح والمعتل وأقسامهما — المحور 1: المعتل ما كان أحد أصوله حرف علة والصحيح ما خلت أصوله منها. شاهد التفريغ: وساعد مع ان فيه الفه لكن الالفه زائده لا يعتد بها ولا ينظر اليها فاذا المعتل هو الذي احد اصوله حرف عله والصحيح هو الذي خلت اصوله من حروف ايه جميل جدا "
+        },
+        {
+          "lesson_id": "048-48",
+          "start_seconds": 129.68,
+          "end_seconds": 168.92,
+          "evidence": "تعريف الصحيح والمعتل وأقسامهما — المحور 2: المهموز والمضاعف والسالم من الصحيح، والمثال والأجوف والناقص واللفيفان من المعتل. شاهد التفريغ: المحتل كما علمنا قبل خمسه انواع هناك المثال والاجواء والناقص واللفيف المقرون واللفيف المفروق والصحيح كما علمنا اربعه انواع هناك المهبوز والمضاعف الثلا"
+        },
+        {
+          "lesson_id": "049-49",
+          "start_seconds": 233.48,
+          "end_seconds": 272.03,
+          "evidence": "علل التسمية والإدغام — المحور 1: سميت أقسام المعتل بحسب موضع حرف العلة أو اجتماعه. شاهد التفريغ: في صفحه ال5 باب الفعل المعتل واقسامه حروف وا هي حروف العله والمدي ثم اللين والزياده هذا شرحناه ذ كر الناظم رحمه الله ان هذه ثلاثه الاحرف وهي الواو وال"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-43-الإدغام-واصطلاح-الصحيح",
+      "title": "الإدغام واصطلاح الصحيح",
+      "estimated_study_minutes": 19,
+      "audio_spans": [
+        {
+          "lesson_id": "049-49",
+          "start_seconds": 1019.47,
+          "end_seconds": 1055.23,
+          "evidence": "علل التسمية والإدغام — المحور 2: الإدغام يجمع الحرفين المتماثلين بشروطه. شاهد التفريغ: فكف قل وسمه المضاعفه نعم هناك درس من دروس الصرفي موجود في الالفيه هو الادغام الادغام اذا و ج د حرفان متحركان من جنس واحد وجب ادغامه ما لم يكونا في اول"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-44-الإعلال-بالقلب-وشروطه",
+      "title": "الإعلال بالقلب وشروطه",
+      "estimated_study_minutes": 21,
+      "audio_spans": [
+        {
+          "lesson_id": "050-50",
+          "start_seconds": 86.75,
+          "end_seconds": 122.68,
+          "evidence": "الإعلال بالقلب — المحور 1: تقلب الواو أو الياء ألفا إذا تحركتا وانفتح ما قبلهما مع انتفاء المانع. شاهد التفريغ: التغيير الذي يحدث بين حروف العله له صور منها صوره وهي التي نحتاجها الان وهي القلب وهي ماذا ويسمى هذا اعلال القلب يعني ان يقلب حرف العله حرفا اخر من حر"
+        },
+        {
+          "lesson_id": "050-50",
+          "start_seconds": 251.47,
+          "end_seconds": 279.65,
+          "evidence": "الإعلال بالقلب — المحور 2: يعرف أصل قال من يقول وقول وأصل باع من يبيع وبيع. شاهد التفريغ: ما قبلك لا انتبه اذا تحرك حرفيه وفتح فتح بالضبط فتح ما قبله يعني لابد نعم لابد ان يكون قبله ماذا فتحه ليس حركه لا فتحه تحديدا فاذا تحرك حرف العلق وفتح"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-45-ضمائر-الرفع-وأثرها-في-المعتل",
+      "title": "ضمائر الرفع وأثرها في المعتل",
+      "estimated_study_minutes": 23,
+      "audio_spans": [
+        {
+          "lesson_id": "051-51",
+          "start_seconds": 89.84,
+          "end_seconds": 117.43,
+          "evidence": "إسناد المعتل إلى الضمائر — المحور 1: ضمائر الرفع المتصلة ستة وتؤثر في بعض المعتلات. شاهد التفريغ: انتبه هناك ضمائر اسم اسمها ضمائر الرفع المتصله انتبه لو سمحت هناك ضمائر تسمى ضمائر الرفع المتصله وهي ست سته ضمائر تسمى ضمائر الرفع المتصله وهي تاء الف"
+        },
+        {
+          "lesson_id": "051-51",
+          "start_seconds": 360.1,
+          "end_seconds": 395.9,
+          "evidence": "إسناد المعتل إلى الضمائر — المحور 2: تاء التأنيث حرف لكنها تشارك بعض الضمائر في أثر الإسناد. شاهد التفريغ: تغييرات ولا بد من معرفته ثم زد على هذه الضمائر ست تاء التانيث زد على هذه الضمائر ست وهي ضمائر الرف زيد عليها تاء التانيث ذهبت اكلت خرجت دعت جرت مع بان"
+        },
+        {
+          "lesson_id": "052-52",
+          "start_seconds": 120.38,
+          "end_seconds": 159.35,
+          "evidence": "مقدمات إسناد الناقص والأجوف — المحور 1: إسناد الناقص والأجوف يحتاج معرفة الأصل وحركة الضمير. شاهد التفريغ: كلم على تكلم من المعتل على الناقص والاجوف فقط تكلم من الافعال المعتله على الناقص والاجوف فقط اي تكلم على الناقص والاجوف فقط من الافعال المعتله ولم يتك"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-46-إسناد-الفعل-الناقص",
+      "title": "إسناد الفعل الناقص",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "052-52",
+          "start_seconds": 1075.82,
+          "end_seconds": 1112.36,
+          "evidence": "مقدمات إسناد الناقص والأجوف — المحور 2: الضمير المتحرك يسكن آخر الفعل المتحرك وقد يسبب الحذف. شاهد التفريغ: متحركه ام لا لكن هناك اشكال غير وهو واحد يقول يا استاذه كيف تقول نا الفاعلين ضمير متحرك ونحن في النحو نقول مبني على السكون نحن في النحو عندما نقول ذهب"
+        },
+        {
+          "lesson_id": "053-53",
+          "start_seconds": 9.52,
+          "end_seconds": 50.23,
+          "evidence": "إسناد الناقص — المحور 1: ألف الناقص الثالثة ترد إلى أصلها مع الضمائر المتحركة. شاهد التفريغ: ونود النسوة وأل الأرزة. ايضا المعتل بالالف له حكم، والمعتل بالواب والياء له ماذا؟ له حق. وهذا كالتالي. انتبه. أولًا المعتل بالالف له حالة. المعتد بالأ"
+        },
+        {
+          "lesson_id": "053-53",
+          "start_seconds": 587.47,
+          "end_seconds": 614.49,
+          "evidence": "إسناد الناقص — المحور 2: الألف الرابعة فأكثر تقلب ياء، وتحذف مع واو الجماعة وتاء التأنيث حيث يلتقي الساكنان. شاهد التفريغ: بقيت الفاتحه لانه كان بعدها الف تمام قال بعد ذلك واذا اتصل بضمير التثنيه للمؤنثه الغائبه يعني يقصد الف الاثنتين الف ماذا تقول غزت ورمت والاصل غزوت ورم"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-47-إسناد-الفعل-الأجوف",
+      "title": "إسناد الفعل الأجوف",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {
+          "lesson_id": "054-54",
+          "start_seconds": 100.39,
+          "end_seconds": 135.96,
+          "evidence": "إسناد الأجوف — المحور 1: الأجوف المعل تحذف عينه مع ضمائر الرفع المتحركة. شاهد التفريغ: اما الناقص قد انته الكلام عليه كما بيننا اسم الان نريد ان نبين ح الفعل الاجوف الماضي كقال وباع وصام وخاف نريد ان نبين حاله عند اتصال الضمائر ما الذي ي"
+        },
+        {
+          "lesson_id": "054-54",
+          "start_seconds": 841.18,
+          "end_seconds": 866.92,
+          "evidence": "إسناد الأجوف — المحور 2: الأجوف غير المعل مثل عور يعامل معاملة الصحيح. شاهد التفريغ: وهو معلق اصله استقم انتم معي فياخذ نفس الحكم مع الضمائر المتحركه تحذف العين استقمت استقم استقم ومع الضمائر الساكنه تبقى العين استقاموا استقام استقامت "
+        },
+        {
+          "lesson_id": "055-55",
+          "start_seconds": 98.03,
+          "end_seconds": 131.81,
+          "evidence": "حركة فاء الأجوف — المحور 1: تضم فاء الأجوف المحذوف العين إذا كان مضارعه مضموم العين. شاهد التفريغ: مع الضمائر اذا كان في المضارع مضمون اعلم ان الفاه تضم في الماضي مع الضمان إذا كانت هي الفاء في المضارع مضمونة وتكسر إن كانت هي في المضارع مكسورة أو أو"
+        },
+        {
+          "lesson_id": "055-55",
+          "start_seconds": 604.72,
+          "end_seconds": 643.7,
+          "evidence": "حركة فاء الأجوف — المحور 2: تكسر إن كان مضارعه مكسور العين أو مفتوحها بحسب الباب. شاهد التفريغ: الاولى ان تكون في الاصل حركه عين لكن نقلت الى الفهم وهذه اسم حركه النقل ده كان من الكتاف من كل شيء لنا الحاله الثانيه ان تكون هذه الحركه ليس حركه العي"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-48-الإعلال-بالنقل-وقلب-الياء-واوا",
+      "title": "الإعلال بالنقل وقلب الياء واوا",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "056-56",
+          "start_seconds": 107.39,
+          "end_seconds": 137.56,
+          "evidence": "الإعلال بالنقل وقلب الياء واوا — المحور 1: الإعلال بالنقل ينقل حركة المعتل إلى الصحيح الساكن قبله. شاهد التفريغ: يقول بعد ان كان يقول هذا اسمه اعلال بالنقل او بالت كذلك يبيع اصله يبيع يبيع تحركت الياء وقبلها الصحيح ساكن فنقلت الكسره من الياء الى الصحيح فاصبحنا نق"
+        },
+        {
+          "lesson_id": "056-56",
+          "start_seconds": 200.71,
+          "end_seconds": 234.24,
+          "evidence": "الإعلال بالنقل وقلب الياء واوا — المحور 2: تقلب الياء الساكنة واوا بعد ضمة مثل موقن. شاهد التفريغ: فاحيانا تقلب الواو تقلب الياء واوا واحيانا تقلب الواو ياء الياء تقلب الواو الواو تقلب تقلب العكس يعني انتم ما يا اخوانا فبدا الناظم ببعض هذه المسائل ت"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-49-قلب-الواو-ياء-والإعلال-بالنقل",
+      "title": "قلب الواو ياء والإعلال بالنقل",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "057-57",
+          "start_seconds": 0.24,
+          "end_seconds": 28.59,
+          "evidence": "قلب الواو ياء والإعلال بالنقل — المحور 1: تقلب الواو الساكنة ياء بعد كسرة مثل ميعاد. شاهد التفريغ: قليل على الياء الواو الان سنتكلم على قلب الواو ياء العكس هناك مسائل ايضا تقلب فيها الواو ياء منها من المسائل ان يقع الواو ساكنه وقبل اكثر على عكس الحا"
+        },
+        {
+          "lesson_id": "057-57",
+          "start_seconds": 1368.14,
+          "end_seconds": 1407.1,
+          "evidence": "قلب الواو ياء والإعلال بالنقل — المحور 2: إذا تطرفت الواو بعد كسرة قلبت ياء، وتظهر قواعد النقل في يقول ويبيع. شاهد التفريغ: قال الشارح ذ كر الناظم ان كل ياء وواو متحركتين عاقب حرف في صحيح ساكن تنقل حركتهما الى الحرف الصحيح مثال ذلك يقول يكيل يخافه والاصل يقول يكيل يخوف نقلت"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-50-إسناد-الناقص-والاسم-المنقوص",
+      "title": "إسناد الناقص والاسم المنقوص",
+      "estimated_study_minutes": 23,
+      "audio_spans": [
+        {
+          "lesson_id": "058-58",
+          "start_seconds": 95.63,
+          "end_seconds": 132.42,
+          "evidence": "إسناد الناقص والمنقوص — المحور 1: يحذف حرف علة الناقص قبل واو الجماعة وياء المخاطبة. شاهد التفريغ: الفعل الناقص في المضارع واوي كيغزو واما يائي كيجري واما اليفي كيخشى ما حكمه عند اتصاله بواو الجماعه وياء المخاطبه بين ذلك امس بالضبط في الملخص الصرفي "
+        },
+        {
+          "lesson_id": "058-58",
+          "start_seconds": 1454.08,
+          "end_seconds": 1489.24,
+          "evidence": "إسناد الناقص والمنقوص — المحور 2: يحذف ياء الاسم المنقوص النكرة في الرفع والجر ويعوض عنها التنوين. شاهد التفريغ: نعم قال في ناقص قل غازم لم قل غازم لم ينتصب ولا بالواح فيائه يجب نعم في ناقص يعني في الاسم المنقوص يعني قوله الناقص يقصد الاسم ماذا المنقوص لا يقصد ال"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-51-اسم-المفعول-من-الناقص",
+      "title": "اسم المفعول من الناقص",
+      "estimated_study_minutes": 18,
+      "audio_spans": [
+        {
+          "lesson_id": "059-59",
+          "start_seconds": 0.32,
+          "end_seconds": 21.82,
+          "evidence": "اسم المفعول من الناقص — المحور 1: اسم مفعول الناقص يصاغ من المضارع بميم مفتوحة وتشديد الآخر. شاهد التفريغ: اسم المفعول من من الناقص كيف يصاب اسم المفعول من الفعل الناقص فيقال مثلا دعا مدعو وهنا مهدي وخشي ش فكيف يصاب اسم المفعول من الفعل الناقص الطريقه سهله"
+        },
+        {
+          "lesson_id": "059-59",
+          "start_seconds": 223.95,
+          "end_seconds": 249.9,
+          "evidence": "اسم المفعول من الناقص — المحور 2: في مهدي ومغشي تقلب واو مفعول ياء ثم تدغم. شاهد التفريغ: حتماً أُضغما كذلك مغشيٌ حدث فيه إضغام لكن بعد القلب. صحيح، يا أم لا؟ صحيح، مدعو حدث الادغام مباشره لم يقلب شاهدا اما مهدي ومرشي فقربت الواو ياء اوولا "
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-52-أمر-الأجوف-والناقص-وحذف-فاء-المثال",
+      "title": "أمر الأجوف والناقص وحذف فاء المثال",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "060-60",
+          "start_seconds": 0.32,
+          "end_seconds": 2160.0,
+          "evidence": "أمر الأجوف والناقص وحذف فاء المثال: أمر الأجوف يحذف عينه بعد نقل الحركة، مثل ليقل وقل. يحذف حرف علة الناقص في الجزم والأمر، وتحذف فاء المثال في الأبواب المبينة. شاهد التفريغ: السلام عليكم ورحمه الله وبركاته نزله الحمد لله والصلاه والسلام على رسول الله وعلى اله وصحبه ومن تبعهم اما بعد خمازلنا مع باب الاخير من هوابناه المقصود"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-53-أحكام-الفعل-المضاعف",
+      "title": "أحكام الفعل المضاعف",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "060-60",
+          "start_seconds": 2160.0,
+          "end_seconds": 3385.0,
+          "evidence": "أحكام الفعل المضاعف: يفك إدغام المضاعف عند اتصال ضمير متحرك في المواضع المبينة. يجوز الإدغام أو الفك في بعض صور الجزم والأمر بحسب الحركة والقراءة. شاهد التفريغ: الكلام عن المعتدل بقى المضاعف والمهندس المضاعف يا اخوانا كما تعلمون نوعان ثلاثي كماده ورباعي كزلزل وهو لم يذكر المضاعف الرباعيه وإنما ذك ثلاثيه فقط فق"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "nadhm-maqsoud-module-54-أحكام-الفعل-المهموز-وخاتمة-النظم",
+      "title": "أحكام الفعل المهموز وخاتمة النظم",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "060-60",
+          "start_seconds": 3385.0,
+          "end_seconds": 4615.0,
+          "evidence": "أحكام الفعل المهموز: يجري المهموز غالبا مجرى الصحيح مع أحكام تخفيف الهمزة. تحذف همزة أخذ وأكل وأمر سماعا في صيغة الأمر: خذ وكل ومر. شاهد التفريغ: متى سكن؟ يعني اذا كان المهموز طب ماذا يعني الى اي شيء نحوله نحوله بحسب الحركه ان كانت الحركه مفتحه نجعله الف وان كان الطاب نجعله واوا ان كان الكسر نجع"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/nadhm-maqsoud/matn/nadhm-al-maqsoud-mimham.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/nadhm-maqsoud/sharh/awn-al-mabud-sharh-nadhm-al-maqsoud.txt",
+        "livres/shamela/nadhm-maqsoud/sharh/36120/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    }
+  ],
+  "excluded_spans": [
+    {
+      "lesson_id": "001-1",
+      "start_seconds": 3.44,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "002-2",
+      "start_seconds": 3.04,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "003-3",
+      "start_seconds": 2.8,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "004-4",
+      "start_seconds": 3.04,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "005-5",
+      "start_seconds": 0.48,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "006-6",
+      "start_seconds": 1.44,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "007-7",
+      "start_seconds": 0.32,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "008-8",
+      "start_seconds": 0.16,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "009-9",
+      "start_seconds": 0.4,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "010-10",
+      "start_seconds": 0.8,
+      "end_seconds": 10.92,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "011-11",
+      "start_seconds": 0.16,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "012-12",
+      "start_seconds": 1.28,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "013-13",
+      "start_seconds": 5.76,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "014-14",
+      "start_seconds": 0.64,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "015-15",
+      "start_seconds": 1.44,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "016-16",
+      "start_seconds": 1.76,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "017-17",
+      "start_seconds": 2.96,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "018-18",
+      "start_seconds": 0.16,
+      "end_seconds": 14.49,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "019-19",
+      "start_seconds": 0.64,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "020-20",
+      "start_seconds": 2.96,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "021-21",
+      "start_seconds": 0.88,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "022-22",
+      "start_seconds": 0.64,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "023-23",
+      "start_seconds": 12.13,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "024-24",
+      "start_seconds": 7.6,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "025-25",
+      "start_seconds": 0.24,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "026-26",
+      "start_seconds": 1.12,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "027-27",
+      "start_seconds": 0.32,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "028-28",
+      "start_seconds": 18.41,
+      "end_seconds": 23.41,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "029-29",
+      "start_seconds": 2.8,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "030-30",
+      "start_seconds": 9.92,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "031-31",
+      "start_seconds": 2.24,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "032-32",
+      "start_seconds": 1.76,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "033-33",
+      "start_seconds": 0.8,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "034-34",
+      "start_seconds": 4.16,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "035-35",
+      "start_seconds": 24.86,
+      "end_seconds": 29.86,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "036-36",
+      "start_seconds": 15.71,
+      "end_seconds": 20.71,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "037-37",
+      "start_seconds": 0.32,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "038-38",
+      "start_seconds": 19.52,
+      "end_seconds": 24.52,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "039-39",
+      "start_seconds": 6.8,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "040-40",
+      "start_seconds": 0.32,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "041-41",
+      "start_seconds": 0.48,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "042-42",
+      "start_seconds": 3.52,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "043-43",
+      "start_seconds": 40.4,
+      "end_seconds": 45.4,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "044-44",
+      "start_seconds": 0.32,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "045-45",
+      "start_seconds": 0.08,
+      "end_seconds": 15.82,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "046-46",
+      "start_seconds": 2.0,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "047-47",
+      "start_seconds": 1.84,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "048-48",
+      "start_seconds": 0.8,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "049-49",
+      "start_seconds": 0.24,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "050-50",
+      "start_seconds": 0.24,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "051-51",
+      "start_seconds": 1.68,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "052-52",
+      "start_seconds": 1.84,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "053-53",
+      "start_seconds": 2.4,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "054-54",
+      "start_seconds": 2.88,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "055-55",
+      "start_seconds": 2.96,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "056-56",
+      "start_seconds": 0.96,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "057-57",
+      "start_seconds": 0.24,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "058-58",
+      "start_seconds": 1.36,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "059-59",
+      "start_seconds": 0.32,
+      "end_seconds": 18.0,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "060-60",
+      "start_seconds": 4615.0,
+      "end_seconds": 4739.4,
+      "reason": "افتتاح أو خاتمة إدارية لا تحمل قاعدة صرفية مستقلة."
+    }
+  ]
+}

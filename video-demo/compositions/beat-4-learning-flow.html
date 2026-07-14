@@ -1,0 +1,502 @@
+<template id="beat-4-learning-flow-template">
+  <div data-hf-id="hf-b4-root" id="beat-4-learning-flow" data-composition-id="beat-4-learning-flow" data-width="1920" data-height="1080" data-start="0" data-duration="6">
+    <link rel="preload" href="capture/screenshots/states/course.png" as="image" type="image/png">
+    <link rel="preload" href="capture/assets/fonts/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf" as="font" type="font/ttf" crossorigin="anonymous">
+
+    <div data-hf-id="hf-b4-field" class="learning-field" aria-hidden="true"></div>
+
+    <section data-hf-id="hf-b4-stage" class="workspace-stage" aria-label="Real Ajroumiya course workspace">
+      <div data-hf-id="hf-b4-camera" class="workspace-camera" data-layout-allow-overflow>
+        <div data-hf-id="hf-b4-surface" class="workspace-surface">
+          <img data-hf-id="hf-b4-image" class="workspace-capture" src="capture/screenshots/states/course.png" width="1920" height="1080" alt="Real Ajroumiya course workspace with audio, modules, lesson and progress controls" draggable="false">
+
+          <div data-hf-id="hf-b4-border" class="workspace-border" aria-hidden="true"></div>
+
+          <svg data-hf-id="hf-b4-annotations" class="workspace-annotations" viewBox="0 0 1920 1080" aria-hidden="true" data-layout-ignore>
+            <path data-hf-id="hf-b4-route" class="focus-route" pathLength="2671.324429" d="M96 172 C270 172 470 172 650 172 C510 178 354 210 210 279 C555 320 1070 342 1496 374 C1550 282 1625 143 1658 40"></path>
+
+            <path data-hf-id="hf-b4-audio-veil" class="focus-veil" fill-rule="evenodd" d="M422 128 H1912 V212 H422 Z M438 142 H1900 V200 H438 Z"></path>
+            <path data-hf-id="hf-b4-module-veil" class="focus-veil" fill-rule="evenodd" d="M4 198 H416 V360 H4 Z M16 211 H404 V348 H16 Z"></path>
+            <path data-hf-id="hf-b4-lesson-veil" class="focus-veil" fill-rule="evenodd" d="M426 270 H1562 V854 H426 Z M440 284 H1548 V840 H440 Z"></path>
+            <path data-hf-id="hf-b4-progress-veil" class="focus-veil" fill-rule="evenodd" d="M1484 8 H1826 V70 H1484 Z M1498 20 H1814 V58 H1498 Z"></path>
+
+            <path data-hf-id="hf-b4-audio-bracket" class="focus-bracket" pathLength="100" d="M438 164 V142 H460 M1878 142 H1900 V164 M1900 178 V200 H1878 M460 200 H438 V178"></path>
+            <path data-hf-id="hf-b4-module-bracket" class="focus-bracket" pathLength="100" d="M16 239 V211 H44 M376 211 H404 V239 M404 320 V348 H376 M44 348 H16 V320"></path>
+            <path data-hf-id="hf-b4-lesson-bracket" class="focus-bracket" pathLength="100" d="M440 314 V284 H470 M1518 284 H1548 V314 M1548 810 V840 H1518 M470 840 H440 V810"></path>
+            <path data-hf-id="hf-b4-progress-bracket" class="focus-bracket" pathLength="100" d="M1498 34 V20 H1512 M1800 20 H1814 V34 M1814 44 V58 H1800 M1512 58 H1498 V44"></path>
+
+            <path data-hf-id="hf-b4-progress-underline" class="progress-underline" pathLength="100" d="M1658 66 H1814"></path>
+          </svg>
+
+          <div data-hf-id="hf-b4-ring" class="focus-ring" data-layout-ignore aria-hidden="true"></div>
+        </div>
+      </div>
+    </section>
+
+    <div data-hf-id="hf-b4-copy-panel" class="copy-panel" aria-label="Listen. Understand. Track progress.">
+      <span data-hf-id="hf-b4-copy-listen" class="copy-token token-listen">Listen.</span>
+      <span data-hf-id="hf-b4-copy-understand" class="copy-token token-understand">Understand.</span>
+      <span data-hf-id="hf-b4-copy-progress" class="copy-token token-progress">Track progress.</span>
+    </div>
+
+    <style>
+      @font-face {
+        font-family: "Cours Inter Overlay";
+        src: url("capture/assets/fonts/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf") format("truetype");
+        font-weight: 600;
+        font-style: normal;
+        font-display: block;
+      }
+
+      #beat-4-learning-flow {
+        position: relative;
+        width: 1920px;
+        height: 1080px;
+        overflow: hidden;
+        isolation: isolate;
+        color: #e2e8f0;
+        background-color: #06090f;
+      }
+
+      #beat-4-learning-flow *,
+      #beat-4-learning-flow *::before,
+      #beat-4-learning-flow *::after {
+        box-sizing: border-box;
+      }
+
+      .learning-field {
+        position: absolute;
+        inset: 0;
+        z-index: 0;
+        width: 1920px;
+        height: 1080px;
+        background-color: #06090f;
+      }
+
+      .workspace-stage {
+        position: absolute;
+        inset: 0;
+        z-index: 1;
+        width: 1920px;
+        height: 1080px;
+        overflow: hidden;
+        perspective: 1800px;
+        background-color: #06090f;
+      }
+
+      .workspace-camera {
+        position: absolute;
+        inset: 0;
+        width: 1920px;
+        height: 1080px;
+        transform-origin: 54% 0%;
+        transform-style: preserve-3d;
+        will-change: transform;
+      }
+
+      .workspace-surface {
+        position: relative;
+        width: 1920px;
+        height: 1080px;
+        overflow: hidden;
+        background-color: #0c1119;
+        box-shadow: 0 30px 90px rgba(6, 9, 15, 0.8);
+        transform: translateZ(0);
+      }
+
+      .workspace-capture {
+        position: absolute;
+        inset: 0;
+        z-index: 1;
+        display: block;
+        width: 1920px;
+        height: 1080px;
+        object-fit: contain;
+        user-select: none;
+        pointer-events: none;
+      }
+
+      .workspace-border {
+        position: absolute;
+        inset: 8px;
+        z-index: 5;
+        width: 1904px;
+        height: 1064px;
+        border: 2px solid rgba(240, 180, 41, 0.5);
+        border-radius: 12px;
+        box-shadow: inset 0 0 0 1px rgba(248, 250, 252, 0.08), 0 0 28px rgba(240, 180, 41, 0.12);
+        transform-origin: 50% 50%;
+        pointer-events: none;
+        will-change: transform, opacity;
+      }
+
+      .workspace-annotations {
+        position: absolute;
+        inset: 0;
+        z-index: 3;
+        display: block;
+        width: 1920px;
+        height: 1080px;
+        overflow: visible;
+        pointer-events: none;
+      }
+
+      .focus-route,
+      .focus-bracket,
+      .progress-underline {
+        fill: none;
+        stroke: #f0b429;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .focus-route {
+        stroke-width: 3;
+        stroke-dasharray: none;
+        stroke-dashoffset: 0;
+        opacity: 0.62;
+      }
+
+      .focus-bracket {
+        stroke-width: 4;
+        stroke-dasharray: 100;
+        stroke-dashoffset: 0;
+      }
+
+      .focus-veil {
+        fill: #f0b429;
+        stroke: rgba(240, 180, 41, 0.28);
+        stroke-width: 2;
+        opacity: 0.12;
+      }
+
+      .progress-underline {
+        stroke-width: 4;
+        transform-box: fill-box;
+        transform-origin: 0 50%;
+        will-change: transform, opacity;
+      }
+
+      .focus-ring {
+        position: absolute;
+        left: 0;
+        top: 0;
+        z-index: 4;
+        width: 34px;
+        height: 34px;
+        margin-left: -17px;
+        margin-top: -17px;
+        border: 4px solid #f0b429;
+        border-radius: 50%;
+        background-color: rgba(12, 17, 25, 0.58);
+        box-shadow: 0 0 0 3px rgba(19, 27, 40, 0.92), inset 0 0 10px rgba(240, 180, 41, 0.7);
+        transform-origin: 50% 50%;
+        will-change: transform, opacity;
+        pointer-events: none;
+      }
+
+      .copy-panel {
+        position: absolute;
+        left: 96px;
+        top: 824px;
+        z-index: 10;
+        display: flex;
+        align-items: center;
+        gap: 18px;
+        width: 1100px;
+        height: 150px;
+        overflow: hidden;
+        padding: 0 20px;
+        border: 2px solid rgba(148, 163, 184, 0.3);
+        border-left-color: #f0b429;
+        border-radius: 16px;
+        background-color: rgba(12, 17, 25, 0.96);
+        box-shadow: 0 24px 64px rgba(6, 9, 15, 0.78), inset 0 1px 0 rgba(248, 250, 252, 0.08);
+        font-family: "Cours Inter Overlay", Inter, sans-serif;
+        font-size: 64px;
+        font-weight: 600;
+        line-height: 1;
+        letter-spacing: -0.045em;
+        white-space: nowrap;
+        will-change: transform, opacity;
+      }
+
+      .copy-token {
+        position: relative;
+        display: inline-block;
+        flex: 0 0 auto;
+        min-width: 1px;
+        min-height: 64px;
+        color: #f8fafc;
+        will-change: transform, opacity;
+      }
+
+      .token-listen,
+      .token-progress {
+        color: #f0b429;
+      }
+    </style>
+
+    <script>
+      (function buildBeatFourTimeline() {
+        window.__timelines = window.__timelines || {};
+
+        const root = "#beat-4-learning-flow";
+        const timeline = gsap.timeline({ paused: true });
+
+        timeline.addLabel("transition-clear", 0);
+        timeline.addLabel("audio-focus", 0.28);
+        timeline.addLabel("module-focus", 1.35);
+        timeline.addLabel("lesson-focus", 2.55);
+        timeline.addLabel("progress-focus", 4.05);
+        timeline.addLabel("resolved-hold", 5.2);
+
+        timeline.fromTo(
+          `${root} .workspace-camera`,
+          { x: 0, y: 0, scale: 1, rotationX: 0.18 },
+          {
+            x: -18,
+            y: 0,
+            scale: 1.045,
+            rotationX: 0,
+            duration: 5.51,
+            ease: "sine.inOut",
+          },
+          0.24,
+        );
+
+        timeline.fromTo(
+          `${root} .workspace-border`,
+          { scale: 0.995, opacity: 0 },
+          {
+            scale: 1,
+            opacity: 1,
+            duration: 0.36,
+            ease: "power2.out",
+          },
+          0.2,
+        );
+
+        timeline.fromTo(
+          `${root} .copy-panel`,
+          { x: -36, opacity: 0 },
+          {
+            x: 0,
+            opacity: 1,
+            duration: 0.34,
+            ease: "power3.out",
+          },
+          0.28,
+        );
+
+        timeline.fromTo(
+          `${root} .token-listen`,
+          { x: 30, opacity: 0 },
+          {
+            x: 0,
+            opacity: 1,
+            duration: 0.9,
+            ease: "power3.out",
+          },
+          0.45,
+        );
+
+        timeline.fromTo(
+          `${root} .token-understand`,
+          { y: 22, opacity: 0 },
+          {
+            y: 0,
+            opacity: 1,
+            duration: 0.56,
+            ease: "power3.out",
+          },
+          2.55,
+        );
+
+        timeline.fromTo(
+          `${root} .token-progress`,
+          { x: 28, opacity: 0 },
+          {
+            x: 0,
+            opacity: 1,
+            duration: 0.55,
+            ease: "power3.out",
+          },
+          4.05,
+        );
+
+        timeline.fromTo(
+          `${root} .focus-ring`,
+          { scale: 0, opacity: 0 },
+          {
+            scale: 1,
+            opacity: 1,
+            duration: 0.34,
+            ease: "back.out(1.2)",
+          },
+          0.28,
+        );
+
+        timeline.fromTo(
+          `${root} .focus-route`,
+          { opacity: 0 },
+          {
+            opacity: 0.62,
+            duration: 0.34,
+            ease: "sine.out",
+          },
+          0.28,
+        );
+
+        const ring = document.querySelector("#beat-4-learning-flow .focus-ring");
+        const route = document.querySelector("#beat-4-learning-flow .focus-route");
+        const ROUTE_LENGTH = 2671.324429;
+        const ROUTE_STOPS = [554, 1009.855409, 2299.480238, 2671.324429];
+        const ROUTE_LUT = [[0,96,172],[16,112,172],[32,128,172],[48,144,172],[64,160,172],[80,176,172],[96,192,172],[112,208,172],[128,224,172],[144,240,172],[160,256,172],[176,272,172],[192,288,172],[208,304,172],[224,320,172],[240,336,172],[256,352,172],[272,368,172],[288,384,172],[304,400,172],[320,416,172],[336,432,172],[352,448,172],[368,464,172],[384,480,172],[400,496,172],[416,512,172],[432,528,172],[448,544,172],[464,560,172],[480,576,172],[496,592,172],[512,608,172],[528,624,172],[544,640,172],[554,650,172],[560,644.0062,172.2723],[576,628.0303,173.1487],[592,612.0679,174.242],[608,596.1216,175.5507],[624,580.1943,177.0736],[640,564.2889,178.8097],[656,548.4082,180.7584],[672,532.5549,182.9192],[688,516.7319,185.2919],[704,500.9421,187.8764],[720,485.1885,190.673],[736,469.4741,193.6819],[752,453.802,196.9036],[768,438.1753,200.3389],[784,422.5972,203.9884],[800,407.071,207.853],[816,391.6003,211.9337],[832,376.1885,216.2315],[848,360.8392,220.7476],[864,345.5562,225.4833],[880,330.3434,230.4397],[896,315.2048,235.6182],[912,300.1444,241.0201],[928,285.1666,246.6469],[944,270.2757,252.4998],[960,255.4763,258.5802],[976,240.773,264.8895],[992,226.1705,271.429],[1008,211.674,278.1998],[1009.855409,210,279],[1024,224.0482,280.6483],[1040,239.9448,282.4643],[1056,255.8469,284.2319],[1072,271.7539,285.9542],[1088,287.6655,287.6337],[1104,303.5813,289.2731],[1120,319.501,290.8744],[1136,335.4242,292.44],[1152,351.3507,293.9717],[1168,367.2803,295.4713],[1184,383.2126,296.9406],[1200,399.1477,298.3811],[1216,415.0851,299.7944],[1232,431.0249,301.1818],[1248,446.9667,302.5446],[1264,462.9105,303.8841],[1280,478.8562,305.2014],[1296,494.8036,306.4977],[1312,510.7526,307.7739],[1328,526.7032,309.0311],[1344,542.6551,310.2703],[1360,558.6084,311.4923],[1376,574.5629,312.6979],[1392,590.5186,313.8881],[1408,606.4753,315.0635],[1424,622.4331,316.225],[1440,638.3919,317.3732],[1456,654.3515,318.5089],[1472,670.312,319.6328],[1488,686.2732,320.7454],[1504,702.2353,321.8473],[1520,718.1979,322.9393],[1536,734.1613,324.0219],[1552,750.1252,325.0956],[1568,766.0897,326.1611],[1584,782.0547,327.2187],[1600,798.0202,328.2692],[1616,813.9861,329.3129],[1632,829.9524,330.3504],[1648,845.9191,331.3822],[1664,861.8862,332.4087],[1680,877.8535,333.4304],[1696,893.8211,334.4479],[1712,909.789,335.4614],[1728,925.7571,336.4716],[1744,941.7253,337.4788],[1760,957.6938,338.4835],[1776,973.6623,339.4861],[1792,989.631,340.4871],[1808,1005.5997,341.4869],[1824,1021.5685,342.4859],[1840,1037.5373,343.4845],[1856,1053.5061,344.4832],[1872,1069.4749,345.4824],[1888,1085.4436,346.4825],[1904,1101.4122,347.484],[1920,1117.3807,348.4873],[1936,1133.3491,349.4928],[1952,1149.3173,350.501],[1968,1165.2853,351.5123],[1984,1181.2531,352.5272],[2000,1197.2206,353.546],[2016,1213.1879,354.5694],[2032,1229.1548,355.5977],[2048,1245.1213,356.6313],[2064,1261.0875,357.6709],[2080,1277.0533,358.7169],[2096,1293.0186,359.7697],[2112,1308.9835,360.83],[2128,1324.9478,361.8982],[2144,1340.9115,362.9749],[2160,1356.8746,364.0605],[2176,1372.8371,365.1558],[2192,1388.7989,366.2613],[2208,1404.7599,367.3776],[2224,1420.7201,368.5054],[2240,1436.6794,369.6452],[2256,1452.6379,370.7977],[2272,1468.5953,371.9638],[2288,1484.5517,373.144],[2299.480238,1496,374],[2304,1498.285,370.1004],[2320,1506.3274,356.2685],[2336,1514.2981,342.3953],[2352,1522.1973,328.4812],[2368,1530.0245,314.5265],[2384,1537.7783,300.5308],[2400,1545.4566,286.4937],[2416,1553.057,272.4141],[2432,1560.5761,258.291],[2448,1568.0102,244.1229],[2464,1575.3546,229.9082],[2480,1582.6039,215.6447],[2496,1589.752,201.3303],[2512,1596.7915,186.9621],[2528,1603.7139,172.5372],[2544,1610.5093,158.052],[2560,1617.1657,143.5024],[2576,1623.6692,128.8839],[2592,1630.0029,114.191],[2608,1636.1464,99.4176],[2624,1642.0745,84.5564],[2640,1647.7558,69.5993],[2656,1653.1502,54.5364],[2671.324429,1658,40]];
+        const routeState = { distance: 0 };
+
+        function pointOnRoute(distance) {
+          let lowerIndex = 0;
+          let upperIndex = ROUTE_LUT.length - 1;
+
+          while (upperIndex - lowerIndex > 1) {
+            const middleIndex = (lowerIndex + upperIndex) >> 1;
+            if (ROUTE_LUT[middleIndex][0] <= distance) lowerIndex = middleIndex;
+            else upperIndex = middleIndex;
+          }
+
+          const lower = ROUTE_LUT[lowerIndex];
+          const upper = ROUTE_LUT[upperIndex];
+          const span = upper[0] - lower[0];
+          const progress = span > 0 ? (distance - lower[0]) / span : 0;
+
+          return {
+            x: lower[1] + (upper[1] - lower[1]) * progress,
+            y: lower[2] + (upper[2] - lower[2]) * progress,
+          };
+        }
+
+        function renderRingRoute() {
+          const distance = Math.max(0, Math.min(ROUTE_LENGTH, routeState.distance));
+          const point = pointOnRoute(distance);
+          gsap.set(route, {
+            strokeDasharray: ROUTE_LENGTH,
+            strokeDashoffset: ROUTE_LENGTH - distance,
+          });
+          gsap.set(ring, { x: point.x, y: point.y });
+        }
+
+        renderRingRoute();
+
+        timeline.fromTo(
+          routeState,
+          { distance: 0 },
+          {
+            distance: ROUTE_STOPS[0],
+            duration: 0.34,
+            ease: "power2.inOut",
+          },
+          0.28,
+        );
+
+        timeline.fromTo(
+          routeState,
+          { distance: ROUTE_STOPS[0] },
+          {
+            distance: ROUTE_STOPS[1],
+            duration: 1.2,
+            ease: "power2.inOut",
+            immediateRender: false,
+          },
+          1.35,
+        );
+
+        timeline.fromTo(
+          routeState,
+          { distance: ROUTE_STOPS[1] },
+          {
+            distance: ROUTE_STOPS[2],
+            duration: 1.5,
+            ease: "power2.inOut",
+            immediateRender: false,
+          },
+          2.55,
+        );
+
+        timeline.fromTo(
+          routeState,
+          { distance: ROUTE_STOPS[2] },
+          {
+            distance: ROUTE_STOPS[3],
+            duration: 1.15,
+            ease: "power2.inOut",
+            immediateRender: false,
+          },
+          4.05,
+        );
+
+        timeline.fromTo(
+          `${root} [data-hf-id="hf-b4-audio-bracket"]`,
+          { strokeDashoffset: 100, opacity: 0 },
+          { strokeDashoffset: 0, opacity: 1, duration: 0.9, ease: "power2.out" },
+          0.45,
+        );
+        timeline.fromTo(
+          `${root} [data-hf-id="hf-b4-audio-veil"]`,
+          { opacity: 0 },
+          { opacity: 0.14, duration: 0.9, ease: "sine.out" },
+          0.45,
+        );
+
+        timeline.fromTo(
+          `${root} [data-hf-id="hf-b4-module-bracket"]`,
+          { strokeDashoffset: 100, opacity: 0 },
+          { strokeDashoffset: 0, opacity: 1, duration: 0.52, ease: "power2.out" },
+          1.55,
+        );
+        timeline.fromTo(
+          `${root} [data-hf-id="hf-b4-module-veil"]`,
+          { opacity: 0 },
+          { opacity: 0.12, duration: 0.52, ease: "sine.out" },
+          1.55,
+        );
+
+        timeline.fromTo(
+          `${root} [data-hf-id="hf-b4-lesson-bracket"]`,
+          { strokeDashoffset: 100, opacity: 0 },
+          { strokeDashoffset: 0, opacity: 1, duration: 0.62, ease: "power2.out" },
+          2.72,
+        );
+        timeline.fromTo(
+          `${root} [data-hf-id="hf-b4-lesson-veil"]`,
+          { opacity: 0 },
+          { opacity: 0.12, duration: 0.62, ease: "sine.out" },
+          2.72,
+        );
+
+        timeline.fromTo(
+          `${root} [data-hf-id="hf-b4-progress-bracket"]`,
+          { strokeDashoffset: 100, opacity: 0 },
+          { strokeDashoffset: 0, opacity: 1, duration: 0.48, ease: "power2.out" },
+          4.18,
+        );
+        timeline.fromTo(
+          `${root} [data-hf-id="hf-b4-progress-veil"]`,
+          { opacity: 0 },
+          { opacity: 0.12, duration: 0.48, ease: "sine.out" },
+          4.18,
+        );
+        timeline.fromTo(
+          `${root} .progress-underline`,
+          { scaleX: 0, opacity: 0 },
+          { scaleX: 1, opacity: 1, duration: 0.55, ease: "power3.out" },
+          4.28,
+        );
+
+        timeline.eventCallback("onUpdate", renderRingRoute);
+
+        window.__timelines["beat-4-learning-flow"] = timeline;
+      })();
+    </script>
+  </div>
+</template>

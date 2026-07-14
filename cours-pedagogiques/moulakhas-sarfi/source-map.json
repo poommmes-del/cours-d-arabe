@@ -1,0 +1,1578 @@
+{
+  "schema_version": 2,
+  "course_id": "moulakhas-sarfi",
+  "module_count_range": [
+    30,
+    55
+  ],
+  "source_inventory": {
+    "canonical_available": true
+  },
+  "modules": [
+    {
+      "id": "moulakhas-sarfi-module-01-مدخل-إلى-علم-الصرف-وحدوده",
+      "title": "مدخل إلى علم الصرف وحدوده",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "001-1",
+          "start_seconds": 124.32,
+          "end_seconds": 812.97504,
+          "evidence": "علم الصرف يكشف فرق البنية المؤثر في المعنى، ولذلك يحتاج إليه قارئ القرآن والحديث.",
+          "span_key": "importance"
+        },
+        {
+          "lesson_id": "001-1",
+          "start_seconds": 812.97504,
+          "end_seconds": 3014.82,
+          "evidence": "الصرف لغة التغيير، واصطلاحا قواعد أحوال بنية الكلمة، وموضوعه الأسماء المعربة والأفعال المتصرفة.",
+          "span_key": "definition"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.pdf"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt",
+          "anchor_ocr": "تعريؼ الصرؼ",
+          "assertion_ar": "الصرف لغة التغيير، واصطلاحا علم أحوال أبنية الكلمة غير الإعراب والبناء.",
+          "text_line": 50,
+          "pdf_page": 3,
+          "excerpt": "‫مقدمات صرفية‬ ‫تعريؼ الصرؼ‪:‬‬ ‫كممة الصرؼ في المغة العربية معناىا التغيير‪.‬‬ ‫وفي اصطالح عمماء الصرؼ‪( :‬العمـ بالقواعد التي تعرؼ بيا أحواؿ أبنية الكممة‪ ،‬التي ليست‬ ‫أحواؿ إعراب وال بناء)‪.‬‬"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/moulakhas-sarfi/verification-ledger.json",
+        "module_index": 1
+      }
+    },
+    {
+      "id": "moulakhas-sarfi-module-02-المجرد-والمزيد-والجمود-والاشتقاق",
+      "title": "المجرد والمزيد والجمود والاشتقاق",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {
+          "lesson_id": "002-2",
+          "start_seconds": 0.88,
+          "end_seconds": 56.88,
+          "evidence": "النحو يدرس أواخر الكلمات في التركيب، أما الصرف فيدرس بنية الكلمة مفردة.",
+          "span_key": "comparison"
+        },
+        {
+          "lesson_id": "002-2",
+          "start_seconds": 56.88,
+          "end_seconds": 2249.8723,
+          "evidence": "المجرد كل حروفه أصلية، والمزيد ما اشتمل على حرف زائد بعد رد الكلمة إلى أصلها.",
+          "span_key": "noun_aug"
+        },
+        {
+          "lesson_id": "003-3",
+          "start_seconds": 1.36,
+          "end_seconds": 195.54001,
+          "evidence": "الفعل المجرد ثلاثي أو رباعي، والمزيد الثلاثي يبلغ ستة أحرف والرباعي يزاد بحرف أو حرفين.",
+          "span_key": "verb_aug"
+        },
+        {
+          "lesson_id": "003-3",
+          "start_seconds": 195.54001,
+          "end_seconds": 1607.105,
+          "evidence": "المشتق مأخوذ من غيره مع مناسبة في اللفظ والمعنى، والجامد غير مأخوذ بهذه الطريقة.",
+          "span_key": "derivation"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.pdf"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt",
+          "anchor_ocr": "مقدمة في المجرد والمزيد",
+          "assertion_ar": "المجرد كل حروفه أصول، والمزيد يشتمل على حرف زيادة.",
+          "text_line": 109,
+          "pdf_page": 6,
+          "excerpt": "‫مقدمة في المجرد والمزيد‬ ‫تنقسـ كؿّّ ِمف األسماء المتمكنة‪ ،‬واألفعاؿ المتصرفة إلى مجرد ومزيد‪.‬‬ ‫فالمجرد‪ :‬ما كانت ُّ‬ ‫كؿ حروفو أصوال‪.‬‬ ‫و المزيد‪ :‬ما كاف فيو أحد حروؼ الزيادة العشرة التي تجمعيا كممة (سألتمونييا)‪.‬‬"
+        },
+        {
+          "status": "absent_in_local_canonical",
+          "topic": "الجمود والاشتقاق",
+          "reason": "لم يعثر على فصل مستقل للجمود والاشتقاق في النسخة المحلية؛ اعتمد الشرح الصوتي الموثق.",
+          "supporting_basis": "localized transcript spans declared in audio_spans"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/moulakhas-sarfi/verification-ledger.json",
+        "module_index": 2
+      }
+    },
+    {
+      "id": "moulakhas-sarfi-module-03-الإعلال-أنواعه-وقواعد-القلب",
+      "title": "الإعلال: أنواعه وقواعد القلب",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {
+          "lesson_id": "004-4",
+          "start_seconds": 2.1599998,
+          "end_seconds": 2538.2092,
+          "evidence": "الإعلال تغيير يطرأ على الألف والواو والياء بالقلب أو النقل أو الحذف طلبا للخفة.",
+          "span_key": "ilal_intro"
+        },
+        {
+          "lesson_id": "005-5",
+          "start_seconds": 0.32,
+          "end_seconds": 2470.595,
+          "evidence": "تقلب الواو ياء إذا سكنت بعد كسرة، وتقلب الواو المتطرفة ياء بعد كسرة، وتقلب الواو أو الياء همزة بعد ألف زائدة في الطرف.",
+          "span_key": "ilal_rules"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.pdf"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt",
+          "anchor_ocr": "واإلعالؿ‪ :‬ىو تغيير يحدث في حروؼ العمة",
+          "assertion_ar": "الإعلال تغيير في حروف العلة بالقلب أو التسكين أو الحذف.",
+          "text_line": 188,
+          "pdf_page": 10,
+          "excerpt": "‫اإلعالؿ‬ ‫واإلعالؿ‪ :‬ىو تغيير يحدث في حروؼ العمة بقمبيا‪ ،‬أو تسكينيا‪ ،‬أو حذفيا‪.‬‬ ‫حروؼ العمة التي يحدث فييا اإلعالؿ ثالثة‪( :‬األلؼ‪ -‬الواو‪ -‬الياء) وتشترؾ اليمزة مع ىذه‬ ‫الحروؼ في بعض المواضع‪.‬‬ ‫فائدة‪ :‬األلؼ ال تكوف أصالً أبداً فيي إما زائدة‪ ،‬واما منقمبة عف أصؿ‪.‬‬ ‫فمثاؿ الزائدة‪( :‬كتاب‪ -‬كاتب‪ -‬رجاؿ)‪.‬‬"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/moulakhas-sarfi/verification-ledger.json",
+        "module_index": 3
+      }
+    },
+    {
+      "id": "moulakhas-sarfi-module-04-الإبدال-والإدغام-في-افتعل",
+      "title": "الإبدال والإدغام في افتعل",
+      "estimated_study_minutes": 23,
+      "audio_spans": [
+        {
+          "lesson_id": "006-6",
+          "start_seconds": 0.56,
+          "end_seconds": 1557.3817,
+          "evidence": "تبدل تاء افتعل طاء بعد حروف الإطباق، ودالا بعد الدال والذال والزاي، وقد يتلو ذلك إدغام.",
+          "span_key": "ibdal"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.pdf"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt",
+          "anchor_ocr": "بعض مواضع اإلبداؿ",
+          "assertion_ar": "تبدل تاء افتعل بحسب فاء الكلمة للمناسبة في النطق.",
+          "text_line": 152,
+          "pdf_page": 8,
+          "excerpt": "‫اإلبداؿ‪ :‬ىو تغيير حرؼ بحرؼ َ‬ ‫بعض مواضع اإلبداؿ‪:‬‬ ‫‪-1‬إذا كانت فاء (افْتَ َعؿ) وما تصرؼ منيا‪( :‬صادا‪ -‬ضادا‪ -‬طاء‪ -‬ظاء)‪ ،‬تقمب (تاء) (افتعؿ)‬ ‫ِ ِ‬ ‫ب ما قبميا‪.‬‬ ‫(طاء) لتُناس َ‬"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/moulakhas-sarfi/verification-ledger.json",
+        "module_index": 4
+      }
+    },
+    {
+      "id": "moulakhas-sarfi-module-05-الميزان-الصرفي",
+      "title": "الميزان الصرفي",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {
+          "lesson_id": "007-7",
+          "start_seconds": 0.32,
+          "end_seconds": 2171.3323,
+          "evidence": "تقابل الأصول بالفاء والعين واللام، وتثبت الزوائد في مواضعها ليظهر الأصل والزيادة والحركة والحذف.",
+          "span_key": "mizan"
+        },
+        {
+          "lesson_id": "008-8",
+          "start_seconds": 0.16,
+          "end_seconds": 450.37,
+          "evidence": "يوزن الإعلال بالقلب والنقل بحسب الأصل، والإبدال بحسب الأصل والحال، والقلب المكاني بحسب الصورة الجديدة.",
+          "span_key": "mizan_changes"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.pdf"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt",
+          "anchor_ocr": "مقدمة في الميزاف الصرفي",
+          "assertion_ar": "الميزان يبين الحركات والسكنات والأصول والزوائد والتقديم والتأخير والحذف.",
+          "text_line": 296,
+          "pdf_page": 13,
+          "excerpt": "‫مقدمة في الميزاف الصرفي‬ ‫الميزاف الصرفي‪ ،‬ويسمى كذلؾ‪ :‬التمثيؿ‪ ،‬يعرّْ فو عمماء الصرؼ بأنو‪ :‬لفظ ُيؤتى بو لبياف‬ ‫أحواؿ أبنية الكمـ في ثمانية أمور‪( :‬الحركات‪ ،‬والسكنات واألصوؿ‪ ،‬والزوائد‪ ،‬والتقديـ‪ ،‬والتأخير‪،‬‬ ‫والحذؼ‪ ،‬وعدمو)‪.‬‬ ‫وقد اختار الصرفيوف ىذا المفظ الذي يوزف بو‪ ،‬ثالثي األصؿ‪ ،‬مكوناً مف‪ :‬الفاء‪ ،‬والعيف‪،‬‬"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/moulakhas-sarfi/verification-ledger.json",
+        "module_index": 5
+      }
+    },
+    {
+      "id": "moulakhas-sarfi-module-06-التذكير-والتأنيث",
+      "title": "التذكير والتأنيث",
+      "estimated_study_minutes": 21,
+      "audio_spans": [
+        {
+          "lesson_id": "008-8",
+          "start_seconds": 450.37,
+          "end_seconds": 2069.335,
+          "evidence": "علامات التأنيث هي التاء المربوطة وألف التأنيث المقصورة والممدودة، وقد يكون التأنيث معنويا بلا علامة.",
+          "span_key": "gender_intro"
+        },
+        {
+          "lesson_id": "009-9",
+          "start_seconds": 2.08,
+          "end_seconds": 1164.14,
+          "evidence": "المؤنث لفظي ومعنوي، أو معنوي فقط، أو لفظي فقط؛ والعبرة باجتماع الدلالة والعلامة أو افتراقهما.",
+          "span_key": "gender_types"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.pdf"
+      ],
+      "canonical_citations": [
+        {
+          "status": "absent_in_local_canonical",
+          "topic": "التذكير والتأنيث",
+          "reason": "لا يوجد فصل مستقل للتذكير والتأنيث في TXT/PDF المحلي؛ الدليل هنا transcript فقط.",
+          "supporting_basis": "localized transcript spans declared in audio_spans"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/moulakhas-sarfi/verification-ledger.json",
+        "module_index": 6
+      }
+    },
+    {
+      "id": "moulakhas-sarfi-module-07-المقصور-والمنقوص-والممدود",
+      "title": "المقصور والمنقوص والممدود",
+      "estimated_study_minutes": 20,
+      "audio_spans": [
+        {
+          "lesson_id": "010-10",
+          "start_seconds": 0.08,
+          "end_seconds": 195.575,
+          "evidence": "الممدود اسم معرب آخره همزة قبلها ألف زائدة، والصحيح ما سلم آخره من نهايات المقصور والمنقوص والممدود.",
+          "span_key": "endings"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.pdf"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt",
+          "anchor_ocr": "المقصور والمنقوص والممدود",
+          "assertion_ar": "المقصور آخره ألف لازمة، والمنقوص ياء لازمة قبلها كسرة، والممدود همزة بعد ألف زائدة.",
+          "text_line": 919,
+          "pdf_page": 30,
+          "excerpt": "‫المقصور والمنقوص والممدود‬ ‫تعريؼ المقصور‪- :‬‬ ‫المقصور ىو االسـ المعرب الذي في آخره ألؼ الزمة‪ ،‬مثؿ‪( :‬اليدى والمصطفي والفتى)‪،‬‬ ‫ويخرج باالسـ مثؿ‪( :‬دعا) و(إلى)‪ ،‬وبالمعرب مثؿ‪( :‬أنا) و(ىذا)‪ ،‬وبمزوـ األلؼ مثؿ قولؾ‪( :‬رأيت أبا‬"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/moulakhas-sarfi/verification-ledger.json",
+        "module_index": 7
+      }
+    },
+    {
+      "id": "moulakhas-sarfi-module-08-تثنية-الأسماء",
+      "title": "تثنية الأسماء",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {
+          "lesson_id": "010-10",
+          "start_seconds": 195.575,
+          "end_seconds": 2641.285,
+          "evidence": "يشترط في المثنى أن يكون مفردا معربا غير مركب تركيبا إسناديا، له ثان في الوجود، ومتفقا معه في اللفظ والمعنى.",
+          "span_key": "dual_conditions"
+        },
+        {
+          "lesson_id": "011-11",
+          "start_seconds": 0.48,
+          "end_seconds": 626.005,
+          "evidence": "يرد المقصور الثلاثي إلى أصل ألفه، ويحذف من المنقوص ما حذف في المفرد ثم يرد، وتعالج همزة الممدود بحسب أصلها.",
+          "span_key": "dual_forms"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.pdf"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt",
+          "anchor_ocr": "أوالً‪ - :‬التثنية",
+          "assertion_ar": "تزاد علامة التثنية مع رد ياء المنقوص وأصل ألف المقصور ومعالجة همزة الممدود.",
+          "text_line": 939,
+          "pdf_page": 30,
+          "excerpt": "‫تثنية االسـ وجمعو‬ ‫أوالً‪ - :‬التثنية‬ ‫في التثنية تزاد في آخر االسـ ألؼ ونوف في الرفع‪ ،‬وياء ونوف في النصب والجر‪.‬‬ ‫الصحيح‪ :‬ال تغيير في مفرده مثؿ‪( :‬رجالف و كتاباف)‪.‬‬"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/moulakhas-sarfi/verification-ledger.json",
+        "module_index": 8
+      }
+    },
+    {
+      "id": "moulakhas-sarfi-module-09-جمع-المذكر-السالم",
+      "title": "جمع المذكر السالم",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "011-11",
+          "start_seconds": 626.005,
+          "end_seconds": 2020.695,
+          "evidence": "يشترط فوق شروط التثنية أن يكون الاسم علما لمذكر عاقل أو صفة مستوفية القيود.",
+          "span_key": "masc_plural_intro"
+        },
+        {
+          "lesson_id": "012-12",
+          "start_seconds": 1.52,
+          "end_seconds": 1356.7999,
+          "evidence": "لا تجمع الصفة جمع مذكر سالما إذا كانت لمؤنث أو لغير عاقل أو على أفعل فعلاء أو فعلان فعلى أو مما يستوي فيه الجنسان.",
+          "span_key": "masc_plural"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.pdf"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt",
+          "anchor_ocr": "ثانيا‪ :‬جمع المذكر",
+          "assertion_ar": "يزاد الواو والنون أو الياء والنون مع معالجة المقصور والمنقوص والممدود.",
+          "text_line": 965,
+          "pdf_page": 31,
+          "excerpt": "‫ثانيا‪ :‬جمع المذكر‬ ‫الصحيح‪ :‬تزاد فيو واو ونوف في الرفع‪ ،‬وياء ونوف في النصب والجر بال تغيير‪ ،‬مثؿ‪( :‬مسمموف‬ ‫ومسمميف)‪.‬‬"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/moulakhas-sarfi/verification-ledger.json",
+        "module_index": 9
+      }
+    },
+    {
+      "id": "moulakhas-sarfi-module-10-جمع-المؤنث-السالم",
+      "title": "جمع المؤنث السالم",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {
+          "lesson_id": "012-12",
+          "start_seconds": 1356.7999,
+          "end_seconds": 1634.61,
+          "evidence": "يجمع بالألف والتاء المختوم بتاء التأنيث، والعلم المؤنث، والمختوم بألف التأنيث، وصفة غير العاقل، وما سمع.",
+          "span_key": "fem_plural_intro"
+        },
+        {
+          "lesson_id": "013-13",
+          "start_seconds": 0.24,
+          "end_seconds": 1573.017,
+          "evidence": "تحذف تاء التأنيث المربوطة ثم تزاد الألف والتاء، وتعالج ألفا التأنيث وهمزة الممدود بحسب الأصل.",
+          "span_key": "fem_plural"
+        },
+        {
+          "lesson_id": "014-14",
+          "start_seconds": 21.355,
+          "end_seconds": 1272.585,
+          "evidence": "يجوز في عين الاسم الثلاثي المؤنث الساكنة الفتح والتسكين والإتباع إذا استوفت الشروط، وتلزم السلامة عند فقدها.",
+          "span_key": "fem_plural_forms"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.pdf"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt",
+          "anchor_ocr": "ثالثاً‪ :‬جمع المؤنث",
+          "assertion_ar": "تزاد الألف والتاء وتحذف تاء التأنيث من المفرد.",
+          "text_line": 988,
+          "pdf_page": 31,
+          "excerpt": "‫حذاء)‪( :‬حذاءوف) أو (حذاووف)‪.‬‬ ‫ثالثاً‪ :‬جمع المؤنث‬ ‫تزاد فيو األلؼ والتاء‪ ،‬وتحذؼ تاء التأنيث مف االسـ إف كانت موجودة‪ ،‬مثؿ‪( :‬زينب وزينبات)‪،‬‬ ‫و(شجرة وشجرات)‪ ،‬و(بقرة وبقرات)‪.‬‬ ‫واف كاف االسـ مقصورا أو منقوصا أو ممدوداً عومؿ معاممتو في التثنية‪.‬‬"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/moulakhas-sarfi/verification-ledger.json",
+        "module_index": 10
+      }
+    },
+    {
+      "id": "moulakhas-sarfi-module-11-خريطة-المشتقات-وصياغة-اسم-الفاعل",
+      "title": "خريطة المشتقات وصياغة اسم الفاعل",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {
+          "lesson_id": "014-14",
+          "start_seconds": 1272.585,
+          "end_seconds": 2252.165,
+          "evidence": "المشتقات الوصفية تعمل عمل الفعل وتستعمل صفات، وغير الوصفية أسماء زمان ومكان وآلة لا تعمل هذا العمل.",
+          "span_key": "derivatives_map"
+        },
+        {
+          "lesson_id": "015-15",
+          "start_seconds": 60.84,
+          "end_seconds": 515.395,
+          "evidence": "اسم الفاعل يدل على الحدث وصاحبه، ويصاغ من الثلاثي على فاعل ومن غيره من المضارع بميم مضمومة وكسر ما قبل الآخر.",
+          "span_key": "active_participle"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.pdf"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt",
+          "anchor_ocr": "أ‪ -‬اسـ الفاعؿ",
+          "assertion_ar": "اسم الفاعل يدل على الحدث وفاعله ويصاغ من الثلاثي على فاعل.",
+          "text_line": 1123,
+          "pdf_page": 35,
+          "excerpt": "‫أ‪ -‬اسـ الفاعؿ‬ ‫ؼ مشتؽ لمداللة عمى الحدث وفاعمو‪.‬‬ ‫وص ٌ‬ ‫‪ ‬اسـ الفاعؿ ىو ْ‬ ‫كما في قولو تعالى‪َِٚ{ :‬ايهَاظُٔٔنيَ ِايَػِ‪ٝ‬غَ َ‪ِٚ‬ايعَأفنيَ َعِٔ ايٖٓاظِ َ‪ٚ‬اَّيًُُ٘‪ٜ‬شٔبٗ ِايُشِضٔٔٓنيَ} وقولو عز وجؿ‪:‬‬"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/moulakhas-sarfi/verification-ledger.json",
+        "module_index": 11
+      }
+    },
+    {
+      "id": "moulakhas-sarfi-module-12-اسم-الفاعل-العمل-والشروط",
+      "title": "اسم الفاعل: العمل والشروط",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {
+          "lesson_id": "016-16",
+          "start_seconds": 0.88,
+          "end_seconds": 997.43,
+          "evidence": "اسم الفاعل يعمل عمل المبني للمعلوم؛ فيرفع فاعلا وينصب مفعوله إن كان فعله متعديا.",
+          "span_key": "active_work"
+        },
+        {
+          "lesson_id": "017-17",
+          "start_seconds": 63.5,
+          "end_seconds": 2349.999,
+          "evidence": "المعرف بأل يعمل بلا شرط، والمجرد منها يعمل للحال أو الاستقبال إذا اعتمد على نفي أو استفهام أو مبتدأ أو موصوف.",
+          "span_key": "active_conditions"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.pdf"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt",
+          "anchor_ocr": "اسـ الفاعؿ إف كانت فيو (أؿ)",
+          "assertion_ar": "اسم الفاعل المعرف بأل يعمل بلا شرط، والمجرد يعمل بشروط الزمن والاعتماد.",
+          "text_line": 1186,
+          "pdf_page": 36,
+          "excerpt": "‫ايعَّأيَِأًَُِٖٗا} رفع ُ‬ ‫‪ ‬واسـ الفاعؿ إف كانت فيو (أؿ) عمِ ؿ َع َم َؿ فعمو دائما بال قيد وال شرط‪.‬‬ ‫كما في المثاليف السابقيف‪ ،‬وكذا في قولو تعالى‪َ{ :‬فَ‪ٌِْٜٔٛ‬يًِكَاصَٔ‪ُ١ٔٝ‬قًُ‪ُٛ‬بُِٗ}‪.‬‬ ‫‪ ‬أما إذا لـ يكف فيو (أؿ) فإنو ال يعمؿ عمؿ فعمو إال بشرطيف‪:‬‬ ‫يصح‬ ‫المضي لـ يعمؿ؛ فال‬"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/moulakhas-sarfi/verification-ledger.json",
+        "module_index": 12
+      }
+    },
+    {
+      "id": "moulakhas-sarfi-module-13-صيغ-المبالغة",
+      "title": "صيغ المبالغة",
+      "estimated_study_minutes": 21,
+      "audio_spans": [
+        {
+          "lesson_id": "018-18",
+          "start_seconds": 1.1999999,
+          "end_seconds": 1881.4299,
+          "evidence": "صيغة المبالغة تدل على الحدث وصاحبه مع كثرة الوقوع، ومن أوزانها فعال ومفعال وفعول وفعيل وفعل.",
+          "span_key": "intensive"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.pdf"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt",
+          "anchor_ocr": "ب‪ -‬صيغ المبالغة",
+          "assertion_ar": "صيغ المبالغة تدل على الحدث وفاعله مع التكثير، ولها أوزان مشهورة.",
+          "text_line": 1241,
+          "pdf_page": 39,
+          "excerpt": "‫ب‪ -‬صيغ المبالغة‬ ‫صيغة المبالغة ىي وصؼ مشتؽ يدؿ عمى الحدث وفاعمو‪ ،‬أو مف اتصؼ بو‪ ،‬تماما كما يدؿ‬ ‫اسـ الفاعؿ‪ ،‬غير أنيا تزيد عميو في أنيا تدؿ عمى نوع مف المبالغة والتكثير‪ ،‬وذلؾ في مثؿ قولنا‪:‬‬ ‫شكور ربو عمى نِ َع ِمو) وقولنا‪( :‬الكريـ‬ ‫(المؤمف‬"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/moulakhas-sarfi/verification-ledger.json",
+        "module_index": 13
+      }
+    },
+    {
+      "id": "moulakhas-sarfi-module-14-اسم-المفعول",
+      "title": "اسم المفعول",
+      "estimated_study_minutes": 23,
+      "audio_spans": [
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 35.6,
+          "end_seconds": 3206.5168,
+          "evidence": "اسم المفعول يدل على من وقع عليه الحدث، ويصاغ من الثلاثي على مفعول ومن غيره بفتح ما قبل الآخر، ويعمل عمل المبني للمجهول.",
+          "span_key": "passive_participle"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.pdf"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt",
+          "anchor_ocr": "جػ‪ -‬اسـ المفعوؿ",
+          "assertion_ar": "اسم المفعول يدل على من وقع عليه الحدث ويصاغ من الثلاثي على مفعول.",
+          "text_line": 1280,
+          "pdf_page": 40,
+          "excerpt": "‫جػ‪ -‬اسـ المفعوؿ‬ ‫اسـ المفعوؿ وصؼ مشتؽ يدؿ عمى الحدث و مف وقع عميو الحدث المفيوـ مف الكممة‪ ،‬كما‬ ‫في قولو تعالى‪ِٖ{ :‬إَُْا ايصٖدَقَاتُٔيًُِفَكزَأ‪َِٚ ٤‬ايَُضَأننيِ َ‪ِٚ‬ايعَأًَٔنيَ َعًَِ‪َٗٝ‬ا َ‪ِٚ‬ايَُؤَّيَفٔ‪ُ١‬قًُ‪ُٛ‬بُِٗ َ‪ٚ‬فٔ‪ ٞ‬ايزِّقَابٔ َ‪ِٚ‬ايػَارَِٔنيَ َ‪ٚ‬فٔ‪ ٞ‬صَبٔ‪ٌِٝ‬‬ ‫اَّئً٘ ‪َٚ‬اِبِٔ ايضٖبٔ‪ ،}ٌِٝ‬وقولو عز وجؿ‪ََٚ{ :‬قاَيتِٔايَ‪ُُٛٗٝ‬دَ‪ٜ‬دُ اَّئً٘ َِػًُ‪َٛ‬يْ‪ ١‬غًَُّتَِِأ‪ٜ‬دٔ‪َُٚ ِِٜٗ‬ئعُٓ‪ٛ‬أبَُاَقايُ‪ٛ‬ا}‪.‬‬"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/moulakhas-sarfi/verification-ledger.json",
+        "module_index": 14
+      }
+    },
+    {
+      "id": "moulakhas-sarfi-module-15-الصفة-المشبهة",
+      "title": "الصفة المشبهة",
+      "estimated_study_minutes": 20,
+      "audio_spans": [
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 0.96,
+          "end_seconds": 3363.5574,
+          "evidence": "الصفة المشبهة مشتقة غالبا من اللازم وتدل على ثبوت الصفة وملازمتها، بخلاف اسم الفاعل الدال على التجدد.",
+          "span_key": "adjective"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.pdf"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt",
+          "anchor_ocr": "د‪-‬الصفة المشبية",
+          "assertion_ar": "الصفة المشبهة تدل على اتصاف ثابت لا حادث متجدد.",
+          "text_line": 1349,
+          "pdf_page": 42,
+          "excerpt": "‫د‪-‬الصفة المشبية‬ ‫المشبية ىي‪ :‬وصؼ مشتؽ لمداللة عمى الحدث‪ ،‬ومػف اتصػؼ بػو اتصػافا الزمػا ثابتػا‪،‬‬ ‫الصفة ُ‬ ‫ال حادثا متجددا‪.‬‬ ‫إمػػا أف تكػػوف عمػػى وزف (فَ ِعػػؿَ )‪ ،‬وامػػا أف‬"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/moulakhas-sarfi/verification-ledger.json",
+        "module_index": 15
+      }
+    },
+    {
+      "id": "moulakhas-sarfi-module-16-اسم-التفضيل-الشروط-والصياغة",
+      "title": "اسم التفضيل: الشروط والصياغة",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "021-21",
+          "start_seconds": 1.68,
+          "end_seconds": 2921.855,
+          "evidence": "يصاغ أفعل التفضيل مباشرة من ثلاثي تام متصرف مثبت معلوم قابل للتفاوت ليس وصفه أفعل فعلاء.",
+          "span_key": "comparative_conditions"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.pdf"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt",
+          "anchor_ocr": "ىػ‪ -‬اسـ التفضيؿ",
+          "assertion_ar": "اسم التفضيل يصاغ على أفعل من فعل مستوف للشروط ويدل على زيادة أحد شيئين في صفة.",
+          "text_line": 1444,
+          "pdf_page": 45,
+          "excerpt": "‫ىػ‪ -‬اسـ التفضيؿ‬ ‫اسـ التفضيؿ ىو وصؼ مشتؽ يصاغ عمى وزف (أف َْعػؿ)‪ ،‬لمداللػة عمػى أف شػيئيف اشػتركا فػي‬ ‫صفة‪ ،‬وزاد أحدىما عمى اآلخر في ىذه الصفة‪.‬‬ ‫ت كممػة (أطػوؿ) عمػى أف النيػؿ والفػرات اشػتركا فػي‬ ‫فمو قمت مثال‪( :‬النيؿ أطػوؿ مػف الفػرات)‪ ،‬دلَّػ ْ‬"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/moulakhas-sarfi/verification-ledger.json",
+        "module_index": 16
+      }
+    },
+    {
+      "id": "moulakhas-sarfi-module-17-اسم-التفضيل-الصور-والعمل",
+      "title": "اسم التفضيل: الصور والعمل",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {
+          "lesson_id": "022-22",
+          "start_seconds": 0.16,
+          "end_seconds": 2331.8232,
+          "evidence": "لاسم التفضيل أربع صور: مجرد من أل والإضافة، ومضاف لنكرة، ومضاف لمعرفة، ومعرف بأل؛ ولكل صورة حكم في المطابقة.",
+          "span_key": "comparative_forms"
+        },
+        {
+          "lesson_id": "023-23",
+          "start_seconds": 0.56,
+          "end_seconds": 1224.275,
+          "evidence": "يرفع اسم التفضيل ضميرا مستترا غالبا، ويجوز ظهور فاعله في تركيب مسألة الكحل المتفق عليه.",
+          "span_key": "comparative_work"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.pdf"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt",
+          "anchor_ocr": "والسـ التفضيؿ في االستعماؿ أربع حاالت",
+          "assertion_ar": "لاسم التفضيل أربع حالات بحسب أل والإضافة وتختلف أحكام المطابقة.",
+          "text_line": 1479,
+          "pdf_page": 46,
+          "excerpt": "‫لمشروط‪ ،‬وجئنا بعده بمصدر الفعؿ الذي معنا مؤوال ال غير‪ ،‬مثؿ ّ‬ ‫والسـ التفضيؿ في االستعماؿ أربع حاالت‪- :‬‬ ‫‪-1‬أف يكوف مجردا مف (أؿ) واإلضافة‪.‬‬ ‫ويجب فيو اإلفراد والتذكير ويؤتَى بعده بػ مِ ْف جارةً لممفضػؿ عميػو‪ ،‬كمػا فػي قولػو تعػالى‪{ :‬إً قياي‪ٛ‬ا‬ ‫ي‪ٛٝ‬صف ‪ٚ‬أخ‪ ٙٛ‬أسب إىل أب‪ٓٝ‬ا َٓا} وقولو سبحانو وتعالى‪ ِٖ{ :‬يًهفز ‪ٜ‬ؤَ‪٦‬ذ أقزب َِٓٗ يإلميإ} وقولو عػز وجػؿ‪{ :‬فكياٍ‬ ‫يصاسب٘ ‪ ٖٛٚ‬حيا‪ٚ‬ر‪ ٙ‬أْا أنجز َٓو َاال ‪ٚ‬أعش ْفزا} وقولو سػبحانو‪{ :‬ألْتِ أعد رٖبي‪ ١‬صيد‪ٚ‬رِٖ َئ ا }‪ ،‬وأحيانػا تحػذؼ‬"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/moulakhas-sarfi/verification-ledger.json",
+        "module_index": 17
+      }
+    },
+    {
+      "id": "moulakhas-sarfi-module-18-اسما-الزمان-والمكان",
+      "title": "اسما الزمان والمكان",
+      "estimated_study_minutes": 21,
+      "audio_spans": [
+        {
+          "lesson_id": "023-23",
+          "start_seconds": 1224.275,
+          "end_seconds": 2959.415,
+          "evidence": "يصاغ اسما الزمان والمكان من الثلاثي على مفعل أو مفعل بحسب حركة المضارع والاعتلال، ومن غير الثلاثي على صورة اسم المفعول.",
+          "span_key": "time_place"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.pdf"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt",
+          "anchor_ocr": "و‪-‬اسما الزماف و المكاف",
+          "assertion_ar": "اسما الزمان والمكان مشتقان للدلالة على زمان الفعل ومكانه.",
+          "text_line": 1522,
+          "pdf_page": 48,
+          "excerpt": "‫و‪-‬اسما الزماف و المكاف‬ ‫اسـ الزماف واسـ المكاف اسماف مشتقاف مف الفعؿ لمداللة عمى زمانو ومكانو‪.‬‬ ‫فعؿ) بفتح العيف في حالتيف‪- :‬‬ ‫(م َ‬ ‫*‪ -‬ويصاغاف مف الفعؿ الثالثي عمى وزف َ‬"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/moulakhas-sarfi/verification-ledger.json",
+        "module_index": 18
+      }
+    },
+    {
+      "id": "moulakhas-sarfi-module-19-اسم-الآلة",
+      "title": "اسم الآلة",
+      "estimated_study_minutes": 19,
+      "audio_spans": [
+        {
+          "lesson_id": "024-24",
+          "start_seconds": 0.16,
+          "end_seconds": 579.99,
+          "evidence": "اسم الآلة يدل على الأداة، ومن أوزانه القياسية مفعل ومفعال ومفعلة، وما عداها قد يكون سماعيا.",
+          "span_key": "instrument"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.pdf"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt",
+          "anchor_ocr": "ز‪ -‬اسـ اآللة",
+          "assertion_ar": "اسم الآلة يدل على ما وقع الفعل بواسطته وله أوزان قياسية.",
+          "text_line": 1554,
+          "pdf_page": 49,
+          "excerpt": "‫وفي النياية نشير إلى أف أسماء الزماف والمكاف ال تعمؿ‪.‬‬ ‫ز‪ -‬اسـ اآللة‬ ‫اسـ اآللة‪ :‬ىو اسـ مشتؽ لمداللة عمى ما وقع الفعؿ بواسطتو‪ ،‬مف اآلالت المختمفة‪.‬‬ ‫ويصاغ اسـ اآللة في المغة العربية مف األفعاؿ الثالثية المتعدية‪ ،‬وأوزانو القياسية ىي‪:‬‬ ‫(مفع ػاؿ) مثػؿ قولنػا‪ :‬الفػالح يحػرث أرضػو ب ِ‬ ‫‪ -1‬وزف ِ‬"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/moulakhas-sarfi/verification-ledger.json",
+        "module_index": 19
+      }
+    },
+    {
+      "id": "moulakhas-sarfi-module-20-التصغير-معناه-وأوزانه",
+      "title": "التصغير: معناه وأوزانه",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "024-24",
+          "start_seconds": 606.48,
+          "end_seconds": 2831.07,
+          "evidence": "التصغير تغيير بنية الاسم إلى فعيل أو فعيعل أو فعيعيل لغرض التقليل أو التحبيب أو التحقير أو تقريب الزمان والمكان.",
+          "span_key": "diminutive_intro"
+        },
+        {
+          "lesson_id": "025-25",
+          "start_seconds": 0.39999998,
+          "end_seconds": 3096.58,
+          "evidence": "الثلاثي يصغر على فعيل، ويلحق به ما زيدت فيه علامة لا تؤثر كتاء التأنيث وألفي التأنيث في مواضعها.",
+          "span_key": "diminutive_forms"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.pdf"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt",
+          "anchor_ocr": "التصغير",
+          "assertion_ar": "التصغير بناء اسمي له شروط وأوزان وأغراض دلالية.",
+          "text_line": 1920,
+          "pdf_page": 60,
+          "excerpt": "‫التصغير‬ ‫شروطو‪- :‬‬ ‫‪-1‬‬ ‫أف يكوف اسما‪ ،‬فالفعؿ والحرؼ ال ُي َّ‬"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/moulakhas-sarfi/verification-ledger.json",
+        "module_index": 20
+      }
+    },
+    {
+      "id": "moulakhas-sarfi-module-21-التصغير-الزوائد-ورد-المحذوف",
+      "title": "التصغير: الزوائد ورد المحذوف",
+      "estimated_study_minutes": 23,
+      "audio_spans": [
+        {
+          "lesson_id": "026-26",
+          "start_seconds": 20.255001,
+          "end_seconds": 2176.595,
+          "evidence": "الرباعي يصغر على فعيعل، وما زاد يحذف منه ما لا يخل بالبنية أو يرد المحذوف إلى أصله بحسب القاعدة.",
+          "span_key": "diminutive_more"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.pdf"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt",
+          "anchor_ocr": "تصغير ما حذؼ أحد أصولو",
+          "assertion_ar": "يرد المحذوف أو يبقى بحسب عدد الأصول الباقية وقاعدة التصغير.",
+          "text_line": 2066,
+          "pdf_page": 64,
+          "excerpt": "‫تصغير ما حذؼ أحد أصولو‪- :‬‬ ‫صػو عمػى‬ ‫وال يخمو مف أف يكوف ما تبقى منو عمى ثالثة أحرؼ أو أقؿ ولكؿ مف األمػريف حكػـ ُ‬ ‫يخ ّ‬"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/moulakhas-sarfi/verification-ledger.json",
+        "module_index": 21
+      }
+    },
+    {
+      "id": "moulakhas-sarfi-module-22-النسب",
+      "title": "النسب",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {
+          "lesson_id": "026-26",
+          "start_seconds": 2176.595,
+          "end_seconds": 2726.7,
+          "evidence": "النسب إلحاق ياء مشددة بآخر الاسم مع كسر ما قبلها للدلالة على نسبة شيء إلى شيء.",
+          "span_key": "nisba_intro"
+        },
+        {
+          "lesson_id": "027-27",
+          "start_seconds": 9.92,
+          "end_seconds": 2845.0552,
+          "evidence": "تحذف التاء المربوطة عند النسب، وتعالج الياء المشددة والألف المقصورة والممدودة بحسب عدد الحروف وأصل الآخر.",
+          "span_key": "nisba"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.pdf"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt",
+          "anchor_ocr": "تعريف ػو‪- :‬النس ػب",
+          "assertion_ar": "النسب زيادة ياء مشددة في آخر المنسوب إليه مع كسر ما قبلها.",
+          "text_line": 2159,
+          "pdf_page": 67,
+          "excerpt": "‫النسب‬ ‫تعريف ػو‪- :‬النس ػب ى ػو زي ػادة ي ػاء مش ػددة ف ػي آخ ػر المنس ػوب إلي ػو مكس ٍ‬ ‫ي‬ ‫ػور م ػا قبمي ػا‪ ،‬مث ػؿ مص ػر ّ‬ ‫ويحذؼ ليذه الياء ستة أشياء في اآلخػر‪ ،‬وسػتة أخػرى قبػؿ اآلخػر متصػمة بػو‬ ‫اقي‬"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/moulakhas-sarfi/verification-ledger.json",
+        "module_index": 22
+      }
+    },
+    {
+      "id": "moulakhas-sarfi-module-23-التعدي-واللزوم-ووسائل-التعدية",
+      "title": "التعدي واللزوم ووسائل التعدية",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {
+          "lesson_id": "028-28",
+          "start_seconds": 21.585,
+          "end_seconds": 1257.3451,
+          "evidence": "الفعل المتعدي يصل إلى المفعول بنفسه، وقد يتعدى إلى مفعول أو اثنين أو ثلاثة بحسب بابه ومعناه.",
+          "span_key": "transitive"
+        },
+        {
+          "lesson_id": "029-29",
+          "start_seconds": 0.08,
+          "end_seconds": 2340.73,
+          "evidence": "اللازم لا يصل إلى المفعول بنفسه، ويعدى بحرف الجر أو الهمزة أو التضعيف أو التضمين حيث ثبت.",
+          "span_key": "intransitive"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.pdf"
+      ],
+      "canonical_citations": [
+        {
+          "status": "absent_in_local_canonical",
+          "topic": "التعدي واللزوم",
+          "reason": "لا يوجد فصل مستقل للتعدي واللزوم في TXT/PDF المحلي؛ اعتمد transcript الموثق.",
+          "supporting_basis": "localized transcript spans declared in audio_spans"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/moulakhas-sarfi/verification-ledger.json",
+        "module_index": 23
+      }
+    },
+    {
+      "id": "moulakhas-sarfi-module-24-البناء-للمعلوم-والمجهول",
+      "title": "البناء للمعلوم والمجهول",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "030-30",
+          "start_seconds": 0.48,
+          "end_seconds": 2563.6,
+          "evidence": "المعلوم على صورته الأصلية ويرفع فاعلا، والمجهول يغير ضبطه ويحذف فاعله ويرفع المفعول نائبا عنه.",
+          "span_key": "voice"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.pdf"
+      ],
+      "canonical_citations": [
+        {
+          "status": "absent_in_local_canonical",
+          "topic": "البناء للمعلوم والمجهول",
+          "reason": "الكتاب يذكر المبني للمجهول عرضا في المشتقات، ولا يقدم فصل القاعدة التي شرحها الصوت.",
+          "supporting_basis": "localized transcript spans declared in audio_spans"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/moulakhas-sarfi/verification-ledger.json",
+        "module_index": 24
+      }
+    },
+    {
+      "id": "moulakhas-sarfi-module-25-الصحيح-والمعتل-من-الأفعال",
+      "title": "الصحيح والمعتل من الأفعال",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "031-31",
+          "start_seconds": 0.64,
+          "end_seconds": 2242.855,
+          "evidence": "الصحيح تخلو أصوله من العلة وهو سالم أو مهموز أو مضعف، والمعتل في أصوله علة وهو مثال أو أجوف أو ناقص أو لفيف.",
+          "span_key": "sound_weak"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.pdf"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt",
+          "anchor_ocr": "الصحيح والمعتؿ مف األفعاؿ",
+          "assertion_ar": "الصحيح تخلو أصوله من حروف العلة، والمعتل يكون في أصوله حرف علة.",
+          "text_line": 405,
+          "pdf_page": 16,
+          "excerpt": "‫الصحيح والمعتؿ مف األفعاؿ‬ ‫تعريؼ الصحيح والمعتؿ‪:‬‬ ‫الصحيح ىو‪ :‬الذي لـ يكف أحد أصولو حرفًا مف حروؼ العمة‪ ،‬التي ىي الواو واأللؼ‬ ‫والياء (واى)‪ ،‬وذلؾ نحو‪ :‬خرج وضرب ونصر‪.‬‬ ‫حرؼ عمة‪ ،‬نحو‪( :‬وجد ‪ -‬خاؼ‪ -‬قضى)‬"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/moulakhas-sarfi/verification-ledger.json",
+        "module_index": 25
+      }
+    },
+    {
+      "id": "moulakhas-sarfi-module-26-إسناد-الصحيح-إلى-الضمائر",
+      "title": "إسناد الصحيح إلى الضمائر",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "032-32",
+          "start_seconds": 77.865,
+          "end_seconds": 3372.6523,
+          "evidence": "يبقى السالم والمهموز غالبا، ويفك إدغام المضعف مع ضمائر الرفع المتحركة، وتراعى حركات الوصل.",
+          "span_key": "attach_sound"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.pdf"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt",
+          "anchor_ocr": "إسناد األفعاؿ إلى الضمائر",
+          "assertion_ar": "السالم لا يتغير عند الإسناد، وتفصل أحكام المهموز والمضعف.",
+          "text_line": 454,
+          "pdf_page": 18,
+          "excerpt": "‫*إسناد األفعاؿ إلى الضمائر*‬ ‫أوالً‪ :‬السالـ‬ ‫السالـ ال يتغير عند إسناده إلى الضمائر مطمقا ماضياً كاف أو مضارعاً أو أمراً‪.‬‬ ‫ثانياً‪ :‬الميموز‬"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/moulakhas-sarfi/verification-ledger.json",
+        "module_index": 26
+      }
+    },
+    {
+      "id": "moulakhas-sarfi-module-27-إسناد-المثال-والأجوف",
+      "title": "إسناد المثال والأجوف",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "033-33",
+          "start_seconds": 0.0,
+          "end_seconds": 1798.545,
+          "evidence": "المثال اليائي يبقى، والمثال الواوي يحذف فاؤه في مضارع مخصوص، والأجوف يحذف عينه مع الضمير المتحرك وتدل الحركة على الأصل.",
+          "span_key": "attach_hollow"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.pdf"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt",
+          "anchor_ocr": "رابعا‪ :‬المثاؿ",
+          "assertion_ar": "المثال والأجوف يعالجان بالحذف أو الرد بحسب المضارع والضمير.",
+          "text_line": 515,
+          "pdf_page": 19,
+          "excerpt": "‫رابعا‪ :‬المثاؿ‬ ‫في الماضي‪ :‬ال يحذؼ منو شيء‪ ،‬فيو كالسالـ‪.‬‬ ‫والمضارع قسماف‪- :‬‬"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/moulakhas-sarfi/verification-ledger.json",
+        "module_index": 27
+      }
+    },
+    {
+      "id": "moulakhas-sarfi-module-28-إسناد-الناقص-واللفيف",
+      "title": "إسناد الناقص واللفيف",
+      "estimated_study_minutes": 23,
+      "audio_spans": [
+        {
+          "lesson_id": "034-34",
+          "start_seconds": 5.92,
+          "end_seconds": 2798.7917,
+          "evidence": "يرد حرف الناقص أو يحذف بحسب الزمن والضمير، ويعامل اللفيف مع مراعاة حرفي علته وموقعيهما.",
+          "span_key": "attach_defective"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.pdf"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt",
+          "anchor_ocr": "سادسا‪ :‬الناقص",
+          "assertion_ar": "الناقص يعالج آخره عند اتصاله بالضمائر بحسب أصل حرف العلة.",
+          "text_line": 570,
+          "pdf_page": 20,
+          "excerpt": "‫سادسا‪ :‬الناقص‬ ‫لمماضي الناقص‪ :‬ثالثة أحكاـ كما يمي‪- :‬‬ ‫طت و‬ ‫أع ْ‬"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/moulakhas-sarfi/verification-ledger.json",
+        "module_index": 28
+      }
+    },
+    {
+      "id": "moulakhas-sarfi-module-29-توكيد-الأفعال-بالنون",
+      "title": "توكيد الأفعال بالنون",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "035-35",
+          "start_seconds": 0.08,
+          "end_seconds": 2546.3699,
+          "evidence": "الماضي لا يؤكد قياسا، والأمر يجوز توكيده، والمضارع يمتنع أو يجوز أو يجب بحسب دلالته وسياقه.",
+          "span_key": "emphasis_rules"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.pdf"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt",
+          "anchor_ocr": "توكيد الفعؿ بالنوف",
+          "assertion_ar": "الماضي يمتنع توكيده، والأمر يجوز، والمضارع تفصل أحواله.",
+          "text_line": 732,
+          "pdf_page": 24,
+          "excerpt": "‫توكيد الفعؿ بالنوف‬ ‫أحكاـ توكيد الفعؿ بالنوف‪:‬‬ ‫أوال‪ :‬الفعؿ الماضي‪ :‬يمتنع توكيده بالنوف مطمقا‪.‬‬ ‫انصرفَّ المظموـ‪،‬‬"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/moulakhas-sarfi/verification-ledger.json",
+        "module_index": 29
+      }
+    },
+    {
+      "id": "moulakhas-sarfi-module-30-إسناد-نون-التوكيد",
+      "title": "إسناد نون التوكيد",
+      "estimated_study_minutes": 23,
+      "audio_spans": [
+        {
+          "lesson_id": "036-36",
+          "start_seconds": 0.0,
+          "end_seconds": 2313.8025,
+          "evidence": "تحذف علامة الرفع عند التوكيد، وتعالج حروف العلة وواو الجماعة وياء المخاطبة وألف الاثنين لمنع الثقل أو الالتقاء.",
+          "span_key": "emphasis_attach"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.pdf"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt",
+          "anchor_ocr": "كيفية التوكيد بالنوف",
+          "assertion_ar": "تتغير نهايات المضارع والأمر عند اتصال نون التوكيد بحسب الضمير والاعتلال.",
+          "text_line": 785,
+          "pdf_page": 25,
+          "excerpt": "‫كيفية التوكيد بالنوف‪- :‬‬ ‫عند توكيد الفعؿ المضارع أو األمر بالنوف ُيتبع ما يمي‪- :‬‬ ‫(‪ )1‬األفعاؿ التي تخمو مف النيايات (أي التي لـ يتصؿ بيا واو الجماعة أو ياء المخاطبة أو‬"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/moulakhas-sarfi/verification-ledger.json",
+        "module_index": 30
+      }
+    },
+    {
+      "id": "moulakhas-sarfi-module-31-أوزان-الأفعال-وصياغة-المضارع",
+      "title": "أوزان الأفعال وصياغة المضارع",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {
+          "lesson_id": "037-37",
+          "start_seconds": 0.39999998,
+          "end_seconds": 1698.41,
+          "evidence": "للمجرد الثلاثي ثلاثة أوزان في الماضي وستة أبواب مع المضارع سماعا، وللرباعي فعلل، وللمزيد أوزان بحسب عدد الحروف.",
+          "span_key": "verb_patterns"
+        },
+        {
+          "lesson_id": "038-38",
+          "start_seconds": 0.71999997,
+          "end_seconds": 1961.1,
+          "evidence": "يزاد حرف المضارعة وتحذف همزة الوصل، ويكسر ما قبل الآخر في غير الثلاثي، وتحذف همزة أفعل في مضارعه تخفيفا.",
+          "span_key": "derive_present"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.pdf"
+      ],
+      "canonical_citations": [
+        {
+          "status": "absent_in_local_canonical",
+          "topic": "أوزان الأفعال وصياغة المضارع",
+          "reason": "لا يوجد فصل جامع لهذه القاعدة في النسخة المحلية؛ اعتمد تسلسل الدرسين 37 و38.",
+          "supporting_basis": "localized transcript spans declared in audio_spans"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/moulakhas-sarfi/verification-ledger.json",
+        "module_index": 31
+      }
+    },
+    {
+      "id": "moulakhas-sarfi-module-32-معاني-الأوزان-المزيدة",
+      "title": "معاني الأوزان المزيدة",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {
+          "lesson_id": "039-39",
+          "start_seconds": 0.08,
+          "end_seconds": 2556.11,
+          "evidence": "تفيد الزيادة معاني منها التعدية والصيرورة والدخول والمشاركة والتكثير، ويعين السياق معنى الوزن.",
+          "span_key": "pattern_meanings_1"
+        },
+        {
+          "lesson_id": "040-40",
+          "start_seconds": 0.48,
+          "end_seconds": 725.12006,
+          "evidence": "يفيد استفعل الطلب حقيقة أو مجازا، وقد يفيد الصيرورة أو التشبيه أو حكاية القول بحسب الاستعمال.",
+          "span_key": "pattern_meanings_2"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.pdf"
+      ],
+      "canonical_citations": [
+        {
+          "status": "absent_in_local_canonical",
+          "topic": "معاني الأوزان المزيدة",
+          "reason": "لم يعثر على فصل معاني الأوزان في TXT/PDF المحلي؛ الدليل transcript فقط.",
+          "supporting_basis": "localized transcript spans declared in audio_spans"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/moulakhas-sarfi/verification-ledger.json",
+        "module_index": 32
+      }
+    },
+    {
+      "id": "moulakhas-sarfi-module-33-المصدر-واسم-المصدر-والمصدر-الميمي",
+      "title": "المصدر واسم المصدر والمصدر الميمي",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {
+          "lesson_id": "040-40",
+          "start_seconds": 725.12006,
+          "end_seconds": 2900.7249,
+          "evidence": "المصدر اسم للحدث المجرد، ويشتمل على حروف فعله أصالة أو تعويضا، ومصادر الثلاثي سماعية وغير الثلاثي قياسية.",
+          "span_key": "verbal_noun"
+        },
+        {
+          "lesson_id": "041-41",
+          "start_seconds": 0.79999995,
+          "end_seconds": 1775.63,
+          "evidence": "اسم المصدر يساوي المصدر معنى وينقص عن حروف فعله بلا عوض، والمصدر الميمي يبدأ بميـم زائدة ويدل على الحدث.",
+          "span_key": "source_names"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.pdf"
+      ],
+      "canonical_citations": [
+        {
+          "status": "absent_in_local_canonical",
+          "topic": "المصدر واسم المصدر والمصدر الميمي",
+          "reason": "لا يوجد فصل مستقل لهذه الأنواع في النسخة المحلية المتاحة.",
+          "supporting_basis": "localized transcript spans declared in audio_spans"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/moulakhas-sarfi/verification-ledger.json",
+        "module_index": 33
+      }
+    },
+    {
+      "id": "moulakhas-sarfi-module-34-مصدر-المرة-ومصدر-الهيئة",
+      "title": "مصدر المرة ومصدر الهيئة",
+      "estimated_study_minutes": 20,
+      "audio_spans": [
+        {
+          "lesson_id": "042-42",
+          "start_seconds": 0.24,
+          "end_seconds": 815.935,
+          "evidence": "مصدر المرة يدل على وقوع واحد ويصاغ من الثلاثي على فعلة، ومصدر الهيئة يدل على كيفية الوقوع ويصاغ على فعلة بالكسر.",
+          "span_key": "manner_once"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.pdf"
+      ],
+      "canonical_citations": [
+        {
+          "status": "absent_in_local_canonical",
+          "topic": "مصدر المرة ومصدر الهيئة",
+          "reason": "لا يوجد فصل مستقل لمصدري المرة والهيئة في TXT/PDF المحلي.",
+          "supporting_basis": "localized transcript spans declared in audio_spans"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/moulakhas-sarfi/verification-ledger.json",
+        "module_index": 34
+      }
+    },
+    {
+      "id": "moulakhas-sarfi-module-35-التعجب-الصيغ-والشروط",
+      "title": "التعجب: الصيغ والشروط",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {
+          "lesson_id": "042-42",
+          "start_seconds": 815.935,
+          "end_seconds": 1731.3634,
+          "evidence": "التعجب انفعال بسبب مزية، وله صيغتان قياسيتان: ما أفعله وأفعل به، ثم تبحث شروط الفعل.",
+          "span_key": "exclamation_forms"
+        },
+        {
+          "lesson_id": "043-43",
+          "start_seconds": 0.32,
+          "end_seconds": 726.0719,
+          "evidence": "يصاغ التعجب مباشرة من فعل مستوف للشروط، وغير المباشر بفعل مناسب ومصدر عند فقد شرط قابل للعلاج، ولا يصاغ من الجامد أو غير المتفاوت حقيقة.",
+          "span_key": "exclamation_conditions"
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.txt"
+      ],
+      "supporting_refs": [
+        "livres/pdf/moulakhas-sarfi/matn/tahdhib-muhadarat-fi-ilm-al-sarf.pdf"
+      ],
+      "canonical_citations": [
+        {
+          "status": "absent_in_local_canonical",
+          "topic": "التعجب",
+          "reason": "لا يوجد فصل التعجب في النسخة المحلية المتاحة؛ اعتمد الدرسان 42 و43.",
+          "supporting_basis": "localized transcript spans declared in audio_spans"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/moulakhas-sarfi/verification-ledger.json",
+        "module_index": 35
+      }
+    }
+  ],
+  "excluded_spans": []
+}

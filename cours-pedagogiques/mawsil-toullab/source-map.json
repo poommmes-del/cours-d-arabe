@@ -1,0 +1,448 @@
+{
+  "schema_version": 2,
+  "course_id": "mawsil-toullab",
+  "module_count_range": [30, 55],
+  "source_inventory": {
+    "canonical_available": true,
+    "canonical_paths": [
+      "livres/shamela/mawsil-toullab/matn/6973/book.md",
+      "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"
+    ],
+    "supporting_paths": [
+      "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md",
+      "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"
+    ],
+    "captured_course_complete": false
+  },
+  "scope_boundary": {
+    "last_lesson_id": "048-48",
+    "last_complete_topic": "لو وأوجهها الخمسة",
+    "announced_only": "قد في النوع السادس",
+    "not_captured": ["بقية النوع السادس", "النوع السابع", "النوع الثامن", "الباب الرابع"]
+  },
+  "modules": [
+    {
+      "id": "mawsil-toullab-module-01-منزلة-موصل-الطلاب-وخريطة-الكتاب",
+      "title": "منزلة موصل الطلاب وخريطة الكتاب",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {"lesson_id": "001-01", "start_seconds": 1.7, "end_seconds": 2822, "evidence": "تعريف موصل الطلاب وصلته بالإعراب عن قواعد الإعراب ومغني اللبيب، وخريطة الأبواب الأربعة وغاية الكتاب في فهم المعنى."}
+      ],
+      "canonical_refs": ["livres/shamela/mawsil-toullab/matn/6973/book.md", "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"],
+      "supporting_refs": ["livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md", "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"],
+      "verification": {"transcript": "verified", "grammar": "verified", "arabic": "verified", "pedagogy": "verified"}
+    },
+    {
+      "id": "mawsil-toullab-module-02-أما-بعد-وجوابها",
+      "title": "أما بعد وجوابها",
+      "estimated_study_minutes": 23,
+      "audio_spans": [
+        {"lesson_id": "001-01", "start_seconds": 2822, "end_seconds": 4233.5, "evidence": "بدء شرح أما حرفا للشرط والتفصيل والتوكيد ولزوم الفاء في جوابها."},
+        {"lesson_id": "002-02", "start_seconds": 0.1, "end_seconds": 1608.62, "evidence": "تعيين مجموع جواب أما، والفواصل قبل الفاء، وإعراب بعد وتمهيد التعلق في الصلاة والسلام."}
+      ],
+      "canonical_refs": ["livres/shamela/mawsil-toullab/matn/6973/book.md", "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"],
+      "supporting_refs": ["livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md", "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"],
+      "verification": {"transcript": "verified", "grammar": "verified", "arabic": "verified", "pedagogy": "verified"}
+    },
+    {
+      "id": "mawsil-toullab-module-03-التنازع-في-الصلاة-والسلام",
+      "title": "التنازع في الصلاة والسلام",
+      "estimated_study_minutes": 21,
+      "audio_spans": [
+        {"lesson_id": "003-03", "start_seconds": 3.9, "end_seconds": 1605.14, "evidence": "تعريف التنازع، إعمال الأول أو الثاني، وإضمار معمول العامل المهمل وتطبيق ذلك على الصلاة والسلام على سيدنا."}
+      ],
+      "canonical_refs": ["livres/shamela/mawsil-toullab/matn/6973/book.md", "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"],
+      "supporting_refs": ["livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md", "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"],
+      "verification": {"transcript": "verified", "grammar": "verified", "arabic": "verified", "pedagogy": "verified"}
+    },
+    {
+      "id": "mawsil-toullab-module-04-اصطلاح-المقدمة-وضبط-العبارة",
+      "title": "اصطلاح المقدمة وضبط العبارة",
+      "estimated_study_minutes": 20,
+      "audio_spans": [
+        {"lesson_id": "004-04", "start_seconds": 0.9, "end_seconds": 2734.99, "evidence": "النعت والبدل، معنى القاعدة، التضمين، وتقديم المعنى على المحسن اللفظي."},
+        {"lesson_id": "005-05", "start_seconds": 0.2, "end_seconds": 1120.28, "evidence": "ضبط المهمل والمعجم والقياس والشذوذ وصيغ المبالغة، مع ترك ألفاظ الشعر المصحفة."}
+      ],
+      "canonical_refs": ["livres/shamela/mawsil-toullab/matn/6973/book.md", "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"],
+      "supporting_refs": ["livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md", "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"],
+      "verification": {"transcript": "verified", "grammar": "verified", "arabic": "verified", "pedagogy": "verified"}
+    },
+    {
+      "id": "mawsil-toullab-module-05-عنوان-الكتاب-وخاتمة-المقدمة",
+      "title": "عنوان الكتاب وخاتمة المقدمة",
+      "estimated_study_minutes": 20,
+      "audio_spans": [
+        {"lesson_id": "006-06", "start_seconds": 1.6, "end_seconds": 1845.47, "evidence": "تشبيه عناية المصنف بالطبيب، حذف فعل الشرط، أن وأي التفسيريتان، وجناس عنوان الكتاب."},
+        {"lesson_id": "007-07", "start_seconds": 570, "end_seconds": 1709.53, "evidence": "السجع والجناس ودلالة المن ثم انحصار فوائد الكتاب في الأبواب الأربعة؛ حذفت المقدمة العقدية الجانبية."}
+      ],
+      "canonical_refs": ["livres/shamela/mawsil-toullab/matn/6973/book.md", "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"],
+      "supporting_refs": ["livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md", "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"],
+      "verification": {"transcript": "verified", "grammar": "verified", "arabic": "verified", "pedagogy": "verified"}
+    },
+    {
+      "id": "mawsil-toullab-module-06-الكلام-والجملة-وأقسامها",
+      "title": "الكلام والجملة وأقسامها",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {"lesson_id": "008-08", "start_seconds": 4.2, "end_seconds": 1532, "evidence": "خريطة مسائل باب الجملة، الفرق بين الكلام والجملة، والاسمية والفعلية والكبرى والصغرى وتمهيد المحل."}
+      ],
+      "canonical_refs": ["livres/shamela/mawsil-toullab/matn/6973/book.md", "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"],
+      "supporting_refs": ["livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md", "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"],
+      "verification": {"transcript": "verified", "grammar": "verified", "arabic": "verified", "pedagogy": "verified"}
+    },
+    {
+      "id": "mawsil-toullab-module-07-الجمل-ذات-المحل-وزيادتاها",
+      "title": "الجمل ذات المحل وزيادتاها",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {"lesson_id": "009-09", "start_seconds": 0.5, "end_seconds": 3204.96, "evidence": "الخبر والحال ومقول القول والعطف وروابط الحال الماضية بقد وواو الحال."},
+        {"lesson_id": "010-10", "start_seconds": 0.8, "end_seconds": 916.66, "evidence": "زيادتا الجملة المستثناة والواقعة مبتدأ مع إبقاء الخلاف وعدم تحويلهما إلى إجماع."}
+      ],
+      "canonical_refs": ["livres/shamela/mawsil-toullab/matn/6973/book.md", "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"],
+      "supporting_refs": ["livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md", "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"],
+      "verification": {"transcript": "verified", "grammar": "verified", "arabic": "verified", "pedagogy": "verified"}
+    },
+    {
+      "id": "mawsil-toullab-module-08-الجملة-الابتدائية-والاستئنافية",
+      "title": "الجملة الابتدائية والاستئنافية",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {"lesson_id": "011-11", "start_seconds": 2.8, "end_seconds": 2488.45, "evidence": "استكمال زيادتي المحل ثم صور الجملة الابتدائية والاستئنافية وأوجه منذ يومان."},
+        {"lesson_id": "012-12", "start_seconds": 0.2, "end_seconds": 3255.01, "evidence": "المنقطع نحويا والاستئناف البياني وفساد حمل لا يستمعون على النعت أو الحال في بعض التوجيهات."}
+      ],
+      "canonical_refs": ["livres/shamela/mawsil-toullab/matn/6973/book.md", "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"],
+      "supporting_refs": ["livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md", "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"],
+      "verification": {"transcript": "verified", "grammar": "verified", "arabic": "verified", "pedagogy": "verified"}
+    },
+    {
+      "id": "mawsil-toullab-module-09-الجملة-بعد-حتى",
+      "title": "الجملة بعد حتى",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {"lesson_id": "013-13", "start_seconds": 3.2, "end_seconds": 3756.3, "evidence": "استكمال منذ يومان ثم الجملة بعد حتى بين الابتداء وجر المصدر المؤول وحجج الفريقين."},
+        {"lesson_id": "014-14", "start_seconds": 3.9, "end_seconds": 2091.15, "evidence": "حتى الابتدائية أو الجارة، فتح إن وكسرها، وتعليق حروف الجر وخاتمة الجملة الابتدائية."}
+      ],
+      "canonical_refs": ["livres/shamela/mawsil-toullab/matn/6973/book.md", "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"],
+      "supporting_refs": ["livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md", "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"],
+      "verification": {"transcript": "verified", "grammar": "verified", "arabic": "verified", "pedagogy": "verified"}
+    },
+    {
+      "id": "mawsil-toullab-module-10-صلة-الموصول-والجملة-الاعتراضية",
+      "title": "صلة الموصول والجملة الاعتراضية",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {"lesson_id": "015-15", "start_seconds": 0.2, "end_seconds": 1568.28, "evidence": "صلة الاسم الموصول والحرف المصدري، محل الموصول والمصدر المؤول، والاعتراض داخل الاعتراض."},
+        {"lesson_id": "016-16", "start_seconds": 0.1, "end_seconds": 3067.32, "evidence": "مواضع الاعتراض وفوائده، توكيد الحروف وحكاية المبني، والفرق بين اعتراض بجملتين واعتراضين."}
+      ],
+      "canonical_refs": ["livres/shamela/mawsil-toullab/matn/6973/book.md", "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"],
+      "supporting_refs": ["livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md", "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"],
+      "verification": {"transcript": "verified", "grammar": "verified", "arabic": "verified", "pedagogy": "verified"}
+    },
+    {
+      "id": "mawsil-toullab-module-11-الجملة-المفسرة-وضوابطها",
+      "title": "الجملة المفسرة وضوابطها",
+      "estimated_study_minutes": 23,
+      "audio_spans": [
+        {"lesson_id": "017-17", "start_seconds": 0.5, "end_seconds": 2608.64, "evidence": "تعريف الجملة المفسرة وعلاقتها بالبدل والحال، وتعدد جمل الاعتراض بين المعطوفين."},
+        {"lesson_id": "018-18", "start_seconds": 0.2, "end_seconds": 3007.24, "evidence": "شرط الفضلة، الفرق من صلة الموصول، وتوجيه هل هذا إلا بشر بين التفسير والبدل."}
+      ],
+      "canonical_refs": ["livres/shamela/mawsil-toullab/matn/6973/book.md", "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"],
+      "supporting_refs": ["livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md", "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"],
+      "verification": {"transcript": "verified", "grammar": "verified", "arabic": "verified", "pedagogy": "verified"}
+    },
+    {
+      "id": "mawsil-toullab-module-12-تطبيقات-الجملة-المفسرة",
+      "title": "تطبيقات الجملة المفسرة",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {"lesson_id": "019-19", "start_seconds": 0.7, "end_seconds": 3149.32, "evidence": "إبدال الجملة، الحال من المضاف إليه، تفسير مثل آدم، وتمهيد تؤمنون تفسيرا أو استئنافا."},
+        {"lesson_id": "020-20", "start_seconds": 2.6, "end_seconds": 3681.39, "evidence": "توجيه تؤمنون ويغفر، معيار التأويل بالمفرد، ورأي الشلوبين في محل المفسرة قبل اللوجستيات."}
+      ],
+      "canonical_refs": ["livres/shamela/mawsil-toullab/matn/6973/book.md", "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"],
+      "supporting_refs": ["livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md", "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"],
+      "verification": {"transcript": "verified", "grammar": "verified", "arabic": "verified", "pedagogy": "verified"}
+    },
+    {
+      "id": "mawsil-toullab-module-13-محل-المفسرة-وجواب-القسم",
+      "title": "محل المفسرة وجواب القسم",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {"lesson_id": "021-21", "start_seconds": 0.2, "end_seconds": 3017.32, "evidence": "حجج محل المفسرة والرد عليها، الفرق بين جزم الفعل ومحل الجملة، ثم الجملة الواقعة جوابا للقسم."}
+      ],
+      "canonical_refs": ["livres/shamela/mawsil-toullab/matn/6973/book.md", "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"],
+      "supporting_refs": ["livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md", "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"],
+      "verification": {"transcript": "verified", "grammar": "verified", "arabic": "verified", "pedagogy": "verified"}
+    },
+    {
+      "id": "mawsil-toullab-module-14-جواب-القسم-والشرط",
+      "title": "جواب القسم والشرط",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {"lesson_id": "022-22", "start_seconds": 0.1, "end_seconds": 3018.57, "evidence": "جواب القسم الواقع خبرا، القسم الصريح وما فيه معنى القسم، ثم جواب الشرط الجازم وغير الجازم واقترانه بالفاء أو إذا."}
+      ],
+      "canonical_refs": ["livres/shamela/mawsil-toullab/matn/6973/book.md", "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"],
+      "supporting_refs": ["livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md", "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"],
+      "verification": {"transcript": "verified", "grammar": "verified", "arabic": "verified", "pedagogy": "verified"}
+    },
+    {
+      "id": "mawsil-toullab-module-15-الجملة-الخبرية-بعد-المعرفة-والنكرة",
+      "title": "الجملة الخبرية بعد المعرفة والنكرة",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {"lesson_id": "023-23", "start_seconds": 1.8, "end_seconds": 3031.92, "evidence": "شرط الخبرية وعدم طلب العامل، الطلبية في موضع النعت، والمحض وغير المحض في المعرفة والنكرة."},
+        {"lesson_id": "024-24", "start_seconds": 1, "end_seconds": 2051.3, "evidence": "موانع الوصف والحال والمعرفة الجنسية واحتمال الوجهين قبل افتتاح باب الجار والمجرور."}
+      ],
+      "canonical_refs": ["livres/shamela/mawsil-toullab/matn/6973/book.md", "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"],
+      "supporting_refs": ["livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md", "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"],
+      "verification": {"transcript": "verified", "grammar": "verified", "arabic": "verified", "pedagogy": "verified"}
+    },
+    {
+      "id": "mawsil-toullab-module-16-تعلق-الجار-والمجرور-وأنواعه",
+      "title": "تعلق الجار والمجرور وأنواعه",
+      "estimated_study_minutes": 23,
+      "audio_spans": [
+        {"lesson_id": "024-24", "start_seconds": 2051.3, "end_seconds": 3204.82, "evidence": "افتتاح باب الجار والمجرور ووجوب تعلق الأصلي بفعل أو بما في معناه مع تطبيق البيت."},
+        {"lesson_id": "025-25", "start_seconds": 1.1, "end_seconds": 2575.82, "evidence": "الفروق بين الأصلي والزائد وشبه الزائد وحروف الزيادة والباء الزائدة اللازمة قبل الاتصال اللوجستي."}
+      ],
+      "canonical_refs": ["livres/shamela/mawsil-toullab/matn/6973/book.md", "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"],
+      "supporting_refs": ["livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md", "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"],
+      "verification": {"transcript": "verified", "grammar": "verified", "arabic": "verified", "pedagogy": "verified"}
+    },
+    {
+      "id": "mawsil-toullab-module-17-حروف-الجر-الزائدة-وشبه-الزائدة",
+      "title": "حروف الجر الزائدة وشبه الزائدة",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {"lesson_id": "026-26", "start_seconds": 1.9, "end_seconds": 3903.68, "evidence": "زيادة الباء ومن، عمل الحرف المختص، ورب ولعل ولولا الشبيهة بالزائد، ولولا الجارة مع الضمير."}
+      ],
+      "canonical_refs": ["livres/shamela/mawsil-toullab/matn/6973/book.md", "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"],
+      "supporting_refs": ["livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md", "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"],
+      "verification": {"transcript": "verified", "grammar": "verified", "arabic": "verified", "pedagogy": "verified"}
+    },
+    {
+      "id": "mawsil-toullab-module-18-شبه-الجملة-بعد-المعرفة-والنكرة",
+      "title": "شبه الجملة بعد المعرفة والنكرة",
+      "estimated_study_minutes": 19,
+      "audio_spans": [
+        {"lesson_id": "027-27", "start_seconds": 0.3, "end_seconds": 1176.71, "evidence": "حكم شبه الجملة بعد المعرفة والنكرة وصلته بالتعلق، وتقدير الحال المحذوف في فخرج على قومه في زينته."}
+      ],
+      "canonical_refs": ["livres/shamela/mawsil-toullab/matn/6973/book.md", "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"],
+      "supporting_refs": ["livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md", "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"],
+      "verification": {"transcript": "verified", "grammar": "verified", "arabic": "verified", "pedagogy": "verified"}
+    },
+    {
+      "id": "mawsil-toullab-module-19-المتعلق-المحذوف-والظرف-المستقر",
+      "title": "المتعلق المحذوف والظرف المستقر",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {"lesson_id": "028-28", "start_seconds": 0, "end_seconds": 2417.16, "evidence": "تقدير كائن أو استقر في الخبر والصفة والحال، وتعيين الفعل في الصلة، والظرف المستقر ورفع الاسم."}
+      ],
+      "canonical_refs": ["livres/shamela/mawsil-toullab/matn/6973/book.md", "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"],
+      "supporting_refs": ["livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md", "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"],
+      "verification": {"transcript": "verified", "grammar": "verified", "arabic": "verified", "pedagogy": "verified"}
+    },
+    {
+      "id": "mawsil-toullab-module-20-المرفوع-بعد-شبه-الجملة-وأحكام-الظرف",
+      "title": "المرفوع بعد شبه الجملة وأحكام الظرف",
+      "estimated_study_minutes": 23,
+      "audio_spans": [
+        {"lesson_id": "029-29", "start_seconds": 0.6, "end_seconds": 3631.15, "evidence": "المرفوع فاعلا للمتعلق أو مبتدأ مؤخرا، عامل الرفع والرابط، ثم الظرف المبهم والمختص وخاتمة الباب."}
+      ],
+      "canonical_refs": ["livres/shamela/mawsil-toullab/matn/6973/book.md", "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"],
+      "supporting_refs": ["livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md", "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"],
+      "verification": {"transcript": "verified", "grammar": "verified", "arabic": "verified", "pedagogy": "verified"}
+    },
+    {
+      "id": "mawsil-toullab-module-21-خريطة-تفسير-الكلمات-وقط-وعوض-وأجل",
+      "title": "خريطة تفسير الكلمات وقط وعوض وأجل",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {"lesson_id": "030-30", "start_seconds": 2.8, "end_seconds": 3431.02, "evidence": "الأقسام الثمانية للكلمات كثيرة الدوران، والخلاف في العدد، ثم قط وعوض وأجل وتمهيد نعم."}
+      ],
+      "canonical_refs": ["livres/shamela/mawsil-toullab/matn/6973/book.md", "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"],
+      "supporting_refs": ["livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md", "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"],
+      "verification": {"transcript": "verified", "grammar": "verified", "arabic": "verified", "pedagogy": "verified"}
+    },
+    {
+      "id": "mawsil-toullab-module-22-بلى-وإذا-الشرطية",
+      "title": "بلى وإذا الشرطية",
+      "estimated_study_minutes": 23,
+      "audio_spans": [
+        {"lesson_id": "031-31", "start_seconds": 0.2, "end_seconds": 2975.55, "evidence": "بلى في إبطال النفي، الفرق بين إذا وإن، واستعمال إذا للمستقبل والماضي بحسب المقام."}
+      ],
+      "canonical_refs": ["livres/shamela/mawsil-toullab/matn/6973/book.md", "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"],
+      "supporting_refs": ["livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md", "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"],
+      "verification": {"transcript": "verified", "grammar": "verified", "arabic": "verified", "pedagogy": "verified"}
+    },
+    {
+      "id": "mawsil-toullab-module-23-إذا-الظرفية-والفجائية",
+      "title": "إذا الظرفية والفجائية",
+      "estimated_study_minutes": 23,
+      "audio_spans": [
+        {"lesson_id": "032-32", "start_seconds": 0.5, "end_seconds": 3116.82, "evidence": "إذا الظرفية الشرطية وإضافتها وعمل جوابها، خروجها للماضي والحال، وإذا الفجائية بين الحرفية والظرفية."}
+      ],
+      "canonical_refs": ["livres/shamela/mawsil-toullab/matn/6973/book.md", "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"],
+      "supporting_refs": ["livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md", "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"],
+      "verification": {"transcript": "verified", "grammar": "verified", "arabic": "verified", "pedagogy": "verified"}
+    },
+    {
+      "id": "mawsil-toullab-module-24-إذ-ولما",
+      "title": "إذ ولما",
+      "estimated_study_minutes": 23,
+      "audio_spans": [
+        {"lesson_id": "033-33", "start_seconds": 0.7, "end_seconds": 2983.41, "evidence": "إذ الظرفية والفجائية والتعليلية، ثم لما الرابطة والجازمة والاستثنائية والخلاف في حرفيتها وظرفيتها."}
+      ],
+      "canonical_refs": ["livres/shamela/mawsil-toullab/matn/6973/book.md", "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"],
+      "supporting_refs": ["livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md", "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"],
+      "verification": {"transcript": "verified", "grammar": "verified", "arabic": "verified", "pedagogy": "verified"}
+    },
+    {
+      "id": "mawsil-toullab-module-25-حتى-الجارة-والعاطفة",
+      "title": "حتى الجارة والعاطفة",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {"lesson_id": "034-34", "start_seconds": 3, "end_seconds": 2729.95, "evidence": "حتى الجارة للاسم والمصدر المؤول، الخلاف في معنى إلا، ثم حتى العاطفة وشروط المعطوف."}
+      ],
+      "canonical_refs": ["livres/shamela/mawsil-toullab/matn/6973/book.md", "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"],
+      "supporting_refs": ["livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md", "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"],
+      "verification": {"transcript": "verified", "grammar": "verified", "arabic": "verified", "pedagogy": "verified"}
+    },
+    {
+      "id": "mawsil-toullab-module-26-نعم-وإي",
+      "title": "نعم وإي",
+      "estimated_study_minutes": 18,
+      "audio_spans": [
+        {"lesson_id": "035-35", "start_seconds": 3.1, "end_seconds": 994.11, "evidence": "نعم لتصديق الخبر ووعد الطالب وإعلام المستفهم، وإي للتصديق مع لزوم القسم بعدها."}
+      ],
+      "canonical_refs": ["livres/shamela/mawsil-toullab/matn/6973/book.md", "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"],
+      "supporting_refs": ["livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md", "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"],
+      "verification": {"transcript": "verified", "grammar": "verified", "arabic": "verified", "pedagogy": "verified"}
+    },
+    {
+      "id": "mawsil-toullab-module-27-حتى-الابتدائية-واستكمال-العطف",
+      "title": "حتى الابتدائية واستكمال العطف",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {"lesson_id": "036-36", "start_seconds": 0.1, "end_seconds": 3189.6, "evidence": "حتى الابتدائية ودخولها على الأزمنة، واستكمال شروط العطف والخلاف في الترتيب والمعية."}
+      ],
+      "canonical_refs": ["livres/shamela/mawsil-toullab/matn/6973/book.md", "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"],
+      "supporting_refs": ["livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md", "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"],
+      "verification": {"transcript": "verified", "grammar": "verified", "arabic": "verified", "pedagogy": "verified"}
+    },
+    {
+      "id": "mawsil-toullab-module-28-كلا-ولا",
+      "title": "كلا ولا",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {"lesson_id": "037-37", "start_seconds": 0.7, "end_seconds": 2992.66, "evidence": "كلا للردع أو التصديق أو الاستفتاح على الخلاف، ولا النافية والناهية والزائدة وعمل النافية."},
+        {"lesson_id": "038-38", "start_seconds": 2.4, "end_seconds": 1028, "evidence": "تفصيل لا العاملة عمل ليس وزيادتها قبل الانتقال إلى لولا."}
+      ],
+      "canonical_refs": ["livres/shamela/mawsil-toullab/matn/6973/book.md", "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"],
+      "supporting_refs": ["livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md", "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"],
+      "verification": {"transcript": "verified", "grammar": "verified", "arabic": "verified", "pedagogy": "verified"}
+    },
+    {
+      "id": "mawsil-toullab-module-29-لولا-وأوجهها-الأربعة",
+      "title": "لولا وأوجهها الأربعة",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {"lesson_id": "038-38", "start_seconds": 1028, "end_seconds": 2738.36, "evidence": "لولا الامتناعية وحذف الخبر والجواب بحسب الكون العام والسياق."},
+        {"lesson_id": "039-39", "start_seconds": 1.2, "end_seconds": 2697.3, "evidence": "لولا للتحضيض والعرض والتوبيخ وما قيل في الاستفهام، مع حفظ احتمالات المواضع."}
+      ],
+      "canonical_refs": ["livres/shamela/mawsil-toullab/matn/6973/book.md", "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"],
+      "supporting_refs": ["livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md", "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"],
+      "verification": {"transcript": "verified", "grammar": "verified", "arabic": "verified", "pedagogy": "verified"}
+    },
+    {
+      "id": "mawsil-toullab-module-30-إن-المكسورة-وأوجهها",
+      "title": "إن المكسورة وأوجهها",
+      "estimated_study_minutes": 23,
+      "audio_spans": [
+        {"lesson_id": "039-39", "start_seconds": 2697.3, "end_seconds": 3597.71, "evidence": "إن الشرطية والنافية وعمل النافية عمل ليس في لغة."},
+        {"lesson_id": "040-40", "start_seconds": 0.6, "end_seconds": 1097, "evidence": "إن المخففة واللام الفارقة وإن الزائدة وقراءة لما، مع إحالة ضبط القراءة إلى المصحف."}
+      ],
+      "canonical_refs": ["livres/shamela/mawsil-toullab/matn/6973/book.md", "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"],
+      "supporting_refs": ["livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md", "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"],
+      "verification": {"transcript": "verified", "grammar": "verified", "arabic": "verified", "pedagogy": "verified"}
+    },
+    {
+      "id": "mawsil-toullab-module-31-أن-المصدرية-والزائدة",
+      "title": "أن المصدرية والزائدة",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {"lesson_id": "040-40", "start_seconds": 1097, "end_seconds": 3292.49, "evidence": "أن المصدرية مع الماضي والمضارع، مواضع زيادتها، وتمهيد شروط أن المفسرة."}
+      ],
+      "canonical_refs": ["livres/shamela/mawsil-toullab/matn/6973/book.md", "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"],
+      "supporting_refs": ["livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md", "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"],
+      "verification": {"transcript": "verified", "grammar": "verified", "arabic": "verified", "pedagogy": "verified"}
+    },
+    {
+      "id": "mawsil-toullab-module-32-أن-المفسرة-ومسائلها",
+      "title": "أن المفسرة ومسائلها",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {"lesson_id": "041-41", "start_seconds": 0, "end_seconds": 4297.24, "evidence": "شروط أن المفسرة وأوجهها في ما أمرتني به، والمصدر المؤول بين البدل وعطف البيان والعائد."},
+        {"lesson_id": "042-42", "start_seconds": 0.2, "end_seconds": 1817.27, "evidence": "مراجعة العائد والبدل، ثم أن بعد الوحي والإلهام قبل الإعلان الزمني."}
+      ],
+      "canonical_refs": ["livres/shamela/mawsil-toullab/matn/6973/book.md", "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"],
+      "supporting_refs": ["livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md", "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"],
+      "verification": {"transcript": "verified", "grammar": "verified", "arabic": "verified", "pedagogy": "verified"}
+    },
+    {
+      "id": "mawsil-toullab-module-33-أن-المخففة-ومن",
+      "title": "أن المخففة ومن",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {"lesson_id": "043-43", "start_seconds": 1, "end_seconds": 2483.25, "evidence": "أن المخففة وضمير الشأن والفصل بينها وبين المصدرية بالعلم والظن، ثم من النكرة الموصوفة."}
+      ],
+      "canonical_refs": ["livres/shamela/mawsil-toullab/matn/6973/book.md", "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"],
+      "supporting_refs": ["livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md", "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"],
+      "verification": {"transcript": "verified", "grammar": "verified", "arabic": "verified", "pedagogy": "verified"}
+    },
+    {
+      "id": "mawsil-toullab-module-34-أي-وأوجهها-الخمسة",
+      "title": "أي وأوجهها الخمسة",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {"lesson_id": "044-44", "start_seconds": 18.9, "end_seconds": 2864.82, "evidence": "أي الشرطية والاستفهامية والموصولة، إعراب الموصولة وبناؤها والخلاف في أيهم أشد."},
+        {"lesson_id": "045-45", "start_seconds": 0.2, "end_seconds": 832, "evidence": "أي للكمال صفة وحالا، ووصلة نداء ما فيه أل قبل الانتقال إلى لو."}
+      ],
+      "canonical_refs": ["livres/shamela/mawsil-toullab/matn/6973/book.md", "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"],
+      "supporting_refs": ["livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md", "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"],
+      "verification": {"transcript": "verified", "grammar": "verified", "arabic": "verified", "pedagogy": "verified"}
+    },
+    {
+      "id": "mawsil-toullab-module-35-لو-وامتناع-الشرط",
+      "title": "لو وامتناع الشرط",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {"lesson_id": "045-45", "start_seconds": 832, "end_seconds": 2495.76, "evidence": "نقد إطلاق امتناع لامتناع، والفرق بين السبب الوحيد والسبب البديل في جواب لو."},
+        {"lesson_id": "046-46", "start_seconds": 0.3, "end_seconds": 2091.52, "evidence": "امتناع فعل الشرط، استلزام الشرط للجواب، وأثر وجود سبب بديل في ثبوت الجواب أو انتفائه."}
+      ],
+      "canonical_refs": ["livres/shamela/mawsil-toullab/matn/6973/book.md", "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"],
+      "supporting_refs": ["livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md", "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"],
+      "verification": {"transcript": "verified", "grammar": "verified", "arabic": "verified", "pedagogy": "verified"}
+    },
+    {
+      "id": "mawsil-toullab-module-36-لو-الشرطية-والمصدرية-والطلبية",
+      "title": "لو الشرطية والمصدرية والطلبية",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {"lesson_id": "047-47", "start_seconds": 1.3, "end_seconds": 2675.17, "evidence": "لو بمنزلة إن، والتمني والعرض والمصدرية بعد ود، والخلاف في إعادة المصدرية إلى الشرط."},
+        {"lesson_id": "048-48", "start_seconds": 6.3, "end_seconds": 2450, "evidence": "لو للتمني ودليل نصب الجواب ومناقشته بالفاء العاطفة، ثم لو للعرض؛ يقف الدليل قبل إعلان قد."}
+      ],
+      "canonical_refs": ["livres/shamela/mawsil-toullab/matn/6973/book.md", "livres/pdf/mawsil-toullab/matn/mawsil-toullab.pdf"],
+      "supporting_refs": ["livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md", "livres/shamela/qawaid-i3raab-zawawi/sharh/6973/book.md"],
+      "verification": {"transcript": "verified", "grammar": "verified", "arabic": "verified", "pedagogy": "verified"}
+    }
+  ],
+  "excluded_spans": [
+    {"lesson_id": "007-07", "start_seconds": 2.6, "end_seconds": 570, "reason": "استطراد عقدي في تعريف التوفيق والخذلان؛ ليس من البنية النحوية لموصل الطلاب."},
+    {"lesson_id": "020-20", "start_seconds": 3681.39, "end_seconds": 3740.31, "reason": "حساب عدد الدروس والتنبيه إلى دفع الشهر؛ لوجستيات بلا قاعدة جديدة."},
+    {"lesson_id": "024-24", "start_seconds": 3204.82, "end_seconds": 3281.92, "reason": "اتصالات ومواعيد محتملة للدرس التالي؛ مادة لوجستية."},
+    {"lesson_id": "025-25", "start_seconds": 2575.82, "end_seconds": 2608.14, "reason": "طلب الاتصال قبل الدرس وجدول الحضور؛ مادة لوجستية."},
+    {"lesson_id": "042-42", "start_seconds": 1817.27, "end_seconds": 1839.64, "reason": "إعلان موعد اللقاء التالي بعد نهاية شرح أن المفسرة."},
+    {"lesson_id": "048-48", "start_seconds": 2450, "end_seconds": 2615, "reason": "انتقال مقتضب إلى قد في النوع السادس؛ إعلان موضوع لا يكفي لبناء وحدة أو ادعاء تغطية."},
+    {"lesson_id": "048-48", "start_seconds": 2615, "end_seconds": 2655.58, "reason": "موعد لاحق ورسوم؛ نهاية إدارية تثبت أن التسجيل انقطع قبل متابعة النوع السادس."}
+  ]
+}

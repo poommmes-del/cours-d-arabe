@@ -1,0 +1,458 @@
+<template id="beat-1-hook-template">
+  <div data-hf-id="hf-u1k0" id="beat-1-hook" data-composition-id="beat-1-hook" data-width="1920" data-height="1080" data-start="0" data-duration="3">
+    <link rel="preload" href="capture/assets/fonts/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf" as="font" type="font/ttf" crossorigin="anonymous">
+    <link rel="preload" href="capture/assets/fonts/RrQ5bpV-9Dd1b1OAGA6M9PkyDuVBePeKNaxcsss0Y7bwWslkrA.ttf" as="font" type="font/ttf" crossorigin="anonymous">
+
+    <div data-hf-id="hf-yu03" class="canvas-texture" aria-hidden="true"></div>
+    <div data-hf-id="hf-8fhr" class="gold-glow" aria-hidden="true"></div>
+    <canvas data-hf-id="hf-56h3" class="dust-field" width="1920" height="1080" data-layout-ignore aria-hidden="true"></canvas>
+
+    <svg data-hf-id="hf-g4wf" class="guide-field" viewBox="0 0 1920 1080" aria-hidden="true">
+      <line data-hf-id="hf-g1ii" class="guide-line" x1="96" y1="218" x2="1824" y2="218" />
+      <line data-hf-id="hf-jlj4" class="guide-line" x1="96" y1="620" x2="1824" y2="620" />
+      <line data-hf-id="hf-6e1s" class="guide-line" x1="96" y1="824" x2="1824" y2="824" />
+      <line data-hf-id="hf-35vs" class="guide-line guide-line-short" x1="150" y1="90" x2="770" y2="90" />
+      <line data-hf-id="hf-0s1a" class="guide-line guide-line-short" x1="150" y1="984" x2="770" y2="984" />
+    </svg>
+
+    <div data-hf-id="hf-cn5c" class="scene-content">
+      <header data-hf-id="hf-dstl" class="identity" aria-label="محمود الشافعي, Cours d'arabe">
+        <div data-hf-id="hf-zbe1" class="identity-arabic" lang="ar" dir="rtl">محمود الشافعي</div>
+        <div data-hf-id="hf-suxt" class="identity-project">Cours d'<span data-hf-id="hf-xvp1" class="identity-accent">arabe</span></div>
+      </header>
+
+      <h1 data-hf-id="hf-lq32" class="promise" aria-label="Arabic learning, finally structured.">
+        <span data-hf-id="hf-71ai" class="promise-clause clause-one">
+          <span data-hf-id="hf-mqhk" class="promise-word word-arabic">Arabic</span>
+          <span data-hf-id="hf-o4lg" class="promise-word word-learning">learning,</span>
+        </span>
+        <span data-hf-id="hf-ivq4" class="promise-clause clause-two">
+          <span data-hf-id="hf-oslc" class="promise-word word-finally">finally</span>
+          <span data-hf-id="hf-w6v0" class="promise-word word-structured">structured.</span>
+        </span>
+      </h1>
+
+      <svg data-hf-id="hf-lnyk" class="baseline" viewBox="0 0 1120 20" aria-hidden="true">
+        <path data-hf-id="hf-z50e" class="baseline-path" d="M 0 10 H 1120" />
+      </svg>
+
+      <svg data-hf-id="hf-81yr" class="registration-corner corner-left" viewBox="0 0 48 48" aria-hidden="true">
+        <path data-hf-id="hf-h08d" d="M 2 46 V 2 H 46" />
+        <circle data-hf-id="hf-2731" cx="12" cy="12" r="3" />
+      </svg>
+      <svg data-hf-id="hf-8c74" class="registration-corner corner-right" viewBox="0 0 48 48" aria-hidden="true">
+        <path data-hf-id="hf-bk79" d="M 2 2 H 46 V 46" />
+        <circle data-hf-id="hf-j9gr" cx="36" cy="12" r="3" />
+      </svg>
+    </div>
+
+    <style>
+      @font-face {
+        font-family: "Cours Inter";
+        src: url("capture/assets/fonts/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf") format("truetype");
+        font-weight: 800;
+        font-style: normal;
+        font-display: block;
+      }
+
+      @font-face {
+        font-family: "Cours Naskh";
+        src: url("capture/assets/fonts/RrQ5bpV-9Dd1b1OAGA6M9PkyDuVBePeKNaxcsss0Y7bwWslkrA.ttf") format("truetype");
+        font-weight: 700;
+        font-style: normal;
+        font-display: block;
+      }
+
+      #beat-1-hook {
+        position: relative;
+        width: 1920px;
+        height: 1080px;
+        overflow: hidden;
+        isolation: isolate;
+        color: #e2e8f0;
+        background: #06090f;
+      }
+
+      #beat-1-hook *,
+      #beat-1-hook *::before,
+      #beat-1-hook *::after {
+        box-sizing: border-box;
+      }
+
+      .canvas-texture,
+      .gold-glow,
+      .dust-field,
+      .guide-field {
+        position: absolute;
+        inset: 0;
+        width: 100%;
+        height: 100%;
+        pointer-events: none;
+      }
+
+      .canvas-texture {
+        z-index: 0;
+        background-color: #06090f;
+        background-image:
+          radial-gradient(circle at 79% 18%, rgba(19, 27, 40, 0.72) 0, rgba(12, 17, 25, 0.22) 31%, rgba(6, 9, 15, 0) 57%),
+          radial-gradient(circle at 18% 82%, rgba(12, 17, 25, 0.58) 0, rgba(6, 9, 15, 0) 45%);
+      }
+
+      .gold-glow {
+        z-index: 1;
+        left: 30px;
+        top: 112px;
+        width: 1220px;
+        height: 690px;
+        transform-origin: 38% 48%;
+        background: radial-gradient(ellipse at 38% 48%, rgba(240, 180, 41, 0.24) 0, rgba(240, 180, 41, 0.07) 30%, rgba(240, 180, 41, 0) 68%);
+      }
+
+      .dust-field {
+        z-index: 2;
+      }
+
+      .guide-field {
+        z-index: 3;
+        overflow: visible;
+      }
+
+      .guide-line {
+        fill: none;
+        stroke: rgba(148, 163, 184, 0.13);
+        stroke-width: 1;
+        vector-effect: non-scaling-stroke;
+        transform-box: fill-box;
+        transform-origin: left center;
+      }
+
+      .guide-line-short {
+        stroke: rgba(240, 180, 41, 0.16);
+      }
+
+      .scene-content {
+        position: relative;
+        z-index: 4;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 100%;
+        padding: 112px 96px 72px 150px;
+        gap: 48px;
+      }
+
+      .identity {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        width: 620px;
+        height: 90px;
+        gap: 2px;
+      }
+
+      .identity-arabic {
+        width: max-content;
+        color: #f0b429;
+        font-family: "Cours Naskh", serif;
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 1;
+        text-align: left;
+        white-space: nowrap;
+        will-change: transform, opacity;
+      }
+
+      .identity-project {
+        width: max-content;
+        color: #e2e8f0;
+        font-family: "Cours Inter", sans-serif;
+        font-size: 28px;
+        font-weight: 800;
+        line-height: 1.08;
+        letter-spacing: -0.025em;
+        white-space: nowrap;
+        will-change: transform, opacity;
+      }
+
+      .identity-accent {
+        color: #f0b429;
+      }
+
+      .promise {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 1460px;
+        height: 330px;
+        margin: 0;
+        gap: 0;
+        color: #f8fafc;
+        font-family: "Cours Inter", sans-serif;
+        font-size: 104px;
+        font-weight: 800;
+        line-height: 0.96;
+        letter-spacing: -0.045em;
+      }
+
+      .promise-clause {
+        display: flex;
+        align-items: baseline;
+        width: max-content;
+        min-height: 100px;
+        gap: 0.24em;
+        white-space: nowrap;
+      }
+
+      .clause-two {
+        color: #e2e8f0;
+      }
+
+      .promise-word {
+        display: inline-block;
+        will-change: transform, opacity;
+      }
+
+      .word-structured {
+        color: #f8fafc;
+      }
+
+      .baseline {
+        position: absolute;
+        left: 150px;
+        top: 568px;
+        width: 1120px;
+        height: 20px;
+        overflow: visible;
+      }
+
+      .baseline-path {
+        fill: none;
+        stroke: #f0b429;
+        stroke-width: 6;
+        stroke-linecap: square;
+        transform-box: fill-box;
+        transform-origin: left center;
+        filter: drop-shadow(0 0 12px rgba(240, 180, 41, 0.2));
+        will-change: transform;
+      }
+
+      .registration-corner {
+        position: absolute;
+        width: 48px;
+        height: 48px;
+        overflow: visible;
+        fill: none;
+        stroke: #f0b429;
+        stroke-width: 2;
+        stroke-linecap: square;
+        transform-origin: center;
+        will-change: transform, opacity;
+      }
+
+      .registration-corner circle {
+        fill: #f0b429;
+        stroke: none;
+      }
+
+      .registration-corner path {
+        stroke-dasharray: 88;
+        stroke-dashoffset: 0;
+      }
+
+      .corner-left {
+        left: 96px;
+        top: 776px;
+      }
+
+      .corner-right {
+        left: 1776px;
+        top: 170px;
+      }
+    </style>
+
+    <script>
+      (function drawDeterministicDust() {
+        const canvas = document.querySelector("#beat-1-hook .dust-field");
+        const context = canvas.getContext("2d");
+        let seed = 0x1a2b3c4d;
+
+        function seededUnit() {
+          seed |= 0;
+          seed = (seed + 0x6d2b79f5) | 0;
+          let value = Math.imul(seed ^ (seed >>> 15), 1 | seed);
+          value = (value + Math.imul(value ^ (value >>> 7), 61 | value)) ^ value;
+          return ((value ^ (value >>> 14)) >>> 0) / 4294967296;
+        }
+
+        context.clearRect(0, 0, 1920, 1080);
+        for (let index = 0; index < 44; index += 1) {
+          const x = 110 + seededUnit() * 1680;
+          const y = 70 + seededUnit() * 920;
+          const radius = 0.55 + seededUnit() * 1.35;
+          const alpha = 0.18 + seededUnit() * 0.42;
+          context.beginPath();
+          context.arc(x, y, radius, 0, Math.PI * 2);
+          context.fillStyle = `rgba(240, 180, 41, ${alpha.toFixed(3)})`;
+          context.fill();
+        }
+      })();
+    </script>
+
+    <script>
+      (function buildBeatOneTimeline() {
+        window.__timelines = window.__timelines || {};
+
+        const root = "#beat-1-hook";
+        const timeline = gsap.timeline({ paused: true });
+
+        timeline.fromTo(
+          `${root} .canvas-texture`,
+          { opacity: 0 },
+          { opacity: 1, duration: 0.22, ease: "sine.out" },
+          0,
+        );
+
+        timeline.fromTo(
+          `${root} .gold-glow`,
+          { opacity: 0, scale: 0.96 },
+          { opacity: 0.22, scale: 1, duration: 0.22, ease: "power1.out" },
+          0,
+        );
+        timeline.fromTo(
+          `${root} .gold-glow`,
+          { scale: 1 },
+          {
+            scale: 1.04,
+            duration: 2.78,
+            ease: "sine.inOut",
+            immediateRender: false,
+          },
+          0.22,
+        );
+
+        const guideLines = [
+          `${root} .guide-line:nth-of-type(1)`,
+          `${root} .guide-line:nth-of-type(2)`,
+          `${root} .guide-line:nth-of-type(3)`,
+          `${root} .guide-line:nth-of-type(4)`,
+          `${root} .guide-line:nth-of-type(5)`,
+        ];
+        guideLines.forEach(function drawGuideLine(selector) {
+          timeline.fromTo(
+            selector,
+            { scaleX: 0 },
+            { scaleX: 1, duration: 0.42, ease: "expo.out" },
+            0.04,
+          );
+        });
+
+        timeline.fromTo(
+          `${root} .dust-field`,
+          { opacity: 0 },
+          { opacity: 0.24, duration: 0.42, ease: "power1.out" },
+          0.04,
+        );
+        timeline.fromTo(
+          `${root} .dust-field`,
+          { x: 0, y: 0 },
+          {
+            x: 14,
+            y: -8,
+            duration: 2.54,
+            ease: "sine.inOut",
+            immediateRender: false,
+          },
+          0.46,
+        );
+
+        timeline.fromTo(
+          `${root} .identity-arabic`,
+          { y: 18, opacity: 0 },
+          { y: 0, opacity: 1, duration: 0.36, ease: "circ.out" },
+          0.12,
+        );
+        timeline.fromTo(
+          `${root} .identity-project`,
+          { x: 28, opacity: 0 },
+          { x: 0, opacity: 1, duration: 0.36, ease: "power2.out" },
+          0.12,
+        );
+
+        const firstClauseWords = [
+          { selector: `${root} .word-arabic`, start: 0.35, x: 64 },
+          { selector: `${root} .word-learning`, start: 0.47, x: 20 },
+        ];
+        firstClauseWords.forEach(function assembleFirstClause(word) {
+          timeline.fromTo(
+            word.selector,
+            { x: word.x, y: 14, opacity: 0 },
+            {
+              x: 0,
+              y: 0,
+              opacity: 1,
+              duration: 0.43,
+              ease: "expo.out",
+            },
+            word.start,
+          );
+        });
+
+        const secondClauseWords = [
+          { selector: `${root} .word-finally`, start: 0.82, x: 36 },
+          { selector: `${root} .word-structured`, start: 0.94, x: 12 },
+        ];
+        secondClauseWords.forEach(function settleSecondClause(word) {
+          timeline.fromTo(
+            word.selector,
+            { x: word.x, y: 10, opacity: 0 },
+            {
+              x: 0,
+              y: 0,
+              opacity: 1,
+              duration: 0.4,
+              ease: "power3.out",
+            },
+            word.start,
+          );
+        });
+
+        timeline.fromTo(
+          `${root} .baseline-path`,
+          { scaleX: 0 },
+          { scaleX: 1, duration: 0.54, ease: "expo.out" },
+          1.08,
+        );
+
+        const corners = [
+          `${root} .corner-left`,
+          `${root} .corner-right`,
+        ];
+        corners.forEach(function lockCorner(selector) {
+          timeline.fromTo(
+            selector,
+            { scale: 0.7, opacity: 0 },
+            {
+              scale: 1,
+              opacity: 1,
+              duration: 0.54,
+              ease: "back.out(1.2)",
+            },
+            1.08,
+          );
+          timeline.fromTo(
+            `${selector} path`,
+            { strokeDashoffset: 88 },
+            {
+              strokeDashoffset: 0,
+              duration: 0.54,
+              ease: "power2.out",
+            },
+            1.08,
+          );
+        });
+
+        window.__timelines["beat-1-hook"] = timeline;
+      })();
+    </script>
+  </div>
+</template>

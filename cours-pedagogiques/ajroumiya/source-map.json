@@ -1,0 +1,879 @@
+{
+  "schema_version": 2,
+  "course_id": "ajroumiya",
+  "module_count_range": [25, 35],
+  "source_inventory": {
+    "canonical_available": true
+  },
+  "modules": [
+    {
+      "id": "ajroumiya-module-01-منزلة-الآجرومية-وخريطة-الطلب",
+      "title": "منزلة الآجرومية وخريطة الطلب",
+      "estimated_study_minutes": 18,
+      "audio_spans": [
+        {
+          "lesson_id": "001-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (1)",
+          "start_seconds": 6,
+          "end_seconds": 716,
+          "evidence": "بيان منزلة المتن والتدرج في طلب النحو وخريطة أبوابه."
+        }
+      ],
+      "canonical_refs": ["livres/shamela/ajroumiya/matn/11371/book.md"],
+      "supporting_refs": ["livres/shamela/ajroumiya/sharh/21509/book.md"],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "ajroumiya-module-02-مدخل-إلى-علم-النحو",
+      "title": "مدخل إلى علم النحو",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "002-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (2)",
+          "start_seconds": 6,
+          "end_seconds": 2407,
+          "evidence": "تعريف النحو وموضوعه وفائدته وحدوده وحفظ اللسان به."
+        },
+        {
+          "lesson_id": "002-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (2)",
+          "start_seconds": 2966,
+          "end_seconds": 3670,
+          "evidence": "نشأة تدوين النحو وحكم تعلمه."
+        }
+      ],
+      "canonical_refs": ["livres/shamela/ajroumiya/matn/11371/book.md"],
+      "supporting_refs": ["livres/shamela/ajroumiya/sharh/21509/book.md"],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "ajroumiya-module-03-الكلام-وشروطه",
+      "title": "الكلام وشروطه",
+      "estimated_study_minutes": 20,
+      "audio_spans": [
+        {
+          "lesson_id": "002-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (2)",
+          "start_seconds": 3671,
+          "end_seconds": 4269,
+          "evidence": "تعريف الكلام وشرح اللفظ والتركيب الحقيقي والتقديري."
+        },
+        {
+          "lesson_id": "003-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (3)",
+          "start_seconds": 3,
+          "end_seconds": 539,
+          "evidence": "تمام شروط الكلام بالإفادة والوضع العربي."
+        }
+      ],
+      "canonical_refs": ["livres/shamela/ajroumiya/matn/11371/book.md"],
+      "supporting_refs": ["livres/shamela/ajroumiya/sharh/21509/book.md"],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "ajroumiya-module-04-أقسام-الكلام-وعلاماتها",
+      "title": "أقسام الكلام وعلاماتها",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "003-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (3)",
+          "start_seconds": 540,
+          "end_seconds": 1403,
+          "evidence": "تعريف الاسم والفعل والحرف وعلامات الاسم."
+        },
+        {
+          "lesson_id": "003-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (3)",
+          "start_seconds": 1404,
+          "end_seconds": 1656,
+          "evidence": "علامتا الفعل الماضي."
+        },
+        {
+          "lesson_id": "003-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (3)",
+          "start_seconds": 1712,
+          "end_seconds": 3245,
+          "evidence": "علامات المضارع والأمر والعلامات المشتركة للأفعال."
+        },
+        {
+          "lesson_id": "003-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (3)",
+          "start_seconds": 3383,
+          "end_seconds": 3457,
+          "evidence": "تمييز الحرف بعدم قبول علامات الاسم والفعل."
+        }
+      ],
+      "canonical_refs": ["livres/shamela/ajroumiya/matn/11371/book.md"],
+      "supporting_refs": ["livres/shamela/ajroumiya/sharh/21509/book.md"],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "ajroumiya-module-05-الإعراب-والبناء-والإعراب-المقدر",
+      "title": "الإعراب والبناء والإعراب المقدر",
+      "estimated_study_minutes": 20,
+      "audio_spans": [
+        {
+          "lesson_id": "004-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (4)",
+          "start_seconds": 11,
+          "end_seconds": 1577,
+          "evidence": "الفرق بين الإعراب والبناء وظهور الحركة أو تقديرها وأسباب التقدير."
+        }
+      ],
+      "canonical_refs": ["livres/shamela/ajroumiya/matn/11371/book.md"],
+      "supporting_refs": ["livres/shamela/ajroumiya/sharh/21509/book.md"],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "ajroumiya-module-06-التعذر-والثقل-والمناسبة",
+      "title": "التعذر والثقل والمناسبة",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "005-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (5)",
+          "start_seconds": 1,
+          "end_seconds": 1598,
+          "evidence": "التعذر في الاسم المقصور والمضارع المعتل الآخر بالألف."
+        },
+        {
+          "lesson_id": "006-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (6)",
+          "start_seconds": 1,
+          "end_seconds": 1938,
+          "evidence": "الثقل في المنقوص والمضارع والمناسبة مع ياء المتكلم."
+        }
+      ],
+      "canonical_refs": ["livres/shamela/ajroumiya/matn/11371/book.md"],
+      "supporting_refs": ["livres/shamela/ajroumiya/sharh/21509/book.md"],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "ajroumiya-module-07-العامل-والبناء-والمبنيات-من-الأسماء",
+      "title": "العامل والبناء والمبنيات من الأسماء",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "006-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (6)",
+          "start_seconds": 1942,
+          "end_seconds": 3083,
+          "evidence": "أثر العامل وتعريف البناء ومواضعه في الحروف والأفعال."
+        },
+        {
+          "lesson_id": "007-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (7)",
+          "start_seconds": 0,
+          "end_seconds": 1774,
+          "evidence": "الضمائر وأسماء الإشارة والموصول والاستفهام والشرط وأسماء الأفعال."
+        }
+      ],
+      "canonical_refs": ["livres/shamela/ajroumiya/matn/11371/book.md"],
+      "supporting_refs": ["livres/shamela/ajroumiya/sharh/21509/book.md"],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "ajroumiya-module-08-علامات-الرفع",
+      "title": "علامات الرفع",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "007-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (7)",
+          "start_seconds": 1823,
+          "end_seconds": 3201,
+          "evidence": "أنواع الإعراب والرفع بالضمة والألف في المثنى."
+        },
+        {
+          "lesson_id": "008-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (8)",
+          "start_seconds": 2,
+          "end_seconds": 1350,
+          "evidence": "الرفع بالواو في جمع المذكر السالم وأحكام نونه."
+        }
+      ],
+      "canonical_refs": ["livres/shamela/ajroumiya/matn/11371/book.md"],
+      "supporting_refs": ["livres/shamela/ajroumiya/sharh/21509/book.md"],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "ajroumiya-module-09-الأسماء-الخمسة",
+      "title": "الأسماء الخمسة",
+      "estimated_study_minutes": 20,
+      "audio_spans": [
+        {
+          "lesson_id": "008-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (8)",
+          "start_seconds": 1360,
+          "end_seconds": 3124,
+          "evidence": "إعراب الأسماء الخمسة وشروطها العامة والخاصة وحكم فقد الشروط."
+        }
+      ],
+      "canonical_refs": ["livres/shamela/ajroumiya/matn/11371/book.md"],
+      "supporting_refs": ["livres/shamela/ajroumiya/sharh/21509/book.md"],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "ajroumiya-module-10-الأفعال-الخمسة-وعلامات-النصب",
+      "title": "الأفعال الخمسة وعلامات النصب",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "009-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (9)",
+          "start_seconds": 0,
+          "end_seconds": 1463,
+          "evidence": "صور الأفعال الخمسة وإعرابها وعلامات النصب الأصلية والفرعية."
+        }
+      ],
+      "canonical_refs": ["livres/shamela/ajroumiya/matn/11371/book.md"],
+      "supporting_refs": ["livres/shamela/ajroumiya/sharh/21509/book.md"],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "ajroumiya-module-11-علامات-الجر-والجزم",
+      "title": "علامات الجر والجزم",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "009-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (9)",
+          "start_seconds": 1583,
+          "end_seconds": 2333,
+          "evidence": "الجر بالكسرة والفتحة والياء والفرق بين المنصرف والممنوع من الصرف."
+        },
+        {
+          "lesson_id": "010-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (10)",
+          "start_seconds": 0,
+          "end_seconds": 963,
+          "evidence": "الجزم بالسكون وحذف حرف العلة وحذف النون."
+        }
+      ],
+      "canonical_refs": ["livres/shamela/ajroumiya/matn/11371/book.md"],
+      "supporting_refs": ["livres/shamela/ajroumiya/sharh/21509/book.md"],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "ajroumiya-module-12-خريطة-علامات-الإعراب",
+      "title": "خريطة علامات الإعراب",
+      "estimated_study_minutes": 20,
+      "audio_spans": [
+        {
+          "lesson_id": "010-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (10)",
+          "start_seconds": 966,
+          "end_seconds": 2871,
+          "evidence": "جمع مواضع الإعراب والعلامات الأصلية والنائبة في خريطة واحدة."
+        }
+      ],
+      "canonical_refs": ["livres/shamela/ajroumiya/matn/11371/book.md"],
+      "supporting_refs": ["livres/shamela/ajroumiya/sharh/21509/book.md"],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "ajroumiya-module-13-الممنوع-من-الصرف-في-الأعلام",
+      "title": "الممنوع من الصرف في الأعلام",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "011-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (11)",
+          "start_seconds": 6,
+          "end_seconds": 3524,
+          "evidence": "ضابط الممنوع من الصرف وعلل منع العلم المؤنث والأعجمي والمزيد والمنقول."
+        }
+      ],
+      "canonical_refs": ["livres/shamela/ajroumiya/matn/11371/book.md"],
+      "supporting_refs": ["livres/shamela/ajroumiya/sharh/21509/book.md"],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "ajroumiya-module-14-المركبات-وصيغة-منتهى-الجموع",
+      "title": "المركبات وصيغة منتهى الجموع",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "011-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (11)",
+          "start_seconds": 3524,
+          "end_seconds": 3736,
+          "evidence": "تمهيد العلم المركب والتركيب المزجي."
+        },
+        {
+          "lesson_id": "012-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (12)",
+          "start_seconds": 1,
+          "end_seconds": 3104,
+          "evidence": "المركب الإضافي والإسنادي والمزجي وضابط صيغة منتهى الجموع."
+        }
+      ],
+      "canonical_refs": ["livres/shamela/ajroumiya/matn/11371/book.md"],
+      "supporting_refs": ["livres/shamela/ajroumiya/sharh/21509/book.md"],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "ajroumiya-module-15-الممنوع-من-الصرف-في-الصفات",
+      "title": "الممنوع من الصرف في الصفات",
+      "estimated_study_minutes": 18,
+      "audio_spans": [
+        {
+          "lesson_id": "013-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (13)",
+          "start_seconds": 2,
+          "end_seconds": 1604,
+          "evidence": "منع الصفات على أوزان فعلان وأفعل وفعال ومفعل من الصرف."
+        },
+        {
+          "lesson_id": "013-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (13)",
+          "start_seconds": 2883,
+          "end_seconds": 3117,
+          "evidence": "عودة جر الممنوع من الصرف بالكسرة عند دخول أل أو الإضافة."
+        }
+      ],
+      "canonical_refs": ["livres/shamela/ajroumiya/matn/11371/book.md"],
+      "supporting_refs": ["livres/shamela/ajroumiya/sharh/21509/book.md"],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "ajroumiya-module-16-بناء-الفعل-الماضي-وفعل-الأمر",
+      "title": "بناء الفعل الماضي وفعل الأمر",
+      "estimated_study_minutes": 18,
+      "audio_spans": [
+        {
+          "lesson_id": "013-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (13)",
+          "start_seconds": 1604,
+          "end_seconds": 2883,
+          "evidence": "أحوال بناء الماضي وأحوال بناء فعل الأمر."
+        }
+      ],
+      "canonical_refs": ["livres/shamela/ajroumiya/matn/11371/book.md"],
+      "supporting_refs": ["livres/shamela/ajroumiya/sharh/21509/book.md"],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "ajroumiya-module-17-رفع-المضارع-ونواصبه",
+      "title": "رفع المضارع ونواصبه",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "015-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (15)",
+          "start_seconds": 0,
+          "end_seconds": 1221,
+          "evidence": "بناء المضارع ورفعه وأن المصدرية وأثر الناصب في المبني."
+        },
+        {
+          "lesson_id": "015-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (15)",
+          "start_seconds": 1287,
+          "end_seconds": 3190,
+          "evidence": "لن وإذن وكي ولام التعليل وحتى ولام الجحود."
+        }
+      ],
+      "canonical_refs": ["livres/shamela/ajroumiya/matn/11371/book.md"],
+      "supporting_refs": ["livres/shamela/ajroumiya/sharh/21509/book.md"],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "ajroumiya-module-18-نصب-المضارع-بعد-أو-والفاء-والواو",
+      "title": "نصب المضارع بعد أو والفاء والواو",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "014-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (14)",
+          "start_seconds": 125,
+          "end_seconds": 3071,
+          "evidence": "نصب المضارع بعد أو وفاء السببية وواو المعية وشروط ذلك."
+        }
+      ],
+      "canonical_refs": ["livres/shamela/ajroumiya/matn/11371/book.md"],
+      "supporting_refs": ["livres/shamela/ajroumiya/sharh/21509/book.md"],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "ajroumiya-module-19-جوازم-المضارع-وأدوات-الشرط",
+      "title": "جوازم المضارع وأدوات الشرط",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "017-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (17)",
+          "start_seconds": 0,
+          "end_seconds": 3448,
+          "evidence": "لم ولما ولام الأمر ولا الناهية وأدوات الشرط الجازمة ومعانيها."
+        }
+      ],
+      "canonical_refs": ["livres/shamela/ajroumiya/matn/11371/book.md"],
+      "supporting_refs": ["livres/shamela/ajroumiya/sharh/21509/book.md"],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "ajroumiya-module-20-الفاعل-ونائب-الفاعل",
+      "title": "الفاعل ونائب الفاعل",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "018-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (18)",
+          "start_seconds": 0,
+          "end_seconds": 1215,
+          "evidence": "خريطة المرفوعات وتعريف الفاعل وشروطه."
+        },
+        {
+          "lesson_id": "018-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (18)",
+          "start_seconds": 1320,
+          "end_seconds": 2274,
+          "evidence": "نائب الفاعل وبناء الفعل للمجهول وأغراض حذف الفاعل."
+        }
+      ],
+      "canonical_refs": ["livres/shamela/ajroumiya/matn/11371/book.md"],
+      "supporting_refs": ["livres/shamela/ajroumiya/sharh/21509/book.md"],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "ajroumiya-module-21-المبتدأ-والخبر",
+      "title": "المبتدأ والخبر",
+      "estimated_study_minutes": 20,
+      "audio_spans": [
+        {
+          "lesson_id": "019-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (19)",
+          "start_seconds": 32,
+          "end_seconds": 288,
+          "evidence": "مراجعة المرفوعات وأمثلة المبتدأ والخبر ورفعهما."
+        },
+        {
+          "lesson_id": "019-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (19)",
+          "start_seconds": 311,
+          "end_seconds": 1029,
+          "evidence": "تعريف المبتدأ والخبر وتطبيقهما مع الاسم والضمير."
+        }
+      ],
+      "canonical_refs": ["livres/shamela/ajroumiya/matn/11371/book.md"],
+      "supporting_refs": ["livres/shamela/ajroumiya/sharh/21509/book.md"],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "ajroumiya-module-22-كان-وأخواتها-وأنواع-الخبر",
+      "title": "كان وأخواتها وأنواع الخبر",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {
+          "lesson_id": "019-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (19)",
+          "start_seconds": 1029,
+          "end_seconds": 3095,
+          "evidence": "عمل كان وأخواتها ومعانيها وأفعال الاستمرار وما دام."
+        },
+        {
+          "lesson_id": "020-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (20)",
+          "start_seconds": 0,
+          "end_seconds": 2844,
+          "evidence": "تصرف الأفعال الناسخة والخبر المفرد والجملة وشبه الجملة وتطبيقاتها."
+        }
+      ],
+      "canonical_refs": ["livres/shamela/ajroumiya/matn/11371/book.md"],
+      "supporting_refs": ["livres/shamela/ajroumiya/sharh/21509/book.md"],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "ajroumiya-module-23-إن-وأخواتها-وظن-وأخواتها",
+      "title": "إن وأخواتها وظن وأخواتها",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "021-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (21)",
+          "start_seconds": 76.265,
+          "end_seconds": 1090.71,
+          "evidence": "عمل إن وأن وكأن ولكن ومعانيها وليت للتمني."
+        },
+        {
+          "lesson_id": "021-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (21)",
+          "start_seconds": 1109.41,
+          "end_seconds": 2284.99,
+          "evidence": "لعل وأنواع خبر إن وعمل ظن وأخواتها في المفعولين."
+        }
+      ],
+      "canonical_refs": ["livres/shamela/ajroumiya/matn/11371/book.md"],
+      "supporting_refs": ["livres/shamela/ajroumiya/sharh/21509/book.md"],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "ajroumiya-module-24-المفعول-به-والمفعول-المطلق",
+      "title": "المفعول به والمفعول المطلق",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "022-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (22)",
+          "start_seconds": 18.105,
+          "end_seconds": 1959.7799,
+          "evidence": "مدخل المنصوبات وتعريف المفعول به والمفعول المطلق وأغراضه."
+        },
+        {
+          "lesson_id": "022-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (22)",
+          "start_seconds": 2028.605,
+          "end_seconds": 2462.2651,
+          "evidence": "المفعول المطلق اللفظي والمعنوي."
+        }
+      ],
+      "canonical_refs": ["livres/shamela/ajroumiya/matn/11371/book.md"],
+      "supporting_refs": ["livres/shamela/ajroumiya/sharh/21509/book.md"],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "ajroumiya-module-25-ظرف-الزمان-والمكان",
+      "title": "ظرف الزمان والمكان",
+      "estimated_study_minutes": 18,
+      "audio_spans": [
+        {
+          "lesson_id": "022-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (22)",
+          "start_seconds": 2468.04,
+          "end_seconds": 3123.905,
+          "evidence": "المفعول فيه وتقدير معنى في في ظرف الزمان والمكان."
+        }
+      ],
+      "canonical_refs": ["livres/shamela/ajroumiya/matn/11371/book.md"],
+      "supporting_refs": ["livres/shamela/ajroumiya/sharh/21509/book.md"],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "ajroumiya-module-26-المفعول-لأجله-والمفعول-معه",
+      "title": "المفعول لأجله والمفعول معه",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "023-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (23)",
+          "start_seconds": 312.8,
+          "end_seconds": 2980.885,
+          "evidence": "تعريف المفعول لأجله وشروط نصبه وجره والمفعول معه والفرق بين المعية والعطف."
+        }
+      ],
+      "canonical_refs": ["livres/shamela/ajroumiya/matn/11371/book.md"],
+      "supporting_refs": ["livres/shamela/ajroumiya/sharh/21509/book.md"],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "ajroumiya-module-27-الحال-وصاحبها",
+      "title": "الحال وصاحبها",
+      "estimated_study_minutes": 20,
+      "audio_spans": [
+        {
+          "lesson_id": "024-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (24)",
+          "start_seconds": 87.08,
+          "end_seconds": 3159.1152,
+          "evidence": "تعريف الحال وصاحبها وشرطا الحال ومسوغات تنكير صاحبها."
+        }
+      ],
+      "canonical_refs": ["livres/shamela/ajroumiya/matn/11371/book.md"],
+      "supporting_refs": ["livres/shamela/ajroumiya/sharh/21509/book.md"],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "ajroumiya-module-28-التمييز-وأنواعه",
+      "title": "التمييز وأنواعه",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "025-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (25)",
+          "start_seconds": 61.11,
+          "end_seconds": 3257.98,
+          "evidence": "تمييز المفرد وتمييز الجملة والتحويل عن الفاعل والمفعول والمبتدأ."
+        },
+        {
+          "lesson_id": "025-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (25)",
+          "start_seconds": 3264.015,
+          "end_seconds": 3916.36,
+          "evidence": "المبالغة في النسبة وشرطا التمييز."
+        }
+      ],
+      "canonical_refs": ["livres/shamela/ajroumiya/matn/11371/book.md"],
+      "supporting_refs": ["livres/shamela/ajroumiya/sharh/21509/book.md"],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "ajroumiya-module-29-المنادى-وأنواعه",
+      "title": "المنادى وأنواعه",
+      "estimated_study_minutes": 20,
+      "audio_spans": [
+        {
+          "lesson_id": "026-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (26)",
+          "start_seconds": 26.630001,
+          "end_seconds": 1827.36,
+          "evidence": "العلم المفرد والنكرة المقصودة والمضاف والشبيه به والنكرة غير المقصودة."
+        }
+      ],
+      "canonical_refs": ["livres/shamela/ajroumiya/matn/11371/book.md"],
+      "supporting_refs": ["livres/shamela/ajroumiya/sharh/21509/book.md"],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "ajroumiya-module-30-لا-النافية-للجنس",
+      "title": "لا النافية للجنس",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "026-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (26)",
+          "start_seconds": 1928.305,
+          "end_seconds": 3386.6099,
+          "evidence": "عمل لا النافية للجنس وأنواع اسمها وشروط عملها."
+        }
+      ],
+      "canonical_refs": ["livres/shamela/ajroumiya/matn/11371/book.md"],
+      "supporting_refs": ["livres/shamela/ajroumiya/sharh/21509/book.md"],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "ajroumiya-module-31-الاستثناء-وأدواته",
+      "title": "الاستثناء وأدواته",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "027-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (27)",
+          "start_seconds": 50.205,
+          "end_seconds": 2385.32,
+          "evidence": "أركان الاستثناء وأنواعه وأحكام إلا وغير وسوى وخلا وعدا وحاشا."
+        }
+      ],
+      "canonical_refs": ["livres/shamela/ajroumiya/matn/11371/book.md"],
+      "supporting_refs": ["livres/shamela/ajroumiya/sharh/21509/book.md"],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "ajroumiya-module-32-المجرورات-والإضافة",
+      "title": "المجرورات والإضافة",
+      "estimated_study_minutes": 20,
+      "audio_spans": [
+        {
+          "lesson_id": "028-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (28)",
+          "start_seconds": 28.33,
+          "end_seconds": 838.175,
+          "evidence": "أنواع المجرورات وحروف الجر الخاصة ومعاني الإضافة."
+        }
+      ],
+      "canonical_refs": ["livres/shamela/ajroumiya/matn/11371/book.md"],
+      "supporting_refs": ["livres/shamela/ajroumiya/sharh/21509/book.md"],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "ajroumiya-module-33-النعت-والنكرة-والمعرفة",
+      "title": "النعت والنكرة والمعرفة",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "028-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (28)",
+          "start_seconds": 838.36,
+          "end_seconds": 2048.6,
+          "evidence": "مطابقة النعت للمنعوت والفرق بين النكرة وأنواع المعرفة."
+        }
+      ],
+      "canonical_refs": ["livres/shamela/ajroumiya/matn/11371/book.md"],
+      "supporting_refs": ["livres/shamela/ajroumiya/sharh/21509/book.md"],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "ajroumiya-module-34-عطف-النسق-ومعاني-حروفه",
+      "title": "عطف النسق ومعاني حروفه",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "029-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (29)",
+          "start_seconds": 47.524998,
+          "end_seconds": 2554.205,
+          "evidence": "معاني الواو والفاء وثم وأو وإما وأم وحتى وشروط العطف بها."
+        },
+        {
+          "lesson_id": "029-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (29)",
+          "start_seconds": 2571.05,
+          "end_seconds": 2803.7852,
+          "evidence": "معاني لا ولكن وبل في العطف."
+        }
+      ],
+      "canonical_refs": ["livres/shamela/ajroumiya/matn/11371/book.md"],
+      "supporting_refs": ["livres/shamela/ajroumiya/sharh/21509/book.md"],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "ajroumiya-module-35-التوكيد-والبدل",
+      "title": "التوكيد والبدل",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {
+          "lesson_id": "029-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (29)",
+          "start_seconds": 2832.855,
+          "end_seconds": 2988.5698,
+          "evidence": "التوكيد اللفظي بالتكرار والمرادف."
+        },
+        {
+          "lesson_id": "030-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (30)",
+          "start_seconds": 9.679999,
+          "end_seconds": 1085.765,
+          "evidence": "ألفاظ التوكيد المعنوي وأحكامها وتوابع أجمع."
+        },
+        {
+          "lesson_id": "030-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (30)",
+          "start_seconds": 1098.5599,
+          "end_seconds": 1888.1,
+          "evidence": "تعريف البدل وتمييزه من العطف وأنواعه الأربعة."
+        }
+      ],
+      "canonical_refs": ["livres/shamela/ajroumiya/matn/11371/book.md"],
+      "supporting_refs": ["livres/shamela/ajroumiya/sharh/21509/book.md"],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    }
+  ],
+  "excluded_spans": [
+    {
+      "lesson_id": "016-شرح المقدمة الآجرومية للأستاذ محمود الشافعي (16)",
+      "start_seconds": 1,
+      "end_seconds": 1590,
+      "reason": "إعادة مطابقة لمادة التعذر والاسم المقصور والمضارع المعتل الواردة في الدرس الخامس."
+    }
+  ]
+}

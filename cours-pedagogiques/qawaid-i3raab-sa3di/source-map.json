@@ -1,0 +1,1239 @@
+{
+  "schema_version": 2,
+  "course_id": "qawaid-i3raab-sa3di",
+  "module_count_range": [
+    30,
+    55
+  ],
+  "source_inventory": {
+    "canonical_available": true
+  },
+  "modules": [
+    {
+      "id": "qawaid-i3raab-sa3di-module-01-منزلة-الكتاب-وخريطة-أبوابه",
+      "title": "منزلة الكتاب وخريطة أبوابه",
+      "estimated_study_minutes": 20,
+      "audio_spans": [
+        {
+          "lesson_id": "001-1",
+          "start_seconds": 1,
+          "end_seconds": 1793,
+          "evidence": "نسبة أصل ابن هشام ونظمه وشرح السعدي، ثم خريطة أبواب الجمل وشبه الجملة والكلمات والألفاظ المحررة."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-02-شروط-الدراسة-ومنهج-الإعراب-التام",
+      "title": "شروط الدراسة ومنهج الإعراب التام",
+      "estimated_study_minutes": 18,
+      "audio_spans": [
+        {
+          "lesson_id": "001-1",
+          "start_seconds": 1793,
+          "end_seconds": 2690,
+          "evidence": "اشتراط أصل سابق في النحو وبيان أن الفهم لا مجرد الحضور هو المقصود بالدراسة."
+        },
+        {
+          "lesson_id": "002-2",
+          "start_seconds": 240,
+          "end_seconds": 1325,
+          "evidence": "نقد الاقتصار على قول اسم إشارة أو مضاف، ووجوب ذكر الموقع والحكم والعلامة."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-03-الإسناد-والفرق-بين-الكلام-والجملة",
+      "title": "الإسناد والفرق بين الكلام والجملة",
+      "estimated_study_minutes": 23,
+      "audio_spans": [
+        {
+          "lesson_id": "002-2",
+          "start_seconds": 1325,
+          "end_seconds": 3496,
+          "evidence": "ركنا الإسناد واشتراط الإفادة في الكلام دون مطلق الجملة، بالأمثلة الواضحة من الدرس."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-04-ضابط-الجملة-الاسمية-وأسماء-الأفعال",
+      "title": "ضابط الجملة الاسمية وأسماء الأفعال",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "003-3",
+          "start_seconds": 240,
+          "end_seconds": 2926,
+          "evidence": "بدء الجملة باسم صريح أو مؤول أو اسم فعل، وعدم تغيير الحروف الداخلة أصل تسميتها."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-05-المبتدأ-المكتفي-بمرفوعه-والجملة-الفعلية",
+      "title": "المبتدأ المكتفي بمرفوعه والجملة الفعلية",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "003-3",
+          "start_seconds": 2926,
+          "end_seconds": 4271,
+          "evidence": "الوصف الرافع لفاعل أو نائب فاعل يسد مسد الخبر."
+        },
+        {
+          "lesson_id": "004-4",
+          "start_seconds": 211,
+          "end_seconds": 1833,
+          "evidence": "الفعل التام والناقص والنداء المقدر بفعل، بضبط القاعدة من النص الكانوني دون اللهجات المشوشة."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-06-تقدم-المعمول-والجملة-الكبرى-والصغرى",
+      "title": "تقدم المعمول والجملة الكبرى والصغرى",
+      "estimated_study_minutes": 21,
+      "audio_spans": [
+        {
+          "lesson_id": "004-4",
+          "start_seconds": 1833,
+          "end_seconds": 2645,
+          "evidence": "بقاء الجملة فعلية عند تقدم معمول الفعل."
+        },
+        {
+          "lesson_id": "005-5",
+          "start_seconds": 81,
+          "end_seconds": 1018,
+          "evidence": "تمييز الجملة الكبرى المحتوية على جملة من الصغرى الداخلة فيها، مع تحرير قيد الخبر."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-07-معنى-المحل-والجملة-الواقعة-خبرا",
+      "title": "معنى المحل والجملة الواقعة خبرا",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "006-6",
+          "start_seconds": 240,
+          "end_seconds": 3940,
+          "evidence": "معنى وقوع الجملة موقع المفرد، والأنواع السبعة، وتفصيل الجملة الخبرية ومحالها."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-08-الجملة-الحالية-والمفعولية-والتعليق",
+      "title": "الجملة الحالية والمفعولية والتعليق",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {
+          "lesson_id": "007-7",
+          "start_seconds": 240,
+          "end_seconds": 3923,
+          "evidence": "الجملة في محل نصب حالا أو مفعولا به، ومواضع المفعولية وتعليق أفعال القلوب، دون الشواهد المصحفة."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-09-الجملة-المضاف-إليها",
+      "title": "الجملة المضاف إليها",
+      "estimated_study_minutes": 21,
+      "audio_spans": [
+        {
+          "lesson_id": "008-8",
+          "start_seconds": 201,
+          "end_seconds": 2516,
+          "evidence": "إضافة الظروف إلى الجمل وجوبا أو جوازا، وثبوت محل الجر للجملة المضاف إليها."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-10-جواب-الشرط-المقترن-بالفاء-أو-إذا",
+      "title": "جواب الشرط المقترن بالفاء أو إذا",
+      "estimated_study_minutes": 23,
+      "audio_spans": [
+        {
+          "lesson_id": "009-9",
+          "start_seconds": 1,
+          "end_seconds": 1430,
+          "evidence": "محل جواب الشرط الجازم المقترن بالفاء أو إذا الفجائية ووظيفة الرابط."
+        },
+        {
+          "lesson_id": "010-10",
+          "start_seconds": 240,
+          "end_seconds": 1465,
+          "evidence": "مواضع وجوب ربط الجواب بالفاء عند عدم صلاحيته لمباشرة أداة الشرط."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-11-الجملة-التابعة-لمفرد-أو-لجملة",
+      "title": "الجملة التابعة لمفرد أو لجملة",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "010-10",
+          "start_seconds": 1465,
+          "end_seconds": 3915,
+          "evidence": "اتباع الجملة للمفرد في النعت والبدل والعطف، واتباعها لجملة ذات محل."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-12-الجملة-الابتدائية-والاستئنافية",
+      "title": "الجملة الابتدائية والاستئنافية",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "011-11",
+          "start_seconds": 226,
+          "end_seconds": 2829,
+          "evidence": "الجملة المفتتح بها والمنقطعة نحوا عما قبلها، مع بيان احتمال الاستئناف وغيره بحسب السياق."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-13-الجملة-الاعتراضية-ومواضعها",
+      "title": "الجملة الاعتراضية ومواضعها",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "012-12",
+          "start_seconds": 86,
+          "end_seconds": 1077,
+          "evidence": "تعريف الاعتراض وغرضيه ووقوعه بين أجزاء متلازمة."
+        },
+        {
+          "lesson_id": "013-13",
+          "start_seconds": 143,
+          "end_seconds": 693,
+          "evidence": "اتساع الاعتراض بين الموصول وصلته وأجزاء الصلة والقسم وجوابه، دون نقل الأبيات المضطربة."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-14-جواب-الشرط-والقسم-بلا-محل",
+      "title": "جواب الشرط والقسم بلا محل",
+      "estimated_study_minutes": 20,
+      "audio_spans": [
+        {
+          "lesson_id": "013-13",
+          "start_seconds": 693,
+          "end_seconds": 1793,
+          "evidence": "جواب الشرط غير الجازم أو غير المقترن، وجواب القسم الملفوظ أو المقدر."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-15-الجملة-المفسرة-والتابعة-لما-لا-محل-له",
+      "title": "الجملة المفسرة والتابعة لما لا محل له",
+      "estimated_study_minutes": 20,
+      "audio_spans": [
+        {
+          "lesson_id": "014-14",
+          "start_seconds": 90,
+          "end_seconds": 1134,
+          "evidence": "الجملة الكاشفة للمبهم واحتمال التفسير مع غيره، ثم التابعة لجملة لا محل لها."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-16-شروط-الجملة-الحالية-والوصفية",
+      "title": "شروط الجملة الحالية والوصفية",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "015-15",
+          "start_seconds": 240,
+          "end_seconds": 3956,
+          "evidence": "قاعدة الجملة بعد المعرفة والنكرة، وشروط الخبرية والفضلية والرابط وانتفاء المانع وفساد المعنى."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-17-المحض-وغير-المحض-في-الحال-والنعت",
+      "title": "المحض وغير المحض في الحال والنعت",
+      "estimated_study_minutes": 23,
+      "audio_spans": [
+        {
+          "lesson_id": "016-16",
+          "start_seconds": 240,
+          "end_seconds": 3551,
+          "evidence": "وجوب الحال بعد المعرفة المحضة والنعت بعد النكرة المحضة، واحتمال الوجهين في غير المحض، بألفاظ القاعدة المحققة."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-18-شبه-الجملة-وأنواع-التعلق",
+      "title": "شبه الجملة وأنواع التعلق",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "017-17",
+          "start_seconds": 235,
+          "end_seconds": 2942,
+          "evidence": "نوعا شبه الجملة، وتعلق الجار والمجرور بالفعل أو معناه، وصلته بالفعل المتعدي واللازم."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-19-مستثنيات-التعلق-والحروف-الجارة",
+      "title": "مستثنيات التعلق والحروف الجارة",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {
+          "lesson_id": "018-18",
+          "start_seconds": 1,
+          "end_seconds": 1088,
+          "evidence": "الخلاف في تعلق كاف التشبيه واستعمال لولا مع الضمير."
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 240,
+          "end_seconds": 4028,
+          "evidence": "الأصلي والزائد وشبه الزائد وحروف الاستثناء؛ القواعد مثبتة من الشرح دون نسبة شاهد ASR مضطرب."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-20-شبه-الجملة-حالا-أو-نعتا",
+      "title": "شبه الجملة حالا أو نعتا",
+      "estimated_study_minutes": 18,
+      "audio_spans": [
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 72,
+          "end_seconds": 904,
+          "evidence": "جريان قاعدة المعرفة والنكرة والمحَض وغير المحض في الجار والمجرور والظرف."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-21-مواقع-شبه-الجملة-ومتعلقه-المحذوف",
+      "title": "مواقع شبه الجملة ومتعلقه المحذوف",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "021-21",
+          "start_seconds": 240,
+          "end_seconds": 3222,
+          "evidence": "وقوع شبه الجملة خبرا وحالا ونعتا وصلة، والخلاف في تقدير المتعلق فعلا أو اسما والكون العام والخاص."
+        },
+        {
+          "lesson_id": "022-22",
+          "start_seconds": 84,
+          "end_seconds": 1060,
+          "evidence": "تمييز الظرف المستقر من اللغو باختبار المتعلق والضمير والمعنى."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-22-رفع-الفاعل-بشبه-الجملة",
+      "title": "رفع الفاعل بشبه الجملة",
+      "estimated_study_minutes": 23,
+      "audio_spans": [
+        {
+          "lesson_id": "023-23",
+          "start_seconds": 1,
+          "end_seconds": 3137,
+          "evidence": "إعراب المرفوع بعد شبه الجملة مبتدأ أو فاعلا، ومواضع الاعتماد عند البصريين واتساع الكوفيين، ثم إلحاق الظرف."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-23-منهج-باب-الكلمات-وقط-وعوض-وأبدا",
+      "title": "منهج باب الكلمات وقط وعوض وأبدا",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "024-25",
+          "start_seconds": 213,
+          "end_seconds": 2670,
+          "evidence": "تقسيم الكلمات بحسب الأوجه، واستعمال قط للماضي وعوض للمستقبل والخلاف في عد أبدا."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-24-أجل-وبلى-وجواب-الخبر-والطلب",
+      "title": "أجل وبلى وجواب الخبر والطلب",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "025-26",
+          "start_seconds": 1,
+          "end_seconds": 675,
+          "evidence": "أجل لتصديق المخبر ووعد الطالب وتمييزها من الأجل الاسمي."
+        },
+        {
+          "lesson_id": "026-27",
+          "start_seconds": 135,
+          "end_seconds": 1692,
+          "evidence": "بلى لإبطال النفي، والفرق بينها وبين نعم وأجل في التصديق والإعلام والوعد."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-25-إذا-الظرفية-والفجائية",
+      "title": "إذا الظرفية والفجائية",
+      "estimated_study_minutes": 19,
+      "audio_spans": [
+        {
+          "lesson_id": "027-28",
+          "start_seconds": 1,
+          "end_seconds": 1130,
+          "evidence": "إذا للزمن المستقبل المتضمن معنى الشرط وإذا للمفاجأة، وضابط الجملة الداخلة بعدها."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-26-إذ-الظرفية-والفجائية-والتعليلية",
+      "title": "إذ الظرفية والفجائية والتعليلية",
+      "estimated_study_minutes": 20,
+      "audio_spans": [
+        {
+          "lesson_id": "028-29",
+          "start_seconds": 109,
+          "end_seconds": 1370,
+          "evidence": "أوجه إذ في الزمان والمفاجأة والتعليل وما قيل في زيادتها، مع حذف الشاهد غير المستقر."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-27-لما-ونعم-وتعدد-وظائف-الجواب",
+      "title": "لما ونعم وتعدد وظائف الجواب",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "029-30",
+          "start_seconds": 1,
+          "end_seconds": 2111,
+          "evidence": "لما الوجودية والجازمة وبمعنى إلا، ثم نعم للتصديق والوعد والإعلام بحسب نوع الكلام السابق."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-28-حتى-وكلا",
+      "title": "حتى وكلا",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {
+          "lesson_id": "030-31",
+          "start_seconds": 240,
+          "end_seconds": 4528,
+          "evidence": "حتى الجارة والعاطفة والابتدائية وشروط العطف والغاية، ثم أوجه كلا، دون نسبة الشواهد الشعرية المصحفة."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-29-لا-الناهية-والنافية-والزائدة",
+      "title": "لا الناهية والنافية والزائدة",
+      "estimated_study_minutes": 23,
+      "audio_spans": [
+        {
+          "lesson_id": "031-32",
+          "start_seconds": 214,
+          "end_seconds": 2675,
+          "evidence": "لا للنهي والنفي، وعملها عمل إن أو ليس في الجملة الاسمية، ومواضع زيادتها."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-30-لولا-الامتناعية-والطلبية",
+      "title": "لولا الامتناعية والطلبية",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "032-33",
+          "start_seconds": 65,
+          "end_seconds": 800,
+          "evidence": "لولا الامتناعية وحذف خبر مبتدئها في الكون العام."
+        },
+        {
+          "lesson_id": "033-34",
+          "start_seconds": 227,
+          "end_seconds": 2842,
+          "evidence": "لولا للعرض والتحضيض والتوبيخ وما قيل في الاستفهام والنفي، مع إبقاء الوجه المختلف فيه خلافيا."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-31-إن-المكسورة-وأوجهها",
+      "title": "إن المكسورة وأوجهها",
+      "estimated_study_minutes": 23,
+      "audio_spans": [
+        {
+          "lesson_id": "034-35",
+          "start_seconds": 167,
+          "end_seconds": 2095,
+          "evidence": "إن الشرطية والنافية والمخففة والزائدة وعملها عمل ليس في لغة، دون الشاهد الشعري المشوش."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-32-أن-المصدرية-والزائدة-والمفسرة",
+      "title": "أن المصدرية والزائدة والمفسرة",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "035-36",
+          "start_seconds": 162,
+          "end_seconds": 2035,
+          "evidence": "أن المصدرية والزائدة ومواضع الزيادة وشروط المفسرة."
+        },
+        {
+          "lesson_id": "036-37",
+          "start_seconds": 115,
+          "end_seconds": 997,
+          "evidence": "الفرق بين المصدرية والمفسرة واشتراط اتحاد المعنى في التفسير."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-33-أن-المخففة-ومن",
+      "title": "أن المخففة ومن",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "036-37",
+          "start_seconds": 997,
+          "end_seconds": 1438,
+          "evidence": "مصطلح الصلة تمهيدا للحروف المصدرية."
+        },
+        {
+          "lesson_id": "037-38",
+          "start_seconds": 131,
+          "end_seconds": 1641,
+          "evidence": "أن المخففة وضمير الشأن والفصل بينها وبين الناصبة، ثم أوجه من؛ القراءات تحال إلى النص المحقق."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-34-أي-وأوجهها-الخمسة",
+      "title": "أي وأوجهها الخمسة",
+      "estimated_study_minutes": 21,
+      "audio_spans": [
+        {
+          "lesson_id": "038-39",
+          "start_seconds": 240,
+          "end_seconds": 1466,
+          "evidence": "أي الشرطية والاستفهامية والموصولة والوصفية والوصلة لنداء ما فيه أل."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-35-لو-الشرطية-والمصدرية-والطلبية",
+      "title": "لو الشرطية والمصدرية والطلبية",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "038-39",
+          "start_seconds": 1466,
+          "end_seconds": 3918,
+          "evidence": "لو للشرط الماضي أو المستقبل والتمني والعرض والتحضيض والمصدرية بعد ود."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-36-قد-الاسمية-واسم-الفعل",
+      "title": "قد الاسمية واسم الفعل",
+      "estimated_study_minutes": 19,
+      "audio_spans": [
+        {
+          "lesson_id": "039-40",
+          "start_seconds": 114,
+          "end_seconds": 1431,
+          "evidence": "قد بمعنى حسب وقد اسم الفعل بمعنى يكفي، وإعرابها أو بناؤها ونون الوقاية."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-37-قد-الحرفية-ومعانيها",
+      "title": "قد الحرفية ومعانيها",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "040-41",
+          "start_seconds": 1,
+          "end_seconds": 1919,
+          "evidence": "قد للتحقيق والتوقع والتقريب والتقليل والتكثير، مع عرض الخلاف في حمل بعض المواضع دون الشاهد المصحف."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-38-أوجه-الواو-الثمانية",
+      "title": "أوجه الواو الثمانية",
+      "estimated_study_minutes": 23,
+      "audio_spans": [
+        {
+          "lesson_id": "041-42",
+          "start_seconds": 231,
+          "end_seconds": 2009,
+          "evidence": "واو الاستئناف والحال والمعية والجمع والقسم ورب والعطف والزيادة، والخلاف في واو الثمانية."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-39-ما-الاسمية-وأقسامها",
+      "title": "ما الاسمية وأقسامها",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "041-42",
+          "start_seconds": 2009,
+          "end_seconds": 2899,
+          "evidence": "مدخل ما الاسمية: الشرط والموصول والاستفهام والنكرة الموصوفة."
+        },
+        {
+          "lesson_id": "042-43",
+          "start_seconds": 176,
+          "end_seconds": 2202,
+          "evidence": "الأقسام السبعة لما الاسمية، والفرق بين المعرفة والنكرة التامة والناقصة."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-40-ما-الحرفية-وأقسامها",
+      "title": "ما الحرفية وأقسامها",
+      "estimated_study_minutes": 20,
+      "audio_spans": [
+        {
+          "lesson_id": "043-44",
+          "start_seconds": 78,
+          "end_seconds": 986,
+          "evidence": "ما النافية والمصدرية الظرفية وغير الظرفية والزائدة والكافة عن أعمال مختلفة."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-41-تحرير-مصطلحات-الأدوات-والعوامل",
+      "title": "تحرير مصطلحات الأدوات والعوامل",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "044-45",
+          "start_seconds": 235,
+          "end_seconds": 2037,
+          "evidence": "كمال عبارة الإعراب، وتحرير المبني للمجهول وقد ولن ولم وأما وفاء جواب الشرط والإضافة وفاء السببية وحروف العطف، بالصياغات الكانونية."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "qawaid-i3raab-sa3di-module-42-البحث-عن-المهم-في-الإعراب",
+      "title": "البحث عن المهم في الإعراب",
+      "estimated_study_minutes": 19,
+      "audio_spans": [
+        {
+          "lesson_id": "044-45",
+          "start_seconds": 2037,
+          "end_seconds": 2938,
+          "evidence": "طريقة تسمية الضمير والحرف، ووجوب بيان العامل والمتعلق وصلة الموصول ومحل الجملة بدل الاقتصار على الاسم العام."
+        }
+      ],
+      "canonical_refs": [
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.doc",
+        "livres/pdf/qawaid-i3raab-sa3di/sharh/al-taaliq-wa-kashf-al-niqab-sadi.pdf"
+      ],
+      "supporting_refs": [
+        "livres/shamela/qawaid-i3raab-sa3di/matn/5352/book.md",
+        "livres/shamela/qawaid-i3raab-sa3di/sharh-base/6973/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    }
+  ],
+  "excluded_spans": [
+    {
+      "lesson_id": "001-1",
+      "start_seconds": 2690,
+      "end_seconds": 2712,
+      "reason": "إيقاف التسجيل قبل كلام غير تعليمي؛ لا مادة نحوية جديدة."
+    },
+    {
+      "lesson_id": "027-28",
+      "start_seconds": 1130,
+      "end_seconds": 1176,
+      "reason": "حديث عن إحضار نسخة الكتاب في الأسبوع التالي؛ إجراء لوجستي فقط."
+    },
+    {
+      "lesson_id": "032-33",
+      "start_seconds": 800,
+      "end_seconds": 821,
+      "reason": "تأجيل بقية معاني لولا إلى الدرس التالي؛ لا شرح مستقل في هذه الثواني."
+    }
+  ]
+}

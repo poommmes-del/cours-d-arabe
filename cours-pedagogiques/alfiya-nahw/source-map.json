@@ -1,0 +1,3972 @@
+{
+  "schema_version": 2,
+  "course_id": "alfiya-nahw",
+  "module_count_range": [
+    70,
+    110
+  ],
+  "source_inventory": {
+    "canonical_available": true
+  },
+  "modules": [
+    {
+      "id": "alfiya-nahw-module-01-مقدمة-الألفية-وعلامات-الاسم",
+      "title": "مقدمة الألفية وعلامات الاسم",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "001-1",
+          "start_seconds": 2522,
+          "end_seconds": 2528,
+          "evidence": "الأنواع الثلاثة الاسمُ والفعلُ والحرف هي اقسامُ الكلمة هي اقسامُ"
+        },
+        {
+          "lesson_id": "001-1",
+          "start_seconds": 874,
+          "end_seconds": 880,
+          "evidence": "كمثل رجل، كمثل بيت، كمثل ولد؟ ماذا قالوا في تعريف الاسم؟"
+        },
+        {
+          "lesson_id": "001-1",
+          "start_seconds": 10,
+          "end_seconds": 14,
+          "evidence": "قبل منظومة ابن مالك رحمه الله تعالى وسمّاها الألفية"
+        },
+        {
+          "lesson_id": "002-2",
+          "start_seconds": 1318,
+          "end_seconds": 1325,
+          "evidence": "أنتم يا إخواني أم لا؟ أظنُّ كلُّنا يعرفه يعني، أتتدرس الألفية مرَّ عليك في قَطرِ الندم أو في المتممة"
+        },
+        {
+          "lesson_id": "002-2",
+          "start_seconds": 3086,
+          "end_seconds": 3093,
+          "evidence": "والتنوين الغالي؛ لأنهما ليس خاصَين بالاسم، أليسَ كذلك؟ أنتما يا إخواني أم لا؟"
+        },
+        {
+          "lesson_id": "002-2",
+          "start_seconds": 2359,
+          "end_seconds": 2364,
+          "evidence": "تمكين اليسي كذلك لانه قال ليلحق الاسماء ماذا؟ لم يقل المنصرف أو غير"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-02-علامات-الفعل-وبناء-الماضي-والأمر",
+      "title": "علامات الفعل وبناء الماضي والأمر",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "003-3",
+          "start_seconds": 3376,
+          "end_seconds": 3386,
+          "evidence": "أشار إلى ان المعرب قد يكون صحيحا اخر وقد يكون معتلا اخر. وهذا الصحيح الاخر تظهر عليه علامات الاعراب. وأمّا المعتل الاخر فتقدر عليه علامات."
+        },
+        {
+          "lesson_id": "003-3",
+          "start_seconds": 2980,
+          "end_seconds": 2986,
+          "evidence": "والثالثُ شبهه له في النيابة عن الفعل وعدم التأثُّل بالعامل. وذلك كأسماء الأفعال"
+        },
+        {
+          "lesson_id": "003-3",
+          "start_seconds": 129,
+          "end_seconds": 133,
+          "evidence": "لذلكَ قلنا اسمُ الفعلِ قد يدل علي الامر، لكن لا يقال عنه أمر،"
+        },
+        {
+          "lesson_id": "004-4",
+          "start_seconds": 1013,
+          "end_seconds": 1022,
+          "evidence": "الذي فيه اعراب وبناء هذا سنؤخر الى ان نر هذا الكلام عن الماضي والارض قال ابن عقيل الرحمه الله تعالى"
+        },
+        {
+          "lesson_id": "004-4",
+          "start_seconds": 73,
+          "end_seconds": 77,
+          "evidence": "اتفق المحاد على ان الفعل الماضي مبني والمشهور"
+        },
+        {
+          "lesson_id": "004-4",
+          "start_seconds": 2425,
+          "end_seconds": 2435,
+          "evidence": "فالعلماء اذا كان الفعل من الافعال الخمسه هكذا ينتهي بنون واتصلت به يوم المتكلم وقبلها طبعا نون الوقاية فلك في النونين ثلاثة احوال."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-03-الإعراب-والبناء-وعلاماتهما",
+      "title": "الإعراب والبناء وعلاماتهما",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "005-5",
+          "start_seconds": 1815,
+          "end_seconds": 1833,
+          "evidence": "جعل الحركات مقدره لو كان الاعراب بالحركات فلما جاءت هذه الحروف لنص لما كانت في الرفع بالواو وفي النصف بالالف وفي الجرب الياء انتم معي يا اخوانا ام لا فالقول الاول القول المشهور يعن"
+        },
+        {
+          "lesson_id": "006-6",
+          "start_seconds": 2416,
+          "end_seconds": 2425,
+          "evidence": "الإعراب في المثنى والملحق به بحركه مقدره على الالف رفعه والياء نصبا وجرا كما قال"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-04-المثنى-وجمع-المذكر-السالم",
+      "title": "المثنى وجمع المذكر السالم",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "007-7",
+          "start_seconds": 2614,
+          "end_seconds": 2619,
+          "evidence": "تكلم عن الملحق بالمثنى تكلم عن الملحق بجمع المذكر السالم كذلك"
+        },
+        {
+          "lesson_id": "007-7",
+          "start_seconds": 2639,
+          "end_seconds": 2645,
+          "evidence": "في الملحق بالمثنى نقول هنا في الملحق بالمذكر السالب الملحق بالمذكر السالب الفاظ تشبه"
+        },
+        {
+          "lesson_id": "007-7",
+          "start_seconds": 3244,
+          "end_seconds": 3248,
+          "evidence": "انتم معي لكن جمعت كذلك على صوره الجمع المذكر السالم"
+        },
+        {
+          "lesson_id": "008-8",
+          "start_seconds": 2354,
+          "end_seconds": 2359,
+          "evidence": "نون المثنى مكسوره مطلقه ونون المذكر السالم مفتوحه ها"
+        },
+        {
+          "lesson_id": "008-8",
+          "start_seconds": 2761,
+          "end_seconds": 2772,
+          "evidence": "في المثنى والكسر في المذكر السالف يعني ظاهر من كلامه انهما على نفس الدرجه كلاهما لغه يعني الظاهر من كلام ابن مالك لكن ابن عقيل قال"
+        },
+        {
+          "lesson_id": "008-8",
+          "start_seconds": 2434,
+          "end_seconds": 2441,
+          "evidence": "والقليل في المذكر السالب هو الكث هو الكثير في في المثنى انتم معي لانهما متعاكسان"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-05-جمع-المؤنث-والنكرة-والمعرفة",
+      "title": "جمع المؤنث والنكرة والمعرفة",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "009-9",
+          "start_seconds": 1018,
+          "end_seconds": 1028,
+          "evidence": "مجرى جِمع المؤنث السائن في أنها تُنصب من كسره ، و ليستَ بجمع مؤنث السائن بل هي مُلحقة به ، وذلك لأنها لا مُفردَ لها من لفظها جميلٌ"
+        },
+        {
+          "lesson_id": "009-9",
+          "start_seconds": 821,
+          "end_seconds": 832,
+          "evidence": "مع انها على صوره جمّ المؤنث السالم الا أننا لا يجوز ان نقول هي منه لان مفردها ليس من لفظ هكذا فمفردها"
+        },
+        {
+          "lesson_id": "009-9",
+          "start_seconds": 508,
+          "end_seconds": 515,
+          "evidence": "المؤنث السالم الذي معنا نابت الكسرة عن الفتحة في النصف. والمبدوع من الصرف الذي سياتي نابت"
+        },
+        {
+          "lesson_id": "010-10",
+          "start_seconds": 881,
+          "end_seconds": 888,
+          "evidence": "والمعرفة ستّ أنواع الضمير والعالم والإشارة والموصول والمُعرّض بألوى المضافر. أليس كذلك؟"
+        },
+        {
+          "lesson_id": "010-10",
+          "start_seconds": 20,
+          "end_seconds": 27,
+          "evidence": "انتقل ابن مالك عليه رحمةُ الله تعالى إلى باب الجديد، وهو باب النكرة والمعرفة"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-06-الضمير-واستتاره",
+      "title": "الضمير واستتاره",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "011-11",
+          "start_seconds": 3030,
+          "end_seconds": 3039,
+          "evidence": "يقاس لا يقال هذا الضمير يأتي مرفوعا ومنصوبا ومجرور لان احواله تختلف هو يأتي مرفوعا في حالة انفصام ويأتي منصوبا او مجرورا في حالة الانتصاب."
+        },
+        {
+          "lesson_id": "011-11",
+          "start_seconds": 881,
+          "end_seconds": 893,
+          "evidence": "الضمير المنفصل انا نحن انت اياك اياه يقع في ابتداء الكلام لا بأس. ويقع بعد الا لا بأس، بدون أي ضرورة. في الاختيار بدون ضرورات."
+        },
+        {
+          "lesson_id": "011-11",
+          "start_seconds": 1055,
+          "end_seconds": 1065,
+          "evidence": "الضرورات تبيح المحظورات لا مشكلة. لكن في اختيار بدون ضرورة. في الكلام الذي ليس بشعر. لا يجوز ان يأتي هذا الضمير هكذا."
+        },
+        {
+          "lesson_id": "012-12",
+          "start_seconds": 443,
+          "end_seconds": 454,
+          "evidence": "ممكن أم لا ؟ زيدٌ سافرَ اخوهُ سفراً ظاهراً في مكانه واصبح فاعلاً بدل الضمير أم لا؟ صحيح؟ أم لا؟ هل يمكن أن تفعل هذا في المستذئب وجوباً؟ لا؟"
+        },
+        {
+          "lesson_id": "012-12",
+          "start_seconds": 209,
+          "end_seconds": 219,
+          "evidence": "صحيحا ام لا لكن لا يجوز اظهار الضمير في هذه الحاله لذلك يقولون الضمير المستتم من جنس الضمير ماذا? من جنس الضمير المتصل."
+        },
+        {
+          "lesson_id": "012-12",
+          "start_seconds": 43,
+          "end_seconds": 50,
+          "evidence": "اربعه مواضع يستتر فيها الضمير الوجود بعد الامر للمفرد المخاطب بعد المضارع المبدوء بالهمزه"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-07-الضمير-المتصل-والمنفصل",
+      "title": "الضمير المتصل والمنفصل",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "013-13",
+          "start_seconds": 99,
+          "end_seconds": 111,
+          "evidence": "ليس مشكلة. فرع الضمير اياي اياما اياك اياك اياكما و هذا الكلام قال ابن عقيل عليه رمة الله تقدم ان الضمير ينقسم الى مستتر والى بارز وسبق"
+        },
+        {
+          "lesson_id": "013-13",
+          "start_seconds": 1721,
+          "end_seconds": 1731,
+          "evidence": "واضحِ هذا الكلام؟ كنت هو. اي كنت انا المدرسة الذي تسألوا عنه وتكلمني عليه الآل. واضح المعنى الان؟ اذا الخبر كان هذا الضمير أم لا؟"
+        },
+        {
+          "lesson_id": "013-13",
+          "start_seconds": 1441,
+          "end_seconds": 1450,
+          "evidence": "انتم معي اذا اتفق نوع الضميرين وجب الانفصال وجب الانفصال ليس وجب الاتصال وجب ماذا ؟ اقول لقد اعطيتك اياك"
+        },
+        {
+          "lesson_id": "014-14",
+          "start_seconds": 907,
+          "end_seconds": 912,
+          "evidence": "قد موتوا ماذا يقصد بهذا الكلام ؟ عندما الضمير من الضمير المتصلة"
+        },
+        {
+          "lesson_id": "014-14",
+          "start_seconds": 333,
+          "end_seconds": 343,
+          "evidence": "كما فعلنا. لكن لو نظرنا سنجد ان لفظ الضميرين مختلف. هذا مفرد مذكر هذا مفرد. هنا لا باس لا يقلانا قل يجب الفصل يجوز الفصل والوصل"
+        },
+        {
+          "lesson_id": "014-14",
+          "start_seconds": 683,
+          "end_seconds": 691,
+          "evidence": "وقد يُبيح الغيب فيه وصلا. لكن مع ماذا? مع اختلاف ما. مع اختلاف في لفظ الضميرين الغائبين"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-08-العلم-وأنواعه",
+      "title": "العلم وأنواعه",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "015-15",
+          "start_seconds": 348,
+          "end_seconds": 353,
+          "evidence": "انت اللي معي. عرفنا ما يقصد بالعلم. العالم يا إخواني ثلاثة انواع."
+        },
+        {
+          "lesson_id": "016-16",
+          "start_seconds": 2874,
+          "end_seconds": 2879,
+          "evidence": "العلم الرجل الذي اسمه سب رزيل هذا العلم العلم من المرتجل ام من المنقول"
+        },
+        {
+          "lesson_id": "016-16",
+          "start_seconds": 3143,
+          "end_seconds": 3149,
+          "evidence": "انتم معي العلم الجملة ايضا منقول او من جملة قام زيد وزيدٌ قائم وحكمها"
+        },
+        {
+          "lesson_id": "016-16",
+          "start_seconds": 2447,
+          "end_seconds": 2454,
+          "evidence": "والمرتجل هو الذي لم يسبق استعماله في غير العلميه من اول امره علما."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-09-علم-الجنس-وأحكام-العلم",
+      "title": "علم الجنس وأحكام العلم",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "017-17",
+          "start_seconds": 351,
+          "end_seconds": 359,
+          "evidence": "أما علموا الجنس كما سياتي بعد قليل. لا يطلق على واحد بل يطلق على الجنس كله."
+        },
+        {
+          "lesson_id": "017-17",
+          "start_seconds": 290,
+          "end_seconds": 296,
+          "evidence": "انتم معي يا إخواني يا ام لا فالجنس هو ما يشمل ماذا ما يشمل انواعك"
+        },
+        {
+          "lesson_id": "018-18",
+          "start_seconds": 80,
+          "end_seconds": 86,
+          "evidence": "ماذا يُقصَد بعالم الشخص؟ وماذا يُقصَد بعالم الجنس؟ أم في المرة الماضية؟"
+        },
+        {
+          "lesson_id": "018-18",
+          "start_seconds": 1188,
+          "end_seconds": 1194,
+          "evidence": "لفرد معين، لكن علمُ الجنسِ لكلِّ فردٍ من أفراد الجنسِ اعم أم لا؟ أشمل."
+        },
+        {
+          "lesson_id": "018-18",
+          "start_seconds": 271,
+          "end_seconds": 276,
+          "evidence": "يُقصد به فرض من أفراد هذا الجنس، بل هذه الكلمة تصلح لكلّ الأفراد."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-10-اسم-الإشارة-والاسم-الموصول",
+      "title": "اسم الإشارة والاسم الموصول",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 98,
+          "end_seconds": 103,
+          "evidence": "فإذا أُريد الإشارة إلى البعيد أُتي بالكاف وحدها."
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 484,
+          "end_seconds": 494,
+          "evidence": "كما او نبدأ بما بدء باب ابن عقيل نتكلم او عن حروف البسطه او عن الموصولات الحرفيه او عن الحروف الموصوله ثم بعد ذلك ننتقل الى الاسماء الحروف"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 393,
+          "end_seconds": 401,
+          "evidence": "اما النوع الاول الذي سميته بالحروف الموصوله هو المشهور بحروف المصدر لو انك قلت من البداية حروف المصدر"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 1628,
+          "end_seconds": 1636,
+          "evidence": "معلومه على عدم ذكرها لكن ابن عقيل انت كرسق تراضا يعني قال ولم يذكر المصنف الموصولات الحرفيه"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-11-أقسام-الموصول-وصلته",
+      "title": "أقسام الموصول وصلته",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "021-21",
+          "start_seconds": 40,
+          "end_seconds": 45,
+          "evidence": "نعود بعد أن انتهينا من الموصولات الحرفية ، نعود إلى الموصولات الاسمية"
+        },
+        {
+          "lesson_id": "021-21",
+          "start_seconds": 1055,
+          "end_seconds": 1061,
+          "evidence": "مفهوم يا إخوان؟ إذا تكلمنا عن الموصولات عن الموصول الخاص، الذي للمفرد"
+        },
+        {
+          "lesson_id": "021-21",
+          "start_seconds": 930,
+          "end_seconds": 935,
+          "evidence": "أما الموصول الاسمي فالذي للمفرد المذكر والذي للمفردة المؤنثة"
+        },
+        {
+          "lesson_id": "022-22",
+          "start_seconds": 2470,
+          "end_seconds": 2477,
+          "evidence": "نقول هي من الموصولات بمعنى الذى بمعنى الذى لكنها وان كانت نفس المعنى الى انها حرف،"
+        },
+        {
+          "lesson_id": "022-22",
+          "start_seconds": 28,
+          "end_seconds": 32,
+          "evidence": "وأما ابن مالك من عليه رحمه الله ، وقد اكتفى بذكرى الموصولات الاسمية لأنها"
+        },
+        {
+          "lesson_id": "022-22",
+          "start_seconds": 1629,
+          "end_seconds": 1635,
+          "evidence": "احنا قلنا عندنا ثلاثة انواع من آل. فنحن الان نريد ان نميّز آل الموصولة."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-12-استعمال-ذا-وصلة-الموصول",
+      "title": "استعمال ذا وصلة الموصول",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "023-23",
+          "start_seconds": 467,
+          "end_seconds": 474,
+          "evidence": "ليس عن الموصولات الحرفية لأنه ما أتكلم عن الموصولات الحرفية أصلا. وقال في البداية موصول الاسماء الذي إلى آخره."
+        },
+        {
+          "lesson_id": "023-23",
+          "start_seconds": 216,
+          "end_seconds": 222,
+          "evidence": "وشرط استعمالها موصولة ان تكون مسبوقة بماء او من الاستفهاميتين"
+        },
+        {
+          "lesson_id": "023-23",
+          "start_seconds": 535,
+          "end_seconds": 539,
+          "evidence": "الموصولات نسبية طبعا، لأن ابن مالك ما تتكلم الا عن الاسمية."
+        },
+        {
+          "lesson_id": "024-24",
+          "start_seconds": 2364,
+          "end_seconds": 2368,
+          "evidence": "يعني خر عن القياس و ايضا في الاستعمال كان قليلا عند العرض"
+        },
+        {
+          "lesson_id": "024-24",
+          "start_seconds": 16,
+          "end_seconds": 21,
+          "evidence": "اغدروا في اجورهاجور لكن هذا مع الموصولات الا ال الا ماذا"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-13-حذف-العائد-في-الصلة",
+      "title": "حذف العائد في الصلة",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "025-25",
+          "start_seconds": 1431,
+          "end_seconds": 1441,
+          "evidence": "واضحا الكلام? وهي ما اذا أضيفت وذكرى صدر الصلة. او لم تضف ولم يُذكر صدر الصلة او لم تضف وذكرى صدر الصلة. كل هذا اعراب."
+        },
+        {
+          "lesson_id": "025-25",
+          "start_seconds": 790,
+          "end_seconds": 795,
+          "evidence": "بل وفي غير الصلة اذا كانت جملة اسمية. يعني انظر معي."
+        },
+        {
+          "lesson_id": "025-25",
+          "start_seconds": 464,
+          "end_seconds": 468,
+          "evidence": "طبعا أنا قلت قبل قليل العائد قد يُحذَف أيضاً،"
+        },
+        {
+          "lesson_id": "026-26",
+          "start_seconds": 452,
+          "end_seconds": 462,
+          "evidence": "الشوط الاول لحذف العائد المرفوع ان تكون الصلة التي فيها العائد المرفوع جملة المادأ? يعني هذه لا تأ تمام?"
+        },
+        {
+          "lesson_id": "026-26",
+          "start_seconds": 1795,
+          "end_seconds": 1803,
+          "evidence": "الشرطه الرابع لما يكون في خلافه ان تطول الصلة وبعضهم قال يجب ان تطول والاا فلاحنف وبعضهم قال ليس بلازم"
+        },
+        {
+          "lesson_id": "026-26",
+          "start_seconds": 936,
+          "end_seconds": 943,
+          "evidence": "وانتَ بلاَ شك تَفهم ، حضرَ الذي هو ماذا؟ هو مجتهد لأنك تعرف ان الصلة لا تكون مفردا ابدا،"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-14-أحكام-الموصول-وحذف-الصدر",
+      "title": "أحكام الموصول وحذف الصدر",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "027-27",
+          "start_seconds": 600,
+          "end_seconds": 609,
+          "evidence": "ما بعد الضمير لان يكون صله لا يحذف سواءً أكان الضمير مرفوعا أو منصوبا أو مجرورا وسواء كان الموصول أيا أم غيرها،"
+        },
+        {
+          "lesson_id": "027-27",
+          "start_seconds": 152,
+          "end_seconds": 159,
+          "evidence": "هناك قاعدة عامة. ذكرنا ابن مالك في باب المبتدأ الخبر في حذف قال وحذف ما يعلم جاهز."
+        },
+        {
+          "lesson_id": "027-27",
+          "start_seconds": 477,
+          "end_seconds": 482,
+          "evidence": "غير ذلك الضمير المحذوف ، صالحٌ لعوده على الموصول."
+        },
+        {
+          "lesson_id": "028-28",
+          "start_seconds": 2917,
+          "end_seconds": 2927,
+          "evidence": "قال وكذلك مررت بالذي مررت به على ذلك لا يجوز حذف به من هو الاختلاف معنى الحرفين لان الباء الداخله على الموصول للالصاق"
+        },
+        {
+          "lesson_id": "028-28",
+          "start_seconds": 1441,
+          "end_seconds": 1452,
+          "evidence": "كَأَنتَ قاضٍ بعد أَمْرَ من قَضَى ، كذا الذي جَرَّ بما الموصول جرّ ، كمُرّ بالذي مررت ، فهوُ مررّ."
+        },
+        {
+          "lesson_id": "028-28",
+          "start_seconds": 2537,
+          "end_seconds": 2542,
+          "evidence": "بما الموصول جرّا هذه العبارة فيها تقديم تأخير التقدير"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-15-المعرف-بأداة-التعريف",
+      "title": "المعرف بأداة التعريف",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "029-29",
+          "start_seconds": 546,
+          "end_seconds": 556,
+          "evidence": "و هذا الكلام فالمهم هذا مجرّد ميخال فنمط عُرّفت ها ان اردت ان تعرف كلمه نمط بأداة التعريف فماذا تقول؟"
+        },
+        {
+          "lesson_id": "029-29",
+          "start_seconds": 9,
+          "end_seconds": 16,
+          "evidence": "انتهينا من الموصولات واليوم إن شاء الله تعالى نبدأ في دُوع جديد وهو المعرّف بأداة التعريف"
+        },
+        {
+          "lesson_id": "029-29",
+          "start_seconds": 2607,
+          "end_seconds": 2612,
+          "evidence": "احنا قولنا آل موصولة ومعرفة وزائدة عرفنا الموصولة وعرفنا المعرفة تبقى"
+        },
+        {
+          "lesson_id": "030-30",
+          "start_seconds": 210,
+          "end_seconds": 216,
+          "evidence": "لان تعريفا العالمي اعلى من التعريف بألم لكن هل تحذف هذه الألف واللام؟ لا لازمة،"
+        },
+        {
+          "lesson_id": "030-30",
+          "start_seconds": 312,
+          "end_seconds": 315,
+          "evidence": "أم من النوع الثاني؟ هناك من قال هي من المعرفة؟"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-16-أل-الزائدة-ولمح-الأصل",
+      "title": "أل الزائدة ولمح الأصل",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "031-31",
+          "start_seconds": 231,
+          "end_seconds": 237,
+          "evidence": "نوعي من ال الزائدة غير اللازمة. نوعي فقط. ال الزائدة لاجل ضرورة."
+        },
+        {
+          "lesson_id": "031-31",
+          "start_seconds": 692,
+          "end_seconds": 697,
+          "evidence": "انتم معي اول فائدة كلها ان الزائدة مع لامم سبعينين."
+        },
+        {
+          "lesson_id": "032-32",
+          "start_seconds": 115,
+          "end_seconds": 128,
+          "evidence": "فأنت مخير. ان اردت ان تأتي بها. كانك تقصد الاشارة الى الاصل فلابا. وان اردت الا تأتي نظراً الى الحال وهو انه عالم لا صفة فلا باس. لكن بعدها ولم ان يكون العالم مما تدخل عليه المبتدأ"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-17-العلم-بالغلبة-والمبتدأ-الوصف",
+      "title": "العلم بالغلبة والمبتدأ الوصف",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "033-33",
+          "start_seconds": 519,
+          "end_seconds": 526,
+          "evidence": "هذا العلم بالغلبة انا ذكرت له صورتين صورة بأل وصورة بالإضافة. أليس كذلك؟ هو في احد صورتيه"
+        },
+        {
+          "lesson_id": "033-33",
+          "start_seconds": 811,
+          "end_seconds": 816,
+          "evidence": "العلم بالغلبة له صورة، إما أن يكون بألف وإما أن يكون"
+        },
+        {
+          "lesson_id": "033-33",
+          "start_seconds": 432,
+          "end_seconds": 441,
+          "evidence": "غلبَ استعمال هذا اللفظ ابن عمر مع من؟ مع عبد الله دون غيره من الآخرين، مع ان الآخرين يصدق عليهم هذا الوصف"
+        },
+        {
+          "lesson_id": "034-34",
+          "start_seconds": 80,
+          "end_seconds": 84,
+          "evidence": "تمام مره ثانيه انتبهوا معي نحن كل هذا هذا الوصف يقع المبتدأ"
+        },
+        {
+          "lesson_id": "034-34",
+          "start_seconds": 56,
+          "end_seconds": 61,
+          "evidence": "ويكون نائب فاعل اذا كان الوصف ها اسم مفعول هذا واضح"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-18-صور-المبتدأ-وسد-الفاعل-مسد-الخبر",
+      "title": "صور المبتدأ وسد الفاعل مسد الخبر",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "035-35",
+          "start_seconds": 1776,
+          "end_seconds": 1784,
+          "evidence": "وأيضا هناك خلاف يا إخوان، يعني هذا الكلام ليس باتفاق. هناك من قال يجوز أن نقول قائد المبتدأ والفاعل هو الضمير مستتر لا مشى هناك"
+        },
+        {
+          "lesson_id": "035-35",
+          "start_seconds": 1168,
+          "end_seconds": 1176,
+          "evidence": "عمل عمل الفعل. لكن المشكلة ليس في الفاعل. المشكلة هل هذا الفاعل سيسد مسند الخبر? ام لا? ام"
+        },
+        {
+          "lesson_id": "035-35",
+          "start_seconds": 1203,
+          "end_seconds": 1211,
+          "evidence": "بعده فاعل او نائب فاعل. لكن المشكلة هل هذا الفاعل او المائب سيسلد مساد الخبر ام لا?"
+        },
+        {
+          "lesson_id": "036-36",
+          "start_seconds": 546,
+          "end_seconds": 551,
+          "evidence": "لا إشكال فيه. وهو ان نقول الخبر ومبتدأ لا مشكلة في هذا."
+        },
+        {
+          "lesson_id": "036-36",
+          "start_seconds": 467,
+          "end_seconds": 472,
+          "evidence": "أن يكون الفعل ماذا؟ مفردًا حتى لو كان الفاعل غير مفرد"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-19-أنواع-الخبر-والجملة-الخبرية",
+      "title": "أنواع الخبر والجملة الخبرية",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "037-37",
+          "start_seconds": 1191,
+          "end_seconds": 1209,
+          "evidence": "فليسا لي راغب عمل فيه لانه الخبر. والخبر لا يعمل في المبتدأ على الصحيح لكن بناءً على القول الثاني الذي يَرَى انه ليس صحيحا لا بأس، يتساوى الوجهات لم يفصل فيهما بين العامل راغب وبين"
+        },
+        {
+          "lesson_id": "037-37",
+          "start_seconds": 1391,
+          "end_seconds": 1403,
+          "evidence": "العامل في المبتدأ الخبر والعامل في الخبر هو ماذا ؟ هو المبتدأ وهناك أقوال أخرى سيذكرها ابن عقيل عليه رحمةُ الله لكن في هذا البيت أشار ابن مالك إلى الرأي المشهور الصحيح ،"
+        },
+        {
+          "lesson_id": "037-37",
+          "start_seconds": 3068,
+          "end_seconds": 3077,
+          "evidence": "لكن لا يقال الخبر لانه ليس مع ماذا مع مبتدأ لكن هذا الاستدراك صباحا ليس بسليم لان ابن مالك ذ هذه الابيات في باب الابتداء اليس كذلك"
+        },
+        {
+          "lesson_id": "038-38",
+          "start_seconds": 0,
+          "end_seconds": 6,
+          "evidence": "ابن مالك علي رمة الله تعالى ، في بيان أنواع الخبر ، قال ومفردا"
+        },
+        {
+          "lesson_id": "038-38",
+          "start_seconds": 523,
+          "end_seconds": 531,
+          "evidence": "نحن نتكلم عن الخبر ماذا؟ هل جملة لكن قوله اكزاية ابن أحمد؟ نفسه الشاهد. لكن هل هذه جملة ابن أحمد؟ لا. هذا من الخبر المبتدأ."
+        },
+        {
+          "lesson_id": "038-38",
+          "start_seconds": 176,
+          "end_seconds": 185,
+          "evidence": "هو داخل في الخبر المفرد أو في الخبر ماذا؟ الجملة. و هذا الكلام? لذلك قال او مفردا يأتي و يأتي جملة. جميل جدا."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-20-الخبر-المفرد-وشبه-الجملة",
+      "title": "الخبر المفرد وشبه الجملة",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "039-39",
+          "start_seconds": 1876,
+          "end_seconds": 1884,
+          "evidence": "فعنده ان الخبر المفرد اذا كان جامدا. سواءم كان يؤول او لا يؤول هو فارغ من الضمير."
+        },
+        {
+          "lesson_id": "039-39",
+          "start_seconds": 1499,
+          "end_seconds": 1505,
+          "evidence": "الخبر المفرد قد يكون مشتقا وقد يكون جامدا و مفهوم معنى مشتق وجائد"
+        },
+        {
+          "lesson_id": "039-39",
+          "start_seconds": 1300,
+          "end_seconds": 1306,
+          "evidence": "المفرد الخبر المفرد الاصل استاذي نعم صيح لماذا ابتدا لل ا"
+        },
+        {
+          "lesson_id": "040-40",
+          "start_seconds": 1114,
+          "end_seconds": 1123,
+          "evidence": "يعني انا لو لم ان اكتبه. يوجد ضميرا او لا يوجد? يوجد لا بأس. فإنى كل حاجة. الخبر المفرد المشتق هنا او هنا فيه ماذا؟?"
+        },
+        {
+          "lesson_id": "040-40",
+          "start_seconds": 1097,
+          "end_seconds": 1103,
+          "evidence": "سأبين يا إخواني مرة ثانيه. مره ثانيه. نحن قلنا اذا كان الخبر المفرد مشتقا"
+        },
+        {
+          "lesson_id": "040-40",
+          "start_seconds": 842,
+          "end_seconds": 847,
+          "evidence": "ابن مالك في معنى كلامه. اذا عاد الخبر المفرد المشتق الى"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-21-الرابط-في-الخبر-والابتداء-بالنكرة",
+      "title": "الرابط في الخبر والابتداء بالنكرة",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "041-41",
+          "start_seconds": 2634,
+          "end_seconds": 2644,
+          "evidence": "ذكرها من الحالات التي يسوب فيها الابتداء بماذا؟ بالنكرة. وبعد ان ذكرها قال واليوقس ما لم يقظ. هو يعلم ان هناك حالات اخرى."
+        },
+        {
+          "lesson_id": "041-41",
+          "start_seconds": 1003,
+          "end_seconds": 1010,
+          "evidence": "ثابتٌ له ، سواءٌ كان شبه الجملة في موضع الخبر او في موضع النعت او في موضع الحال او في موضع الصنف"
+        },
+        {
+          "lesson_id": "041-41",
+          "start_seconds": 1082,
+          "end_seconds": 1089,
+          "evidence": "شبه الجملة ليس هذه الاشياء. ليس الخبر وليس النعت وليس الحال وليس الصلة و انما هو متعلق بمحذوف."
+        },
+        {
+          "lesson_id": "042-42",
+          "start_seconds": 2,
+          "end_seconds": 8,
+          "evidence": "قال ابن عقيل عليه رَحْمة الله تعالى في بيان الحالات التى يسوق فيها الابتداء بالنكرة"
+        },
+        {
+          "lesson_id": "042-42",
+          "start_seconds": 438,
+          "end_seconds": 444,
+          "evidence": "وما بعدها الخبر لها مجتهد خبر. متوسط خبر. بليد خبر."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-22-مسوغات-الابتداء-بالنكرة",
+      "title": "مسوغات الابتداء بالنكرة",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "043-43",
+          "start_seconds": 1003,
+          "end_seconds": 1011,
+          "evidence": "من مسوغات الابتدائي بالنكرة. هي مبتدأ الآن. رجل وزيد قائمان لو مثلنا بهذا. كلمة رجل الان مبتدأ."
+        },
+        {
+          "lesson_id": "043-43",
+          "start_seconds": 383,
+          "end_seconds": 389,
+          "evidence": "التي يسوء فيها الابتداء بالنكرة أن تكون هذه النكرة في معنى المحصور"
+        },
+        {
+          "lesson_id": "043-43",
+          "start_seconds": 1145,
+          "end_seconds": 1149,
+          "evidence": "من مسوغات الابتداء بالنقر. أن تكون خلفا من موصوف."
+        },
+        {
+          "lesson_id": "044-44",
+          "start_seconds": 930,
+          "end_seconds": 940,
+          "evidence": "فيعني على هذا الوجه الأمر سهل، الأصلُ في البيت؟ كم عمّةٌ لك يا جرير وخالةٌ فدعاب قد حلبت عليه عشاري؟"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-23-ترتيب-المبتدأ-والخبر",
+      "title": "ترتيب المبتدأ والخبر",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "045-45",
+          "start_seconds": 2212,
+          "end_seconds": 2217,
+          "evidence": "نعم طيب بهذا انتهينا من جوائز التقديم والتاخير بين المبتدأ والخبر"
+        },
+        {
+          "lesson_id": "045-45",
+          "start_seconds": 2400,
+          "end_seconds": 2405,
+          "evidence": "اذا تساوى المبتدأ والخبر في التعريف او في التنكير."
+        },
+        {
+          "lesson_id": "045-45",
+          "start_seconds": 839,
+          "end_seconds": 850,
+          "evidence": "يقصد ان محمدا خبره مقدما وصديقي مبتدأ ومؤدأ هل سنفهم هذا القصد ام ان ذهننا سيذهب الى الاصل والاصل ان يتقدم المبتدأ ويتاخر"
+        },
+        {
+          "lesson_id": "046-46",
+          "start_seconds": 854,
+          "end_seconds": 861,
+          "evidence": "يكون زيد فاعلا لقامه. فلا يكون من باب المبتدأ والخبر بل من باب الفعل والفافلين."
+        },
+        {
+          "lesson_id": "046-46",
+          "start_seconds": 607,
+          "end_seconds": 612,
+          "evidence": "أن يكون كلٌ من المبتدأ والخبر معرفةً أو نكرةً صالحةً لجعلها مبتدأً ولا"
+        },
+        {
+          "lesson_id": "046-46",
+          "start_seconds": 395,
+          "end_seconds": 402,
+          "evidence": "يجب فيها ان يتأخر الخبر ويتقدم المبتدأ اذا كان الخبر جملة فعلية لكن ليس باطلاق"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-24-تقديم-الخبر-وتأخيره",
+      "title": "تقديم الخبر وتأخيره",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "047-47",
+          "start_seconds": 930,
+          "end_seconds": 936,
+          "evidence": "واضح هذا الكلام? وسيقتل ايضا في باب تقديم الخبر وجوبا. الخبر محصور في المبتدأ ويجب ان يتقدم الخبر."
+        },
+        {
+          "lesson_id": "047-47",
+          "start_seconds": 2867,
+          "end_seconds": 2875,
+          "evidence": "ابن عقيل أشار في هذه الابيات إلى القسم الثالث وهو وجوب تقديم الخبر فذكر انه يجب في أربعة مواضع."
+        },
+        {
+          "lesson_id": "047-47",
+          "start_seconds": 1422,
+          "end_seconds": 1430,
+          "evidence": "على اصلها لانكتقصد ان المبتدأ محصور في الخبر هنا تشعر ان الجملة ليست على الاصل في تقديم وتأخير"
+        },
+        {
+          "lesson_id": "048-48",
+          "start_seconds": 382,
+          "end_seconds": 388,
+          "evidence": "كذلك يجب تقديم الخبر إذا عاد إليه ضميرا جميلا."
+        },
+        {
+          "lesson_id": "048-48",
+          "start_seconds": 557,
+          "end_seconds": 566,
+          "evidence": "عبارة عليه يعني الضمير عاد إلى ماذا؟ هذا الخبر. عاد على الخبر. هذا مما استُدأ. لأنّ الضمير لم يعدْ في الحقيقةِ إلى الخبر وإنما عاد على"
+        },
+        {
+          "lesson_id": "048-48",
+          "start_seconds": 510,
+          "end_seconds": 516,
+          "evidence": "قبل ان ابين لماذا هذا نحن كما قلنا الصحيح ان نقول الضمير يعود الى شيء في الخبر"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-25-مواضع-وجوب-تقديم-الخبر",
+      "title": "مواضع وجوب تقديم الخبر",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "049-49",
+          "start_seconds": 440,
+          "end_seconds": 448,
+          "evidence": "فكانه قال يجب تقديم الخبر اذا عاد عليه ضمير من المبتدأ قال وهذه عبارة ابن عصفور في بعض كتبه و ليس بصحيح"
+        },
+        {
+          "lesson_id": "049-49",
+          "start_seconds": 314,
+          "end_seconds": 320,
+          "evidence": "كذا يجب تقديم الخبر إذا عاد عليه مضمار مما يُخبر بالخبر عنه وهو المبتدأ فكأنّه"
+        },
+        {
+          "lesson_id": "049-49",
+          "start_seconds": 738,
+          "end_seconds": 744,
+          "evidence": "في تقديم المفعول به وجوبا ان شاء الله في الجملة الفعلية عندما نتكلم عن الفاعل"
+        },
+        {
+          "lesson_id": "050-50",
+          "start_seconds": 1285,
+          "end_seconds": 1290,
+          "evidence": "نحن قلنا هناك تفصيل في الخبر يحذف وجوبا او يذكر وجوبا"
+        },
+        {
+          "lesson_id": "050-50",
+          "start_seconds": 436,
+          "end_seconds": 443,
+          "evidence": "خلاص يا اخوانا فهمنا هذه العباره هو قال هنا فحذف المبتدأ هو الخبر وهو فعدتهن ثلاثه اشهر لدلاله"
+        },
+        {
+          "lesson_id": "050-50",
+          "start_seconds": 1132,
+          "end_seconds": 1140,
+          "evidence": "لماذا حذف وجوبا? لانه كونعاب ايضا. اي زيد موجود في الفصل. زيد مستقر فيه ها? في الفصل."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-26-حذف-الخبر-وجوبا",
+      "title": "حذف الخبر وجوبا",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "051-51",
+          "start_seconds": 1750,
+          "end_seconds": 1756,
+          "evidence": "هناك في لعمرو كحذف الخبر وجوبا ولم يحذف المبتدأ وهنا كذلك يعني"
+        },
+        {
+          "lesson_id": "051-51",
+          "start_seconds": 1432,
+          "end_seconds": 1444,
+          "evidence": "هذا كلام فهذا ها هذه اللامه تدلنا يقينا على ان كلمه عام هي المبتدأ وان المحذوف هو ماذا هو الخبر لذ قال ابن مالك وفي نص يمين، فأستقر"
+        },
+        {
+          "lesson_id": "051-51",
+          "start_seconds": 1591,
+          "end_seconds": 1602,
+          "evidence": "واضحِ هذا الكلام؟ إذا كان المبتدأ قسماً صريحاً، حُذف خبره وجوبا وان كان قسماً غير صريح حُذف خبره ها جوازا جوازا."
+        },
+        {
+          "lesson_id": "052-52",
+          "start_seconds": 284,
+          "end_seconds": 292,
+          "evidence": "لكن هو قال هنا فان لم تن الواو نصا في المعيه لم يحذف الخبر وجوبا كان علي ان يكون لم يحذف الخبر فقط"
+        },
+        {
+          "lesson_id": "052-52",
+          "start_seconds": 439,
+          "end_seconds": 444,
+          "evidence": "فان لم تكنِ الواو نصاً في المعيَّة، لم يُحذَّف الخبر وجوباً،"
+        },
+        {
+          "lesson_id": "052-52",
+          "start_seconds": 318,
+          "end_seconds": 325,
+          "evidence": "هو لم يقل هذا كان عليه ان يحدد لكن هو اطلق الكلام فكان الخبر في هذه الحالة"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-27-حذف-المبتدأ-وتعدد-الخبر",
+      "title": "حذف المبتدأ وتعدد الخبر",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "053-53",
+          "start_seconds": 2252,
+          "end_seconds": 2259,
+          "evidence": "ان يكون المبتدأ مصدرا وبعده حالٌ سدَّت مَسدَّ الخبر وهي لا تصلح ان تكون خبرا"
+        },
+        {
+          "lesson_id": "053-53",
+          "start_seconds": 1666,
+          "end_seconds": 1671,
+          "evidence": "جاء بعد المبتدأ حال، يسد ما سد الخبر ولا يصلح خبرا يحذف الخبر وجوبا."
+        },
+        {
+          "lesson_id": "053-53",
+          "start_seconds": 1146,
+          "end_seconds": 1152,
+          "evidence": "زيد المبتدأ يجتهد خبرة. اذا شجعناه ما هذا؟ هذا متعلق بالخبر يجتهد."
+        },
+        {
+          "lesson_id": "054-54",
+          "start_seconds": 726,
+          "end_seconds": 731,
+          "evidence": "تذكرون أننا قلنا يحذف الخبر وجوبا اذا كان المبتدأ قسما صريحا."
+        },
+        {
+          "lesson_id": "054-54",
+          "start_seconds": 814,
+          "end_seconds": 821,
+          "evidence": "والمبتدأ في هذه الحالة يحذف وجوب، التقدير قسمي والله. أو والله قسمي كما تقدم."
+        },
+        {
+          "lesson_id": "054-54",
+          "start_seconds": 705,
+          "end_seconds": 710,
+          "evidence": "التي يحذف فيها الخبر وجوبا. انت مضطر الى الى تقدير الخبر. بعد لونها مضطر."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-28-كان-وأخواتها-وشروط-عملها",
+      "title": "كان وأخواتها وشروط عملها",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "055-55",
+          "start_seconds": 680,
+          "end_seconds": 692,
+          "evidence": "طبعاً، الغالب منّا أنّه إذا تعود على العمل باليمين يكون عاجزاً شيئا ما باليمين واذا تعود على العمل بالشمال يكون عاجزا شيئا ما باليمين ليس لا يكون بنفس الدرجة"
+        },
+        {
+          "lesson_id": "056-56",
+          "start_seconds": 1539,
+          "end_seconds": 1552,
+          "evidence": "الخبر المخبر عنه على حسب ما يقتضيه الحال. على حسب الكلام يعني. مازال زيد مريضة مازال الجوّ حارّ على حسب ما يقتضيه الحال. له مازال زيد ضاحك وما زال عرا ازرق العينين"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-29-تصرف-الأفعال-الناسخة-وتقدم-الخبر",
+      "title": "تصرف الأفعال الناسخة وتقدم الخبر",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "057-57",
+          "start_seconds": 871,
+          "end_seconds": 876,
+          "evidence": "مع كل هذه الأفعال أن يتوسط الخبر بين الفعل وليس،"
+        },
+        {
+          "lesson_id": "057-57",
+          "start_seconds": 1162,
+          "end_seconds": 1171,
+          "evidence": "، وليسَ له مُساوغ الا تقدم الخبر شبه الجملة عليه. ليس كذلك نفس الجمله بعينها في جمله كان يجب فيها تقديم الخبر"
+        },
+        {
+          "lesson_id": "057-57",
+          "start_seconds": 1753,
+          "end_seconds": 1761,
+          "evidence": "المساله الاولى مساله توسط الخبر بين الفعل ولسه صحيحنا وقلنا هذا جائز مع كل الافعال على التفصيل الذي باب"
+        },
+        {
+          "lesson_id": "058-58",
+          "start_seconds": 257,
+          "end_seconds": 266,
+          "evidence": "إن كان الفعل مثبتا جازّ التفضيخ. إن كان الفعل منفيا بماء. لكن تقدم الخبر على الفعل وحده ولم يتقدم على ماء جازّ."
+        },
+        {
+          "lesson_id": "058-58",
+          "start_seconds": 641,
+          "end_seconds": 646,
+          "evidence": "النهي عن التقدم على ما قال ومفهوم كلامه ايضا جوازُ تقديم الخبر"
+        },
+        {
+          "lesson_id": "058-58",
+          "start_seconds": 1098,
+          "end_seconds": 1105,
+          "evidence": "هو مستدلوا بها على جواز تقديم الخبر على ليس ؟ والاية في ظاهرها"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-30-تمام-كان-ونقصانها",
+      "title": "تمام كان ونقصانها",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "059-59",
+          "start_seconds": 882,
+          "end_seconds": 896,
+          "evidence": "نحن الآن عددنا من الأفعال الثلاثة عشر فعلًا، عددنا عشرة أفعال، هي التي تتحول من النقصان إلى التمام، وبيّنا معانيها. كم يبقى؟ ثلاثة ليس وانفكّ وذلك؟"
+        },
+        {
+          "lesson_id": "059-59",
+          "start_seconds": 1909,
+          "end_seconds": 1920,
+          "evidence": "تمام هو مصري في هذه لكن الكوفيون اجازه ثم ابن عقيل استطرد ايضا قال ، ربما يتقدم المعمول مع الخبر. هل هذه جائزة؟ من باب الاستطراد يعني"
+        },
+        {
+          "lesson_id": "059-59",
+          "start_seconds": 418,
+          "end_seconds": 426,
+          "evidence": "لا تحتاج خبرا وتدل على الزمن والحدث معا؟ نعم. يمكن ان تتحول من النقصان الى التمام. لكن"
+        },
+        {
+          "lesson_id": "060-60",
+          "start_seconds": 412,
+          "end_seconds": 417,
+          "evidence": "تمام? فان ورغ في كلام العرب، ما يشبه هذه ايضا قد درنا ضميرَ شأنٍ هنا ايضا."
+        },
+        {
+          "lesson_id": "060-60",
+          "start_seconds": 306,
+          "end_seconds": 311,
+          "evidence": "ان اقول وعليكم ان تتولوا يعني انا اقول وانتم ابحثوا عن وجوهي تمام"
+        },
+        {
+          "lesson_id": "060-60",
+          "start_seconds": 738,
+          "end_seconds": 743,
+          "evidence": "وهذا لا بأسَ به. تمام يا إخوان؟ قال والتقدير في الثاني والتقدير"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-31-حذف-كان-وخصائصها",
+      "title": "حذف كان وخصائصها",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "061-61",
+          "start_seconds": 1330,
+          "end_seconds": 1341,
+          "evidence": "انا ترى معي ان را ابن عقيل هو هو الاولى حقيقه هي شيئين الامر الاول الاصل عدم الزياده والامر الثاني الذي يخدمني انت الان في البيت الثاني قلت هذا ولا"
+        },
+        {
+          "lesson_id": "062-62",
+          "start_seconds": 775,
+          "end_seconds": 786,
+          "evidence": "يعني الاصل لان كنت هكذا قال ابن شااف القطر، وحذف ابن عقيل حذف لام اختصارا أصلا، يعني لم يأتي به، وهذا موجود في اللغة كما قلنا، تمام، قال والاصل ان كنت برا،"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-32-إعمال-ما-عمل-ليس",
+      "title": "إعمال ما عمل ليس",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "063-63",
+          "start_seconds": 1221,
+          "end_seconds": 1232,
+          "evidence": "إعمال ليس أُعملت ما دون إن ، مع بقى النفي وترتيب زُكٍ ، فسبق حرفِ جرٍ أو ظرفٍ كما ، بأنتَ معنيًّا أجاز العلماء."
+        },
+        {
+          "lesson_id": "063-63",
+          "start_seconds": 1681,
+          "end_seconds": 1690,
+          "evidence": "الى هذين الشياطين إشار ابن مالك رحمه الله إعمال ليس أُعملت ما دون إم مع بقى النفي إعمل"
+        },
+        {
+          "lesson_id": "063-63",
+          "start_seconds": 2555,
+          "end_seconds": 2558,
+          "evidence": "ولغة أهلا الحجازِ إعمالُها كعملِ ليسَ لشبهِها"
+        },
+        {
+          "lesson_id": "064-64",
+          "start_seconds": 1015,
+          "end_seconds": 1020,
+          "evidence": "وعدم الإعمال ما فيه؟ ام استوت اللغتان في رفع هذا؟"
+        },
+        {
+          "lesson_id": "064-64",
+          "start_seconds": 33,
+          "end_seconds": 38,
+          "evidence": "فلا يجوز نصب آكل لا يجوز الإعمال ومن أجاز انتبه"
+        },
+        {
+          "lesson_id": "064-64",
+          "start_seconds": 759,
+          "end_seconds": 763,
+          "evidence": "يمكن ان نقول من شروط الإعمال باب ان يبقى نفيها."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-33-الحروف-المشبهة-بليس",
+      "title": "الحروف المشبهة بليس",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "065-65",
+          "start_seconds": 2552,
+          "end_seconds": 2558,
+          "evidence": "الحروف اضفنا بها يجوز الوجهات يجوز فيها الوجهات لكن في خولنا ما زيد المدرس مدرسا"
+        },
+        {
+          "lesson_id": "065-65",
+          "start_seconds": 2731,
+          "end_seconds": 2735,
+          "evidence": "او لا يقصد الحروف الاخرى. قال فان كان مقتضيا للايجاب"
+        },
+        {
+          "lesson_id": "066-66",
+          "start_seconds": 319,
+          "end_seconds": 325,
+          "evidence": "الحروف النافية التي تعمل عمل ليس اربعه ما وان ولا من هلاك ولاتة."
+        },
+        {
+          "lesson_id": "066-66",
+          "start_seconds": 768,
+          "end_seconds": 774,
+          "evidence": "ليستَ حرف، ليسَ الأصلِ لكن الحروف الأربعة ما إن لا لاتر"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-34-لا-وإن-ولات-في-النفي",
+      "title": "لا وإن ولات في النفي",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "067-67",
+          "start_seconds": 1680,
+          "end_seconds": 1686,
+          "evidence": "جملة فعليه منفية. النفي لا يضر. انتم معي؟ فوقعت جملة فعلية"
+        },
+        {
+          "lesson_id": "067-67",
+          "start_seconds": 1292,
+          "end_seconds": 1296,
+          "evidence": "بعدها ألا تأتي الا قبل خبرها. يعني أن يبقى النفي."
+        },
+        {
+          "lesson_id": "068-68",
+          "start_seconds": 896,
+          "end_seconds": 901,
+          "evidence": "لفعلٍ محذوف. يقدرون في الآية. ولات حين مناص يقدرون ولا"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-35-كاد-وأخواتها",
+      "title": "كاد وأخواتها",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "069-69",
+          "start_seconds": 1611,
+          "end_seconds": 1623,
+          "evidence": "الطرف لا لا نريد ان ندخل في هذه الاصطلاحات حتى لا نخوض في هذا غير علمي بالنسبه لي انا اقصد الآل في اوهم حنظه الازاله هنا ماذا في اوهم في الكلمه اوهم افعل وزنه افعل همزه الازاله نعم"
+        },
+        {
+          "lesson_id": "070-70",
+          "start_seconds": 463,
+          "end_seconds": 475,
+          "evidence": "الماضي وقد وردك الشيء قد قوي اه نعم يعني كل هذا سخط هو عندي هنا قال ليس بجيد بل قد حكى القليل استعمال الماضي هذه العباره الناقصه روحي الله بعضكم قال"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-36-تصرف-أفعال-المقاربة-وتمامها",
+      "title": "تصرف أفعال المقاربة وتمامها",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "071-71",
+          "start_seconds": 149,
+          "end_seconds": 156,
+          "evidence": "هذه الأفعال يمكن أن تتحول من ناقصة إلى تامة، لكن بشرط أن يكون لها معنىٍ جديد، تذكرون؟"
+        },
+        {
+          "lesson_id": "072-72",
+          "start_seconds": 1032,
+          "end_seconds": 1039,
+          "evidence": "عاملة أن الحروف الأفعال الناسخة. والحروف الناسخة تعمل في جزئي الإبتداء."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-37-إن-وأخواتها-وترتيب-معموليها",
+      "title": "إن وأخواتها وترتيب معموليها",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "073-73",
+          "start_seconds": 1144,
+          "end_seconds": 1155,
+          "evidence": "لكن في غير ذلك في غير باب الضمير. لا نصاع ان نقول هذا لا نصاع ان نؤخر شيئا ونقول هو مقدم في النيه او ان نقدم شو نقول هو مؤخر في النيه"
+        },
+        {
+          "lesson_id": "074-74",
+          "start_seconds": 1014,
+          "end_seconds": 1034,
+          "evidence": "اذا يجب التاويل هنا قل اوحي الي انه استمع نفر اي اوحي الي استماع نفر من اجل هي في في الايه الاولى تقريبا اتفاق القراء بالفتح لكن بعدها في من قراب لا ندري ماذا ندري ما بعد لكن على ك"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-38-كسر-همزة-إن-وفتحها",
+      "title": "كسر همزة إن وفتحها",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "075-75",
+          "start_seconds": 682,
+          "end_seconds": 694,
+          "evidence": "انت معي لا يقالها. فالفرق واضح، يعني هذه تستعمل في العرض والعرض طلب، وهي التي تدل على ان الفعل يقصد به الطلب وهذه تستعمل في تنبيه المخاطب وتوكيد الكلام وتاتي مع الخبر"
+        },
+        {
+          "lesson_id": "076-76",
+          "start_seconds": 511,
+          "end_seconds": 523,
+          "evidence": "جاءت اللام مع النفي لكن ربما من باب الضروره قال واشار بقوله ولا من الافعال ما كرضي الى انه اذا كان الخبر ماضيا متصرفا"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-39-اللام-المزحلقة-والعطف-بعد-إن",
+      "title": "اللام المزحلقة والعطف بعد إن",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "077-77",
+          "start_seconds": 1289,
+          "end_seconds": 1294,
+          "evidence": "واضح؟ اذا الان عندنا ثلاثة اشياء تأتي معها اللامو المزحلقة."
+        },
+        {
+          "lesson_id": "077-77",
+          "start_seconds": 2418,
+          "end_seconds": 2421,
+          "evidence": "انتهينا من الحديث عن لامَ الابتداء أو عن اللامَ المزحلقة."
+        },
+        {
+          "lesson_id": "077-77",
+          "start_seconds": 20,
+          "end_seconds": 24,
+          "evidence": "ذكرنا أن اللامَ المزحلقة تأتي بعد إن المبتسورة"
+        },
+        {
+          "lesson_id": "078-78",
+          "start_seconds": 394,
+          "end_seconds": 403,
+          "evidence": "انا فقل العمل، وتلزم اللامُ اذا ما تُهملُ، ربما استغني عنها إن بدى ما ناطق أراده مُعتمدا."
+        },
+        {
+          "lesson_id": "078-78",
+          "start_seconds": 506,
+          "end_seconds": 512,
+          "evidence": "يجب أن تأتي إلى اللام، لكن إن أعملت فقلت إن زيدا فلتأتي اللام أو لا تأتي."
+        },
+        {
+          "lesson_id": "078-78",
+          "start_seconds": 644,
+          "end_seconds": 650,
+          "evidence": "لكن طبعا في حاله الاعمار ان زيدا لا نحتاج الى اللام، لا نحتاج يجوز."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-40-تخفيف-إن-وأن-وكأن",
+      "title": "تخفيف إن وأن وكأن",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "079-79",
+          "start_seconds": 1997,
+          "end_seconds": 2004,
+          "evidence": "اسمهم قبل التخفيف ظاهر اتركه ضميره اتركه خبرها مفرد اتركه شبه جمله اتركه جمله اتركه على الاصل"
+        },
+        {
+          "lesson_id": "079-79",
+          "start_seconds": 1897,
+          "end_seconds": 1905,
+          "evidence": "عند التخفيف بناء على الغالب سنقول هنا كما قلنا هنا سنقول علمت ان زيد في الفصل علمت"
+        },
+        {
+          "lesson_id": "079-79",
+          "start_seconds": 128,
+          "end_seconds": 135,
+          "evidence": "وهي مسألةُ تخفيف ذوات اللون من أخوات إنّا فكلمنا أمسِ عن إنّا فقلنا إذا خُفِّفَت"
+        },
+        {
+          "lesson_id": "080-80",
+          "start_seconds": 667,
+          "end_seconds": 672,
+          "evidence": "والتقدير كأنه زيد قائم وكأنه لم تغن بالامس وكأنه قد زالت والجملة"
+        },
+        {
+          "lesson_id": "080-80",
+          "start_seconds": 909,
+          "end_seconds": 914,
+          "evidence": "هو لم يذكر لكن هنا هو تكل عن تخفيف ان ان وان وكان"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-41-لا-النافية-للجنس-وشروطها",
+      "title": "لا النافية للجنس وشروطها",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "081-81",
+          "start_seconds": 20,
+          "end_seconds": 26,
+          "evidence": "لو تذكرون فقلنا لا النافية للجنس تعمل عمل إنّا تنصب الاسمة وترفع الخبر"
+        },
+        {
+          "lesson_id": "081-81",
+          "start_seconds": 46,
+          "end_seconds": 50,
+          "evidence": "بعد هذا الكلام نقول لا النافية للجنس تعمل عمل إنّا"
+        },
+        {
+          "lesson_id": "081-81",
+          "start_seconds": 269,
+          "end_seconds": 274,
+          "evidence": "للجنس كله استغراق أي شهود. إذا قيل لا طَالِبُ حاضرٌ،"
+        },
+        {
+          "lesson_id": "082-82",
+          "start_seconds": 393,
+          "end_seconds": 398,
+          "evidence": "وفي هذه الحالة لا الثانية نافعا للجنس. هذا إسمها وخبرها"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-42-تكرار-لا-وأحكام-اسمها-وخبرها",
+      "title": "تكرار لا وأحكام اسمها وخبرها",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "083-83",
+          "start_seconds": 2984,
+          "end_seconds": 2994,
+          "evidence": "العالم وجودَ تكررَ. الشروط موجودة. اسمها مفرد. اسمها عفوًا نكرة، وخبرها نكرة. لا يوجد فاصل بينها وبينَ اسمها، ولا يوجد ماذا؟ ولا يوجد تكراء."
+        },
+        {
+          "lesson_id": "083-83",
+          "start_seconds": 3266,
+          "end_seconds": 3273,
+          "evidence": "هو هو في الكتاب قال لكن لكن جد الان اكثر نحوهم عندما يتكلمون في اعراب لا واسمها لا"
+        },
+        {
+          "lesson_id": "083-83",
+          "start_seconds": 1534,
+          "end_seconds": 1540,
+          "evidence": "حتى لا ننسى العنوان لانها ستاتي مساله شبيهه بعد قليل عطف مع تكرار اه العطف"
+        },
+        {
+          "lesson_id": "084-84",
+          "start_seconds": 1247,
+          "end_seconds": 1254,
+          "evidence": "او تكرار لا هذا من يمكن أن نقول يعدي من الشروط يعني شروط عمل لا وجوبا ألا تتكرر"
+        },
+        {
+          "lesson_id": "084-84",
+          "start_seconds": 953,
+          "end_seconds": 959,
+          "evidence": "في البداية ذكرنا ثلاثة شروط. اسمها معرفة اسمها نكرة خبراء نكرة واسمها لم يُفصل"
+        },
+        {
+          "lesson_id": "084-84",
+          "start_seconds": 477,
+          "end_seconds": 482,
+          "evidence": "على اسمِ لا بدون تكرار ماذا لا بدون تكرار لا انتم معي يا إخوان لا"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-43-ظن-وأخواتها-والإلغاء",
+      "title": "ظن وأخواتها والإلغاء",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "085-85",
+          "start_seconds": 3065,
+          "end_seconds": 3077,
+          "evidence": "لذلك قال ابن عقيل رحمه الله ونبه المصنف بقوله اعني راى على ان افعال القلوب منها ما ينصب مفعولين وهو رأى وما بعده مما ذكره المصنف في هذا باب ومنها ليس كذلك"
+        },
+        {
+          "lesson_id": "086-86",
+          "start_seconds": 673,
+          "end_seconds": 681,
+          "evidence": "واضحا الكلام؟ مفهوم يا إخواني؟ وهذا الحُكم بجواز الإعمال والإلغاء عند التوسط أو عند التأخر فقط هذا عند المصريين."
+        },
+        {
+          "lesson_id": "086-86",
+          "start_seconds": 601,
+          "end_seconds": 606,
+          "evidence": "متى يجوز الإعمال والإلغاء؟ إذا فُقِد هذا الشَّرط الأولَ عند البصريين؟"
+        },
+        {
+          "lesson_id": "086-86",
+          "start_seconds": 501,
+          "end_seconds": 507,
+          "evidence": "والإلغاء جائز لكن ليس الأولى. وعند التوسّط يستوي الأمران."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-44-التعليق-والمعلقات",
+      "title": "التعليق والمعلقات",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "087-87",
+          "start_seconds": 18,
+          "end_seconds": 24,
+          "evidence": "وانتُزم التعليق قبل نفيه ما، وإنْ ولا لا مبتدأ أو قسم، كذا والاستفهام"
+        },
+        {
+          "lesson_id": "087-87",
+          "start_seconds": 27,
+          "end_seconds": 34,
+          "evidence": "ذكرنا معنىَ التعليق، لم يبقَ لنا إلّا أن نذكرَ المعلّقات."
+        },
+        {
+          "lesson_id": "088-88",
+          "start_seconds": 1884,
+          "end_seconds": 1892,
+          "evidence": "ولعله مخالف لما هو كالمجمع عليه ، من انه لا يُشترط في التعليق هذا الشرطُ الذي ذكره."
+        },
+        {
+          "lesson_id": "088-88",
+          "start_seconds": 302,
+          "end_seconds": 307,
+          "evidence": "واضح، هذا معنا التعليق مع هذا التشبيه الجميل، الذي يبين المعنى الضغط."
+        },
+        {
+          "lesson_id": "088-88",
+          "start_seconds": 196,
+          "end_seconds": 200,
+          "evidence": "فكذا ذكرنا معناه؟ قلنا التعليق عن الإعماد معناه."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-45-أفعال-القلوب-واستعمال-القول",
+      "title": "أفعال القلوب واستعمال القول",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "089-89",
+          "start_seconds": 430,
+          "end_seconds": 440,
+          "evidence": "صحيح، هذا هذا القول الذي قالوه هذا رايهم وانت تحت وفلان يحكي هذا القول يقول قال الامامك كذا كذا فالاصل في الفعل قال الاصل"
+        },
+        {
+          "lesson_id": "089-89",
+          "start_seconds": 421,
+          "end_seconds": 430,
+          "evidence": "عندما يقول الحنابيه يقول الحنابده القول قال وهذا نعم ليس بمعنى ظن هذا انت معي قال يا باب معنى اراء نعم"
+        },
+        {
+          "lesson_id": "089-89",
+          "start_seconds": 826,
+          "end_seconds": 832,
+          "evidence": "ذُكِرت المهم يعني إذا فُقِد شَرٍّ ، وَجَبَ استعماله قال بمعنى حكاية القول"
+        },
+        {
+          "lesson_id": "090-90",
+          "start_seconds": 850,
+          "end_seconds": 856,
+          "evidence": "معي ليس من أفعال القلوب اصالة هو يعني يعامل معاملة أفعال القلوب. لكن ليس"
+        },
+        {
+          "lesson_id": "090-90",
+          "start_seconds": 2224,
+          "end_seconds": 2229,
+          "evidence": "المْ يُمُرُ بنا الفعلان مجردين من الهمسة قبل قليل في أفعال القلوب،"
+        },
+        {
+          "lesson_id": "090-90",
+          "start_seconds": 845,
+          "end_seconds": 850,
+          "evidence": "أفعال القلوب الأصلية لكن الفعل قال ليس من أفعال القلوب اصالة أنت"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-46-الفاعل-وأحكامه",
+      "title": "الفاعل وأحكامه",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "091-91",
+          "start_seconds": 537,
+          "end_seconds": 544,
+          "evidence": "بعده والمراد باسمي طبعا، احنا نقول الفاعل اسمي ، الاسمه أنواع منوعة، الاسمه قد يكون صريحاً"
+        },
+        {
+          "lesson_id": "091-91",
+          "start_seconds": 397,
+          "end_seconds": 404,
+          "evidence": "نمضي المهم انه فعلا. سواءً كان متشريفاً أو كان ماذا؟ أو كان جديداً. الفاعل"
+        },
+        {
+          "lesson_id": "091-91",
+          "start_seconds": 822,
+          "end_seconds": 828,
+          "evidence": "ما أُسْلد إليه فعلٍ على طريقة فعل، وهو النائب عن الفاعل حضورهم زيد."
+        },
+        {
+          "lesson_id": "092-92",
+          "start_seconds": 1145,
+          "end_seconds": 1158,
+          "evidence": "الآذى. وكما قلنا هو في هذا البيت يقرر القاعدة عموماً إجمالاً يعني. يعني الفاعل اذا كان مؤنثاً كان الفعل مؤنثاً والعكس. دون نظر الى وجوب او الجواس والهجوب او الجواس سيأتي في الأبيات"
+        },
+        {
+          "lesson_id": "092-92",
+          "start_seconds": 888,
+          "end_seconds": 897,
+          "evidence": "ثلاثة ما ذلك. كما ذكرنا الان. البصير اليوم يقول فاعلي فاعلي محدود. تفسره المركوب. وليس فاعلاً للبذكوم. لان الفاعل دون لا يتقدم."
+        },
+        {
+          "lesson_id": "092-92",
+          "start_seconds": 2539,
+          "end_seconds": 2548,
+          "evidence": "في كل هذه الجملة الفاعل وانت حقيقي. نعم فاطمة. لكن يوجد فاصل ليس في الله. أليست كذلك؟ في هذه الحالة يجوز التفكير"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-47-تأنيث-الفعل-مع-الفاعل",
+      "title": "تأنيث الفعل مع الفاعل",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "093-93",
+          "start_seconds": 2137,
+          "end_seconds": 2147,
+          "evidence": "جميلاً انت الأصلي نعم ان يأتي المفعول بعد الفعل. جميل. لكن ما ان يأتي الفاعل عفواً. لكن ما ادرأنا في هذه الحالة ان هذا فاعل."
+        },
+        {
+          "lesson_id": "093-93",
+          "start_seconds": 1164,
+          "end_seconds": 1171,
+          "evidence": "يعني يأتي بعده البشر. والاصل في المفعول أي ينفصل ينفصل عن مالك عن الفعل. يعني قبله الفاعل."
+        },
+        {
+          "lesson_id": "093-93",
+          "start_seconds": 1061,
+          "end_seconds": 1068,
+          "evidence": "به ، أليس كذلك؟ ونعرف ان الوصلَ في الفاعل أن يأتي بعد الفعل وفي المفعول هذا يتأخر."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-48-ترتيب-الفاعل-والمفعول",
+      "title": "ترتيب الفاعل والمفعول",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "094-94",
+          "start_seconds": 317,
+          "end_seconds": 325,
+          "evidence": "فالفاعل إذا حُصر في المفعول تقدم الفاعل المحصور ، وأخر المفعول المحصور فيه. والمفعول"
+        },
+        {
+          "lesson_id": "094-94",
+          "start_seconds": 3232,
+          "end_seconds": 3239,
+          "evidence": "فهنا مقابل. هنا مع الفاعل ضمير. وهنا مع المفعول. وهنا الفاعل تقدم وهنا المفعول. لكن هنا التقديم شاذ."
+        },
+        {
+          "lesson_id": "094-94",
+          "start_seconds": 2179,
+          "end_seconds": 2185,
+          "evidence": "مفعولا. فهناك من أجاز مطلقاً وهناك من منع مطلقاً وهناك من أجاز مع المفعول ومنع مع الفاعل."
+        },
+        {
+          "lesson_id": "095-95",
+          "start_seconds": 47,
+          "end_seconds": 58,
+          "evidence": "إذا اتصل بالفاعل ضميرٌ يعود إلى المفعول واجب أن يتقدم المفعول لأنه متأخر ، فسيعود الضمير إلى متأخر اللفظ المبتدأ وهذا ممنوع عند الجموع."
+        },
+        {
+          "lesson_id": "095-95",
+          "start_seconds": 187,
+          "end_seconds": 196,
+          "evidence": "في مسألة تقديم الفاعل ، الفاعل إذا كان ضميرا متصلا تقدم. سواءً كان المفعول ضميرا بيضا أو كان غيره؟"
+        },
+        {
+          "lesson_id": "095-95",
+          "start_seconds": 713,
+          "end_seconds": 722,
+          "evidence": "ولم يضرب هندٍ وضرب ابن هندٍ. فهنا أيضاً، الفاعل مازال معه ضمير، لكن لا يعود إلى المفعول،"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-49-نائب-الفاعل-وما-ينوب-عنه",
+      "title": "نائب الفاعل وما ينوب عنه",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "096-96",
+          "start_seconds": 43,
+          "end_seconds": 48,
+          "evidence": "فقد بدأنا أمسي في باب الجديد، وهو باب نائب الفاعل."
+        },
+        {
+          "lesson_id": "096-96",
+          "start_seconds": 1704,
+          "end_seconds": 1713,
+          "evidence": "نخرج عن الظرفية المطلقة الى الفاعلية او الى المفعولية او الى المبتدأ او الى الخبر لا ولا حتى الى الجرد منك ولا"
+        },
+        {
+          "lesson_id": "096-96",
+          "start_seconds": 2181,
+          "end_seconds": 2187,
+          "evidence": "الظرف النائب الذي يصلح للرافع للنيابة يجب ان يكون متصرفا ماذا؟ مختص."
+        },
+        {
+          "lesson_id": "097-97",
+          "start_seconds": 1495,
+          "end_seconds": 1500,
+          "evidence": "ينوب عن الفاعل شيءٌ واحد، وما دون هذا النائب يبقى على حاله."
+        },
+        {
+          "lesson_id": "097-97",
+          "start_seconds": 1346,
+          "end_seconds": 1355,
+          "evidence": "فلا اظن يعني هذا سيحق ايضا في لبسه يعني عامرو هنا هو مرفوع نعم لكن قد لا يغنى انه فاعل قد يغنى انه مفعول يعني يتردد بين الفاعل"
+        },
+        {
+          "lesson_id": "097-97",
+          "start_seconds": 1092,
+          "end_seconds": 1102,
+          "evidence": "زائد اشتبه بعمره ام عمره اشتبه بمن بزيت هنا لبسه لما اقول ظلمت زيدا عمرا يجب ان ينوب الاول عند البناء مجود ظن زيد عمرا خلاص"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-50-الاشتغال-وأحكامه",
+      "title": "الاشتغال وأحكامه",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "098-98",
+          "start_seconds": 760,
+          "end_seconds": 764,
+          "evidence": "بهذا فالمسألة ليست داخلاً في باب الاشتغال. ليس داخلاً في باب الاشتغال."
+        },
+        {
+          "lesson_id": "098-98",
+          "start_seconds": 972,
+          "end_seconds": 978,
+          "evidence": "واضح، الكلام؟ لكن مع الاشتغال فإذا زيد يضربه ها سعيد،"
+        },
+        {
+          "lesson_id": "099-99",
+          "start_seconds": 754,
+          "end_seconds": 760,
+          "evidence": "هذه من باب الاشتغال وهذه ايضا من باب الاشتغال. من باب الاشتغال."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-51-تعدي-الفعل-وعمل-اسم-الفاعل",
+      "title": "تعدي الفعل وعمل اسم الفاعل",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "100-100",
+          "start_seconds": 1983,
+          "end_seconds": 1990,
+          "evidence": "الفعل المتعدي يرفع فاعلا وينصب مفعولا أو مفعولين على كل حال، الفاعل عمدة،"
+        },
+        {
+          "lesson_id": "100-100",
+          "start_seconds": 2084,
+          "end_seconds": 2094,
+          "evidence": "نعم أكلت؟ أنا لا يعلني ماذا أكلت؟ المهم يعلني الفعل أكلت؟ أم لا؟ أم لم تأكل؟ فحذف المفعول هنا، لأن المتكلم لا غرض له فيه بك."
+        },
+        {
+          "lesson_id": "100-100",
+          "start_seconds": 1690,
+          "end_seconds": 1699,
+          "evidence": "أعطيتُ درهماً زيداً صحيح، لكن خروج عن الأصل على خلاف الأصل. لكن صحيحٌ جاهزٌ يعني. فالاصل هو أن يتقدم الفاعلٌ ،"
+        },
+        {
+          "lesson_id": "101-101",
+          "start_seconds": 35,
+          "end_seconds": 42,
+          "evidence": "لا بأس، فقولت لك، الفعل يعمله في أي زمن، فينفسخ على كل حال، لكن إسم الفاعل"
+        },
+        {
+          "lesson_id": "101-101",
+          "start_seconds": 52,
+          "end_seconds": 58,
+          "evidence": "لكن اسم الفاعل ليس كالفعل هو أقل شئ منه، فلا يعمل الا فيه كله."
+        },
+        {
+          "lesson_id": "101-101",
+          "start_seconds": 1448,
+          "end_seconds": 1455,
+          "evidence": "اه هذا الفعل كان يحتاج المعمول فاعل? اعطيه ضميرا مرفوع. كان يحتاج المعمول مفعولا. اعطيه ضميرا منصوب."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-52-التنازع-وإعمال-العاملين",
+      "title": "التنازع وإعمال العاملين",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "102-102",
+          "start_seconds": 48,
+          "end_seconds": 52,
+          "evidence": "قلنا إذا أعملنا الأولَ على رأيي الكوفيين،"
+        },
+        {
+          "lesson_id": "102-102",
+          "start_seconds": 55,
+          "end_seconds": 59,
+          "evidence": "كل ما يحتاج إليه من مرفوع أو منصوب أو مجرور،"
+        },
+        {
+          "lesson_id": "103-103",
+          "start_seconds": 56,
+          "end_seconds": 59,
+          "evidence": "هو عبارة عن تقدم عاملين أو أكثر"
+        },
+        {
+          "lesson_id": "103-103",
+          "start_seconds": 64,
+          "end_seconds": 67,
+          "evidence": "وكل عاملٍ من العوامل المتقدمة"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-53-المفعول-المطلق-وحذف-عامله",
+      "title": "المفعول المطلق وحذف عامله",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "104-104",
+          "start_seconds": 43,
+          "end_seconds": 49,
+          "evidence": "ثلاثة أقسام منه المؤكد ومنه المبين للنوع ومنه المبين للعدم."
+        },
+        {
+          "lesson_id": "104-104",
+          "start_seconds": 120,
+          "end_seconds": 123,
+          "evidence": "لان المصدر المؤكّد"
+        },
+        {
+          "lesson_id": "105-105",
+          "start_seconds": 441,
+          "end_seconds": 446,
+          "evidence": "التي يُحذف فيها العامل النصد في المفعول المطلق وجوباً،"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-54-المفعول-له-والمفعول-فيه",
+      "title": "المفعول له والمفعول فيه",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "106-106",
+          "start_seconds": 1249,
+          "end_seconds": 1257,
+          "evidence": "والمفعول به وق فيه وق عليه الفعل اما هذه لا تدل على ان الفعل وقع عليها وانما تدل على ان الفعل وقع"
+        },
+        {
+          "lesson_id": "106-106",
+          "start_seconds": 1635,
+          "end_seconds": 1647,
+          "evidence": "ان الظرف ما تضمن معنا ذي وهذه لا تتضمن معنا فيه لان شبه المفعول لا يتضمن معنا فيه لكن ربما نقول ابن مالك ذكر هذا احترازا من را اخر يرأ انها ظروف."
+        },
+        {
+          "lesson_id": "106-106",
+          "start_seconds": 1405,
+          "end_seconds": 1413,
+          "evidence": "على الظرفيه وان هي منصوبه على التشبيه بالمفعول به لان الظرف هو ما تضمن معنا فيه باضطراد وهذه"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-55-المفعول-معه",
+      "title": "المفعول معه",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "107-107",
+          "start_seconds": 3103,
+          "end_seconds": 3111,
+          "evidence": "أليس كذلك؟ لو كانت تعمل لتجرت كلمة عبد الله. فهنا باب نفس الشيء. المفعول ما هو قضى منصوب."
+        },
+        {
+          "lesson_id": "107-107",
+          "start_seconds": 88,
+          "end_seconds": 94,
+          "evidence": "تذكرون أننا قلنا ينوب عن المفعول المُبتدأ ينوب عفواً عندما تكلمنا على النائب عن الفاعل."
+        },
+        {
+          "lesson_id": "107-107",
+          "start_seconds": 3264,
+          "end_seconds": 3270,
+          "evidence": "المفعول معه مُقيسٌ فيما كان مثل ذلك، وهو كلُّ اسمٍ وقعَ بعد واوٌ بمعنى معًا، وتقدمه"
+        },
+        {
+          "lesson_id": "108-108",
+          "start_seconds": 1852,
+          "end_seconds": 1865,
+          "evidence": "هذا جواب مجمل يحتاج لتصيل لا يعني يوجد جواب مجمل وجواب فص متى يجب النصب اذا كان العطف لا يجوز والتفصيل كذلك متى يجب العطف اذا كان النصب لا يجوز التفصيل كذلك طب متى يكون النصب افضل"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-56-الاستثناء-وأحكام-المستثنى",
+      "title": "الاستثناء وأحكام المستثنى",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "109-109",
+          "start_seconds": 2791,
+          "end_seconds": 2801,
+          "evidence": "مع الاستثناء طبعا مع النصب ووجب نصب منقطع عند باب التميم وامام باب التميم فيجيزون اتباعا منقطع واضحك"
+        },
+        {
+          "lesson_id": "109-109",
+          "start_seconds": 546,
+          "end_seconds": 551,
+          "evidence": "فالمستثنى منه، قد يُذكر وقد يُحدث، لكن الأداء والمستثنى يجب ذكرهم،"
+        },
+        {
+          "lesson_id": "109-109",
+          "start_seconds": 2496,
+          "end_seconds": 2502,
+          "evidence": "والمراد بالمتصل ان يكون المستثنى بعضا مما قبله اي من جنسيه وبالمنع"
+        },
+        {
+          "lesson_id": "110-110",
+          "start_seconds": 918,
+          "end_seconds": 926,
+          "evidence": "اي لم تفد استثناء مستقلا. نعم. هذا ليس استثناء لم يستقل به الاستثناء هو حكمك حكمى سب وكانك"
+        },
+        {
+          "lesson_id": "110-110",
+          "start_seconds": 2788,
+          "end_seconds": 2794,
+          "evidence": "الى اخره اي وانصف المستديات كلها إذا تأخرت عن المستثنى منه إن كان الكلام موجبا،"
+        },
+        {
+          "lesson_id": "110-110",
+          "start_seconds": 2988,
+          "end_seconds": 2994,
+          "evidence": "غير تعامل بما يعامل به المستثنى بعد الا بالضبط، نفس التفصيل الذي مر."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-57-الحال-وصاحبها-وربط-جملتها",
+      "title": "الحال وصاحبها وربط جملتها",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "111-111",
+          "start_seconds": 3482,
+          "end_seconds": 3492,
+          "evidence": "مساله العام لهذا الامر لصناعي ف ما المشكله ان نقول نعم العامل في المبتدأ هو الابتداء وهذا العامل ايضا ما اخذ في الحال لان الحال مرتبط بالمبتدأ"
+        },
+        {
+          "lesson_id": "111-111",
+          "start_seconds": 3439,
+          "end_seconds": 3447,
+          "evidence": "يشترطون ان يكون العامل في الحال هو العامل في صاحب الحال كجاء زيد راكب العامل في زيد جاء والعامل في راكبه جاء"
+        },
+        {
+          "lesson_id": "111-111",
+          "start_seconds": 2175,
+          "end_seconds": 2184,
+          "evidence": "وعلم بهذا وما قبله ان قولا النحوين ان الحال يجب ان تكون منتقله مشتقه معناه ان ذلك هو الغالب لا انه لازم"
+        },
+        {
+          "lesson_id": "112-112",
+          "start_seconds": 1555,
+          "end_seconds": 1565,
+          "evidence": "فلها كتابٌ جملةٌ في موضع الحال بالقرية، وصحَّ مجيء الحال من النكرة بتقدم النفي عليها ولا يصح كه الجملة صفة لقرية"
+        },
+        {
+          "lesson_id": "112-112",
+          "start_seconds": 2177,
+          "end_seconds": 2187,
+          "evidence": "يأتي لتقييد العامل ف معنى الاشتراط المسبق نعم انت معي هو يعني كلمه ويريد ان يكون لا باسا يعني الحال اصلا هو يقيد"
+        },
+        {
+          "lesson_id": "112-112",
+          "start_seconds": 2777,
+          "end_seconds": 2785,
+          "evidence": "طيب هذا تقديم الحال على صاحبها المجرور بالحرف طيب هل هناك مانع ان تتقدم الحال على صاحبها المرفوعه والمنصوب لا"
+        },
+        {
+          "lesson_id": "113-113",
+          "start_seconds": 112,
+          "end_seconds": 125,
+          "evidence": "الفعل المتصرف يصلح معاملا في الحال. الفعل الجانب يصلح معاملا في الحال. الاسم الذي يشبه الفعل المتسلط في عمل في الحال. الاسم الذي لا يشبه الفعل المتسلط. كاسم التقديم المصدر يعمله اي"
+        },
+        {
+          "lesson_id": "113-113",
+          "start_seconds": 99,
+          "end_seconds": 108,
+          "evidence": "لتقديم الحال على العامل لا يتقدم الحال على العامل الا اذا كان العامل فعلا متصرفا او اسما يشبه الفعل نصف جميل،"
+        },
+        {
+          "lesson_id": "113-113",
+          "start_seconds": 755,
+          "end_seconds": 762,
+          "evidence": "فهذه الانواع اولى بمنع تقديم الحال عليه ليس كذلك راينا امسي ان ان الحال لا يتقدم على نسبه التفضيل"
+        },
+        {
+          "lesson_id": "114-114",
+          "start_seconds": 661,
+          "end_seconds": 669,
+          "evidence": "أنتم معي؟ فيريد أن يقول الحال في إما جائز وإما ماذا؟ وإما واجب. وكذلك الحال المؤكداً بجبلة."
+        },
+        {
+          "lesson_id": "114-114",
+          "start_seconds": 46,
+          "end_seconds": 53,
+          "evidence": "في هذه الحالة التي يمتنع فيها الربط بواو الحال لا مفرّ من الربط بالضمير."
+        },
+        {
+          "lesson_id": "114-114",
+          "start_seconds": 1039,
+          "end_seconds": 1046,
+          "evidence": "هذا معنى قوله وبعض ما يُحذف ذكره حوضٍ أي بعض ما يُحذف من عامن الحال"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-58-ختام-الحال-وحروف-الجر",
+      "title": "ختام الحال وحروف الجر",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "115-115",
+          "start_seconds": 1249,
+          "end_seconds": 1257,
+          "evidence": "اللامي ليست موجودة لفظة. لكن انت يجوز لك ان تقدر انها موجودة. يجوز لك. في هذه الحالة ايضا كي حرفوا نصد ومصدر."
+        },
+        {
+          "lesson_id": "115-115",
+          "start_seconds": 768,
+          "end_seconds": 776,
+          "evidence": "وقلّ من ذَكَر كي ولعلّ ومتى في حروف الجرّ؟ قلّ من ذَكَر ما شاء الله. كما سنرى، يعني جاءت جرّ في استعمالات"
+        },
+        {
+          "lesson_id": "115-115",
+          "start_seconds": 2920,
+          "end_seconds": 2928,
+          "evidence": "مُعيناً وهو منذ أن الجران ظاهراً زماناً، رُب ظاهراً نكراً الت ظاهر اسمَ الجلالة وكذا وكذا"
+        },
+        {
+          "lesson_id": "116-116",
+          "start_seconds": 1408,
+          "end_seconds": 1416,
+          "evidence": "اللام الزائ لام من معاني اللام، انها تأتي زائدة؟ سيذكر هذا الآن. من معاني اللامها حرف الجرء انها تأتي زائدة."
+        },
+        {
+          "lesson_id": "116-116",
+          "start_seconds": 52,
+          "end_seconds": 61,
+          "evidence": "فهناك معاني لحروف الجر، وبيان معادها أمرٌ هامٌ مهمٌ جدّا يُستفاد منه في فم آيات القرآن، وفي فم السّنّة."
+        },
+        {
+          "lesson_id": "116-116",
+          "start_seconds": 2614,
+          "end_seconds": 2623,
+          "evidence": "فيُحمل حرف الجرّ عنه على انه بمعنى ماذا؟ على انه بمعنى عل. هذا معنى قوله وقد تجيء موضع بعد وعر."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-59-زيادة-حروف-الجر",
+      "title": "زيادة حروف الجر",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "117-117",
+          "start_seconds": 3007,
+          "end_seconds": 3011,
+          "evidence": "خطأ. رأينا قبل قليل أن حروف الجرّ لا تعمل محتوفة."
+        },
+        {
+          "lesson_id": "117-117",
+          "start_seconds": 1195,
+          "end_seconds": 1202,
+          "evidence": "فيقال لا. لا فيقال لا. أنتم يا إخوان؟ هذه الحروف الثلاثة. يا ربت ما"
+        },
+        {
+          "lesson_id": "117-117",
+          "start_seconds": 1828,
+          "end_seconds": 1832,
+          "evidence": "لا يجوز حرفُ حرفِ الجرِّ وإبقاءِ عملهِ إلاّ في رُبَّى بعد"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-60-الإضافة-اللفظية-والمعنوية",
+      "title": "الإضافة اللفظية والمعنوية",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "118-118",
+          "start_seconds": 610,
+          "end_seconds": 620,
+          "evidence": "إليه المضاف بالمضاف إليه تماما بحيث لا يمكن فصله. وأما الإضافة اللفظية فتسمى غير المحضة لأنها على تقدير الفصل."
+        },
+        {
+          "lesson_id": "118-118",
+          "start_seconds": 2590,
+          "end_seconds": 2595,
+          "evidence": "اول حالة يجوز فيها أن تأتي بألو مع المضاف الإضافة اللفظية."
+        },
+        {
+          "lesson_id": "118-118",
+          "start_seconds": 439,
+          "end_seconds": 443,
+          "evidence": "و هذا الكلام؟ إذاً الإضافة اللفظية شروطها ثلاث."
+        },
+        {
+          "lesson_id": "119-119",
+          "start_seconds": 171,
+          "end_seconds": 178,
+          "evidence": "نحن قلنا عمومًا الإضافة المعنوية لا يتصل فيها مضاف بها هذه الحالات كلها في الإضافة اللفظية"
+        },
+        {
+          "lesson_id": "119-119",
+          "start_seconds": 712,
+          "end_seconds": 719,
+          "evidence": "صحيح، يعني في الإضافة المعنوية ممنوع، وعرفنا العِلِّ المفروض هذا في الإضافة اللفظية كذلك ؟"
+        },
+        {
+          "lesson_id": "119-119",
+          "start_seconds": 1060,
+          "end_seconds": 1065,
+          "evidence": "اللفظية. هذا الإستثناء في الألفة واللفظت في الإضافة اللفظية."
+        },
+        {
+          "lesson_id": "120-120",
+          "start_seconds": 1571,
+          "end_seconds": 1576,
+          "evidence": "من الناحية اللفظية لا يلزم. لكن من ناحية التقدير لابد من تقدير الإضافة."
+        },
+        {
+          "lesson_id": "120-120",
+          "start_seconds": 1287,
+          "end_seconds": 1297,
+          "evidence": "ويقال جئت قبله كما سيأتي ايضا. بالبناء على الطب، والمضاف ايضا إليه موجود في ماذا؟ موجود في التقدير. فهون نريد أن يكون هناك أسماء تلازم الإضافة."
+        },
+        {
+          "lesson_id": "120-120",
+          "start_seconds": 1608,
+          "end_seconds": 1616,
+          "evidence": "لأنه إذا قيل يلزم الإضافات لفظا خلاص أغنى عن الإضافة في المعنى في التفضيل. أليس كذلك؟ والقسم الثاني"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-61-الظروف-الملازمة-للإضافة",
+      "title": "الظروف الملازمة للإضافة",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "121-121",
+          "start_seconds": 1781,
+          "end_seconds": 1793,
+          "evidence": "هذه الظروف إذا وظيفة، إذا جاء بعدها جملة فعلية جملة فعلية في الله مضارع أو جملة اسمية يجب الإعراب، ومعاض يجب البناء،"
+        },
+        {
+          "lesson_id": "121-121",
+          "start_seconds": 457,
+          "end_seconds": 464,
+          "evidence": "فقالوا الظرف من هذه الظروف. إذا كان زمنه مستقبلاً أضيف إلى ما تضاف إليه إذا."
+        },
+        {
+          "lesson_id": "121-121",
+          "start_seconds": 1523,
+          "end_seconds": 1530,
+          "evidence": "هناك من قال إذا جاء بعد هذه الظروف ماضٍ، وَجَبَ بِناؤها ولم يُجْهُز إعراب."
+        },
+        {
+          "lesson_id": "122-122",
+          "start_seconds": 656,
+          "end_seconds": 671,
+          "evidence": "فقالوا هذا وجهه شبه بينها وبينُ الحروف. فالخروف في استعمالها تلازم استعمالاً واحداً، وكذلك لدن تلازم استعمالاً واحداً، وهو ماذا? وهو تخفيض. وانا اقول لك ام امروا التعلي بهذا امروا "
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-62-الإضافة-إلى-ياء-المتكلم",
+      "title": "الإضافة إلى ياء المتكلم",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "123-123",
+          "start_seconds": 2019,
+          "end_seconds": 2026,
+          "evidence": "سيأتي في باب الإضافة قليلا اليوم إن شاء الله. فلذلك قال وكلا الرايين فيه تخريج على وجه ماذا؟"
+        },
+        {
+          "lesson_id": "124-124",
+          "start_seconds": 1572,
+          "end_seconds": 1579,
+          "evidence": "في مدرسية لا، في الإضافة نعم في مخرجية تدخل في هذا، في غير الكلام لم يمكن أن يقال أو مخرجون"
+        },
+        {
+          "lesson_id": "124-124",
+          "start_seconds": 652,
+          "end_seconds": 659,
+          "evidence": "ونعرف ايضا ان الإعراب عند انتصاره بيار المتكلم يكون إعراب مُقدّراً لسببٍ آخر، وهو"
+        },
+        {
+          "lesson_id": "124-124",
+          "start_seconds": 708,
+          "end_seconds": 714,
+          "evidence": "ينتهي بياء. ليس كذلك ؟ عند اتصاله بياء المتكلم تضرب الياء في الياء"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-63-المصدر-واسم-الفاعل",
+      "title": "المصدر واسم الفاعل",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "125-125",
+          "start_seconds": 2398,
+          "end_seconds": 2402,
+          "evidence": "اسم الفاعل واسم المفعول وصيغة المبالغة وصيغة المشبّه واسم التفضيل،"
+        },
+        {
+          "lesson_id": "125-125",
+          "start_seconds": 738,
+          "end_seconds": 745,
+          "evidence": "يضاف إلى الفاعل وينصب المفعول، أو إلى المفعول ويرفع الفاعل أو إلى ضعف ويرفع الفاعل وينصب"
+        },
+        {
+          "lesson_id": "125-125",
+          "start_seconds": 26,
+          "end_seconds": 32,
+          "evidence": "تكلمنا على أن المصدر يعمل عمل الفعل بشرط أن يصح تاويله بان الفعل أو ما"
+        },
+        {
+          "lesson_id": "126-126",
+          "start_seconds": 364,
+          "end_seconds": 372,
+          "evidence": "قال وزعم ابنه ابن الديني في شرح النسب الفاعل إذا وقع صلة للألف واللام، عمل ماضيا مستقبلا وحالا باتفاق،"
+        },
+        {
+          "lesson_id": "126-126",
+          "start_seconds": 472,
+          "end_seconds": 480,
+          "evidence": "فلمّا أراد العربُ الدلالة على الكثرة، حوَّلوا اسمَ الفاعلٍ إلى فَعُولٍ أو فَعََّالٍِ أو فِعّلٍ"
+        },
+        {
+          "lesson_id": "126-126",
+          "start_seconds": 3022,
+          "end_seconds": 3028,
+          "evidence": "ما عرفنا كيف يصاب المصدر الذي عرفنا الأعماله. فنحن عرفنا الأعمال التي الان عن كيف يصاب."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-64-أبنية-المصادر-وصيغها",
+      "title": "أبنية المصادر وصيغها",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "127-127",
+          "start_seconds": 10,
+          "end_seconds": 16,
+          "evidence": "في أبيات ابن مالك رحمه الله تعالى أمسي التي يتحدَّث فيها على أبية المصادر"
+        },
+        {
+          "lesson_id": "127-127",
+          "start_seconds": 17,
+          "end_seconds": 22,
+          "evidence": "وقد بدأَ رحمةُ الله تعالى بأدوية المصادر للأفعال الثلاثية"
+        },
+        {
+          "lesson_id": "128-128",
+          "start_seconds": 746,
+          "end_seconds": 753,
+          "evidence": "فتكلم كما راينا على أبنية المصادر، والآن سيتكلم على أبنية أسماء الفاعل والمفعول والصفات"
+        },
+        {
+          "lesson_id": "128-128",
+          "start_seconds": 710,
+          "end_seconds": 714,
+          "evidence": "أبنية أسماء الفاعلين والمفرولين وصفات المشبّهات."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-65-الصفة-المشبهة-وعملها",
+      "title": "الصفة المشبهة وعملها",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "129-129",
+          "start_seconds": 2304,
+          "end_seconds": 2309,
+          "evidence": "لما كانت الصفة المشبهة فرعا في العمل عن إسم الفاعل،"
+        },
+        {
+          "lesson_id": "129-129",
+          "start_seconds": 191,
+          "end_seconds": 196,
+          "evidence": "المشبهة اسم الفاعل هي الصفة التي يستحسن جر فاعلها."
+        },
+        {
+          "lesson_id": "129-129",
+          "start_seconds": 516,
+          "end_seconds": 523,
+          "evidence": "نعم. الصفة المشبهة لا تصاب الا من ثلاثي اللازم."
+        },
+        {
+          "lesson_id": "130-130",
+          "start_seconds": 2808,
+          "end_seconds": 2818,
+          "evidence": "وموصفت بالجملة التي ماذا؟ التي بعدها. قال وذهب وبعضهم الى انها نكرة موصوفة والجملة التي بعدها صفة لها. هي المسوق والخبر محذوف"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-66-صيغ-التعجب-وأحكامها",
+      "title": "صيغ التعجب وأحكامها",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "131-131",
+          "start_seconds": 378,
+          "end_seconds": 386,
+          "evidence": "نتكلم على شروط الفعل وهي سبعه التي يصاب منه التعجب مباشرة على ما أفعل او افعل به."
+        },
+        {
+          "lesson_id": "131-131",
+          "start_seconds": 1767,
+          "end_seconds": 1775,
+          "evidence": "يعني أنت تريد التعجب من ضرب أوقع به؟ لئلا يلتمس بالتعجب من ضرب أوقعه."
+        },
+        {
+          "lesson_id": "131-131",
+          "start_seconds": 556,
+          "end_seconds": 561,
+          "evidence": "لا يصاب التعجب من الاسماء بل يصاب من ماذا من الافعال ونصيبا للاسماء"
+        },
+        {
+          "lesson_id": "132-132",
+          "start_seconds": 8,
+          "end_seconds": 12,
+          "evidence": "قد انتهينا امس، و الحمد لله من صياغة فِعِّل التعجب."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-67-اسم-التفضيل-وصوره",
+      "title": "اسم التفضيل وصوره",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "133-133",
+          "start_seconds": 3298,
+          "end_seconds": 3306,
+          "evidence": "ويقصدون بالاسبق ها التفضيل فهذا التفضيل على الحقيق تفض على الحقيق الا اذا كان السياق يدل على غير ذلك بسلوبين"
+        },
+        {
+          "lesson_id": "133-133",
+          "start_seconds": 1940,
+          "end_seconds": 1948,
+          "evidence": "ليس كذلك ؟ اسمُ التفضيل في هاتين الصورتين يلزم الإفراد و التذكير. في هذه الصورة العكس،"
+        },
+        {
+          "lesson_id": "133-133",
+          "start_seconds": 1902,
+          "end_seconds": 1907,
+          "evidence": "هل يتغير غير يبقان في العرب؟ ما اعراب التفضيل? نعم. لا لا يتغير. اعرب بحسب قواعد."
+        },
+        {
+          "lesson_id": "134-134",
+          "start_seconds": 363,
+          "end_seconds": 373,
+          "evidence": "أم هذا شيء يقتصر فيه على السماع؟ هناك من قال بقيس هناك من قال يقتصر فيه على ماذا؟ على السماع؟ وهناك رجلٌ يقول لا التفضيل دائما للتخطيط."
+        },
+        {
+          "lesson_id": "134-134",
+          "start_seconds": 373,
+          "end_seconds": 383,
+          "evidence": "وهذه الآيات وهذه الأمثلة هي على التفضيل على الحقيقة، كما قال الشيخنا في هذه الآية وهو ههون عليه. كما قال ايضا في بيت الفرزدق."
+        },
+        {
+          "lesson_id": "134-134",
+          "start_seconds": 1582,
+          "end_seconds": 1591,
+          "evidence": "يمكن أن تحملها على الأصل هو التفضيل. لكن أحيانا كالبيت لم أكن بأعجالهم لا يمكن أن تحمله على الأصل. لو حُمِّل على أصله يكون"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-68-عمل-اسم-التفضيل-ومدخل-التوابع",
+      "title": "عمل اسم التفضيل ومدخل التوابع",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "135-135",
+          "start_seconds": 275,
+          "end_seconds": 280,
+          "evidence": "مسألة الكحول فيها يكون الفاعل بعد التفضيل اسماً ظاهراً بادفك."
+        },
+        {
+          "lesson_id": "135-135",
+          "start_seconds": 1047,
+          "end_seconds": 1051,
+          "evidence": "لو وضعت فعنا في مكان التفضيل فستجد أن هذا خطايا"
+        },
+        {
+          "lesson_id": "135-135",
+          "start_seconds": 2220,
+          "end_seconds": 2223,
+          "evidence": "نافِيَ أو إستفهام بعده نكرةِ، بعد أسم التفضيل"
+        },
+        {
+          "lesson_id": "136-136",
+          "start_seconds": 921,
+          "end_seconds": 926,
+          "evidence": "ما للمنعوت في الإعراب، هذا شيء متفق عليه بين التوابع كلها."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-69-النعت-والتوكيد",
+      "title": "النعت والتوكيد",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "137-137",
+          "start_seconds": 3030,
+          "end_seconds": 3036,
+          "evidence": "تمام فهذا كثير حذف المنعوت هو قولنعت كثير ويوجد العكس حالف النعت هو قولنعوت"
+        },
+        {
+          "lesson_id": "137-137",
+          "start_seconds": 3094,
+          "end_seconds": 3100,
+          "evidence": "تمام قال ابن عقيل هل يجوز حذف المنعوت واقامه النعت مقامه اذا دل عليه دليل؟"
+        },
+        {
+          "lesson_id": "137-137",
+          "start_seconds": 1999,
+          "end_seconds": 2006,
+          "evidence": "صحيحة أم لا؟ فالقطع ظاهر. لكن عندما يكون المنعوت مفردا. والنعت مفردا."
+        },
+        {
+          "lesson_id": "138-138",
+          "start_seconds": 1134,
+          "end_seconds": 1138,
+          "evidence": "والتوكيد بالفاظ العموم. والتوكيد بالفاظ ماذا?"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-70-عطف-البيان-وعطف-النسق",
+      "title": "عطف البيان وعطف النسق",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "139-139",
+          "start_seconds": 1247,
+          "end_seconds": 1252,
+          "evidence": "أحدهما عطف النسق وسيأتي والثاني عطف البيان، وهو المقصود بهذا الباب،"
+        },
+        {
+          "lesson_id": "139-139",
+          "start_seconds": 3126,
+          "end_seconds": 3131,
+          "evidence": "يُرى في غيظٍ يعني وعطف البيانِ يكون صالحاً لبدليته."
+        },
+        {
+          "lesson_id": "139-139",
+          "start_seconds": 1108,
+          "end_seconds": 1112,
+          "evidence": "وعطف البيان، جامدٌ لا مشتق ولا يقبلوا التأويد."
+        },
+        {
+          "lesson_id": "140-140",
+          "start_seconds": 169,
+          "end_seconds": 176,
+          "evidence": "تصلح لعطف اللاحق على السابق. وعطف السابق على اللاحق. وعطف المصاحب."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-71-معاني-حروف-العطف",
+      "title": "معاني حروف العطف",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "141-141",
+          "start_seconds": 863,
+          "end_seconds": 870,
+          "evidence": "لكن هي من بين حروف العطف التي تدل على ذلك. الفاء لا تدل على مصاحب. تدل دائما على الترتيب."
+        },
+        {
+          "lesson_id": "141-141",
+          "start_seconds": 3131,
+          "end_seconds": 3138,
+          "evidence": "يجب العطف بأم. هذه مواضع ام ليس مواضع أو. او لها باب لها معاني اخرى."
+        },
+        {
+          "lesson_id": "141-141",
+          "start_seconds": 875,
+          "end_seconds": 880,
+          "evidence": "فالواو من بين حروف العطف هي التي اختصت بالدلالة على المصاحبة."
+        },
+        {
+          "lesson_id": "142-142",
+          "start_seconds": 2260,
+          "end_seconds": 2265,
+          "evidence": "تما يا اخوانا فاما واقع فيها خلاف عاطفه ام لا او معانيها"
+        },
+        {
+          "lesson_id": "142-142",
+          "start_seconds": 2486,
+          "end_seconds": 2490,
+          "evidence": "ان يكون حرف العطف واحده منهما اما الواو اما اما تمام"
+        },
+        {
+          "lesson_id": "142-142",
+          "start_seconds": 2478,
+          "end_seconds": 2482,
+          "evidence": "انتم يا اخوانا طبعا كما يقولون لا يلتمع حرفان العطف"
+        },
+        {
+          "lesson_id": "143-143",
+          "start_seconds": 271,
+          "end_seconds": 282,
+          "evidence": "ان الذي يليها مخرج اي ليس جمله ليس جمله كلام الشيخ راكين يقول لا لابد ان يكون الذي يليها جمله وليس مفرد في العطف العاطف نعم العاطف ويقول"
+        },
+        {
+          "lesson_id": "143-143",
+          "start_seconds": 493,
+          "end_seconds": 501,
+          "evidence": "والساوع طبعا لو قبلها الواو ستكون إبو هي العطف لو جاء بعدها جملة ستكون حرف استدفان فقط ولا تكون حرف قط طيب"
+        },
+        {
+          "lesson_id": "143-143",
+          "start_seconds": 1757,
+          "end_seconds": 1764,
+          "evidence": "قال ام ابن عقيل وعلموا من كلام المصنف ان العطف على الضمير المرفوع المنفصل لا لا يحتاج الى فصل"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-72-البدل-وأقسامه",
+      "title": "البدل وأقسامه",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "144-144",
+          "start_seconds": 635,
+          "end_seconds": 645,
+          "evidence": "انت ما اخطات لما كنت شايب وهذا هو فرض بنون في بدل الغلط انت ذكرت المبتدأ منه خطا المبتدأ منه خطا ثم ذكرت البدل"
+        },
+        {
+          "lesson_id": "144-144",
+          "start_seconds": 645,
+          "end_seconds": 653,
+          "evidence": "في البدل في بدل انقراض او بدل البلاء انت ما ذكرت المبتدأ منه خطا انت كنت قاصدا لكن غيرتها انتم"
+        },
+        {
+          "lesson_id": "144-144",
+          "start_seconds": 182,
+          "end_seconds": 189,
+          "evidence": "الواو او الفاء الى اخره هي التي دللنا على الاشتراك في الفعل والبدل ليس كذلك"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-73-النداء-وأنواع-المنادى",
+      "title": "النداء وأنواع المنادى",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "145-145",
+          "start_seconds": 2943,
+          "end_seconds": 2948,
+          "evidence": "المساله اشرنا لها قبل قليل اذا كان المنادى المبني مبنيا قبل النداء"
+        },
+        {
+          "lesson_id": "145-145",
+          "start_seconds": 348,
+          "end_seconds": 360,
+          "evidence": "لا يتناسب مع الصوت باب? اي لا يتناسب مع المنادى ماذا? مع المنادى البعيد. لكن هو يرى ان الهمزة ليرى ان الهمزة القريب وما دون الهمزة للبعيد ومما دون الهمزة ايه?"
+        },
+        {
+          "lesson_id": "145-145",
+          "start_seconds": 3074,
+          "end_seconds": 3081,
+          "evidence": "في حال النداء المعتبر هو البناء على الضبط قال ابن عقيل اي اذا كان اسمه هنا مبنيا قبل النداء"
+        },
+        {
+          "lesson_id": "146-146",
+          "start_seconds": 3501,
+          "end_seconds": 3512,
+          "evidence": "ابن عقيل اذا كان تابعا المنادى المضمون مضاعفا غير مصاحب للاهليج واللام واجب نص وكلمه تابعه ينتج فيها النعك والتوكيب والبيان والنسق والبدل لكن"
+        },
+        {
+          "lesson_id": "146-146",
+          "start_seconds": 2792,
+          "end_seconds": 2799,
+          "evidence": "دعك من البلد والنسق دعك من البلد والنسق الى اخر كما قلنا يعاملانك المنادى المستمع في ازنه الكره"
+        },
+        {
+          "lesson_id": "146-146",
+          "start_seconds": 797,
+          "end_seconds": 804,
+          "evidence": "واضحا الكلام مفهوم يا اخوانا قال ابن عقيل ورحمه الله تقدم انه اذا كان المنادى مفاد المعرفه"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-74-توابع-المنادى-وأحكامه",
+      "title": "توابع المنادى وأحكامه",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "147-147",
+          "start_seconds": 1467,
+          "end_seconds": 1475,
+          "evidence": "الاحتمال الاول انك اتخذت اسم الاشاره واسطه لبدال ما في ال يعني المنادى في الاصل هو ما فيه ال لكنك"
+        },
+        {
+          "lesson_id": "147-147",
+          "start_seconds": 3436,
+          "end_seconds": 3443,
+          "evidence": "ليس كذلك قال هنا اذا مضيف المنادى الى ياء المتكلم فاما ان يكون صحيحا او معتلا"
+        },
+        {
+          "lesson_id": "147-147",
+          "start_seconds": 303,
+          "end_seconds": 307,
+          "evidence": "فم التاويل هنا على تقدير يا ايها المنادى المسمى الرجب"
+        },
+        {
+          "lesson_id": "148-148",
+          "start_seconds": 3163,
+          "end_seconds": 3171,
+          "evidence": "نداء مضاف المنادى مضاف للياء مضاف الى مضاف للياء عندنا نداء استغاثه عندنا نداء ندبه عندنا نداء ترخيم"
+        },
+        {
+          "lesson_id": "148-148",
+          "start_seconds": 584,
+          "end_seconds": 592,
+          "evidence": "اسمعي قال اذا اضيف المنادى الى مضاف الى الياء متكلم يعني المنادى مضاف الى مضاف للياء"
+        },
+        {
+          "lesson_id": "148-148",
+          "start_seconds": 2755,
+          "end_seconds": 2761,
+          "evidence": "السبب في ان اللامم مفتوحه ان المنادى بمنزله الضمير اين ذلك يعني لا نشكر لان المنادى"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-75-الندبة-والترخيم",
+      "title": "الندبة والترخيم",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "149-149",
+          "start_seconds": 2513,
+          "end_seconds": 2520,
+          "evidence": "له في الندبة اثباتها وحذفها. طب لن يتكلم على على الذي يجب فيه الحلف او الذي يجب فيه الاثبات."
+        },
+        {
+          "lesson_id": "149-149",
+          "start_seconds": 1974,
+          "end_seconds": 1983,
+          "evidence": "بضم الهاء فيجب قلبه ألف الندبة بعد الكسرة ياء وبعد الضمة واوا. لأنك لو لم تفعل ذلك."
+        },
+        {
+          "lesson_id": "149-149",
+          "start_seconds": 735,
+          "end_seconds": 741,
+          "evidence": "تمام? لكن مع وأ لا بأس. وزيت لان وأ مختصة بالندبة لا تستعمل الا في نداله."
+        },
+        {
+          "lesson_id": "150-150",
+          "start_seconds": 642,
+          "end_seconds": 657,
+          "evidence": "بينا ما يرخر بدون شروط وما يرخر بشروط وبينا ما يحذف عند الترخيب كيف يكون الترخيب بحرف حرف ام بحرفين ام باكثر من ذلك قال ابن عقيلا رحمه الله لا في شرح الابيات الاولى"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-76-الاختصاص-وتوكيد-الأفعال",
+      "title": "الاختصاص وتوكيد الأفعال",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "151-151",
+          "start_seconds": 595,
+          "end_seconds": 608,
+          "evidence": "على كل حال الاختصاصياتي بعد ضميره فق يقال انت طالبه العلمي يجب عليك ان تجتهد التضبير انت اخص طالبه العلمي فلاباس ان يكون هذا من هذا باب يفسر ضمير المخاطب"
+        },
+        {
+          "lesson_id": "151-151",
+          "start_seconds": 433,
+          "end_seconds": 442,
+          "evidence": "له ثلاث و كما قلنا الاسم المنصوب على الاختصاص اما ان يكون ب او مضافا لما فيه ال او ان يكون كلمه اي"
+        },
+        {
+          "lesson_id": "151-151",
+          "start_seconds": 872,
+          "end_seconds": 878,
+          "evidence": "طيب انتهينا من هذا الاسلوب الذي يسمى بالاختصاص استاذفي انا افعل كذا ايها الرجل هنا"
+        },
+        {
+          "lesson_id": "152-152",
+          "start_seconds": 563,
+          "end_seconds": 575,
+          "evidence": "والمعتل اخر نوعان هذا يعني هو ثلاثه انواع طبعا معتل بالواو وبالياء وبالالف لكن المعتل بالواو والياء حكمه واحد والمعتل بالالف حكمه واحد واحد"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-77-الممنوع-من-الصرف-بألف-التأنيث-وصيغة-الجموع",
+      "title": "الممنوع من الصرف بألف التأنيث وصيغة الجموع",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "153-153",
+          "start_seconds": 1192,
+          "end_seconds": 1198,
+          "evidence": "العلماء يقولون الممدود الذي همزته زائده وهو طبعا الممنوع من الصرف"
+        },
+        {
+          "lesson_id": "153-153",
+          "start_seconds": 39,
+          "end_seconds": 44,
+          "evidence": "هذا هو الممنوع من الصرف، منهما يُمنع لسببين، ومنهما يُمنع لسبب"
+        },
+        {
+          "lesson_id": "153-153",
+          "start_seconds": 2641,
+          "end_seconds": 2646,
+          "evidence": "من علل منع الصرف ان تكون الكلمه الممنوعه على وزن الفعل"
+        },
+        {
+          "lesson_id": "154-154",
+          "start_seconds": 664,
+          "end_seconds": 675,
+          "evidence": "وكبع البته والى اخره الا اذا كان مختوما بويه فيبنى على الكسر كما هو معروف وقيل ايضا يمكن ان يعامل معامله الممنوع من من الصرف"
+        },
+        {
+          "lesson_id": "154-154",
+          "start_seconds": 262,
+          "end_seconds": 271,
+          "evidence": "تمام يا اخوانا قال ابن عقيل رحمه الله يعني ان سراويله لما كانت صيغته كصيغه منتهى الجموع امتنع من الصرف لشبهه"
+        },
+        {
+          "lesson_id": "154-154",
+          "start_seconds": 198,
+          "end_seconds": 210,
+          "evidence": "ومعناه مفرد فيلحق بجمع المبكر السالب في الرفع بالواو وفي النصب وتجرب الياء فهذه كذلك سراويل مفرد لكن يشبه صيغه منتهى ماذا الجموع فكان العرب يمنعونه كذلك"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-78-منع-العلم-من-الصرف",
+      "title": "منع العلم من الصرف",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "155-155",
+          "start_seconds": 2133,
+          "end_seconds": 2144,
+          "evidence": "لا يمنع من الصرف بسبب آله التانيل في المقصوره كيف يا استاذه ما انت قلت اذا كانت سائله فهي علامه تانيل لكن هي لم تزد بمعنى هي زيدت للالحاق"
+        },
+        {
+          "lesson_id": "155-155",
+          "start_seconds": 3562,
+          "end_seconds": 3570,
+          "evidence": "من الصرف للعدل وشبه العالميه العدل قلنا ممدوده عن الفعل طب شبه العالميه قال لانها في التقدير مضافه"
+        },
+        {
+          "lesson_id": "155-155",
+          "start_seconds": 2240,
+          "end_seconds": 2247,
+          "evidence": "هي ليست ألف التهديد للمنصور هي اصلا لم تاتي من تانيث هي جاءت للالحاق يقال ممنوع من الصرف للعالميه"
+        },
+        {
+          "lesson_id": "156-156",
+          "start_seconds": 608,
+          "end_seconds": 619,
+          "evidence": "وهو ممنوع من الصرف عند من عند بنيجه واضح هذا الكلام لكن طبعا كما قلنا ليس ممنوع من الصرف عندهم اطلاق فبعضهم يمنعهم اطلاق وبعضهم يفصل وبعضهم"
+        },
+        {
+          "lesson_id": "156-156",
+          "start_seconds": 580,
+          "end_seconds": 591,
+          "evidence": "فكذلك فعالي ممنوع من الصرف عند ذميمان عند باب التميمي انتم معي فقول وابني على الكذب فعال علما مودته هو يشير الى رأي الحجازيين"
+        },
+        {
+          "lesson_id": "156-156",
+          "start_seconds": 492,
+          "end_seconds": 501,
+          "evidence": "يمنع من الصرف مطلقا وفريق مفصل ما ينتهي براح يبنيه على الكسر وما ينتهي بغير الله يمنعه من الصرف"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-79-نصب-المضارع",
+      "title": "نصب المضارع",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "157-157",
+          "start_seconds": 1657,
+          "end_seconds": 1665,
+          "evidence": "مفهوم يا إخواني هذا البيان? طيب اذا نرجو لاصل المسألة. المضارع اذا وقع وقع بعض الطلب جزء."
+        },
+        {
+          "lesson_id": "157-157",
+          "start_seconds": 1898,
+          "end_seconds": 1903,
+          "evidence": "لان هذا لم يجد في اللغة. الذي واخذ في اللغة جذب المضارع بعد ماذا?"
+        },
+        {
+          "lesson_id": "157-157",
+          "start_seconds": 1121,
+          "end_seconds": 1127,
+          "evidence": "يبقى اربعة. قلنا في البداية اربعة عشر حرفا ينصب المضارع بعدها."
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-80-أدوات-الشرط-غير-الجازمة-والإخبار-بالموصول",
+      "title": "أدوات الشرط غير الجازمة والإخبار بالموصول",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "158-158",
+          "start_seconds": 192,
+          "end_seconds": 199,
+          "evidence": "ودوا ادهانك فهذه له مصدرين ليس داخله في كلامنا فكلام عن له الشرطي قال"
+        },
+        {
+          "lesson_id": "158-158",
+          "start_seconds": 1672,
+          "end_seconds": 1677,
+          "evidence": "والاصل في ادوات الشرطي يليها الفعل الا ما اسكو اثني الاصل"
+        },
+        {
+          "lesson_id": "158-158",
+          "start_seconds": 2079,
+          "end_seconds": 2084,
+          "evidence": "تختص بالفعل لا تنخل على الاسمه كما ان ان الشرطيه كذلك"
+        },
+        {
+          "lesson_id": "159-159",
+          "start_seconds": 1594,
+          "end_seconds": 1602,
+          "evidence": "انتم معي يعني مستعملان في التحضيض. ثم ذكروا ثلاث أدوات كذلك للتحضيض وهي هلا وألا"
+        },
+        {
+          "lesson_id": "159-159",
+          "start_seconds": 639,
+          "end_seconds": 644,
+          "evidence": "بكثره بشرط كذا وبظله اذا لم يكن هذا الشرطه موجود"
+        },
+        {
+          "lesson_id": "160-160",
+          "start_seconds": 2533,
+          "end_seconds": 2543,
+          "evidence": "الفعلية فلذلك قال هو اخباره هنا بأل عن بعض ما يكون الفعل فيه قد تقدمنا يعني عن بعض الجملة الفعلية بالشرطين"
+        },
+        {
+          "lesson_id": "160-160",
+          "start_seconds": 1671,
+          "end_seconds": 1676,
+          "evidence": "فالشرط الرابع قال من شروط الإسم الذي يخبر به عن الموصول"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-81-العدد-وتمييزه-وصياغة-فاعل",
+      "title": "العدد وتمييزه وصياغة فاعل",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "161-161",
+          "start_seconds": 3212,
+          "end_seconds": 3218,
+          "evidence": "فالعدد قد يحول الى وزن فاعل. واذا حوئل الى وزن فاعل صار وصفا."
+        },
+        {
+          "lesson_id": "161-161",
+          "start_seconds": 3317,
+          "end_seconds": 3328,
+          "evidence": "واحد وواحد على وزن ماذا على وزن فاعل فكان ده وصلا لا يحتاج ان هناك صوب منهما من واحد وواحده وزنا على وزن صفه على وزن فاعل لانه هو اصلا على وزن ماذا"
+        },
+        {
+          "lesson_id": "161-161",
+          "start_seconds": 102,
+          "end_seconds": 110,
+          "evidence": "اه واذا تكلم على التمييز تكلم عن الاعراب كيف يرغب العدد وكيف يكون حاله تمييزه ينصب ام يجرب"
+        },
+        {
+          "lesson_id": "162-162",
+          "start_seconds": 1989,
+          "end_seconds": 1995,
+          "evidence": "هذا رايه ابن مالك ورايب ابن قراي ابن عقيل ولا يستعمل فاعل من العدد المركب"
+        },
+        {
+          "lesson_id": "162-162",
+          "start_seconds": 661,
+          "end_seconds": 667,
+          "evidence": "يعني كان اريدنا اقول ان اردت من وصف فاعل انه بعض الذي اخذ منه بعض العدد"
+        },
+        {
+          "lesson_id": "162-162",
+          "start_seconds": 1710,
+          "end_seconds": 1716,
+          "evidence": "والعشر هذا هو مبسوطه هو قال وقبل 20 اذكر وبابه الفاعل من لفظ العدد"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    },
+    {
+      "id": "alfiya-nahw-module-82-الحكاية-بمن-الاستفهامية",
+      "title": "الحكاية بمن الاستفهامية",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {
+          "lesson_id": "163-163",
+          "start_seconds": 3372,
+          "end_seconds": 3386,
+          "evidence": "واضح هذا الكلام اه لكن او خبر عن الإسم المذكور بعد من كانك تتكلم عن شيء اخر ليس من التي معنا انتما يا اخواني اه حتى يعني هذه الزياده موضوعه بين قوسين يوجد انها ليست موجوده في كل ال"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/alfiya-nahw/matn/356/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/alfiya-nahw/sharh/9904/book.md"
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      }
+    }
+  ],
+  "excluded_spans": []
+}

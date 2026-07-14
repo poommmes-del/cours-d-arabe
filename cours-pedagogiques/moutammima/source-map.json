@@ -1,0 +1,574 @@
+{
+  "schema_version": 2,
+  "course_id": "moutammima",
+  "module_count_range": [30, 55],
+  "source_inventory": {
+    "canonical_available": true
+  },
+  "modules": [
+    {
+      "id": "moutammima-module-01-منزلة-المتممة-وخريطة-أبوابها",
+      "title": "منزلة المتممة وخريطة أبوابها",
+      "estimated_study_minutes": 18,
+      "audio_spans": [{"lesson_id": "001-1", "start_seconds": 1, "end_seconds": 1114, "evidence": "بيان منزلة المتممة بين الآجرومية والمطولات والأبواب التي تزيدها."}],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-1-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-02-الكلام-واللفظ-والقول-والكلمة",
+      "title": "الكلام واللفظ والقول والكلمة",
+      "estimated_study_minutes": 25,
+      "audio_spans": [{"lesson_id": "001-1", "start_seconds": 1114, "end_seconds": 3629, "evidence": "تعريف الكلام واللفظ والقول والكلمة والفروق بين المعنى المفرد والمركب."}],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-1-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-03-علامات-الاسم-والفعل-والحرف",
+      "title": "علامات الاسم والفعل والحرف",
+      "estimated_study_minutes": 24,
+      "audio_spans": [{"lesson_id": "002-2", "start_seconds": 0, "end_seconds": 3549, "evidence": "علامات الاسم والماضي والمضارع والأمر مع تطبيقات الإسناد والقبول."}],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-1-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-04-الإعراب-والبناء-وأحكام-الأفعال",
+      "title": "الإعراب والبناء وأحكام الأفعال",
+      "estimated_study_minutes": 25,
+      "audio_spans": [{"lesson_id": "003-3", "start_seconds": 3, "end_seconds": 4044, "evidence": "تعريف المعرب والمبني وعلامات البناء وبناء الماضي والأمر وإعراب المضارع."}],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-1-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-05-علامات-الإعراب-الأصلية-والنائبة",
+      "title": "علامات الإعراب الأصلية والنائبة",
+      "estimated_study_minutes": 20,
+      "audio_spans": [{"lesson_id": "004-4", "start_seconds": 1, "end_seconds": 1373, "evidence": "خريطة علامات الرفع والنصب والخفض والجزم ومواضع النيابة."}],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-1-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-06-ملحقات-المثنى-وجمعي-السلامة",
+      "title": "ملحقات المثنى وجمعي السلامة",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {"lesson_id": "005-5", "start_seconds": 0, "end_seconds": 3875, "evidence": "معنى الملحق وكلا وكلتا وأولات وملحقات جمع المذكر السالم."},
+        {"lesson_id": "006-6", "start_seconds": 15, "end_seconds": 1260, "evidence": "سنون وبابه وشروط إلحاقه بجمع المذكر السالم."}
+      ],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-1-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-07-الأسماء-الخمسة-والإعراب-المقدر",
+      "title": "الأسماء الخمسة والإعراب المقدر",
+      "estimated_study_minutes": 24,
+      "audio_spans": [{"lesson_id": "006-6", "start_seconds": 1260, "end_seconds": 3520, "evidence": "شروط الأسماء الخمسة ولغاتها ومواضع تقدير الحركات."}],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-1-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-08-الممنوع-من-الصرف-وخريطة-علله",
+      "title": "الممنوع من الصرف وخريطة علله",
+      "estimated_study_minutes": 20,
+      "audio_spans": [{"lesson_id": "007-7", "start_seconds": 0, "end_seconds": 1500, "evidence": "تعريف الممنوع من الصرف والفرق بين الأصل والفرع ومدخل العلمية."}],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-1-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-09-العلمية-وعلل-منع-الأعلام",
+      "title": "العلمية وعلل منع الأعلام",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {"lesson_id": "007-7", "start_seconds": 1500, "end_seconds": 3600, "evidence": "حالات منع العلم مع التأنيث والعجمة ووزن الفعل والزيادة والعدل والتركيب."},
+        {"lesson_id": "011-11", "start_seconds": 0, "end_seconds": 1700, "evidence": "قيود العجمة ووزن الفعل في الأعلام."},
+        {"lesson_id": "012-12", "start_seconds": 0, "end_seconds": 2250, "evidence": "التأنيث والتركيب المزجي مع العلمية."}
+      ],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-1-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-10-الوصفية-والعدل-وزيادة-الألف-والنون",
+      "title": "الوصفية والعدل وزيادة الألف والنون",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {"lesson_id": "007-7", "start_seconds": 3600, "end_seconds": 4477, "evidence": "الانتقال إلى منع الصفة واشتراط علة ثانية مع الوصفية وأمثلة غفور ورحيم وعريان."},
+        {"lesson_id": "008-8", "start_seconds": 0, "end_seconds": 2200, "evidence": "منع الصفة على أفعل وفعلان والعدل في ألفاظ العدد."},
+        {"lesson_id": "011-11", "start_seconds": 1700, "end_seconds": 3470, "evidence": "الوصف على أفعل والعدل في العلم والصفة."},
+        {"lesson_id": "012-12", "start_seconds": 2250, "end_seconds": 3193, "evidence": "زيادة الألف والنون في العلم والصفة وشروط فعلان."}
+      ],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-1-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-11-ألفا-التأنيث-المقصورة-والممدودة",
+      "title": "ألفا التأنيث المقصورة والممدودة",
+      "estimated_study_minutes": 23,
+      "audio_spans": [
+        {"lesson_id": "008-8", "start_seconds": 2200, "end_seconds": 3735, "evidence": "تمييز ألف التأنيث المقصورة من الألف الأصلية."},
+        {"lesson_id": "009-9", "start_seconds": 0, "end_seconds": 2250, "evidence": "أنواع همزة الممدود وحكم ألف التأنيث الممدودة."}
+      ],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-1-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-12-صيغة-منتهى-الجموع-وخلاصة-المنع",
+      "title": "صيغة منتهى الجموع وخلاصة المنع",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {"lesson_id": "010-10", "start_seconds": 0, "end_seconds": 3237, "evidence": "تقسيم العلل وتعريف صيغة منتهى الجموع وضبط أوزانها."},
+        {"lesson_id": "013-13", "start_seconds": 0, "end_seconds": 2046, "evidence": "قيود العلل وصرف الممنوع في مواضع السماع والتناسب دون اعتماد الشواهد المضطربة."}
+      ],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-1-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-13-النكرة-والمعرفة-ومراتب-التعريف",
+      "title": "النكرة والمعرفة ومراتب التعريف",
+      "estimated_study_minutes": 25,
+      "audio_spans": [{"lesson_id": "014-14", "start_seconds": 0, "end_seconds": 3430, "evidence": "تعريف النكرة والمعرفة وأثر أل ومراتب المعارف وحكم المضاف إليها."}],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-1-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-14-الضمير-أقسامه-واستتاره",
+      "title": "الضمير أقسامه واستتاره",
+      "estimated_study_minutes": 25,
+      "audio_spans": [{"lesson_id": "015-15", "start_seconds": 2, "end_seconds": 3247, "evidence": "البارز والمستتر والمنفصل والمتصل ومحال الضمائر من الإعراب."}],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-1-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-15-اتصال-الضمائر-وانفصالها",
+      "title": "اتصال الضمائر وانفصالها",
+      "estimated_study_minutes": 24,
+      "audio_spans": [{"lesson_id": "016-16", "start_seconds": 0, "end_seconds": 3790, "evidence": "مراتب الضمائر وحالات اتصال ضميري المفعولين أو انفصالهما."}],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-1-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-16-العلم-وأقسامه-وأحكامه",
+      "title": "العلم وأقسامه وأحكامه",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {"lesson_id": "017-17", "start_seconds": 0, "end_seconds": 2600, "evidence": "تعريف العلم وتركيبه والاسم واللقب والكنية."},
+        {"lesson_id": "018-18", "start_seconds": 0, "end_seconds": 3330, "evidence": "ترتيب الأعلام وعلم الشخص وعلم الجنس."},
+        {"lesson_id": "019-19", "start_seconds": 0, "end_seconds": 3325, "evidence": "أحكام علم الجنس والعلم المرتجل والمنقول."}
+      ],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-1-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-17-أسماء-الإشارة-للقريب-والبعيد",
+      "title": "أسماء الإشارة للقريب والبعيد",
+      "estimated_study_minutes": 24,
+      "audio_spans": [
+        {"lesson_id": "020-20", "start_seconds": 0, "end_seconds": 4514, "evidence": "صيغ الإشارة وإعراب المثنى ولام البعد وكاف الخطاب وأسماء المكان."},
+        {"lesson_id": "021-21", "start_seconds": 0, "end_seconds": 1000, "evidence": "مراجعة كاف الخطاب والفرق بين المشار إليه والمخاطب ولغتي لزوم الكاف ومطابقتها."}
+      ],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-1-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-18-الأسماء-الموصولة-وصلاتها",
+      "title": "الأسماء الموصولة وصلاتها",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {"lesson_id": "021-21", "start_seconds": 1000, "end_seconds": 3926, "evidence": "الموصولات الخاصة والمشتركة وذا وأل الموصولتان."},
+        {"lesson_id": "022-22", "start_seconds": 0, "end_seconds": 2838, "evidence": "شروط الصلة والعائد والجملة وشبه الجملة."}
+      ],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-1-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-19-أل-المعرفة-والمضاف-إلى-معرفة",
+      "title": "أل المعرفة والمضاف إلى معرفة",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {"lesson_id": "023-23", "start_seconds": 0, "end_seconds": 4294, "evidence": "أل العهدية والجنسية والمضاف إلى معرفة ولغات الأداة."},
+        {"lesson_id": "024-24", "start_seconds": 0, "end_seconds": 1893, "evidence": "أل الزائدة واللازمة والعارضة ودخولها على الأعلام المنقولة."}
+      ],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-1-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-20-الفاعل-تعريفه-وعامله-ورتبته",
+      "title": "الفاعل تعريفه وعامله ورتبته",
+      "estimated_study_minutes": 22,
+      "audio_spans": [{"lesson_id": "025-25", "start_seconds": 0, "end_seconds": 2819, "evidence": "حد الفاعل وشبه الفعل ورفعه وتأخره عن عامله وقيود التعريف."}],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-1-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-21-مطابقة-الفعل-للفاعل-تذكيرا-وتأنيثا",
+      "title": "مطابقة الفعل للفاعل تذكيرا وتأنيثا",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {"lesson_id": "026-26", "start_seconds": 0, "end_seconds": 2434, "evidence": "تجريد الفعل مع الفاعل الظاهر ولغة أكلوني البراغيث وبدء التأنيث."},
+        {"lesson_id": "027-27", "start_seconds": 0, "end_seconds": 1600, "evidence": "مواضع وجوب التذكير أو التأنيث وجواز الوجهين."}
+      ],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-1-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-22-ترتيب-الفاعل-والمفعول-وتقديم-المفعول",
+      "title": "ترتيب الفاعل والمفعول وتقديم المفعول",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {"lesson_id": "027-27", "start_seconds": 1600, "end_seconds": 1935, "evidence": "الأصل في اتصال الفاعل وتأخر المفعول."},
+        {"lesson_id": "028-28", "start_seconds": 0, "end_seconds": 4139, "evidence": "مواضع تقديم الفاعل أو المفعول وتقديم المفعول على الفعل."}
+      ],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-1-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-23-نائب-الفاعل-وبناء-الفعل-للمجهول",
+      "title": "نائب الفاعل وبناء الفعل للمجهول",
+      "estimated_study_minutes": 24,
+      "audio_spans": [{"lesson_id": "029-29", "start_seconds": 0, "end_seconds": 2600, "evidence": "حد نائب الفاعل وأحكامه وصياغة الماضي والمضارع للمجهول."}],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-1-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-24-ما-ينوب-عن-الفاعل",
+      "title": "ما ينوب عن الفاعل",
+      "estimated_study_minutes": 23,
+      "audio_spans": [
+        {"lesson_id": "029-29", "start_seconds": 2600, "end_seconds": 3710, "evidence": "ترتيب المفعول والمصدر والظرف والجار والمجرور في النيابة."},
+        {"lesson_id": "030-30", "start_seconds": 0, "end_seconds": 3455, "evidence": "شروط نيابة المصدر والظرف والجار والمجرور وتطبيقاتها."}
+      ],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-1-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-25-المبتدأ-والخبر-والعامل-فيهما",
+      "title": "المبتدأ والخبر والعامل فيهما",
+      "estimated_study_minutes": 22,
+      "audio_spans": [{"lesson_id": "031-31", "start_seconds": 0, "end_seconds": 1922, "evidence": "حد المبتدأ والخبر والعامل المعنوي والوصف الرافع لمكتف به."}],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-1-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-26-مسوغات-الابتداء-بالنكرة-وأنواع-الخبر",
+      "title": "مسوغات الابتداء بالنكرة وأنواع الخبر",
+      "estimated_study_minutes": 25,
+      "audio_spans": [{"lesson_id": "032-32", "start_seconds": 0, "end_seconds": 3906, "evidence": "مسوغات النكرة وروابط الخبر الجملة ومتعلق شبه الجملة."}],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-1-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-27-تقديم-المبتدأ-والخبر-وحذفهما",
+      "title": "تقديم المبتدأ والخبر وحذفهما",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {"lesson_id": "033-33", "start_seconds": 0, "end_seconds": 2793, "evidence": "الأصل في ترتيب الركنين ومواضع وجوب التقديم وجوازه."},
+        {"lesson_id": "034-34", "start_seconds": 0, "end_seconds": 2855, "evidence": "الحذف الجائز والواجب في القطع والمدح والقسم والمصدر."}
+      ],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-1-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-28-مواضع-حذف-الخبر-والحال-السادة-مسده",
+      "title": "مواضع حذف الخبر والحال السادة مسده",
+      "estimated_study_minutes": 25,
+      "audio_spans": [{"lesson_id": "035-35", "start_seconds": 0, "end_seconds": 5000, "evidence": "حذف الخبر بعد لولا وفي القسم والحال السادة مسد الخبر ومراجعة الحذف."}],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-1-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-29-كان-وأخواتها-التام-والناقص",
+      "title": "كان وأخواتها التام والناقص",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {"lesson_id": "035-35", "start_seconds": 5000, "end_seconds": 5749, "evidence": "مدخل النواسخ وتقسيمها."},
+        {"lesson_id": "036-36", "start_seconds": 0, "end_seconds": 5022, "evidence": "معاني كان وأخواتها والتام والناقص وخصائص كان وحذف نونها."}
+      ],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-1-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-30-الحروف-المشبهة-بليس",
+      "title": "الحروف المشبهة بليس",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {"lesson_id": "037-37", "start_seconds": 0, "end_seconds": 2300, "evidence": "عمل ما ولا وإن ولات عمل ليس وشروط كل حرف."},
+        {"lesson_id": "037-37", "start_seconds": 4400, "end_seconds": 5363, "evidence": "لات ولا العاملة عمل ليس واختصاصهما."}
+      ],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-1-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-31-أفعال-المقاربة-والرجاء-والشروع",
+      "title": "أفعال المقاربة والرجاء والشروع",
+      "estimated_study_minutes": 23,
+      "audio_spans": [{"lesson_id": "038-38", "start_seconds": 0, "end_seconds": 2300, "evidence": "تقسيم أفعال المقاربة والرجاء والشروع وحكم خبرها واقترانه بأن."}],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-1-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-32-إن-وأخواتها-معانيها-وعملها",
+      "title": "إن وأخواتها معانيها وعملها",
+      "estimated_study_minutes": 23,
+      "audio_spans": [{"lesson_id": "038-38", "start_seconds": 2300, "end_seconds": 5381, "evidence": "معاني الحروف الناسخة وعملها وما الكافة وأحكام ليتما."}],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-1-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-33-همزتا-إن-وأن-ولام-الابتداء",
+      "title": "همزتا إن وأن ولام الابتداء",
+      "estimated_study_minutes": 25,
+      "audio_spans": [{"lesson_id": "039-39", "start_seconds": 0, "end_seconds": 4777, "evidence": "مواضع فتح الهمزة وكسرها وجواز الوجهين واللام المزحلقة."}],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-1-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-34-ضمير-الشأن-والحروف-المخففة",
+      "title": "ضمير الشأن والحروف المخففة",
+      "estimated_study_minutes": 25,
+      "audio_spans": [{"lesson_id": "040-40", "start_seconds": 0, "end_seconds": 5159, "evidence": "ضمير الشأن وإن وأن وكأن ولكن المخففة واللام الفارقة."}],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-1-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-35-لا-النافية-للجنس-واسمها-وتوابعها",
+      "title": "لا النافية للجنس واسمها وتوابعها",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {"lesson_id": "037-37", "start_seconds": 2300, "end_seconds": 4400, "evidence": "تعريف لا النافية للجنس وشروط عملها والفرق بينها وبين نفي الواحد."},
+        {"lesson_id": "041-41", "start_seconds": 0, "end_seconds": 1638, "evidence": "أنواع اسم لا وحذف الاسم والخبر."},
+        {"lesson_id": "042-42", "start_seconds": 0, "end_seconds": 2000, "evidence": "العطف على اسم لا وتكرارها ومراعاة اللفظ والمحل."},
+        {"lesson_id": "043-43", "start_seconds": 0, "end_seconds": 1400, "evidence": "نعت اسم لا المتصل والمفصول وأوجه التابع."}
+      ],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-1-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-36-ظن-وأخواتها-والإلغاء-والتعليق",
+      "title": "ظن وأخواتها والإلغاء والتعليق",
+      "estimated_study_minutes": 25,
+      "audio_spans": [{"lesson_id": "043-43", "start_seconds": 1400, "end_seconds": 9611, "evidence": "أفعال القلوب والتحويل والإعمال والإلغاء والتعليق وتمييز أفعال السماع."}],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-1-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-37-الاشتغال-وأحكام-الاسم-المتقدم",
+      "title": "الاشتغال وأحكام الاسم المتقدم",
+      "estimated_study_minutes": 24,
+      "audio_spans": [{"lesson_id": "044-44", "start_seconds": 0, "end_seconds": 3300, "evidence": "تعريف الاشتغال والعامل المفسر ووجوه نصب الاسم أو رفعه وترجيح كل وجه."}],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-2-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-38-المنادى-والمضاف-إلى-ياء-المتكلم",
+      "title": "المنادى والمضاف إلى ياء المتكلم",
+      "estimated_study_minutes": 24,
+      "audio_spans": [{"lesson_id": "044-44", "start_seconds": 3300, "end_seconds": 6241, "evidence": "أنواع المنادى وبناؤه ونصبه ولغات المضاف إلى ياء المتكلم."}],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-2-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-39-المفعول-المطلق-ونوابه",
+      "title": "المفعول المطلق ونوابه",
+      "estimated_study_minutes": 23,
+      "audio_spans": [{"lesson_id": "045-45", "start_seconds": 0, "end_seconds": 2200, "evidence": "أنواع المفعول المطلق وما ينوب عن المصدر في التوكيد والنوع والعدد."}],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-2-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-40-المفعول-فيه-والمفعول-لأجله",
+      "title": "المفعول فيه والمفعول لأجله",
+      "estimated_study_minutes": 24,
+      "audio_spans": [{"lesson_id": "045-45", "start_seconds": 2200, "end_seconds": 5592, "evidence": "ظرفا الزمان والمكان وشروط نصب المصدر القلبي علة للفعل."}],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-2-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-41-المفعول-معه-وواو-المعية",
+      "title": "المفعول معه وواو المعية",
+      "estimated_study_minutes": 23,
+      "audio_spans": [{"lesson_id": "046-46", "start_seconds": 0, "end_seconds": 4527, "evidence": "تعريف المفعول معه والفرق بين المعية والعطف ومواضع الوجوب والجواز."}],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-2-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-42-الحال-وصاحبها-وشروطهما",
+      "title": "الحال وصاحبها وشروطهما",
+      "estimated_study_minutes": 25,
+      "audio_spans": [{"lesson_id": "047-47", "start_seconds": 0, "end_seconds": 7929, "evidence": "الحال المفردة والجملة وشبه الجملة وشروط الحال وصاحبها وروابطها."}],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-2-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-43-التمييز-تمييز-المفرد-والنسبة",
+      "title": "التمييز تمييز المفرد والنسبة",
+      "estimated_study_minutes": 25,
+      "audio_spans": [{"lesson_id": "048-48", "start_seconds": 0, "end_seconds": 5025, "evidence": "تمييز العدد والمقادير والنسبة والمحول وغير المحول والعامل فيه."}],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-2-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-44-الاستثناء-بإلا-وبقية-أدواته",
+      "title": "الاستثناء بإلا وبقية أدواته",
+      "estimated_study_minutes": 25,
+      "audio_spans": [{"lesson_id": "049-49", "start_seconds": 0, "end_seconds": 4300, "evidence": "المتصل والمنقطع والتام والناقص وأحكام غير وسوى وخلا وعدا وحاشا."}],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-2-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-45-حروف-الجر-والإضافة",
+      "title": "حروف الجر والإضافة",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {"lesson_id": "049-49", "start_seconds": 4300, "end_seconds": 5463, "evidence": "مدخل المجرورات وعد حروف الجر."},
+        {"lesson_id": "050-50", "start_seconds": 0, "end_seconds": 5154, "evidence": "معاني الحروف والإضافة بمعنى اللام ومن وفي والمعنوية واللفظية."}
+      ],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-2-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-46-نواصب-المضارع-وجوازمه",
+      "title": "نواصب المضارع وجوازمه",
+      "estimated_study_minutes": 25,
+      "audio_spans": [{"lesson_id": "051-51", "start_seconds": 1, "end_seconds": 6510, "evidence": "أن المظهرة والمضمرة وجواب الطلب ولم ولما ولام الأمر ولا الناهية."}],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-2-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-47-أدوات-الشرط-وجوابها",
+      "title": "أدوات الشرط وجوابها",
+      "estimated_study_minutes": 22,
+      "audio_spans": [{"lesson_id": "052-52", "start_seconds": 0, "end_seconds": 1650, "evidence": "الأدوات الجازمة وفعل الشرط والجواب ومواضع اقترانه بالفاء أو إذا."}],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-2-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-48-النعت-الحقيقي-والسببي",
+      "title": "النعت الحقيقي والسببي",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {"lesson_id": "052-52", "start_seconds": 1650, "end_seconds": 3770, "evidence": "تعريف النعت والجامد المؤول بالمشتق وتعدد النعت وقطعه."},
+        {"lesson_id": "053-53", "start_seconds": 0, "end_seconds": 3900, "evidence": "الحقيقي والسببي وعملهما وأوجه المطابقة."}
+      ],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-2-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-49-العطف-والتوكيد-والبدل",
+      "title": "العطف والتوكيد والبدل",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {"lesson_id": "053-53", "start_seconds": 3900, "end_seconds": 5664, "evidence": "عطف البيان وعطف النسق ومعاني الواو والفاء وثم."},
+        {"lesson_id": "054-54", "start_seconds": 0, "end_seconds": 6325, "evidence": "بقية حروف العطف والتوكيد اللفظي والمعنوي وأنواع البدل."}
+      ],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-2-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-50-عمل-المصدر-وصوره",
+      "title": "عمل المصدر وصوره",
+      "estimated_study_minutes": 24,
+      "audio_spans": [{"lesson_id": "055-55", "start_seconds": 0, "end_seconds": 4824, "evidence": "شروط عمل المصدر وصوره مع الإضافة والتنوين وأل والمصدر المؤول."}],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-2-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-51-عمل-المشتقات",
+      "title": "عمل المشتقات",
+      "estimated_study_minutes": 25,
+      "audio_spans": [{"lesson_id": "056-56", "start_seconds": 0, "end_seconds": 3500, "evidence": "عمل اسم الفاعل واسم المفعول وصيغ المبالغة والصفة المشبهة وشروطها."}],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-2-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-52-اسم-التفضيل-وأسماء-الأفعال",
+      "title": "اسم التفضيل وأسماء الأفعال",
+      "estimated_study_minutes": 24,
+      "audio_spans": [{"lesson_id": "056-56", "start_seconds": 3500, "end_seconds": 6890, "evidence": "عمل اسم التفضيل ومسألة الكحل وأقسام أسماء الأفعال وأحكامها."}],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-2-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-53-التنازع-وإعمال-أحد-العاملين",
+      "title": "التنازع وإعمال أحد العاملين",
+      "estimated_study_minutes": 23,
+      "audio_spans": [{"lesson_id": "057-57", "start_seconds": 0, "end_seconds": 2137, "evidence": "تعريف التنازع وخلاف إعمال الأول أو الثاني وإضمار معمول المهمل."}],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-2-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-54-التعجب-وأحكام-العدد",
+      "title": "التعجب وأحكام العدد",
+      "estimated_study_minutes": 25,
+      "audio_spans": [{"lesson_id": "058-58", "start_seconds": 0, "end_seconds": 1605, "evidence": "صيغتا التعجب القياسيتان وتذكير العدد وتأنيثه والعدد الترتيبي."}],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-2-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    },
+    {
+      "id": "moutammima-module-55-الوقف-على-أواخر-الكلم",
+      "title": "الوقف على أواخر الكلم",
+      "estimated_study_minutes": 20,
+      "audio_spans": [{"lesson_id": "059-59", "start_seconds": 0, "end_seconds": 741, "evidence": "الوقف على التاء المربوطة والمقصور والمنقوص والمنون والصحيح الآخر، دون توسيع الحكم إلى تاء الفعل أو الجمع."}],
+      "canonical_refs": ["livres/shamela/moutammima/matn/4234/book.md"],
+      "supporting_refs": ["livres/pdf/moutammima/sharh/kawakib-durriya-moutammima-2-OCR.txt"],
+      "verification": {"transcript": "verified", "grammar":"verified", "arabic":"verified", "pedagogy":"verified"}
+    }
+  ],
+  "excluded_spans": [
+    {"lesson_id": "004-4", "start_seconds": 1373, "end_seconds": 1404, "reason": "تعليمات تصوير المكتوب وتأجيل التفصيل، بلا محتوى نحوي جديد."},
+    {"lesson_id": "014-14", "start_seconds": 3430, "end_seconds": 3500, "reason": "إعلان انتهاء الوقت وتأجيل أنواع المعرفة للدرس التالي."},
+    {"lesson_id": "017-17", "start_seconds": 2600, "end_seconds": 2721, "reason": "تنبيه إلى موعد الدرس وتأجيل مسائل الإعراب، بلا مادة تعليمية مستقلة."},
+    {"lesson_id": "009-9", "start_seconds": 2250, "end_seconds": 2445, "reason": "تكرار علل منع الصرف في نظم مضطرب اللفظ لم تثبت ألفاظه من مصدر مكتوب، فلا ينقل ولا يعاد بناؤه."}
+  ]
+}

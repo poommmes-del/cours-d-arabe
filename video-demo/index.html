@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=1920, height=1080">
+    <title>Cours d'arabe — Demo</title>
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <style>
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        width: 1920px;
+        height: 1080px;
+        margin: 0;
+        overflow: hidden;
+        background-color: #06090f;
+      }
+
+      #cours-arabe-demo-root {
+        position: relative;
+        width: 1920px;
+        height: 1080px;
+        overflow: hidden;
+        background-color: #06090f;
+      }
+
+      [data-composition-src] {
+        position: absolute;
+        inset: 0;
+        width: 1920px;
+        height: 1080px;
+        overflow: hidden;
+        background-color: #06090f;
+        transform-origin: 50% 50%;
+        will-change: filter, transform;
+      }
+
+      .gold-wipe {
+        position: absolute;
+        inset: 0;
+        z-index: 100;
+        width: 1920px;
+        height: 1080px;
+        background-color: #f0b429;
+        clip-path: inset(0 100% 0 0);
+        pointer-events: none;
+        will-change: clip-path;
+      }
+    </style>
+  </head>
+  <body>
+    <div data-hf-id="hf-9zgn" id="cours-arabe-demo-root" data-composition-id="cours-arabe-demo" data-width="1920" data-height="1080" data-start="0" data-duration="27" data-track-index="0">
+      <div data-hf-id="hf-6ayl" id="beat-1" class="clip" data-composition-id="beat-1-hook" data-composition-src="compositions/beat-1-hook.html" data-start="0" data-duration="3" data-track-index="1" data-width="1920" data-height="1080"></div>
+      <div data-hf-id="hf-fjgq" id="beat-2" class="clip" data-composition-id="beat-2-scale" data-composition-src="compositions/beat-2-scale.html" data-start="3" data-duration="4" data-track-index="1" data-width="1920" data-height="1080"></div>
+      <div data-hf-id="hf-rt1c" id="beat-3" class="clip scene" data-composition-id="beat-3-library" data-composition-src="compositions/beat-3-library.html" data-start="7" data-duration="6" data-track-index="1" data-width="1920" data-height="1080"></div>
+      <div data-hf-id="hf-vx74" id="beat-4" class="clip scene" data-composition-id="beat-4-learning-flow" data-composition-src="compositions/beat-4-learning-flow.html" data-start="13" data-duration="6" data-track-index="1" data-width="1920" data-height="1080"></div>
+      <div data-hf-id="hf-uro7" id="beat-5" class="clip" data-composition-id="beat-5-study-tools" data-composition-src="compositions/beat-5-study-tools.html" data-start="19" data-duration="5" data-track-index="1" data-width="1920" data-height="1080"></div>
+      <div data-hf-id="hf-6b4s" id="beat-6" class="clip" data-composition-id="beat-6-closing" data-composition-src="compositions/beat-6-closing.html" data-start="24" data-duration="3" data-track-index="1" data-width="1920" data-height="1080"></div>
+
+      <div data-hf-id="hf-0io2" id="gold-wipe-1-2" class="clip gold-wipe" data-start="2.75" data-duration="0.5" data-track-index="2" data-layout-ignore="" aria-hidden="true"></div>
+      <div data-hf-id="hf-hqrd" id="gold-wipe-5-6" class="clip gold-wipe" data-start="23.75" data-duration="0.5" data-track-index="2" data-layout-ignore="" aria-hidden="true"></div>
+    </div>
+
+    <script>
+      window.__timelines = window.__timelines || {};
+
+      const tl = gsap.timeline({ paused: true });
+
+      tl.fromTo(
+        "#gold-wipe-1-2",
+        { clipPath: "inset(0 100% 0 0)" },
+        {
+          clipPath: "inset(0 0% 0 0)",
+          duration: 0.25,
+          ease: "power3.in",
+          immediateRender: false,
+        },
+        2.75,
+      );
+      tl.fromTo(
+        "#gold-wipe-1-2",
+        { clipPath: "inset(0 0% 0 0)" },
+        {
+          clipPath: "inset(0 0 0 100%)",
+          duration: 0.25,
+          ease: "power3.out",
+          immediateRender: false,
+        },
+        3,
+      );
+
+      tl.fromTo(
+        "#beat-2",
+        { filter: "blur(0px)", scale: 1 },
+        {
+          filter: "blur(20px)",
+          scale: 1.02,
+          duration: 0.25,
+          ease: "power3.in",
+          immediateRender: false,
+        },
+        6.75,
+      );
+      tl.fromTo(
+        "#beat-3",
+        { filter: "blur(20px)", scale: 0.98 },
+        {
+          filter: "blur(0px)",
+          scale: 1,
+          duration: 0.25,
+          ease: "power3.out",
+          immediateRender: false,
+        },
+        7,
+      );
+
+      const CSS_CINEMATIC_ZOOM_START = 12.75;
+      const CSS_CINEMATIC_ZOOM_MIDPOINT = 13;
+      const CSS_CINEMATIC_ZOOM_END = 13.25;
+
+      tl.fromTo(
+        "#beat-3",
+        { filter: "blur(0px)", scale: 1 },
+        {
+          filter: "blur(16px)",
+          scale: 1.16,
+          duration: CSS_CINEMATIC_ZOOM_MIDPOINT - CSS_CINEMATIC_ZOOM_START,
+          ease: "power2.in",
+          immediateRender: false,
+        },
+        CSS_CINEMATIC_ZOOM_START,
+      );
+      tl.fromTo(
+        "#beat-4",
+        { filter: "blur(16px)", scale: 0.84 },
+        {
+          filter: "blur(0px)",
+          scale: 1,
+          duration: CSS_CINEMATIC_ZOOM_END - CSS_CINEMATIC_ZOOM_MIDPOINT,
+          ease: "power2.out",
+          immediateRender: false,
+        },
+        CSS_CINEMATIC_ZOOM_MIDPOINT,
+      );
+
+      tl.fromTo(
+        "#beat-4",
+        { filter: "blur(0px)", scale: 1 },
+        {
+          filter: "blur(20px)",
+          scale: 1.02,
+          duration: 0.25,
+          ease: "power3.in",
+          immediateRender: false,
+        },
+        18.75,
+      );
+      tl.fromTo(
+        "#beat-5",
+        { filter: "blur(20px)", scale: 0.98 },
+        {
+          filter: "blur(0px)",
+          scale: 1,
+          duration: 0.25,
+          ease: "power3.out",
+          immediateRender: false,
+        },
+        19,
+      );
+
+      tl.fromTo(
+        "#gold-wipe-5-6",
+        { clipPath: "inset(0 100% 0 0)" },
+        {
+          clipPath: "inset(0 0% 0 0)",
+          duration: 0.25,
+          ease: "power3.in",
+          immediateRender: false,
+        },
+        23.75,
+      );
+      tl.fromTo(
+        "#gold-wipe-5-6",
+        { clipPath: "inset(0 0% 0 0)" },
+        {
+          clipPath: "inset(0 0 0 100%)",
+          duration: 0.25,
+          ease: "power3.out",
+          immediateRender: false,
+        },
+        24,
+      );
+
+      window.__timelines["cours-arabe-demo"] = tl;
+    </script>
+  </body>
+</html>

@@ -1,0 +1,5186 @@
+{
+  "schema_version": 2,
+  "course_id": "laamiya-af3al",
+  "module_count_range": [
+    30,
+    55
+  ],
+  "source_inventory": {
+    "canonical_available": true
+  },
+  "modules": [
+    {
+      "id": "laamiya-af3al-module-01-منزلة-الصرف-وخريطة-لامية-الأفعال",
+      "title": "منزلة الصرف وخريطة لامية الأفعال",
+      "estimated_study_minutes": 17,
+      "audio_spans": [
+        {
+          "lesson_id": "001-1",
+          "start_seconds": 0.0,
+          "end_seconds": 1442.955,
+          "evidence": "هناك شيء اسمه اس اسم الفاعل واسم المفعول اليسك كذلك ايه ده هناك شيء في الصرف اسمه اسم الفاعل واسمه ماذا",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "001-1",
+          "start_seconds": 1442.955,
+          "end_seconds": 1448.395,
+          "evidence": "كمثل المفرد والمثنى والجمع.",
+          "span_key": "semantic-002-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "001-1",
+          "start_seconds": 1448.395,
+          "end_seconds": 1721.77,
+          "evidence": "ليس هنا مفرد او مثنى او جم ليس هناك صغير ليس هنا نسب هذا يتعلق بدروس الافعال",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "001-1",
+          "start_seconds": 1721.77,
+          "end_seconds": 1724.345,
+          "evidence": "كما قلنا هذا كلام خص بالافعال",
+          "span_key": "semantic-004-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "001-1",
+          "start_seconds": 1724.345,
+          "end_seconds": 2097.155,
+          "evidence": "فالدرس الاول اوزان الفعل المجرد الثاني اوزان المزيد وفيه صياغه المضارع وصياغه الامر",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "001-1",
+          "start_seconds": 2097.155,
+          "end_seconds": 2101.3599,
+          "evidence": "كمثل الملخص الصرفي الذي نشرحه",
+          "span_key": "semantic-006-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "001-1",
+          "start_seconds": 2101.3599,
+          "end_seconds": 2184.851,
+          "evidence": "دس شيئا في علم الصرف قبل ان يب دا معنا في هذا",
+          "span_key": "semantic-007-teaching",
+          "kind": "teaching"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/laamiya-af3al/matn/344/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/laamiya-af3al/sharh/133416/book.md",
+        "livres/shamela/laamiya-af3al/sharh-alt/3863/book.md"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/shamela/laamiya-af3al/matn/344/book.md",
+          "text_line": 820,
+          "text_lines": [
+            820
+          ],
+          "anchor_exact": "فَالْفِعْلُ مَنْ يُحْكِمْ تَصَرُّفَهُ … يَحُزْ مِنَ اللُّغَةِ الْأَبْوَابَ وَالسُّبُلَا",
+          "assertion_ar": "الأبيات الكاملة المثبتة تحمل الحكم أو المثال الذي تبنى عليه الوحدة.",
+          "excerpt": "فَالْفِعْلُ مَنْ يُحْكِمْ تَصَرُّفَهُ … يَحُزْ مِنَ اللُّغَةِ الْأَبْوَابَ وَالسُّبُلَا"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/laamiya-af3al/verification-ledger.json",
+        "module_index": 1,
+        "source_minutes": 36.41,
+        "estimate_method": "12 minutes de travail + 1 minute par 8 minutes de source, borné à 15–25"
+      }
+    },
+    {
+      "id": "laamiya-af3al-module-02-موضوع-الصرف-والمبادئ-العشرة",
+      "title": "موضوع الصرف والمبادئ العشرة",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {
+          "lesson_id": "002-2",
+          "start_seconds": 0.0,
+          "end_seconds": 2402.6802,
+          "evidence": "و ثمرة النحو و موضوع النحو إلى آخره. وفي الصرف كذلك، وفي البلاغة كذلك، وفي الفقه كذلك،",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "002-2",
+          "start_seconds": 2402.6802,
+          "end_seconds": 2409.075,
+          "evidence": "هذا التعريف الآو. إذا الخلاصة من هذا التعريف أن علمة الصرف يعرفك",
+          "span_key": "semantic-002-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "002-2",
+          "start_seconds": 2409.075,
+          "end_seconds": 3102.4001,
+          "evidence": "كيف نحول المفرد إلى مثنن أو جب وكيف نحول الماضي الى مضارع وامرر وكيف نحول الفعل المبتد",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "002-2",
+          "start_seconds": 3102.4001,
+          "end_seconds": 3108.585,
+          "evidence": "ضرب يضرب اضرب ذهب يذهب اذهب وجامد يعني لا يتغير كمثل ليس",
+          "span_key": "semantic-004-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "002-2",
+          "start_seconds": 3108.585,
+          "end_seconds": 3160.45,
+          "evidence": "في الصرف الحروف لا الاسماء المبتد لا الافعال الجامده",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "003-3",
+          "start_seconds": 0.0,
+          "end_seconds": 2062.725,
+          "evidence": "الا اذا سرت خ النبي صلى الله عليه وسلم هو الطريق الموصل الى الله عز وجل قال امار الهدى وباب الايصال",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "003-3",
+          "start_seconds": 2062.725,
+          "end_seconds": 2066.405,
+          "evidence": "كمثل الفعل استبدل استبدل",
+          "span_key": "semantic-002-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "003-3",
+          "start_seconds": 2066.405,
+          "end_seconds": 2507.24,
+          "evidence": "يخبره وانزل ينزل انزاله واخبر يخبره فلا حاجه الى هذا هذا القياسي كما درسنا في الدوره السابقه في الصرف لم كان معنا",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "003-3",
+          "start_seconds": 2507.24,
+          "end_seconds": 2510.12,
+          "evidence": "اه كما قلنا امس الصرف",
+          "span_key": "semantic-004-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "003-3",
+          "start_seconds": 2510.12,
+          "end_seconds": 3418.09,
+          "evidence": "بكر ولا لعمر ليس كذلك فهل معى هذا ان عثمان صار افضل على الاطلاق باب بكر وعمر طبعا لا ابو بكر افضل ثم عمر ثم عثمان",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/laamiya-af3al/matn/344/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/laamiya-af3al/sharh/133416/book.md",
+        "livres/shamela/laamiya-af3al/sharh-alt/3863/book.md"
+      ],
+      "canonical_citations": [
+        {
+          "status": "absent_in_local_canonical",
+          "topic": "مقدمة شرح أو معنى وزن زائد",
+          "reason": "المتن المحلي لا يصرح بهذه الدعوى التعليمية؛ مستندها الشرح الصوتي الكامل.",
+          "supporting_basis": "spans sémantiques localisés dans les batches"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/laamiya-af3al/verification-ledger.json",
+        "module_index": 2,
+        "source_minutes": 109.64,
+        "estimate_method": "12 minutes de travail + 1 minute par 8 minutes de source, borné à 15–25"
+      }
+    },
+    {
+      "id": "laamiya-af3al-module-03-البسملة-بين-الاشتقاق-والدلالة",
+      "title": "البسملة بين الاشتقاق والدلالة",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {
+          "lesson_id": "004-4",
+          "start_seconds": 0.0,
+          "end_seconds": 1600.175,
+          "evidence": "اما الخرطوم فيقال للفيل له خرطوم فيقال قيل فيه سنسم على الخرطوم تشبيها له بالحيوان",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "004-4",
+          "start_seconds": 1600.175,
+          "end_seconds": 1605.49,
+          "evidence": "يسم اي و له علامه ف هو عندهم مثال واوي",
+          "span_key": "semantic-002-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "004-4",
+          "start_seconds": 1605.49,
+          "end_seconds": 1609.33,
+          "evidence": "اي معتل الفاء",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "004-4",
+          "start_seconds": 1609.33,
+          "end_seconds": 1612.61,
+          "evidence": "ناقص معتل اللامم مثال معتل ماذا",
+          "span_key": "semantic-004-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "004-4",
+          "start_seconds": 1612.61,
+          "end_seconds": 2158.63,
+          "evidence": "فهم كذلك يقولون الله قال وهو الذي في السماء اله وفي الارض يعني الله في السماء وفي الارض يا رجلك في السماء اله اي هو في السماء معبود وفي الارض",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "004-4",
+          "start_seconds": 2158.63,
+          "end_seconds": 2164.63,
+          "evidence": "تغيير يعني بعض العرب يقولون اله وبعضهم يقول ماذا كمثل اسم وسمه",
+          "span_key": "semantic-006-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "004-4",
+          "start_seconds": 2164.63,
+          "end_seconds": 2355.03,
+          "evidence": "صريح ام لا مده الفتحه فصارت ماذا فصار يعني له الالف ولم تقلت ال له ثم زادت زيد مد هنا همزه مده فصارت الفا",
+          "span_key": "semantic-007-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "004-4",
+          "start_seconds": 2355.03,
+          "end_seconds": 2358.905,
+          "evidence": "كما قلنا سنتكلم على البسمله",
+          "span_key": "semantic-008-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "004-4",
+          "start_seconds": 2358.905,
+          "end_seconds": 2736.77,
+          "evidence": "بس موجوده يعني خلاص هو اشترى من الدرس متى قبل يوم ثلاث ايام طيب خلاص",
+          "span_key": "semantic-009-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "005-5",
+          "start_seconds": 0.0,
+          "end_seconds": 3.4399998,
+          "evidence": "يتقدم طيب",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "005-5",
+          "start_seconds": 8.96,
+          "end_seconds": 849.91,
+          "evidence": "فاذا قيل قال ابن مالكم في الالفيه فهذا معروش واذا قال واذا قيل قال في الخلاصه",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "005-5",
+          "start_seconds": 849.91,
+          "end_seconds": 852.08496,
+          "evidence": "كما قلنا ابو",
+          "span_key": "semantic-004-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "005-5",
+          "start_seconds": 852.08496,
+          "end_seconds": 1644.035,
+          "evidence": "من هنا ومن هنا. فمنن النهاية حذفوا الواو ومن البداية حذفوا الحركات.",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "005-5",
+          "start_seconds": 1644.035,
+          "end_seconds": 1648.915,
+          "evidence": "يعني المستعمل هو الذي له معنى. والمهمل هو الذي ليس له كمثل",
+          "span_key": "semantic-006-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "005-5",
+          "start_seconds": 1648.915,
+          "end_seconds": 2217.0,
+          "evidence": "عرفنا العله او لم نع العله علينا ان نتبع عاره انتم معي اه لكن معرفه العله هذا شيء زائد هذا زياده",
+          "span_key": "semantic-007-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "005-5",
+          "start_seconds": 2217.0,
+          "end_seconds": 2220.2,
+          "evidence": "تعرفونك مثل ماذا كمثل الوله",
+          "span_key": "semantic-008-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "005-5",
+          "start_seconds": 2220.2,
+          "end_seconds": 2702.7551,
+          "evidence": "بالكسر لتعرض للابتداء بالساكن فصار اسما ثم زادوا الباء لتدل على البقاء",
+          "span_key": "semantic-009-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "005-5",
+          "start_seconds": 2702.7551,
+          "end_seconds": 2707.5552,
+          "evidence": "اي معبود او محبوب ثم صار علما كمثل محمود",
+          "span_key": "semantic-010-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "005-5",
+          "start_seconds": 2707.5552,
+          "end_seconds": 3679.67,
+          "evidence": "ان اردت المتع فقل سمع اجعله على الاصل سمع زيد صوتا اذا حولته الى فعله فقلت سبعه خلاص هذا لازم",
+          "span_key": "semantic-011-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "005-5",
+          "start_seconds": 3679.67,
+          "end_seconds": 3687.195,
+          "evidence": "سبعه زيد كمثل جمله زيد كمثل حسنه كمثل نظفه اي صار جميع",
+          "span_key": "semantic-012-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "005-5",
+          "start_seconds": 3687.195,
+          "end_seconds": 3996.98,
+          "evidence": "لا بس هذا من رحما لان صيغه المبالغه تؤخذ من اللازم والمتعدل",
+          "span_key": "semantic-013-teaching",
+          "kind": "teaching"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/laamiya-af3al/matn/344/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/laamiya-af3al/sharh/133416/book.md",
+        "livres/shamela/laamiya-af3al/sharh-alt/3863/book.md"
+      ],
+      "canonical_citations": [
+        {
+          "status": "absent_in_local_canonical",
+          "topic": "مقدمة شرح أو معنى وزن زائد",
+          "reason": "المتن المحلي لا يصرح بهذه الدعوى التعليمية؛ مستندها الشرح الصوتي الكامل.",
+          "supporting_basis": "spans sémantiques localisés dans les batches"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/laamiya-af3al/verification-ledger.json",
+        "module_index": 3,
+        "source_minutes": 112.14,
+        "estimate_method": "12 minutes de travail + 1 minute par 8 minutes de source, borné à 15–25"
+      }
+    },
+    {
+      "id": "laamiya-af3al-module-04-الحمد-والشكر-ومقصد-النظم",
+      "title": "الحمد والشكر ومقصد النظم",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {
+          "lesson_id": "006-6",
+          "start_seconds": 0.0,
+          "end_seconds": 1390.445,
+          "evidence": "اظن يعرفوا الكل، اه يعني تقصد يعني كل كل بلد لها أمثال تقال فيها، لا بأس، أنا أقصد الكلمة العربية، يعني المفهومة معناها، يعني، أنا أعلم أن كل القوم أمثال",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "006-6",
+          "start_seconds": 1390.445,
+          "end_seconds": 1395.84,
+          "evidence": "ما معنى هذا كما قلنا المثل دائما له قصه او غالبا له قصه",
+          "span_key": "semantic-002-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "006-6",
+          "start_seconds": 1395.84,
+          "end_seconds": 2791.9849,
+          "evidence": "ما سكتوا عن شيء لا يفهمونه دائما كانوا يسالون لانهم كانوا حريصين على معرفه كل شيء في في فمعنى",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "006-6",
+          "start_seconds": 2791.9849,
+          "end_seconds": 2794.305,
+          "evidence": "كما قلنا بحسب الاشتقاق.",
+          "span_key": "semantic-004-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "006-6",
+          "start_seconds": 2794.305,
+          "end_seconds": 3480.07,
+          "evidence": "يعني هي في ذاتها نعمه عظيمه لكن بالنسبه لغيرها ها قد تكون ماذا جميل جدا فهم يؤولون الرحمه بمعنى الانعام",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "006-6",
+          "start_seconds": 3480.07,
+          "end_seconds": 3485.155,
+          "evidence": "كما قلنا امس اختلاف المبنى لابد ان يكون معه اختلاف في",
+          "span_key": "semantic-006-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "006-6",
+          "start_seconds": 3485.155,
+          "end_seconds": 3681.44,
+          "evidence": "او لا ليس تاويل اخر عفوا انا ظننت ان كلمه كثيرها تاويل اخر لا هذا معناها عندهم",
+          "span_key": "semantic-007-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "006-6",
+          "start_seconds": 3681.44,
+          "end_seconds": 3684.0,
+          "evidence": "لكن كما قلنا هذا التفسير خاطئ",
+          "span_key": "semantic-008-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "006-6",
+          "start_seconds": 3684.0,
+          "end_seconds": 3963.58,
+          "evidence": "وانما هو بمنزله المجرده بمنزله ماذا هذا سياتي ان شاء الله فلذلك قال غالبا",
+          "span_key": "semantic-009-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "006-6",
+          "start_seconds": 3963.58,
+          "end_seconds": 3966.7,
+          "evidence": "عندنا عباره كمثل لا حول ولا قو الا",
+          "span_key": "semantic-010-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "006-6",
+          "start_seconds": 3966.7,
+          "end_seconds": 4149.1147,
+          "evidence": "غضبان منه او فعل شيئا خطاا تقول والله يخرب بيتك ماذا تفعل",
+          "span_key": "semantic-011-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "006-6",
+          "start_seconds": 4149.1147,
+          "end_seconds": 4153.675,
+          "evidence": "اسوه حسنه يعني قدوه مثال نموذج",
+          "span_key": "semantic-012-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "006-6",
+          "start_seconds": 4153.675,
+          "end_seconds": 4241.34,
+          "evidence": "لا يبد فيه بالحمد فه اقطع والخلاف ايضا في هذا الحديث هذا الرزق جزم الشغله البني به قال ضعيف جدا اه في اللي هو لكن حديث البسمله هو الذي صح تمام",
+          "span_key": "semantic-013-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "007-7",
+          "start_seconds": 0.0,
+          "end_seconds": 2481.265,
+          "evidence": "الحمد على الولد الحمد على المال الحمد على الصحه الحمد على البصره الحمد على السمت الحمد على القوة الحمد على الاكل الحمد على الشغل كل حم على شيء إنما هو مستحق المبتد",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "007-7",
+          "start_seconds": 2481.265,
+          "end_seconds": 2489.9302,
+          "evidence": "عليه هذه نتيجه الرضى ان يقبل العمل وان يكون الرضى نفسه كما قلنا الا يكون هناك غضب وان يكون",
+          "span_key": "semantic-002-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "007-7",
+          "start_seconds": 2489.9302,
+          "end_seconds": 3195.415,
+          "evidence": "يقصد خير الورى عن التصريح باسمه العالم لانه اذا اطلق خير الورى انصرف الى سيدنا محمد صلى الله عليه وسلم",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "007-7",
+          "start_seconds": 3195.415,
+          "end_seconds": 3199.0151,
+          "evidence": "والجمع ماذا كمثل صاحب وصحب",
+          "span_key": "semantic-004-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "007-7",
+          "start_seconds": 3199.0151,
+          "end_seconds": 4404.2246,
+          "evidence": "تجد في معجبه كذا الحروف مرتبه الف بقى ثخ وكل واحد باب باب الهمزه باب الباب باب التاب فعندما تجد ضربه تفتح باب الضرب",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "007-7",
+          "start_seconds": 4407.087,
+          "end_seconds": 4417.33,
+          "evidence": "ان شاء الله تعالى يوم",
+          "span_key": "semantic-007-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "008-8",
+          "start_seconds": 0.0,
+          "end_seconds": 495.115,
+          "evidence": "انتم ما يا اخوانا فهذه سوره التاريخ فاسم الفعل هاء له ثلاث صوره الصوره الاولى ان يقالها بدون كافه الصوره",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "008-8",
+          "start_seconds": 495.115,
+          "end_seconds": 507.41,
+          "evidence": "اه لا باس اقول لها يا زيد ه القلمه يا يا فاطمه ه القلمه يا زيدان ه القلمه ويؤول بمعنى خذ خذ خذ كمثل صحر يا زيد صحر يا فاطمه صحر",
+          "span_key": "semantic-002-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "008-8",
+          "start_seconds": 507.41,
+          "end_seconds": 1706.025,
+          "evidence": "ان اردت حيازه ابواب اللغه فقل هذا النظر جوابا ام لا فالاولى لم يقال هي افصحت عن شط محلوف",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "008-8",
+          "start_seconds": 1706.025,
+          "end_seconds": 1709.8301,
+          "evidence": "الفعل المجرد نوعان كما قلنا رباعي وثلاث",
+          "span_key": "semantic-004-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "008-8",
+          "start_seconds": 1709.8301,
+          "end_seconds": 2336.28,
+          "evidence": "هذه كلمه معينه تدل على شيء معين اي هذا الباب يتعلق باحكام الفاعل ومسائله باب",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "008-8",
+          "start_seconds": 2336.28,
+          "end_seconds": 2339.1602,
+          "evidence": "كقول سبحانه قال سمعنا فتا",
+          "span_key": "semantic-006-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "008-8",
+          "start_seconds": 2339.1602,
+          "end_seconds": 3431.6301,
+          "evidence": "الان انا اتكلم على الصرف فان فهمته فبئه ونعمت وان لم تفهموا فيا عليك احضر معنا هذا ان شاء الله حتى تمام",
+          "span_key": "semantic-007-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "008-8",
+          "start_seconds": 3431.6301,
+          "end_seconds": 3435.07,
+          "evidence": "كما قلنا ثقيل",
+          "span_key": "semantic-008-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "008-8",
+          "start_seconds": 3435.07,
+          "end_seconds": 3922.855,
+          "evidence": "قال لانه لابد من حرف يبد به وهو الاول ومن حرف يوقف عليه وهو الثالث ومن حرف يكون واسطه",
+          "span_key": "semantic-009-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "008-8",
+          "start_seconds": 3922.855,
+          "end_seconds": 3926.615,
+          "evidence": "المذاهب هذا كما قلنا مختصر من المذاهب",
+          "span_key": "semantic-010-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "008-8",
+          "start_seconds": 3926.615,
+          "end_seconds": 3972.9448,
+          "evidence": "الصحيح هو الذي خلق اصوله من حروف العله",
+          "span_key": "semantic-011-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "008-8",
+          "start_seconds": 3972.9448,
+          "end_seconds": 3977.185,
+          "evidence": "حرف من حروف ماذا كمثل وط وقال",
+          "span_key": "semantic-012-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "008-8",
+          "start_seconds": 3977.185,
+          "end_seconds": 4001.115,
+          "evidence": "ومضاعف ثلاثي كشد ومده ومضاعف رباعي كزلزل ووسوس",
+          "span_key": "semantic-013-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "008-8",
+          "start_seconds": 4001.115,
+          "end_seconds": 4012.45,
+          "evidence": "وتعرف ان المعتل خمسه مثال واجوف وناقص ولفيف مقرون ولفيف",
+          "span_key": "semantic-014-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "008-8",
+          "start_seconds": 4012.45,
+          "end_seconds": 4027.575,
+          "evidence": "ينقسم الفعل الى قسمين صحيح ومعتل",
+          "span_key": "semantic-015-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "008-8",
+          "start_seconds": 4027.575,
+          "end_seconds": 4035.49,
+          "evidence": "حروف العله او من احرف العله وهي الف والواو والياء وهو ثلاثه اقسام سالين نحو ضربه ونصر",
+          "span_key": "semantic-016-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "008-8",
+          "start_seconds": 4035.49,
+          "end_seconds": 4059.2249,
+          "evidence": "هو ما كان في اصوله حرف منها او اكثر",
+          "span_key": "semantic-017-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "008-8",
+          "start_seconds": 4059.2249,
+          "end_seconds": 4064.57,
+          "evidence": "وهو خمسه اقسام مثال نحو عد ووارث ويسره",
+          "span_key": "semantic-018-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "008-8",
+          "start_seconds": 4064.57,
+          "end_seconds": 4069.05,
+          "evidence": "واجوف نحو قال وباع",
+          "span_key": "semantic-019-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "008-8",
+          "start_seconds": 4069.05,
+          "end_seconds": 4078.1648,
+          "evidence": "وناقص نحو رضيه وسوى ونهى",
+          "span_key": "semantic-020-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "008-8",
+          "start_seconds": 4078.1648,
+          "end_seconds": 4362.44,
+          "evidence": "لا استعمالا ام شهدن استعمالا لا قياسا هذا سياتي غدا ان شاء الله اما الوزن الاخير وهو وزنه فاعل",
+          "span_key": "semantic-021-teaching",
+          "kind": "teaching"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/laamiya-af3al/matn/344/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/laamiya-af3al/sharh/133416/book.md",
+        "livres/shamela/laamiya-af3al/sharh-alt/3863/book.md"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/shamela/laamiya-af3al/matn/344/book.md",
+          "text_line": 816,
+          "text_lines": [
+            816,
+            817,
+            820,
+            821
+          ],
+          "anchor_exact": "١ - الْحَمْدُ لِلَّهِ لَا أَبْغِي بِهِ بَدَلَا … حَمْداً يُبَلِّغُ مِنْ رِضْوَانِهِ الْأَمَلَا | ٢ - ثُمَّ الصَّلَاةُ عَلَى خَيْرِ الْوَرَى وَعَلَى … سَادَاتِنَا آلِهِ وَصَحْبِهِ الْفُضَلَا | فَالْفِعْلُ مَنْ يُحْكِمْ تَصَرُّفَهُ … يَحُزْ مِنَ اللُّغَةِ الْأَبْوَابَ وَالسُّبُلَا | ٤ - فَهَاكَ نَظْماً مُحِيطاً بِالْمُهِمِّ، وَقَدْ … يَحْوِي التَّفَاصِيلَ مَنْ يَسْتَحْضِرُ الْجُمَلَا",
+          "assertion_ar": "الأبيات الكاملة المثبتة تحمل الحكم أو المثال الذي تبنى عليه الوحدة.",
+          "excerpt": "١ - الْحَمْدُ لِلَّهِ لَا أَبْغِي بِهِ بَدَلَا … حَمْداً يُبَلِّغُ مِنْ رِضْوَانِهِ الْأَمَلَا | ٢ - ثُمَّ الصَّلَاةُ عَلَى خَيْرِ الْوَرَى وَعَلَى … سَادَاتِنَا آلِهِ وَصَحْبِهِ الْفُضَلَا | فَالْفِعْلُ مَنْ يُحْكِمْ تَصَرُّفَهُ … يَحُزْ مِنَ اللُّغَةِ الْأَبْوَابَ وَالسُّبُلَا | ٤ - فَهَاكَ نَظْماً مُحِيطاً بِالْمُهِمِّ، وَقَدْ … يَحْوِي التَّفَاصِيلَ مَنْ يَسْتَحْضِرُ الْجُمَلَا"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/laamiya-af3al/verification-ledger.json",
+        "module_index": 4,
+        "source_minutes": 216.97,
+        "estimate_method": "12 minutes de travail + 1 minute par 8 minutes de source, borné à 15–25"
+      }
+    },
+    {
+      "id": "laamiya-af3al-module-05-أوزان-المجرد-الرباعي-والثلاثي",
+      "title": "أوزان المجرد الرباعي والثلاثي",
+      "estimated_study_minutes": 20,
+      "audio_spans": [
+        {
+          "lesson_id": "009-9",
+          "start_seconds": 0.0,
+          "end_seconds": 916.785,
+          "evidence": "طبعا سافس بعد ما كنت اردت ان يكتب معنا مقيس وشاذ لكن المكان لم يكفي فهدفته حتى ضفرغ السامون",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "009-9",
+          "start_seconds": 916.785,
+          "end_seconds": 919.105,
+          "evidence": "والشاف كما قلنا 33",
+          "span_key": "semantic-002-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "009-9",
+          "start_seconds": 919.105,
+          "end_seconds": 1281.1399,
+          "evidence": "ما ذكره الناظم في هذا باب أن الفعل الماضي المجرد قسما",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "009-9",
+          "start_seconds": 1281.1399,
+          "end_seconds": 1285.115,
+          "evidence": "وهذا كما قلنا سيذكره في صياغة المضارع",
+          "span_key": "semantic-004-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "009-9",
+          "start_seconds": 1285.115,
+          "end_seconds": 2070.355,
+          "evidence": "من فعل، يلزم في المضارع يعني أن فاعل في المضارع يكون بالضَّم كذلك فهوُ مضمومُ العيب في الماضي",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "009-9",
+          "start_seconds": 2070.355,
+          "end_seconds": 2073.3152,
+          "evidence": "كمثل هذا كان سيقتلك حتى اقتلها",
+          "span_key": "semantic-006-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "009-9",
+          "start_seconds": 2073.3152,
+          "end_seconds": 2495.785,
+          "evidence": "موضع الكسر في الماضي وهو عين الكلمة في المضارع المبني أي المصوغ من مصدر فعيل المكسور",
+          "span_key": "semantic-007-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "009-9",
+          "start_seconds": 2495.785,
+          "end_seconds": 2498.745,
+          "evidence": "هذا عرفناه مثال نعم المثال",
+          "span_key": "semantic-008-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "009-9",
+          "start_seconds": 2498.745,
+          "end_seconds": 2507.8901,
+          "evidence": "وقف مثال ويينس مثال",
+          "span_key": "semantic-009-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "009-9",
+          "start_seconds": 2507.8901,
+          "end_seconds": 2518.615,
+          "evidence": "يوجد مثال الفي الالف لا تاتي في البدايه لانها ساكنه ولا يبدا بسجد",
+          "span_key": "semantic-010-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "009-9",
+          "start_seconds": 2518.615,
+          "end_seconds": 2523.8152,
+          "evidence": "في البدايه تاتي الواو او الياء",
+          "span_key": "semantic-011-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "009-9",
+          "start_seconds": 2523.8152,
+          "end_seconds": 2528.5352,
+          "evidence": "كلاهما مثال لكن احدهما واوي يعني يبداوا بواوي",
+          "span_key": "semantic-012-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "009-9",
+          "start_seconds": 2528.5352,
+          "end_seconds": 3665.635,
+          "evidence": "قلت نحن سناخذ رتبه يا اخاني لمده اسبوعين من يوم واحد في الشهر فهذا الامر موافقا موافق لك ليس كذلك فتقول",
+          "span_key": "semantic-013-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "009-9",
+          "start_seconds": 3665.635,
+          "end_seconds": 3668.675,
+          "evidence": "كقول قولة قليل، مع وفقت حلى.",
+          "span_key": "semantic-014-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "009-9",
+          "start_seconds": 3668.675,
+          "end_seconds": 4040.07,
+          "evidence": "عودٌ منْ حديدُ يُضرب عليه أو يُضرب به لا أدريُ المهم أنه تُشْعَلُ به ماذا؟",
+          "span_key": "semantic-015-teaching",
+          "kind": "teaching"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/laamiya-af3al/matn/344/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/laamiya-af3al/sharh/133416/book.md",
+        "livres/shamela/laamiya-af3al/sharh-alt/3863/book.md"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/shamela/laamiya-af3al/matn/344/book.md",
+          "text_line": 823,
+          "text_lines": [
+            823,
+            824,
+            825,
+            826,
+            827,
+            828
+          ],
+          "anchor_exact": "٥ - بِـ «فَعْلَلَ» الْفِعْلُ ذُو التَّجْرِيدِ أَوْ «فَعَلَا» … يَأْتِي وَمَكْسُورَ عَيْنٍ أَوْ عَلَى «فَعُلَا»",
+          "assertion_ar": "الأبيات الكاملة المثبتة تحمل الحكم أو المثال الذي تبنى عليه الوحدة.",
+          "excerpt": "٥ - بِـ «فَعْلَلَ» الْفِعْلُ ذُو التَّجْرِيدِ أَوْ «فَعَلَا» … يَأْتِي وَمَكْسُورَ عَيْنٍ أَوْ عَلَى «فَعُلَا»"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/laamiya-af3al/verification-ledger.json",
+        "module_index": 5,
+        "source_minutes": 67.33,
+        "estimate_method": "12 minutes de travail + 1 minute par 8 minutes de source, borné à 15–25"
+      }
+    },
+    {
+      "id": "laamiya-af3al-module-06-فعَل-ودواعي-كسر-المضارع",
+      "title": "فعَل ودواعي كسر المضارع",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {
+          "lesson_id": "010-10",
+          "start_seconds": 0.0,
+          "end_seconds": 3286.8052,
+          "evidence": "كانه يعني يشعر بانه له اربعه كتب تدليس شيوخه كتاب اسمه الاصل وكتاب اسمه المناطق وكتاب اسمه المناهب وكتاب اسمه كبير وهي في الحقيقه كتاب واحد",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "010-10",
+          "start_seconds": 3286.8052,
+          "end_seconds": 3290.725,
+          "evidence": "كمثل إباع الأعرف وصلها ياء أم لا؟",
+          "span_key": "semantic-002-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "010-10",
+          "start_seconds": 3290.725,
+          "end_seconds": 3326.01,
+          "evidence": "باعَ يابيع زادَ يزيل جاءَ يزيل فاءَ يفيل العينُ",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "010-10",
+          "start_seconds": 3326.01,
+          "end_seconds": 3329.1301,
+          "evidence": "واضحِ هذا الكلام؟ مثال آخر؟",
+          "span_key": "semantic-004-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "010-10",
+          "start_seconds": 3329.1301,
+          "end_seconds": 3331.85,
+          "evidence": "إذا كان",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "010-10",
+          "start_seconds": 3331.85,
+          "end_seconds": 3336.09,
+          "evidence": "لازما مضاعف كمثل فر وحن وجنة",
+          "span_key": "semantic-006-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "010-10",
+          "start_seconds": 3336.09,
+          "end_seconds": 3431.2,
+          "evidence": "العين، واللَّم سواء، مُضاعف ثلاث يعني. طبعا نحن في فعلَة {فهذا",
+          "span_key": "semantic-007-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "011-11",
+          "start_seconds": 0.0,
+          "end_seconds": 839.515,
+          "evidence": "وطريقه تناسبه هذا الدرس لا يناسبه الاصماع تماما انا قد ازرع معك في الكلام لكن لن تخرجي بشيء",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "011-11",
+          "start_seconds": 839.515,
+          "end_seconds": 845.195,
+          "evidence": "كما قلنا حرف الحلق يقتضي الفح يقتضي ماذا ماذا سياتي في فعله يفعل",
+          "span_key": "semantic-002-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "011-11",
+          "start_seconds": 845.195,
+          "end_seconds": 1333.385,
+          "evidence": "الدواعي التي تقتضي الكسره واحده ومن الدواعي التي تقتضي الضمه واحده",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "011-11",
+          "start_seconds": 1333.385,
+          "end_seconds": 1336.985,
+          "evidence": "الداعي الرابع وهو كما قلنا داعي غير",
+          "span_key": "semantic-004-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "011-11",
+          "start_seconds": 1336.985,
+          "end_seconds": 1958.49,
+          "evidence": "احسنتم هذا ايضا قد يكون هو يقصد قال ان الشهره هذه يعني اشتهر ان ذا الواو فاءا يقصر اشتهر ان ذريائي عليدا يقصر اليسك كذلك",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "011-11",
+          "start_seconds": 1958.49,
+          "end_seconds": 1961.29,
+          "evidence": "الشهره ليس الداعي كما قلنا هذه",
+          "span_key": "semantic-006-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "011-11",
+          "start_seconds": 1961.29,
+          "end_seconds": 2380.29,
+          "evidence": "والمواضع من اول هذا هي المواضع بالظبط من اول قوله مضمما مع اللزوم هذا الشروط من فراغ ومن اول قوله وعيد وجهه صده",
+          "span_key": "semantic-007-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "011-11",
+          "start_seconds": 2380.29,
+          "end_seconds": 2382.53,
+          "evidence": "وكما قلنا ذكره هنا",
+          "span_key": "semantic-008-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "011-11",
+          "start_seconds": 2382.53,
+          "end_seconds": 2467.0,
+          "evidence": "والقياس في المتعدي الشذوذ في اللازم على العكس لمالك ابن مالك ذكاء المتعدي مع اللازم مع ان المتعدي من دواعي الضم لكن ذكره هنا في الكسر واضح",
+          "span_key": "semantic-009-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "011-11",
+          "start_seconds": 2467.0,
+          "end_seconds": 2469.08,
+          "evidence": "كما قلنا",
+          "span_key": "semantic-010-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "011-11",
+          "start_seconds": 2469.08,
+          "end_seconds": 2777.34,
+          "evidence": "قسمان لكن الشهود باب ذكره ذكره في نوع واحد وهو مضاعف ماذا",
+          "span_key": "semantic-011-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "011-11",
+          "start_seconds": 2777.34,
+          "end_seconds": 2782.4602,
+          "evidence": "الاربعه الاولى فيها شهود ايضا لكن كما قلنا قليل فلذلك لم يذكرهم",
+          "span_key": "semantic-012-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "011-11",
+          "start_seconds": 2782.4602,
+          "end_seconds": 3726.28,
+          "evidence": "فجاؤوا له لما ولدت زغيت جو له بالولد وقالوا هذا ابنك قال ماذا افعل به اكله ام اشربه",
+          "span_key": "semantic-013-teaching",
+          "kind": "teaching"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/laamiya-af3al/matn/344/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/laamiya-af3al/sharh/133416/book.md",
+        "livres/shamela/laamiya-af3al/sharh-alt/3863/book.md"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/shamela/laamiya-af3al/matn/344/book.md",
+          "text_line": 838,
+          "text_lines": [
+            838,
+            839
+          ],
+          "anchor_exact": "٨ - وَأَفْرِدِ الْكَسْرَ فِيمَا مِنْ «وَرِثْ، وَوَلِي … وَرِمْ، وَرِعْتَ، وَمِقْتَ، مَعْ وَفِقْتَ حُلَى",
+          "assertion_ar": "الأبيات الكاملة المثبتة تحمل الحكم أو المثال الذي تبنى عليه الوحدة.",
+          "excerpt": "٨ - وَأَفْرِدِ الْكَسْرَ فِيمَا مِنْ «وَرِثْ، وَوَلِي … وَرِمْ، وَرِعْتَ، وَمِقْتَ، مَعْ وَفِقْتَ حُلَى"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/laamiya-af3al/verification-ledger.json",
+        "module_index": 6,
+        "source_minutes": 119.29,
+        "estimate_method": "12 minutes de travail + 1 minute par 8 minutes de source, borné à 15–25"
+      }
+    },
+    {
+      "id": "laamiya-af3al-module-07-المضاعف-اللازم-بين-القياس-والشذوذ",
+      "title": "المضاعف اللازم بين القياس والشذوذ",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {
+          "lesson_id": "012-12",
+          "start_seconds": 0.0,
+          "end_seconds": 128.915,
+          "evidence": "لكسر العين في المضار هذا يكون اذا وجد في الفعل خمسه شيء من خمسه ذراعي اذا",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "012-12",
+          "start_seconds": 128.915,
+          "end_seconds": 130.995,
+          "evidence": "نكرر ما قلناه بسرعه",
+          "span_key": "semantic-002-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "012-12",
+          "start_seconds": 130.995,
+          "end_seconds": 840.98004,
+          "evidence": "مضمما مع النزول هذا في المضاعف اللازم سناتي اليه بعد ان ننتهي من الاول",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "012-12",
+          "start_seconds": 840.98004,
+          "end_seconds": 846.82,
+          "evidence": "مقطوع الذكر قال نحو جب الحبل يجبه اذا تقطع وصب يصب",
+          "span_key": "semantic-004-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "012-12",
+          "start_seconds": 846.82,
+          "end_seconds": 1796.07,
+          "evidence": "واخذ الكسل لما كان مضموما مرض الضم فاجتمع فيه الكسل والضم لاجتماع التعدي واللزوم",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "012-12",
+          "start_seconds": 1796.07,
+          "end_seconds": 1799.0299,
+          "evidence": "طبعا كما قلنا هذه الزيادات احيانا",
+          "span_key": "semantic-006-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "012-12",
+          "start_seconds": 1799.0299,
+          "end_seconds": 3261.565,
+          "evidence": "من المضاعف الذي فزته 4 فعلا انتم معي يا اخوانا نعم لو انتهينا اليوم للقراء باب المبتدأ",
+          "span_key": "semantic-007-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "012-12",
+          "start_seconds": 3261.565,
+          "end_seconds": 3264.525,
+          "evidence": "اه كما قلنا فين",
+          "span_key": "semantic-008-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "012-12",
+          "start_seconds": 3264.525,
+          "end_seconds": 3828.06,
+          "evidence": "يئل قال وفيه مخالفه لما ذكرهم باطل فهو معترض عليه على كل حالم في هذا",
+          "span_key": "semantic-009-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "013-13",
+          "start_seconds": 0.0,
+          "end_seconds": 1363.71,
+          "evidence": "انتم معي يا اخوانا نعم اه فموجود لها استعمال عندنا في العامين قال ومن قش الشيء لا يخشه قشه اذا جمعه فانه معدا على القياس",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "013-13",
+          "start_seconds": 1363.71,
+          "end_seconds": 1367.1499,
+          "evidence": "وكما قلنا هذه الالفاظ الزائده",
+          "span_key": "semantic-002-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "013-13",
+          "start_seconds": 1367.1499,
+          "end_seconds": 2155.08,
+          "evidence": "فانه بالفتح لا غير لانه من باب فاعلا منسوبا هو اصلا من باب فاعلا ليس من باب فاعل اصلا",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "013-13",
+          "start_seconds": 2155.08,
+          "end_seconds": 2162.4402,
+          "evidence": "وقد ذكرناها في المناهج فراجح يعني هو في المناهج كما قلنا ذَكَر كل الأفعال",
+          "span_key": "semantic-004-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "013-13",
+          "start_seconds": 2162.4402,
+          "end_seconds": 2415.05,
+          "evidence": "اي واحفظ ايها الصرفي الوجهين الجائزين في عين المضارع المصور من مصدر صد وما بعد",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "013-13",
+          "start_seconds": 2415.05,
+          "end_seconds": 2416.3298,
+          "evidence": "كما قلنا",
+          "span_key": "semantic-006-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "013-13",
+          "start_seconds": 2416.3298,
+          "end_seconds": 3887.39,
+          "evidence": "حتى لا تختلط حتى لا يختلط الحرف بغيره حتى لا تختلط النون بالتاء او النون بالباء او التاء بالباب او التاء بالثاء",
+          "span_key": "semantic-007-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "013-13",
+          "start_seconds": 3887.39,
+          "end_seconds": 3893.63,
+          "evidence": "يدل على فخر ،وليس له داعي لزوم كسار العين، نحو قلى.",
+          "span_key": "semantic-008-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "013-13",
+          "start_seconds": 3893.63,
+          "end_seconds": 3916.4,
+          "evidence": "واحداً منها وهي المضاعف المُعدَّى ويبقى 4 حالات",
+          "span_key": "semantic-009-teaching",
+          "kind": "teaching"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/laamiya-af3al/matn/344/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/laamiya-af3al/sharh/133416/book.md",
+        "livres/shamela/laamiya-af3al/sharh-alt/3863/book.md"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/shamela/laamiya-af3al/matn/344/book.md",
+          "text_line": 847,
+          "text_lines": [
+            847
+          ],
+          "anchor_exact": "١١ - وَضُمَّ عَيْنَ مُعَدَّاهُ، وَيَنْدُرُ ذَا … كَسْرٍ كَمَا لَازِمٌ ذَا ضَمٍّ احْتُمِلَا",
+          "assertion_ar": "الأبيات الكاملة المثبتة تحمل الحكم أو المثال الذي تبنى عليه الوحدة.",
+          "excerpt": "١١ - وَضُمَّ عَيْنَ مُعَدَّاهُ، وَيَنْدُرُ ذَا … كَسْرٍ كَمَا لَازِمٌ ذَا ضَمٍّ احْتُمِلَا"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/laamiya-af3al/verification-ledger.json",
+        "module_index": 7,
+        "source_minutes": 129.07,
+        "estimate_method": "12 minutes de travail + 1 minute par 8 minutes de source, borné à 15–25"
+      }
+    },
+    {
+      "id": "laamiya-af3al-module-08-دواعي-ضم-عين-المضارع",
+      "title": "دواعي ضم عين المضارع",
+      "estimated_study_minutes": 21,
+      "audio_spans": [
+        {
+          "lesson_id": "014-14",
+          "start_seconds": 0.0,
+          "end_seconds": 593.195,
+          "evidence": "ماذا نستعمل هذا وذاك انت تقول اضرب زيدا هذا الرصد اذا كنت تقصد بمجرد الاخبار",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "014-14",
+          "start_seconds": 593.195,
+          "end_seconds": 595.195,
+          "evidence": "كما قلنا",
+          "span_key": "semantic-002-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "014-14",
+          "start_seconds": 595.195,
+          "end_seconds": 1089.5801,
+          "evidence": "نحن سنبدأ ان شاء الله قريبا دوره الأجرومية بعد أسبوع ان شاء الله لا يمكن ان تلتقع كميات ان شاء الله",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "014-14",
+          "start_seconds": 1089.5801,
+          "end_seconds": 1092.14,
+          "evidence": "و كما قلنا تقول",
+          "span_key": "semantic-004-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "014-14",
+          "start_seconds": 1092.14,
+          "end_seconds": 1970.545,
+          "evidence": "السياق فكانه يسأل لماذا جرى الضم اذا كان الفخر يفهم من ماذا من السياق نقول هنا دليلان على على الفخر الضم والسياق",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "014-14",
+          "start_seconds": 1970.545,
+          "end_seconds": 1976.465,
+          "evidence": "عي لزوم انكسار العين نحو قلا قبل",
+          "span_key": "semantic-006-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "014-14",
+          "start_seconds": 1976.465,
+          "end_seconds": 2204.155,
+          "evidence": "والكسر فيه شاذ صحيحين كسري شاذ في هذا ام لا لكن في المضاعف المتعدي هذا الذي فيه شرور",
+          "span_key": "semantic-007-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "014-14",
+          "start_seconds": 2204.155,
+          "end_seconds": 2211.1702,
+          "evidence": "لما يدل على فخر، و ليس له داعي لزوم انكسار العين نحو قلا.",
+          "span_key": "semantic-008-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "014-14",
+          "start_seconds": 2211.1702,
+          "end_seconds": 2747.4,
+          "evidence": "اه وقوله الواو نائب فاعل لجعل وهو المفعول الاول وقوله اولاما مخطوف على عينه والضمير في قوله يجاب به عائد على المضارع يعني",
+          "span_key": "semantic-009-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "014-14",
+          "start_seconds": 2747.4,
+          "end_seconds": 2753.24,
+          "evidence": "قال فيما اي فيما يفتخر به نحو سابقني فسبقته فان مسبوقه اي",
+          "span_key": "semantic-010-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "014-14",
+          "start_seconds": 2753.24,
+          "end_seconds": 2847.395,
+          "evidence": "الخصام الجدال انا اتفوق عليه في الخصام والجدال",
+          "span_key": "semantic-011-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "014-14",
+          "start_seconds": 2847.395,
+          "end_seconds": 2852.995,
+          "evidence": "يغسل في الابيات وليس له داعي لزوم انكسار عين نحو قال",
+          "span_key": "semantic-012-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "014-14",
+          "start_seconds": 2852.995,
+          "end_seconds": 4085.983,
+          "evidence": "ومره بنا هذا فيفعل يفعله كضرب يضربه قلنا اشتهر بالجسد اي لم ي لم يجري على الزنه الا مكسورا فيضربه ولم يجري هذا الا مغول هذا هو المقصود المعن",
+          "span_key": "semantic-013-teaching",
+          "kind": "teaching"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/laamiya-af3al/matn/344/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/laamiya-af3al/sharh/133416/book.md",
+        "livres/shamela/laamiya-af3al/sharh-alt/3863/book.md"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/shamela/laamiya-af3al/matn/344/book.md",
+          "text_line": 880,
+          "text_lines": [
+            880
+          ],
+          "anchor_exact": "٢١ - عَيْناً لَهُ الْوَاوُ أَوْ لَاماً يُجَاءُ بِهِ … مَضْمُومَ عَيْنٍ، وَهَذَا الْحُكْمُ قَدْ بُذِلَا",
+          "assertion_ar": "الأبيات الكاملة المثبتة تحمل الحكم أو المثال الذي تبنى عليه الوحدة.",
+          "excerpt": "٢١ - عَيْناً لَهُ الْوَاوُ أَوْ لَاماً يُجَاءُ بِهِ … مَضْمُومَ عَيْنٍ، وَهَذَا الْحُكْمُ قَدْ بُذِلَا"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/laamiya-af3al/verification-ledger.json",
+        "module_index": 8,
+        "source_minutes": 68.1,
+        "estimate_method": "12 minutes de travail + 1 minute par 8 minutes de source, borné à 15–25"
+      }
+    },
+    {
+      "id": "laamiya-af3al-module-09-دواعي-الفتح-وحروف-الحلق",
+      "title": "دواعي الفتح وحروف الحلق",
+      "estimated_study_minutes": 18,
+      "audio_spans": [
+        {
+          "lesson_id": "015-15",
+          "start_seconds": 0.0,
+          "end_seconds": 631.715,
+          "evidence": "في المضارع ولكن بشرط الا يكون مضاعفا ولا مشهورا بكسر ولا مشهورا بضمه",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "015-15",
+          "start_seconds": 631.715,
+          "end_seconds": 634.67505,
+          "evidence": "الخلاصة إذا",
+          "span_key": "semantic-002-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "015-15",
+          "start_seconds": 634.67505,
+          "end_seconds": 754.18,
+          "evidence": "بضم فان كان مضاعفا لازما فالقياس الكسر وان كان متعديا فالقياس الضم وان كان مشهورا",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "015-15",
+          "start_seconds": 754.18,
+          "end_seconds": 760.82,
+          "evidence": "أحرف الحلق الستة نحو لها ينأ ولها ينأ وزدنا أفعال كثيره هنا",
+          "span_key": "semantic-004-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "015-15",
+          "start_seconds": 760.82,
+          "end_seconds": 1316.9,
+          "evidence": "ذكره الناظم بقوله إن لم يضاعف ولم يُشهر بكثرة أو ضمه، وهذا سيأتي في الأمير. قال مخطوط الحلق ستة، الهمزة والهاء والهاء والعين والخاء والغي.",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "015-15",
+          "start_seconds": 1316.9,
+          "end_seconds": 1322.8201,
+          "evidence": "صيغ وبني ذلك المضارع من مصدر سأل يقصد أن هذا مثال يعني",
+          "span_key": "semantic-006-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "015-15",
+          "start_seconds": 1322.8201,
+          "end_seconds": 1485.69,
+          "evidence": "ومثل الناظم لمشهور بالكسر عن العرب بقوله كيبغي يقال بغى عليه يبغي اذا اعتدى عليه وبغاه يبغيه اذا طلبه",
+          "span_key": "semantic-007-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "015-15",
+          "start_seconds": 1485.69,
+          "end_seconds": 1489.13,
+          "evidence": "نحو سَأَلَ يسأل وثأر يثأر وذهب",
+          "span_key": "semantic-008-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "015-15",
+          "start_seconds": 1489.13,
+          "end_seconds": 1873.85,
+          "evidence": "يقال يقي لان الفاء و اليست الواو في الفاء من دواعي الكسل فل يلتفت الى ذلك انه",
+          "span_key": "semantic-009-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "015-15",
+          "start_seconds": 1873.85,
+          "end_seconds": 1876.89,
+          "evidence": "ومثله كما قلنا عكف يعكف او",
+          "span_key": "semantic-010-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "015-15",
+          "start_seconds": 1876.89,
+          "end_seconds": 2839.87,
+          "evidence": "يعني هذه للاوزان الاوزان لكن عندما هذا الميزان هذا شيء اخر لان الميزان هو لفظ فعله لكن هو غير بحسب الموزون",
+          "span_key": "semantic-011-teaching",
+          "kind": "teaching"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/laamiya-af3al/matn/344/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/laamiya-af3al/sharh/133416/book.md",
+        "livres/shamela/laamiya-af3al/sharh-alt/3863/book.md"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/shamela/laamiya-af3al/matn/344/book.md",
+          "text_line": 883,
+          "text_lines": [
+            883
+          ],
+          "anchor_exact": "٢٣ - وَفَتْحُ مَا حَرْفُ حَلْقٍ غَيْرُ أَوَّلِهِ … عَنِ الْكِسَائِيِّ فِي ذَا النَّوْعِ قَدْ حَصَلَا",
+          "assertion_ar": "الأبيات الكاملة المثبتة تحمل الحكم أو المثال الذي تبنى عليه الوحدة.",
+          "excerpt": "٢٣ - وَفَتْحُ مَا حَرْفُ حَلْقٍ غَيْرُ أَوَّلِهِ … عَنِ الْكِسَائِيِّ فِي ذَا النَّوْعِ قَدْ حَصَلَا"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/laamiya-af3al/verification-ledger.json",
+        "module_index": 9,
+        "source_minutes": 47.33,
+        "estimate_method": "12 minutes de travail + 1 minute par 8 minutes de source, borné à 15–25"
+      }
+    },
+    {
+      "id": "laamiya-af3al-module-10-الأجوف-مع-ضمائر-الرفع",
+      "title": "الأجوف مع ضمائر الرفع",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {
+          "lesson_id": "016-16",
+          "start_seconds": 0.0,
+          "end_seconds": 3067.42,
+          "evidence": "متى نضب ومتى نكسب ومن اين جاءت الضمه ولماذا ومن اين جاءت الكسره ولماذا هذا سياتي مع صحيحا لكن بدانا بهذه المقدمه",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "017-17",
+          "start_seconds": 0.0,
+          "end_seconds": 166.05,
+          "evidence": "فبينا ان الفاء تضم ان كانت مضمومه في المضارع يقول قل وتكسر",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "017-17",
+          "start_seconds": 166.05,
+          "end_seconds": 169.49,
+          "evidence": "ولكن الاصل في ذلك كما قلنا",
+          "span_key": "semantic-002-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "017-17",
+          "start_seconds": 169.49,
+          "end_seconds": 2151.985,
+          "evidence": "لا تدل على الواو والفتحة لا تدل على الياء. صحيحة ام لا. آه. قال لم يعلم نوعه العين، واو، أو ي فاحتيج هذا مجهول فاحتيج إلى دليل.",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "017-17",
+          "start_seconds": 2151.985,
+          "end_seconds": 2156.545,
+          "evidence": "يعني أن الواو والياء قلبت الف كما قلنا إعراب قال",
+          "span_key": "semantic-004-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "017-17",
+          "start_seconds": 2156.545,
+          "end_seconds": 2325.415,
+          "evidence": "لذلك، نحن قلنا هم جاؤوا بالحركة لتكونَ دليلا.",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "017-17",
+          "start_seconds": 2325.415,
+          "end_seconds": 2329.4949,
+          "evidence": "فائده لانها حركه النقل لكن كما قلنا ليس بلازم",
+          "span_key": "semantic-006-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "017-17",
+          "start_seconds": 2329.4949,
+          "end_seconds": 3324.57,
+          "evidence": "وهذا من أنواع الإعلال بالقلب واعلال بالحذف وهذا سياتي ان شاء الله في الدوره الجديدة",
+          "span_key": "semantic-007-teaching",
+          "kind": "teaching"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/laamiya-af3al/matn/344/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/laamiya-af3al/sharh/133416/book.md",
+        "livres/shamela/laamiya-af3al/sharh-alt/3863/book.md"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/shamela/laamiya-af3al/matn/344/book.md",
+          "text_line": 901,
+          "text_lines": [
+            901
+          ],
+          "anchor_exact": "٢٨ - وَانْقُلْ لِفَاءِ الثُّلَاثِيْ شَكْلَ عَيْنٍ اذَا اعْـ … ـتَلَّتْ، وَكَانَ بِتَا الْإِضْمَارِ مُتَّصِلَا",
+          "assertion_ar": "الأبيات الكاملة المثبتة تحمل الحكم أو المثال الذي تبنى عليه الوحدة.",
+          "excerpt": "٢٨ - وَانْقُلْ لِفَاءِ الثُّلَاثِيْ شَكْلَ عَيْنٍ اذَا اعْـ … ـتَلَّتْ، وَكَانَ بِتَا الْإِضْمَارِ مُتَّصِلَا"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/laamiya-af3al/verification-ledger.json",
+        "module_index": 10,
+        "source_minutes": 106.53,
+        "estimate_method": "12 minutes de travail + 1 minute par 8 minutes de source, borné à 15–25"
+      }
+    },
+    {
+      "id": "laamiya-af3al-module-11-خريطة-أوزان-الفعل-المزيد",
+      "title": "خريطة أوزان الفعل المزيد",
+      "estimated_study_minutes": 19,
+      "audio_spans": [
+        {
+          "lesson_id": "018-18",
+          "start_seconds": 0.0,
+          "end_seconds": 856.79504,
+          "evidence": "الأفعال بجميع حروفها بالأصل والزائد لا يمكن أن تتجاوز كم؟ ياكمان تتجاوز؟ نعم.",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "018-18",
+          "start_seconds": 856.79504,
+          "end_seconds": 860.075,
+          "evidence": "كما قلنا هناك خلاف في وزنين،",
+          "span_key": "semantic-002-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "018-18",
+          "start_seconds": 860.075,
+          "end_seconds": 926.14996,
+          "evidence": "أربعة أوزان أو سِد على الخلاف.",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "018-18",
+          "start_seconds": 926.14996,
+          "end_seconds": 931.35,
+          "evidence": "وزد على ذلك وزنين إفعَم لا كمثل إِسْلَنْقًا",
+          "span_key": "semantic-004-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "018-18",
+          "start_seconds": 931.35,
+          "end_seconds": 1529.225,
+          "evidence": "صحيحة من باب؟ وزنُ فَعَلَ كم وزنه؟ كم فَعَلَ مرض على هذا الوزن؟ لا عد لهذا!",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "018-18",
+          "start_seconds": 1529.225,
+          "end_seconds": 1533.145,
+          "evidence": "كما قلنا تفيعَل وتمفعلا",
+          "span_key": "semantic-006-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "018-18",
+          "start_seconds": 1533.145,
+          "end_seconds": 1650.485,
+          "evidence": "قد لا تجد الا فعلا أو فعلين أو ثلاثة قد لا تصل إلى عدد الأصابح إلى عدد أصابع عيلة الواحدة.",
+          "span_key": "semantic-007-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "018-18",
+          "start_seconds": 1650.485,
+          "end_seconds": 1657.845,
+          "evidence": "أنتم معي كما قلنا كم فعلا على أفعالك كثير. فعلت كثير. طيب كم فعلا على تفاعلت.",
+          "span_key": "semantic-008-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "018-18",
+          "start_seconds": 1657.845,
+          "end_seconds": 2117.55,
+          "evidence": "اسجدوا كان عليه بأن؟ يسجدوا. أن يسجدوا. لأنه يدخل الآد في حكمهم. هو ليس منهم. لكن لأنه معه.",
+          "span_key": "semantic-009-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "018-18",
+          "start_seconds": 2117.55,
+          "end_seconds": 2146.34,
+          "evidence": "يعني ان يقبل المفعول وقوع الفعل عليه.",
+          "span_key": "semantic-010-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "018-18",
+          "start_seconds": 2146.34,
+          "end_seconds": 2538.85,
+          "evidence": "لابد أن يكون للزيادة معًا من هذه المعاني الستة أو إليها. لكن هذه الستة أشهر المعاني.",
+          "span_key": "semantic-011-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "018-18",
+          "start_seconds": 2538.85,
+          "end_seconds": 2541.49,
+          "evidence": "عندما نقول المبالغة تقول مثال كسره",
+          "span_key": "semantic-012-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "018-18",
+          "start_seconds": 2541.49,
+          "end_seconds": 2620.06,
+          "evidence": "امثله لمعنى التعديل له امثله معنى المبالغه له امثله معنى الصيروره له امثله",
+          "span_key": "semantic-013-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "018-18",
+          "start_seconds": 2620.06,
+          "end_seconds": 2627.5552,
+          "evidence": "هذا المعنى فانه من تشيطن ليس من وجود امثله كثيره له يعني كمثل كتبه ما معنى كتبه",
+          "span_key": "semantic-014-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "018-18",
+          "start_seconds": 2627.5552,
+          "end_seconds": 3155.2048,
+          "evidence": "نقول انزال الله القرانا نقول اضرب زيد سعيدا يعني جعل لا لم نجدها فمسال السياده مساله تتعلق بماذا",
+          "span_key": "semantic-015-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "018-18",
+          "start_seconds": 3155.2048,
+          "end_seconds": 3156.645,
+          "evidence": "كما قلنا",
+          "span_key": "semantic-016-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "018-18",
+          "start_seconds": 3156.645,
+          "end_seconds": 3278.05,
+          "evidence": "طيب يعني عندنا دوره جدا اليوم ونكتفي بهذا لأجل الإقراه؟ بقيا عند 5 دقائق يعني ليس كثيرا تمام",
+          "span_key": "semantic-017-teaching",
+          "kind": "teaching"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/laamiya-af3al/matn/344/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/laamiya-af3al/sharh/133416/book.md",
+        "livres/shamela/laamiya-af3al/sharh-alt/3863/book.md"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/shamela/laamiya-af3al/matn/344/book.md",
+          "text_line": 904,
+          "text_lines": [
+            904,
+            905,
+            906,
+            907
+          ],
+          "anchor_exact": "٣٠ - كَـ «أَعْلَمَ» الْفِعْلُ يَأْتِي بِالزِّيَادَةِ مَعْ … «وَالَى، وَوَلَّى، اسْتَقَامَ، احْرَنْجَمَ، انْفَصَلَا»",
+          "assertion_ar": "الأبيات الكاملة المثبتة تحمل الحكم أو المثال الذي تبنى عليه الوحدة.",
+          "excerpt": "٣٠ - كَـ «أَعْلَمَ» الْفِعْلُ يَأْتِي بِالزِّيَادَةِ مَعْ … «وَالَى، وَوَلَّى، اسْتَقَامَ، احْرَنْجَمَ، انْفَصَلَا»"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/laamiya-af3al/verification-ledger.json",
+        "module_index": 11,
+        "source_minutes": 54.63,
+        "estimate_method": "12 minutes de travail + 1 minute par 8 minutes de source, borné à 15–25"
+      }
+    },
+    {
+      "id": "laamiya-af3al-module-12-معاني-المزيد-والمشاركة-والمطاوعة",
+      "title": "معاني المزيد والمشاركة والمطاوعة",
+      "estimated_study_minutes": 25,
+      "audio_spans": [
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 0.0,
+          "end_seconds": 1480.78,
+          "evidence": "هو ذك او زاد الماضي او ذك الابنيه في سوره الماضي مع ان الابنيه ليست خاصه بالماضي بل هي المضارع والامر وهذا وفعل ذلك لان الماضي هو الاصل",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 1480.78,
+          "end_seconds": 1484.78,
+          "evidence": "كما قلنا في سافره وهاجر وساعد",
+          "span_key": "semantic-002-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 1484.78,
+          "end_seconds": 1649.9,
+          "evidence": "زياده المعنى هي التي تؤدي معنى المطاوعه المشاركه التعديل لكن زياده الاحاق هذا هذه زياده لها غرض لفظي وهو ان يلتحق الفعل في التصريف",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 1649.9,
+          "end_seconds": 1654.115,
+          "evidence": "ان وجدت زياده كمثل انزلنا وقاتل واستغفر",
+          "span_key": "semantic-004-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 1654.115,
+          "end_seconds": 1861.595,
+          "evidence": "اه زيادة قبل الفاء أو بعد الفاء قبل العين، أو بعد العين، قبل اللام، أو بعد؟ ال. قال",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 1861.595,
+          "end_seconds": 1864.715,
+          "evidence": "وافعلنا كمثل اطمعن واقشعرا،",
+          "span_key": "semantic-006-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 1864.715,
+          "end_seconds": 2240.685,
+          "evidence": "من الثلاثي المزيد سواء كانت اصليه او ملحقه يعني حتى الملحق هي ثلاثيه في الاصل وزيده عليها",
+          "span_key": "semantic-007-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 2240.685,
+          "end_seconds": 2245.6702,
+          "evidence": "اصله ماذا فهوو من الثلاث المزيد كما قلنا كل الاوزان من الثلاث المزيد",
+          "span_key": "semantic-008-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 2245.6702,
+          "end_seconds": 2625.975,
+          "evidence": "زيد فعل القتال بسعيد وسعيد فعل القتال بسيد، فأصبح كل واحد فاعلا و.",
+          "span_key": "semantic-009-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 2625.975,
+          "end_seconds": 2628.855,
+          "evidence": "وبناءه للطلب غالبا نحو استغفروا",
+          "span_key": "semantic-010-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 2628.855,
+          "end_seconds": 2631.655,
+          "evidence": "الله اي اي طلب ال",
+          "span_key": "semantic-011-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 2631.655,
+          "end_seconds": 2634.96,
+          "evidence": "نحو عفوا نحو استغ فر الله فعلما",
+          "span_key": "semantic-012-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 2634.96,
+          "end_seconds": 2882.75,
+          "evidence": "الأثر الذي يريده الفاعل هو ها ان يأسر هذا الشيء. فهذا المفعول قبل ان يسفر.",
+          "span_key": "semantic-013-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 2882.75,
+          "end_seconds": 2888.03,
+          "evidence": "قال وهو مثال قال اي قبل الاقامه وهو مثال والخامس",
+          "span_key": "semantic-014-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 2888.03,
+          "end_seconds": 3023.3198,
+          "evidence": "اه يعني انت درست مع البلاغة، ومن من فصاحة الكلمة من من شروط فصاحة الكلمة أن ألا تكون غريب، فإنكان غريب، فهذا شيء جميل، أو قبيح،",
+          "span_key": "semantic-015-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 3023.3198,
+          "end_seconds": 3027.1748,
+          "evidence": "وهو مثال الناضم وكسرته فانكسر.",
+          "span_key": "semantic-016-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 3027.1748,
+          "end_seconds": 3090.625,
+          "evidence": "ايها الفعل الماضي ات بالزياده على وزن افعلك اعلمه وعلى وزن افعل حاله",
+          "span_key": "semantic-017-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 3090.625,
+          "end_seconds": 3097.08,
+          "evidence": "البيّخ كما قلنا بمعنى سبيلا?",
+          "span_key": "semantic-018-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 3097.08,
+          "end_seconds": 3226.105,
+          "evidence": "على العدي السابق يعني نعطف على العدد السابق",
+          "span_key": "semantic-019-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 3226.105,
+          "end_seconds": 3230.585,
+          "evidence": "اللازم نحو إحمرَّ زيد، إذا صار ذا حمرة كثيرة،",
+          "span_key": "semantic-020-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 3230.585,
+          "end_seconds": 3247.48,
+          "evidence": "بين الأعين واللام وبناءه لمبالغة اللازمة.",
+          "span_key": "semantic-021-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 3247.48,
+          "end_seconds": 3253.0251,
+          "evidence": "أنتم معي يا إخواني، لكن ليس له مظاهر. ليس له ماذا? مظاهر. هو كما قلنا من زيادة",
+          "span_key": "semantic-022-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 3253.0251,
+          "end_seconds": 3573.535,
+          "evidence": "قال ويُحتمل كونه مبتدأ وما بعده معطوفا عليه، والخبر جملة، والخبر جملة اتصلا.",
+          "span_key": "semantic-023-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 3573.535,
+          "end_seconds": 3576.62,
+          "evidence": "تَفَعّلات كمثل تدحرج وتزلزل.",
+          "span_key": "semantic-024-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 3576.62,
+          "end_seconds": 3617.945,
+          "evidence": "في القرية يتحرجون في الغزو والاطفال",
+          "span_key": "semantic-025-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 3617.945,
+          "end_seconds": 3621.5452,
+          "evidence": "المجرد نحو دحرجت الكرة، فتدحرجت.",
+          "span_key": "semantic-026-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 3621.5452,
+          "end_seconds": 3648.055,
+          "evidence": "بزيادة الياء التحتانية بين عين واللامة.",
+          "span_key": "semantic-027-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 3648.055,
+          "end_seconds": 3651.415,
+          "evidence": "نحو عظيط اذا احدث عند الجماد.",
+          "span_key": "semantic-028-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 3651.415,
+          "end_seconds": 3731.48,
+          "evidence": "تذكرون قبل قليل. أن الزيادة في الغالب تكون للمعنى وأحيانا",
+          "span_key": "semantic-029-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 3731.48,
+          "end_seconds": 3736.5999,
+          "evidence": "ويكون فعوا على بمعنى فعل، المجرد نحو إحلول الثمر إذا",
+          "span_key": "semantic-030-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 3736.5999,
+          "end_seconds": 3737.72,
+          "evidence": "حلى.",
+          "span_key": "semantic-031-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 3737.72,
+          "end_seconds": 3742.455,
+          "evidence": "حلى يصلحوا اللوم إحلول الثمر كمثل حل الثمر.",
+          "span_key": "semantic-032-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 3742.455,
+          "end_seconds": 3781.5051,
+          "evidence": "همزة الوصل، قبل الفاء والتضعيف لا به الثانية،",
+          "span_key": "semantic-033-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 3781.5051,
+          "end_seconds": 3785.89,
+          "evidence": "إسبطر الرجل، كمثل إقشعر وأصون قشعرا وهذا أسطور أقطارا",
+          "span_key": "semantic-034-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 3785.89,
+          "end_seconds": 3808.0352,
+          "evidence": "فهذا الوزن الثاني من رباعي المزيد ويبقى واحد.",
+          "span_key": "semantic-035-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 3808.0352,
+          "end_seconds": 3817.0898,
+          "evidence": "والخامس قال وبناءه للمبالغة نحو اس فضر",
+          "span_key": "semantic-036-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 3817.0898,
+          "end_seconds": 3827.915,
+          "evidence": "ابحث بكراموس يا عم حتى لا تخرج الريحة عليك.",
+          "span_key": "semantic-037-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 3827.915,
+          "end_seconds": 3831.435,
+          "evidence": "نحو اس ابطر الرجلُ اذا الضجع وامتد.",
+          "span_key": "semantic-038-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "019-19",
+          "start_seconds": 3831.435,
+          "end_seconds": 3878.42,
+          "evidence": "بزيادة التاء قبل فائه وألف بين الفاء والعين.",
+          "span_key": "semantic-039-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 0.0,
+          "end_seconds": 89.19,
+          "evidence": "عظيط أحلولس بطر توالى مع تولَّى وخلف السمَّسة",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 89.19,
+          "end_seconds": 94.87,
+          "evidence": "غالباً نحو تصالح القوم أي صالح باب بعض ولمطاوعة",
+          "span_key": "semantic-002-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 94.87,
+          "end_seconds": 119.72,
+          "evidence": "واليت الصوم يعني صُمتُ صيامًا متواليًا،",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 119.72,
+          "end_seconds": 124.68,
+          "evidence": "وهو مثال القبر. والسادس عشر منها تفعلت بزيادة",
+          "span_key": "semantic-004-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 124.68,
+          "end_seconds": 191.215,
+          "evidence": "سبب له فتنه بشيء اي جعله يتعلق بشيء",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 191.215,
+          "end_seconds": 194.895,
+          "evidence": "قال نحو خلبس الشيء قلبه اذا فتنه مشوشه",
+          "span_key": "semantic-006-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 194.895,
+          "end_seconds": 222.3,
+          "evidence": "هذا الاعتراض موجود في الصحاح للجوانب",
+          "span_key": "semantic-007-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 222.3,
+          "end_seconds": 229.26,
+          "evidence": "يعني في خلافه يعني يختلف دائما كما قلنا الخلاف هل هذا وردت ام لم يرد الوزن هكذا ام ليس هكذا",
+          "span_key": "semantic-008-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 229.26,
+          "end_seconds": 470.635,
+          "evidence": "قال باعتزلت في بيتي جديد. قال الناضب رحمض. واحضنت أحوام صلى الله وسلم. قد تمسكن سلقا.",
+          "span_key": "semantic-009-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 470.635,
+          "end_seconds": 473.87,
+          "evidence": "في آخره، ونأتله بقوله نحو اسلمقى.",
+          "span_key": "semantic-010-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 473.87,
+          "end_seconds": 532.29004,
+          "evidence": "هذا هو نفسه المختلفين هذا الذي قلنا نعم قد يعد اصليا وقد يعد",
+          "span_key": "semantic-011-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 532.29004,
+          "end_seconds": 536.37,
+          "evidence": "بزياده الف في اخره وما اثره بقوله نحو سلقه",
+          "span_key": "semantic-012-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 536.37,
+          "end_seconds": 540.225,
+          "evidence": "سلقه زيد الامر اذا القاه على قفاه",
+          "span_key": "semantic-013-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 540.225,
+          "end_seconds": 542.785,
+          "evidence": "هذا يعني كمثل مش باب اسلامق",
+          "span_key": "semantic-014-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 542.785,
+          "end_seconds": 564.87006,
+          "evidence": "اسلامق لازم هو لكن سلقى يعني هو الذي رماه على",
+          "span_key": "semantic-015-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 564.87006,
+          "end_seconds": 567.91003,
+          "evidence": "بقوله نحو قلمست المراه زيده",
+          "span_key": "semantic-016-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 567.91003,
+          "end_seconds": 582.81,
+          "evidence": "والفعل قلنسى قلنسى وبناءه للالحاق ايضا بالرباع المجرد",
+          "span_key": "semantic-017-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 582.81,
+          "end_seconds": 590.17,
+          "evidence": "والخام والعشون انها فوعلت بزيادة الواو بين الفاء والعين ومثله بقوله نحو جوربت.",
+          "span_key": "semantic-018-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 590.17,
+          "end_seconds": 696.22003,
+          "evidence": "والالف حرف اطلاق وجملة ما ذكره في هذا البلك ثمانيه اوزان",
+          "span_key": "semantic-019-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 696.22003,
+          "end_seconds": 699.98004,
+          "evidence": "ومثله بقوله نحو قولك زهزقت اذا",
+          "span_key": "semantic-020-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 699.98004,
+          "end_seconds": 702.22003,
+          "evidence": "اكثرت من الضحك",
+          "span_key": "semantic-021-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 702.22003,
+          "end_seconds": 707.5,
+          "evidence": "ضحك بكثره تقول زهزق قه قه اه كمثل قه قه جميلا",
+          "span_key": "semantic-022-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 707.5,
+          "end_seconds": 729.35,
+          "evidence": "ضحكه كثيرا يعني والتاء فيه وفيها القمط ورمست وتراشفت تاء الفاعل",
+          "span_key": "semantic-023-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 729.35,
+          "end_seconds": 733.11,
+          "evidence": "ومثله بقوله نحو قولك هل قمت الطعام؟",
+          "span_key": "semantic-024-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 733.11,
+          "end_seconds": 747.35504,
+          "evidence": "بزياده الهاء بين الفاء والعين وبناءه للالحاق بالربع المجرد",
+          "span_key": "semantic-025-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 747.35504,
+          "end_seconds": 750.56,
+          "evidence": "ومثله بقوله نحو قولك رهمست الميته",
+          "span_key": "semantic-026-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 750.56,
+          "end_seconds": 821.755,
+          "evidence": "بزياده همزه الرصد في اوله والواو بين الفاء والعين مع تضعيف الله",
+          "span_key": "semantic-027-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 821.755,
+          "end_seconds": 824.555,
+          "evidence": "بقوله نحو قوله ترهشفت الشرابه",
+          "span_key": "semantic-028-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 824.555,
+          "end_seconds": 992.235,
+          "evidence": "وهمزه بين عين واللام مع تضعيف اللام وبناءه للالحاق بحرن باب ومثله بقوله اجفاظ",
+          "span_key": "semantic-029-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 992.235,
+          "end_seconds": 995.675,
+          "evidence": "ومثله بقوله نحو قولك تقمصت",
+          "span_key": "semantic-030-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 995.675,
+          "end_seconds": 1128.145,
+          "evidence": "يصل يعني تصريف كضرب اذا قيل من باب ضربه يعني يتصرف كضرب",
+          "span_key": "semantic-031-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 1128.145,
+          "end_seconds": 1132.465,
+          "evidence": "للالحاق ومثله بقوله نحو غصان غصم",
+          "span_key": "semantic-032-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 1132.465,
+          "end_seconds": 1908.66,
+          "evidence": "عرض الجمله ركبه علاوه الجمله ركبه فهذا للمبالغه في المتعد الفلاني",
+          "span_key": "semantic-033-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 1908.66,
+          "end_seconds": 1912.1,
+          "evidence": "بقوله نحو قولك غيظرت الدابه اذا عالجتها",
+          "span_key": "semantic-034-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 1912.1,
+          "end_seconds": 1994.77,
+          "evidence": "يعني له تصريفان بطر يعطر وبطل يعطر من",
+          "span_key": "semantic-035-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 1994.77,
+          "end_seconds": 2000.93,
+          "evidence": "ماثل الذين ينفقون أموالهم في سبيلِ الله كمثل حبة أنبتت زَبْع سنابي.",
+          "span_key": "semantic-036-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "020-20",
+          "start_seconds": 2000.93,
+          "end_seconds": 2563.16,
+          "evidence": "عفوط وكتفي بهذا اليوم يعني نحتاج ان نستريح قليلا وننطق ان شاء الله",
+          "span_key": "semantic-037-teaching",
+          "kind": "teaching"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/laamiya-af3al/matn/344/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/laamiya-af3al/sharh/133416/book.md",
+        "livres/shamela/laamiya-af3al/sharh-alt/3863/book.md"
+      ],
+      "canonical_citations": [
+        {
+          "status": "absent_in_local_canonical",
+          "topic": "مقدمة شرح أو معنى وزن زائد",
+          "reason": "المتن المحلي لا يصرح بهذه الدعوى التعليمية؛ مستندها الشرح الصوتي الكامل.",
+          "supporting_basis": "spans sémantiques localisés dans les batches"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/laamiya-af3al/verification-ledger.json",
+        "module_index": 12,
+        "source_minutes": 107.36,
+        "estimate_method": "12 minutes de travail + 1 minute par 8 minutes de source, borné à 15–25"
+      }
+    },
+    {
+      "id": "laamiya-af3al-module-13-صياغة-المضارع-وحرف-المضارعة",
+      "title": "صياغة المضارع وحرف المضارعة",
+      "estimated_study_minutes": 19,
+      "audio_spans": [
+        {
+          "lesson_id": "021-21",
+          "start_seconds": 0.0,
+          "end_seconds": 748.415,
+          "evidence": "هذه الحروف الاربعه الهمزه والنون والياء والتاء هي علامه للمضارع دليل على المضارع ولكن ب ليس",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "021-21",
+          "start_seconds": 748.415,
+          "end_seconds": 753.135,
+          "evidence": "كمثل اكل ونسي وتفل وتعلم و وايسى",
+          "span_key": "semantic-002-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "021-21",
+          "start_seconds": 753.135,
+          "end_seconds": 2731.33,
+          "evidence": "اه الفتح وجوبا في غير في غير رباعي وفي غير هذه الحالات التي يجوز فيها الفتح و خلاص الفتح واجب في وقف",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "021-21",
+          "start_seconds": 2731.33,
+          "end_seconds": 2740.69,
+          "evidence": "لماذا ضم في الرباعي، وفتحه في باب رباعي؟ واضح؟ الكلام؟ ما كله مفهوم؟ كما قلنا هذه التعليلات، خلاص لا تشغل نفسك بها.",
+          "span_key": "semantic-004-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "021-21",
+          "start_seconds": 2740.69,
+          "end_seconds": 2981.98,
+          "evidence": "فاعله المكسوم الذي ليس ان لم يكون اوله وهو لكن بشرط ان يكون فاعله وفي المضارع يفعل في المضارع ماذا يفعل اه",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "021-21",
+          "start_seconds": 2981.98,
+          "end_seconds": 2985.0999,
+          "evidence": "كما قلنا الفتح وجوبا في غير مسوق",
+          "span_key": "semantic-006-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "021-21",
+          "start_seconds": 2985.0999,
+          "end_seconds": 3185.08,
+          "evidence": "فاعل المطلوب. وفعل المفتوح هل فعل المفتوح مرة؟ لا. وفي الياء في المواضع الثلاثة الاولى من تلك الخمسة.",
+          "span_key": "semantic-007-teaching",
+          "kind": "teaching"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/laamiya-af3al/matn/344/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/laamiya-af3al/sharh/133416/book.md",
+        "livres/shamela/laamiya-af3al/sharh-alt/3863/book.md"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/shamela/laamiya-af3al/matn/344/book.md",
+          "text_line": 928,
+          "text_lines": [
+            928,
+            929,
+            930
+          ],
+          "anchor_exact": "٣٧ - بِبَعْضِ «نَأْتِي» الْمُضَارِعَ افْتَتِحْ، وَلَهُ … ضَمٌّ إِذَا بِالرُّبَاعِيْ مُطْلَقاً وُصِلَا",
+          "assertion_ar": "الأبيات الكاملة المثبتة تحمل الحكم أو المثال الذي تبنى عليه الوحدة.",
+          "excerpt": "٣٧ - بِبَعْضِ «نَأْتِي» الْمُضَارِعَ افْتَتِحْ، وَلَهُ … ضَمٌّ إِذَا بِالرُّبَاعِيْ مُطْلَقاً وُصِلَا"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/laamiya-af3al/verification-ledger.json",
+        "module_index": 13,
+        "source_minutes": 53.08,
+        "estimate_method": "12 minutes de travail + 1 minute par 8 minutes de source, borné à 15–25"
+      }
+    },
+    {
+      "id": "laamiya-af3al-module-14-ما-قبل-آخر-المضارع-والإعلال",
+      "title": "ما قبل آخر المضارع والإعلال",
+      "estimated_study_minutes": 20,
+      "audio_spans": [
+        {
+          "lesson_id": "022-22",
+          "start_seconds": 0.0,
+          "end_seconds": 1724.4,
+          "evidence": "اخواني صحيحا لا? صحيح. هو لم يصرح بوجوب الفتح. ولم يقل ويجب الفتح. لا مفهوم لان يجب الفتح في غير الذي. في غير الضم وفي غير الجواز الفتح والجسد.",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "022-22",
+          "start_seconds": 1724.4,
+          "end_seconds": 1729.28,
+          "evidence": "معنى كما قلنا الزياده لها غرضا غرض معنوي وغرض",
+          "span_key": "semantic-002-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "022-22",
+          "start_seconds": 1729.28,
+          "end_seconds": 1909.77,
+          "evidence": "التي لا غرض اللفظي هي للحاق الغرض اللفظي هو للحاق",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "022-22",
+          "start_seconds": 1909.77,
+          "end_seconds": 1915.255,
+          "evidence": "الذي مضارع يفعل وفاءه هو نحو انا ايجل ونحن نيجا",
+          "span_key": "semantic-004-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "022-22",
+          "start_seconds": 1915.255,
+          "end_seconds": 1936.64,
+          "evidence": "مكسوره وقبلها همزه تقلب حرف مد من جنسها",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "022-22",
+          "start_seconds": 1936.64,
+          "end_seconds": 1939.9249,
+          "evidence": "انتم كمثل امن واكل وهكذا هذا سيادف",
+          "span_key": "semantic-006-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "022-22",
+          "start_seconds": 1939.9249,
+          "end_seconds": 2946.4001,
+          "evidence": "والمبتوغ بهمز الوصف. بغير التاء بغير التاء يخسر ما قبل. لماذا يخسر? لماذا لا يفتح?",
+          "span_key": "semantic-007-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "022-22",
+          "start_seconds": 2946.4001,
+          "end_seconds": 2950.8801,
+          "evidence": "يعني مساله التعليم كما قلنا مساله اجتهاد ان",
+          "span_key": "semantic-008-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "022-22",
+          "start_seconds": 2950.8801,
+          "end_seconds": 3551.18,
+          "evidence": "عن سكوني الثاني. عن سكوني ماذا؟ ما هو الثاني ليس بذلك. الثاني متحد.",
+          "span_key": "semantic-009-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "022-22",
+          "start_seconds": 3551.18,
+          "end_seconds": 3554.38,
+          "evidence": "كلمه جر ايضا بمعنى كمثل التعويض يعني.",
+          "span_key": "semantic-010-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "022-22",
+          "start_seconds": 3554.38,
+          "end_seconds": 3693.4,
+          "evidence": "جبر الشيء يعني اصلح يعني جبر الكسر اصلاحه فلان ذيرا مكسور يلف وهذه",
+          "span_key": "semantic-011-teaching",
+          "kind": "teaching"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/laamiya-af3al/matn/344/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/laamiya-af3al/sharh/133416/book.md",
+        "livres/shamela/laamiya-af3al/sharh-alt/3863/book.md"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/shamela/laamiya-af3al/matn/344/book.md",
+          "text_line": 940,
+          "text_lines": [
+            940,
+            941
+          ],
+          "anchor_exact": "٤١ - وَكَسْرُ مَا قَبْلَ آخِرِ الْمُضَارِعِ مِنْ … ذَا الْبَابِ يَلْزَمُ إِنْ مَاضِيهِ قَدْ حُظِلَا | ٤٢ - زِيَادَةَ التَّاءِ أَوَّلاً، وَإِنْ حَصَلَتْ … لَهُ فَمَا قَبْلَ الَاخِرِ افْتَحَنْ بِوِلَا",
+          "assertion_ar": "الأبيات الكاملة المثبتة تحمل الحكم أو المثال الذي تبنى عليه الوحدة.",
+          "excerpt": "٤١ - وَكَسْرُ مَا قَبْلَ آخِرِ الْمُضَارِعِ مِنْ … ذَا الْبَابِ يَلْزَمُ إِنْ مَاضِيهِ قَدْ حُظِلَا | ٤٢ - زِيَادَةَ التَّاءِ أَوَّلاً، وَإِنْ حَصَلَتْ … لَهُ فَمَا قَبْلَ الَاخِرِ افْتَحَنْ بِوِلَا"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/laamiya-af3al/verification-ledger.json",
+        "module_index": 14,
+        "source_minutes": 61.56,
+        "estimate_method": "12 minutes de travail + 1 minute par 8 minutes de source, borné à 15–25"
+      }
+    },
+    {
+      "id": "laamiya-af3al-module-15-بناء-الماضي-للمجهول",
+      "title": "بناء الماضي للمجهول",
+      "estimated_study_minutes": 18,
+      "audio_spans": [
+        {
+          "lesson_id": "023-23",
+          "start_seconds": 0.0,
+          "end_seconds": 1200.525,
+          "evidence": "والمفعول هذا يصدق على المفعول به ويصدق على المصدر ويصدق على الظرف ويصدق على الجارد مفهوم",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "023-23",
+          "start_seconds": 1200.525,
+          "end_seconds": 1203.725,
+          "evidence": "عفواً لا دعنا من ترمسه. هذه زائده. كمثل",
+          "span_key": "semantic-002-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "023-23",
+          "start_seconds": 1203.725,
+          "end_seconds": 1864.0801,
+          "evidence": "وهي التي نبينها الآن. ومنها هذا الأول، إذا كان الماضي يبدأ بتاء زائدة ثم الثاني مع أولهم.",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "023-23",
+          "start_seconds": 1864.0801,
+          "end_seconds": 1867.2051,
+          "evidence": "وهذا كما قلنا لا يرى في كتابه.",
+          "span_key": "semantic-004-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "023-23",
+          "start_seconds": 1867.2051,
+          "end_seconds": 1909.73,
+          "evidence": "لا يُفهم أنهما معا يُفهم أن كل واحداً",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "023-23",
+          "start_seconds": 1909.73,
+          "end_seconds": 1916.61,
+          "evidence": "لكن كيف ننطق هكذا كما قلنا تبدأ بضمه والضمه تحصل بضم الشفتين ثم تكسبه",
+          "span_key": "semantic-006-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "023-23",
+          "start_seconds": 1916.61,
+          "end_seconds": 1983.385,
+          "evidence": "قوي. قوي. قوي. قوي. واضح؟ واضح يا اخوه طبعا الامر قد يصعب عليك في البداية لكن يحتاج الامانة",
+          "span_key": "semantic-007-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "023-23",
+          "start_seconds": 1983.385,
+          "end_seconds": 1986.985,
+          "evidence": "بان الكسر ليس الت ليس كمثل بيعه",
+          "span_key": "semantic-008-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "023-23",
+          "start_seconds": 1986.985,
+          "end_seconds": 2796.4148,
+          "evidence": "وطبعا يشير الى اللغه الاولى وانا انبه ابن مالك هنا في اللبيه لم يذكر الا اللغه الاولى",
+          "span_key": "semantic-009-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "023-23",
+          "start_seconds": 2796.4148,
+          "end_seconds": 2799.4548,
+          "evidence": "ضمه ضما خالصا كقول وضعا.",
+          "span_key": "semantic-010-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "023-23",
+          "start_seconds": 2799.4548,
+          "end_seconds": 3064.8052,
+          "evidence": "كضرب او تقديرا ك قيل قيل بان هذا ام لا نعم اه والفتح في المضارع لفظا كيضرب او تقديرا ك يقال",
+          "span_key": "semantic-011-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "023-23",
+          "start_seconds": 3068.885,
+          "end_seconds": 3070.165,
+          "evidence": "الو",
+          "span_key": "semantic-013-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "023-23",
+          "start_seconds": 3085.0598,
+          "end_seconds": 3133.17,
+          "evidence": "الكسر الثالث هذه الأحكام الأربعة خاصة بماذا؟",
+          "span_key": "semantic-015-teaching",
+          "kind": "teaching"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/laamiya-af3al/matn/344/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/laamiya-af3al/sharh/133416/book.md",
+        "livres/shamela/laamiya-af3al/sharh-alt/3863/book.md"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/shamela/laamiya-af3al/matn/344/book.md",
+          "text_line": 943,
+          "text_lines": [
+            943
+          ],
+          "anchor_exact": "٤٣ - إِنْ تُسْنِدِ الْفِعْلَ لِلْمَفْعُولِ فَأْتِ بِهِ … مَضْمُومَ الَاوَّلِ، وَاكْسِرْهُ إِذَا اتَّصَلَا",
+          "assertion_ar": "الأبيات الكاملة المثبتة تحمل الحكم أو المثال الذي تبنى عليه الوحدة.",
+          "excerpt": "٤٣ - إِنْ تُسْنِدِ الْفِعْلَ لِلْمَفْعُولِ فَأْتِ بِهِ … مَضْمُومَ الَاوَّلِ، وَاكْسِرْهُ إِذَا اتَّصَلَا"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/laamiya-af3al/verification-ledger.json",
+        "module_index": 15,
+        "source_minutes": 51.9,
+        "estimate_method": "12 minutes de travail + 1 minute par 8 minutes de source, borné à 15–25"
+      }
+    },
+    {
+      "id": "laamiya-af3al-module-16-بناء-المضارع-للمجهول",
+      "title": "بناء المضارع للمجهول",
+      "estimated_study_minutes": 19,
+      "audio_spans": [
+        {
+          "lesson_id": "024-24",
+          "start_seconds": 0.0,
+          "end_seconds": 16.635,
+          "evidence": "وعلى آله وصحبه ومن تبِعَ الله",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "024-24",
+          "start_seconds": 16.635,
+          "end_seconds": 20.155,
+          "evidence": "قد ذكرنا أمس،",
+          "span_key": "semantic-002-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "024-24",
+          "start_seconds": 20.155,
+          "end_seconds": 833.125,
+          "evidence": "قال مضى الصحيح لا اه واكسروا اذا اتصل بعين اعتل بقيا فقط المبتو بهمزه الوصف الذي عين معتل تختار هل هذا نضم الثالث",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "024-24",
+          "start_seconds": 833.125,
+          "end_seconds": 837.64,
+          "evidence": "وما لفا نحو باعة؟ ثاء باعة؟ ما حركتها؟",
+          "span_key": "semantic-004-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "024-24",
+          "start_seconds": 837.64,
+          "end_seconds": 844.27997,
+          "evidence": "اجعل هذه الحركه",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "024-24",
+          "start_seconds": 844.27997,
+          "end_seconds": 848.76,
+          "evidence": "نحو اخطار وانقادك اه اذا اختير انقيدا",
+          "span_key": "semantic-006-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "024-24",
+          "start_seconds": 848.76,
+          "end_seconds": 868.49,
+          "evidence": "ووسط. نحن قلنا المبتدأ بهمزة روست. نضم الثالث مع... لكن هذا في الصحيح العيني.",
+          "span_key": "semantic-007-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "024-24",
+          "start_seconds": 868.49,
+          "end_seconds": 875.29,
+          "evidence": "رثى نحو ما عجّعَ لثالث نحو إختار وانقال إختير",
+          "span_key": "semantic-008-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "024-24",
+          "start_seconds": 875.29,
+          "end_seconds": 1481.48,
+          "evidence": "هذه كسره اصلا للعين قوي ل صحيحا لا وليست كسره اصليه الاصل ضمه لكن الضمه ذهبت وجعت الكسر",
+          "span_key": "semantic-009-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "024-24",
+          "start_seconds": 1481.48,
+          "end_seconds": 1484.6,
+          "evidence": "وذلك نحو قيل يمثل للمعل وذلك",
+          "span_key": "semantic-010-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "024-24",
+          "start_seconds": 1484.6,
+          "end_seconds": 1717.135,
+          "evidence": "طبعا في الماضي في في الماضي نفس ما قبل الاخر وفي المضارع نفسه قال",
+          "span_key": "semantic-011-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "024-24",
+          "start_seconds": 1717.135,
+          "end_seconds": 1721.455,
+          "evidence": "وما لف نحو باعجع لثالث نحو إختار وانقادة.",
+          "span_key": "semantic-012-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "024-24",
+          "start_seconds": 1721.455,
+          "end_seconds": 2390.22,
+          "evidence": "اذا انت لم تاكله ضروره انت معي لكن انا اتكلم الضروره لا تقال الا اذا كان الشيء",
+          "span_key": "semantic-013-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "024-24",
+          "start_seconds": 2390.22,
+          "end_seconds": 2395.235,
+          "evidence": "لف نحو ما عجع لثالث نحو إختار وانقاد.",
+          "span_key": "semantic-014-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "024-24",
+          "start_seconds": 2395.235,
+          "end_seconds": 2450.375,
+          "evidence": "نعم ولكن اليوم في السره ولكن يوم نعم",
+          "span_key": "semantic-015-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "024-24",
+          "start_seconds": 2450.375,
+          "end_seconds": 2454.615,
+          "evidence": "قال وما لف نحو ما اجعل لثالث نحو اختارهم قاتل.",
+          "span_key": "semantic-016-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "024-24",
+          "start_seconds": 2454.615,
+          "end_seconds": 2463.6099,
+          "evidence": "اي واجعل ايها الصرفي لثالث كل فعل على وزني افتعل.",
+          "span_key": "semantic-017-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "024-24",
+          "start_seconds": 2463.6099,
+          "end_seconds": 2466.89,
+          "evidence": "و ذلك نحو اختاره وابتاع واشتد.",
+          "span_key": "semantic-018-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "024-24",
+          "start_seconds": 2466.89,
+          "end_seconds": 2536.605,
+          "evidence": "في في المبدوء بهمسه الوصل للمعتل كختار وانقال",
+          "span_key": "semantic-019-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "024-24",
+          "start_seconds": 2536.605,
+          "end_seconds": 2539.885,
+          "evidence": "وذلك نحو انقاد وانجال وانهل",
+          "span_key": "semantic-020-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "024-24",
+          "start_seconds": 2539.885,
+          "end_seconds": 2544.21,
+          "evidence": "قال وما لف نحو باعه",
+          "span_key": "semantic-021-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "024-24",
+          "start_seconds": 2544.21,
+          "end_seconds": 2548.93,
+          "evidence": "اجعل لثالث نحو اختار وانقاد اختار افتعل وانقاد انفعل",
+          "span_key": "semantic-022-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "024-24",
+          "start_seconds": 2548.93,
+          "end_seconds": 2600.71,
+          "evidence": "اي واجعل ايها الصنفي لثالث كل فعل على وزن افتعل",
+          "span_key": "semantic-023-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "024-24",
+          "start_seconds": 2600.71,
+          "end_seconds": 2604.31,
+          "evidence": "معتل للعين من نحو باع، وقال.",
+          "span_key": "semantic-024-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "024-24",
+          "start_seconds": 2604.31,
+          "end_seconds": 3344.43,
+          "evidence": "عوضا عن الضم في صحيفه ما من الخماسي المجدود بهمزات المصلح واقتودر والطرق لان",
+          "span_key": "semantic-025-teaching",
+          "kind": "teaching"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/laamiya-af3al/matn/344/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/laamiya-af3al/sharh/133416/book.md",
+        "livres/shamela/laamiya-af3al/sharh-alt/3863/book.md"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/shamela/laamiya-af3al/matn/344/book.md",
+          "text_line": 947,
+          "text_lines": [
+            947
+          ],
+          "anchor_exact": "٤٤ - بِعَيْنٍ اعْتَلَّ، وَاجْعَلْ قَبْلَ الَاخِرِ فِي الْـ … ـمُضِيِّ كَسْراً، وَفَتْحاً فِي سِوَاهُ تَلَا",
+          "assertion_ar": "الأبيات الكاملة المثبتة تحمل الحكم أو المثال الذي تبنى عليه الوحدة.",
+          "excerpt": "٤٤ - بِعَيْنٍ اعْتَلَّ، وَاجْعَلْ قَبْلَ الَاخِرِ فِي الْـ … ـمُضِيِّ كَسْراً، وَفَتْحاً فِي سِوَاهُ تَلَا"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/laamiya-af3al/verification-ledger.json",
+        "module_index": 16,
+        "source_minutes": 55.74,
+        "estimate_method": "12 minutes de travail + 1 minute par 8 minutes de source, borné à 15–25"
+      }
+    },
+    {
+      "id": "laamiya-af3al-module-17-صياغة-الأمر-من-المضارع",
+      "title": "صياغة الأمر من المضارع",
+      "estimated_study_minutes": 19,
+      "audio_spans": [
+        {
+          "lesson_id": "025-25",
+          "start_seconds": 0.0,
+          "end_seconds": 993.54,
+          "evidence": "ونكسر ان كانت العين مكسوره او مفتوحه او تقول ان كان التاريخ مكسوره او",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "025-25",
+          "start_seconds": 993.54,
+          "end_seconds": 997.78,
+          "evidence": "الكلمة الأخيرة هي الخلاصة",
+          "span_key": "semantic-002-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "025-25",
+          "start_seconds": 997.78,
+          "end_seconds": 2877.32,
+          "evidence": "ثلاثيا كان كقوم ويبيع ويخاف او رباعيا مجردا كي يدهرج او رباعيا مزيدا كي يضارب والوالي او خماسيا بتاء مزيدا كي يتحلب ويتغافل ويتدحرج",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "025-25",
+          "start_seconds": 2877.32,
+          "end_seconds": 2885.16,
+          "evidence": "على كما قلنا غير افعال غير ماذا من اي وزن المهم ان الثاني متحرك",
+          "span_key": "semantic-004-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "025-25",
+          "start_seconds": 2885.16,
+          "end_seconds": 3255.51,
+          "evidence": "فقط دون زياده فتقول في الافعال المذكوره قم وبع وخف ودحرج وضارب ووارد وتعلم وتغافل و",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/laamiya-af3al/matn/344/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/laamiya-af3al/sharh/133416/book.md",
+        "livres/shamela/laamiya-af3al/sharh-alt/3863/book.md"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/shamela/laamiya-af3al/matn/344/book.md",
+          "text_line": 957,
+          "text_lines": [
+            957,
+            958,
+            959,
+            960,
+            961
+          ],
+          "anchor_exact": "٤٧ - مِنْ «أَفْعَلَ» الْأَمْرُ: «أَفْعِلْ» ، وَاعْزُهُ لِسِوَا … هُ كَالْمُضَارِعِ ذِي الْجَزْمِ الَّذِي اخْتُزِلَا",
+          "assertion_ar": "الأبيات الكاملة المثبتة تحمل الحكم أو المثال الذي تبنى عليه الوحدة.",
+          "excerpt": "٤٧ - مِنْ «أَفْعَلَ» الْأَمْرُ: «أَفْعِلْ» ، وَاعْزُهُ لِسِوَا … هُ كَالْمُضَارِعِ ذِي الْجَزْمِ الَّذِي اخْتُزِلَا"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/laamiya-af3al/verification-ledger.json",
+        "module_index": 17,
+        "source_minutes": 54.26,
+        "estimate_method": "12 minutes de travail + 1 minute par 8 minutes de source, borné à 15–25"
+      }
+    },
+    {
+      "id": "laamiya-af3al-module-18-حركة-همزة-الأمر-والشواذ",
+      "title": "حركة همزة الأمر والشواذ",
+      "estimated_study_minutes": 19,
+      "audio_spans": [
+        {
+          "lesson_id": "026-26",
+          "start_seconds": 0.0,
+          "end_seconds": 865.65497,
+          "evidence": "4 شهر في السطر الرابع من من اعلى وذكر الماضي القسم الاول من النقيص وما كان ماضيه بعد في",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "026-26",
+          "start_seconds": 865.65497,
+          "end_seconds": 869.255,
+          "evidence": "واشار الى مثال مضارعه ساكنا",
+          "span_key": "semantic-002-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "026-26",
+          "start_seconds": 869.255,
+          "end_seconds": 1619.565,
+          "evidence": "إذا كان ثالث مسورا أو مفتوحة. من قوله بعد ذلك في الضم ان الضم يكون إذا كان ثالث مضموما.",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "026-26",
+          "start_seconds": 1619.565,
+          "end_seconds": 1624.9249,
+          "evidence": "فانه يجب كسرهم زه الاصل نظرا الى الاصل نحو امشوا",
+          "span_key": "semantic-004-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "026-26",
+          "start_seconds": 1624.9249,
+          "end_seconds": 3045.6748,
+          "evidence": "هذا معنًى الإبتداء في الإبتداء في البداية لم يسبق الفِلد بشيء",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "026-26",
+          "start_seconds": 3045.6748,
+          "end_seconds": 3050.25,
+          "evidence": "كقول تعالى فاسألوا أهل الذِّكر إن كنتم لا",
+          "span_key": "semantic-006-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "026-26",
+          "start_seconds": 3050.25,
+          "end_seconds": 3312.69,
+          "evidence": "كالمصادر وأسماء الفاعل والمفعول وأسماء الزمان، والمكان والمصدر لمين؟",
+          "span_key": "semantic-007-teaching",
+          "kind": "teaching"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/laamiya-af3al/matn/344/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/laamiya-af3al/sharh/133416/book.md",
+        "livres/shamela/laamiya-af3al/sharh-alt/3863/book.md"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/shamela/laamiya-af3al/matn/344/book.md",
+          "text_line": 963,
+          "text_lines": [
+            963,
+            964,
+            965
+          ],
+          "anchor_exact": "٤٩ - وَالْهَمْزَ قَبْلَ لُزُومِ الضَّمِّ ضُمَّ، وَنَحْـ … ـوُ «اغْزِي» بِكَسْرٍ مُشَمِّ الضَّمِّ قَدْ قُبِلَا",
+          "assertion_ar": "الأبيات الكاملة المثبتة تحمل الحكم أو المثال الذي تبنى عليه الوحدة.",
+          "excerpt": "٤٩ - وَالْهَمْزَ قَبْلَ لُزُومِ الضَّمِّ ضُمَّ، وَنَحْـ … ـوُ «اغْزِي» بِكَسْرٍ مُشَمِّ الضَّمِّ قَدْ قُبِلَا"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/laamiya-af3al/verification-ledger.json",
+        "module_index": 18,
+        "source_minutes": 55.21,
+        "estimate_method": "12 minutes de travail + 1 minute par 8 minutes de source, borné à 15–25"
+      }
+    },
+    {
+      "id": "laamiya-af3al-module-19-اسم-الفاعل-من-فعَل-وفعِل",
+      "title": "اسم الفاعل من فعَل وفعِل",
+      "estimated_study_minutes": 20,
+      "audio_spans": [
+        {
+          "lesson_id": "027-27",
+          "start_seconds": 0.0,
+          "end_seconds": 2445.68,
+          "evidence": "اسم الفاعل من الثلاثي ومن غيره واسم المفعول من الثلاثي ومن غيره وبدا باسم الفاعل من الثلاثي",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "027-27",
+          "start_seconds": 2445.68,
+          "end_seconds": 2451.52,
+          "evidence": "انت معي ويعني كما قلنا هنا كابه ضرب عصفورين بحلم",
+          "span_key": "semantic-002-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "027-27",
+          "start_seconds": 2451.52,
+          "end_seconds": 3038.2698,
+          "evidence": "ثم قال وقد يجيء اسم الفاعل من فاعل المظلوم على عشرة اوزان غير مقيسة.",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "027-27",
+          "start_seconds": 3038.2698,
+          "end_seconds": 3040.91,
+          "evidence": "نحو حمق الرجلو فهو احمق.",
+          "span_key": "semantic-004-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "027-27",
+          "start_seconds": 3040.91,
+          "end_seconds": 3067.3,
+          "evidence": "والثالث منها ما ذكره بقوله او فعل. اي وقد يكون اسمه فاعله",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "027-27",
+          "start_seconds": 3067.3,
+          "end_seconds": 3071.135,
+          "evidence": "لفتح الفاء والعين نحو حسنا الرجل فهو حسن.",
+          "span_key": "semantic-006-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "027-27",
+          "start_seconds": 3071.135,
+          "end_seconds": 3509.0398,
+          "evidence": "لانه من امثلة اسم فاعل فاعل المكسور اللازم. يقال ثملا الرجل يثمل فهو ثمل اي سكران.",
+          "span_key": "semantic-007-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "027-27",
+          "start_seconds": 3509.0398,
+          "end_seconds": 3513.2,
+          "evidence": "نحو فارح بالشيء يفرح فرحا اذا انشرح صدره",
+          "span_key": "semantic-008-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "027-27",
+          "start_seconds": 3513.2,
+          "end_seconds": 3679.84,
+          "evidence": "على وزن فعلان. بفتح الفاء وسكون الحيد. جدل الرجل جدلا اذا فر ح فهو جدلان.",
+          "span_key": "semantic-009-teaching",
+          "kind": "teaching"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/laamiya-af3al/matn/344/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/laamiya-af3al/sharh/133416/book.md",
+        "livres/shamela/laamiya-af3al/sharh-alt/3863/book.md"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/shamela/laamiya-af3al/matn/344/book.md",
+          "text_line": 973,
+          "text_lines": [
+            973,
+            974,
+            975,
+            976
+          ],
+          "anchor_exact": "٥١ - كَوَزْنِ «فَاعِلٍ» : اسْمُ فَاعِلٍ جُعِلَا … مِنَ الثُّلَاثِي الَّذِي مَا وَزْنُهُ «فَعُلَا»",
+          "assertion_ar": "الأبيات الكاملة المثبتة تحمل الحكم أو المثال الذي تبنى عليه الوحدة.",
+          "excerpt": "٥١ - كَوَزْنِ «فَاعِلٍ» : اسْمُ فَاعِلٍ جُعِلَا … مِنَ الثُّلَاثِي الَّذِي مَا وَزْنُهُ «فَعُلَا»"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/laamiya-af3al/verification-ledger.json",
+        "module_index": 19,
+        "source_minutes": 61.33,
+        "estimate_method": "12 minutes de travail + 1 minute par 8 minutes de source, borné à 15–25"
+      }
+    },
+    {
+      "id": "laamiya-af3al-module-20-الصفة-المشبهة-وأبنية-اللازم",
+      "title": "الصفة المشبهة وأبنية اللازم",
+      "estimated_study_minutes": 18,
+      "audio_spans": [
+        {
+          "lesson_id": "028-28",
+          "start_seconds": 0.0,
+          "end_seconds": 990.54,
+          "evidence": "سنحتاجها للاجابه على السؤال نحن ما زدنا في السؤال لماذا اختاروا الوزن المقيس في باب ليكون شاذا في غير هذا الباب لماذا اختاروا هذا الوزن لماذا",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "028-28",
+          "start_seconds": 990.54,
+          "end_seconds": 992.13995,
+          "evidence": "الان كما قلنا",
+          "span_key": "semantic-002-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "028-28",
+          "start_seconds": 992.13995,
+          "end_seconds": 2055.9,
+          "evidence": "ليس وحيدا ليس كمثلا اخرى. الامثله الاخرى الوزن واحد المقيس والشاب على وزن واحد لكن هنا المقيس على وزن فعي والشاب على وزن فيري فاين التناسب في اللفظ قالوا التناسب في اللفظ من باب التقابض",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "028-28",
+          "start_seconds": 2055.9,
+          "end_seconds": 2057.9,
+          "evidence": "كما قلنا طيب وخبيث",
+          "span_key": "semantic-004-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "028-28",
+          "start_seconds": 2057.9,
+          "end_seconds": 2069.145,
+          "evidence": "التناسب في المعنى التضاد فاقتضى التقارب في الوزن",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "028-28",
+          "start_seconds": 2069.145,
+          "end_seconds": 2071.465,
+          "evidence": "واشيب كما قلنا كاعراب",
+          "span_key": "semantic-006-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "028-28",
+          "start_seconds": 2071.465,
+          "end_seconds": 2581.725,
+          "evidence": "فيف وطيبش في الصوم منفعله هذه مجرد امثله ولا يقصد ان هذا الامر الخاصي بوزن فاعل",
+          "span_key": "semantic-007-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "028-28",
+          "start_seconds": 2581.725,
+          "end_seconds": 2593.07,
+          "evidence": "س ام لا انا عندما اقول الجمله الرسميه ابتدى وغلط مثال كذا وكذا",
+          "span_key": "semantic-008-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "028-28",
+          "start_seconds": 2593.07,
+          "end_seconds": 3000.71,
+          "evidence": "هذه فقط امثله للتنظير يبقى انظر هذا يشبه هذا هذا لكن يلزم دائما ان اقول هذا يوجد له نظير لا",
+          "span_key": "semantic-009-teaching",
+          "kind": "teaching"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/laamiya-af3al/matn/344/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/laamiya-af3al/sharh/133416/book.md",
+        "livres/shamela/laamiya-af3al/sharh-alt/3863/book.md"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/shamela/laamiya-af3al/matn/344/book.md",
+          "text_line": 980,
+          "text_lines": [
+            980,
+            981,
+            982,
+            983
+          ],
+          "anchor_exact": "٥٢ - وَمِنْهُ صِيغَ كَـ «سَهْلٍ، وَالظَّرِيفِ» ، وَقَدْ … يَكُونُ «أَفْعَلَ، أَوْ فَعَالاً، اوْ فَعَلَا",
+          "assertion_ar": "الأبيات الكاملة المثبتة تحمل الحكم أو المثال الذي تبنى عليه الوحدة.",
+          "excerpt": "٥٢ - وَمِنْهُ صِيغَ كَـ «سَهْلٍ، وَالظَّرِيفِ» ، وَقَدْ … يَكُونُ «أَفْعَلَ، أَوْ فَعَالاً، اوْ فَعَلَا"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/laamiya-af3al/verification-ledger.json",
+        "module_index": 20,
+        "source_minutes": 50.01,
+        "estimate_method": "12 minutes de travail + 1 minute par 8 minutes de source, borné à 15–25"
+      }
+    },
+    {
+      "id": "laamiya-af3al-module-21-اسما-الفاعل-والمفعول-من-غير-الثلاثي",
+      "title": "اسما الفاعل والمفعول من غير الثلاثي",
+      "estimated_study_minutes": 19,
+      "audio_spans": [
+        {
+          "lesson_id": "029-29",
+          "start_seconds": 0.0,
+          "end_seconds": 326.35498,
+          "evidence": "قلنا اسم الفاعل يكون على فاعل في او في ابواب ولا يكون عليها في ابواب اخرى صح ام لا",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "029-29",
+          "start_seconds": 326.35498,
+          "end_seconds": 332.755,
+          "evidence": "سنبين ان شاء الله لكنه للامثله قال نحو غدا ذا جازل جلاله",
+          "span_key": "semantic-002-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "029-29",
+          "start_seconds": 332.755,
+          "end_seconds": 358.515,
+          "evidence": "فعل وافعل وفعلان صح ام لا القياس",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "029-29",
+          "start_seconds": 358.515,
+          "end_seconds": 364.995,
+          "evidence": "طيب وغدا الان قال نحو غدا ذا جاذل",
+          "span_key": "semantic-004-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "029-29",
+          "start_seconds": 364.995,
+          "end_seconds": 698.555,
+          "evidence": "والشرد لا بأس، لا مشكلة، لكن المهم انه ليس على وزني فاحك، ليس",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "029-29",
+          "start_seconds": 698.555,
+          "end_seconds": 704.075,
+          "evidence": "عندي مثال لاسم الفاعل وهو ضارب هذا اسم فاعل ام لا نعم نعم",
+          "span_key": "semantic-006-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "029-29",
+          "start_seconds": 704.075,
+          "end_seconds": 844.575,
+          "evidence": "وهو ماذا هذه صفه مشبهه منها احنا كنا بنسميها اسم فاعل",
+          "span_key": "semantic-007-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "029-29",
+          "start_seconds": 844.575,
+          "end_seconds": 853.31,
+          "evidence": "كمثل زيد كاتب كاتب يدل على الفعل وهو كتابه طب هذا الفعل اليس له صاحب وهو زيد",
+          "span_key": "semantic-008-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "029-29",
+          "start_seconds": 853.31,
+          "end_seconds": 1470.125,
+          "evidence": "لا اسم الفاعل لا يدل على ذلك لا يدل على ان صفه قديمه يدل على ان صفه حادثه",
+          "span_key": "semantic-009-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "029-29",
+          "start_seconds": 1470.125,
+          "end_seconds": 1474.445,
+          "evidence": "لكن المعنى الان ان انه كمثل الفكر.",
+          "span_key": "semantic-010-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "029-29",
+          "start_seconds": 1474.445,
+          "end_seconds": 2609.56,
+          "evidence": "لذل زدنا قال واعلم ان جميع ما ذكرناه من التفصيل بين اوزار اسم الف اسم الفاعل الفعل الثلاثي",
+          "span_key": "semantic-011-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "029-29",
+          "start_seconds": 2609.56,
+          "end_seconds": 2615.48,
+          "evidence": "قد جاءت اسم المفعول بالغير الثلاثيه على وزن فعيل كمثل اعقلت العسله هو",
+          "span_key": "semantic-012-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "029-29",
+          "start_seconds": 2615.48,
+          "end_seconds": 3363.21,
+          "evidence": "استفدنا ان اسم الفاعل يقصر ما قبل اخره من قوله في اسم المفعول واما قبل اخره فتحت",
+          "span_key": "semantic-013-teaching",
+          "kind": "teaching"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/laamiya-af3al/matn/344/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/laamiya-af3al/sharh/133416/book.md",
+        "livres/shamela/laamiya-af3al/sharh-alt/3863/book.md"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/shamela/laamiya-af3al/matn/344/book.md",
+          "text_line": 1005,
+          "text_lines": [
+            1005
+          ],
+          "anchor_exact": "٥٨ - وَبِاسْمِ فَاعِلِ غَيْرِ ذِي الثَّلَاثَةِ جِئْ … وَزْنَ الْمُضَارِعِ؛ لَكِنْ أَوَّلاً جُعِلَا",
+          "assertion_ar": "الأبيات الكاملة المثبتة تحمل الحكم أو المثال الذي تبنى عليه الوحدة.",
+          "excerpt": "٥٨ - وَبِاسْمِ فَاعِلِ غَيْرِ ذِي الثَّلَاثَةِ جِئْ … وَزْنَ الْمُضَارِعِ؛ لَكِنْ أَوَّلاً جُعِلَا"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/laamiya-af3al/verification-ledger.json",
+        "module_index": 21,
+        "source_minutes": 56.05,
+        "estimate_method": "12 minutes de travail + 1 minute par 8 minutes de source, borné à 15–25"
+      }
+    },
+    {
+      "id": "laamiya-af3al-module-22-اسم-المفعول-من-الثلاثي-وشواذه",
+      "title": "اسم المفعول من الثلاثي وشواذه",
+      "estimated_study_minutes": 16,
+      "audio_spans": [
+        {
+          "lesson_id": "030-30",
+          "start_seconds": 0.0,
+          "end_seconds": 1206.44,
+          "evidence": "تمام يا اخوانا فورد هذا فعلي بمعنى مشحون ذبحي بمعنى مذبوح طحني بمعنى مطحون",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "030-30",
+          "start_seconds": 1206.44,
+          "end_seconds": 1209.3999,
+          "evidence": "نحو ضربه فهو مضروب وعلمه",
+          "span_key": "semantic-002-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "030-30",
+          "start_seconds": 1209.3999,
+          "end_seconds": 1875.33,
+          "evidence": "هذا التفصيل سيدخل فيه يعني ما الحكمه اذا لم تكن عاملا ماذا نفعل نظيف طب هل المضاف اليهم في محل ام لا ليس له هو مضاف اليه فقط",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "030-30",
+          "start_seconds": 1882.0686,
+          "end_seconds": 1888.78,
+          "evidence": "انقصوا هم من المقوش",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/laamiya-af3al/matn/344/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/laamiya-af3al/sharh/133416/book.md",
+        "livres/shamela/laamiya-af3al/sharh-alt/3863/book.md"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/shamela/laamiya-af3al/matn/344/book.md",
+          "text_line": 1007,
+          "text_lines": [
+            1007,
+            1008,
+            1009,
+            1010,
+            1011
+          ],
+          "anchor_exact": "٦٠ - مِنْ ذِي الثَّلَاثَةِ بِـ «الْمَفْعُولِ» مُتَّزِناً … وَمَا أَتَى كَـ «فَعِيلٍ» فَهْوَ قَدْ عُدِلَا",
+          "assertion_ar": "الأبيات الكاملة المثبتة تحمل الحكم أو المثال الذي تبنى عليه الوحدة.",
+          "excerpt": "٦٠ - مِنْ ذِي الثَّلَاثَةِ بِـ «الْمَفْعُولِ» مُتَّزِناً … وَمَا أَتَى كَـ «فَعِيلٍ» فَهْوَ قَدْ عُدِلَا"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/laamiya-af3al/verification-ledger.json",
+        "module_index": 22,
+        "source_minutes": 31.37,
+        "estimate_method": "12 minutes de travail + 1 minute par 8 minutes de source, borné à 15–25"
+      }
+    },
+    {
+      "id": "laamiya-af3al-module-23-خريطة-مصادر-الثلاثي",
+      "title": "خريطة مصادر الثلاثي",
+      "estimated_study_minutes": 17,
+      "audio_spans": [
+        {
+          "lesson_id": "031-31",
+          "start_seconds": 0.0,
+          "end_seconds": 1718.385,
+          "evidence": "المصادر. لكن طبعا يا رب يسي. المصادر تشمل مصادرها ثلاثي وغيره? ثلاثي. لكن هو سيبدأ بالثلاثي.",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "031-31",
+          "start_seconds": 1718.385,
+          "end_seconds": 1722.065,
+          "evidence": "طبعا كما قلنا هو ذك الثلاثي مجمله",
+          "span_key": "semantic-002-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "031-31",
+          "start_seconds": 1722.065,
+          "end_seconds": 1860.3949,
+          "evidence": "دون تفصيل لمقيس او مسموع ثم بعد ذلك بين المقيس صحيحا لا نعم فقال",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "031-31",
+          "start_seconds": 1860.3949,
+          "end_seconds": 1863.755,
+          "evidence": "بفتح الفاء وسكون عين نحو ضربا",
+          "span_key": "semantic-004-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "031-31",
+          "start_seconds": 1863.755,
+          "end_seconds": 2201.86,
+          "evidence": "فعل بكسر الفاء وسكون العين وهو سماعي في فعل المفتوح كفسق فسقا",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/laamiya-af3al/matn/344/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/laamiya-af3al/sharh/133416/book.md",
+        "livres/shamela/laamiya-af3al/sharh-alt/3863/book.md"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/shamela/laamiya-af3al/matn/344/book.md",
+          "text_line": 2131,
+          "text_lines": [
+            2131
+          ],
+          "anchor_exact": "٦٢ - وَلِلْمَصَادِرِ أَوْزَانٌ أُبَيِّنُهَا … فَلِلثُّلَاثِيِّ مَا أُبْدِيهِ مُنْتَخِلَا",
+          "assertion_ar": "الأبيات الكاملة المثبتة تحمل الحكم أو المثال الذي تبنى عليه الوحدة.",
+          "excerpt": "٦٢ - وَلِلْمَصَادِرِ أَوْزَانٌ أُبَيِّنُهَا … فَلِلثُّلَاثِيِّ مَا أُبْدِيهِ مُنْتَخِلَا"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/laamiya-af3al/verification-ledger.json",
+        "module_index": 23,
+        "source_minutes": 36.7,
+        "estimate_method": "12 minutes de travail + 1 minute par 8 minutes de source, borné à 15–25"
+      }
+    },
+    {
+      "id": "laamiya-af3al-module-24-الأوزان-السماعية-للمصدر",
+      "title": "الأوزان السماعية للمصدر",
+      "estimated_study_minutes": 20,
+      "audio_spans": [
+        {
+          "lesson_id": "032-32",
+          "start_seconds": 0.0,
+          "end_seconds": 1499.17,
+          "evidence": "نعم وهو قال على ذلك لكن لماذا يعني انا في ناظري اذا انه لا حول الى التشهيد اصلا لماذا نقول بينون",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "032-32",
+          "start_seconds": 1499.17,
+          "end_seconds": 1502.6901,
+          "evidence": "ومفعل ايضا مفعل كمثل موقف",
+          "span_key": "semantic-002-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "032-32",
+          "start_seconds": 1502.6901,
+          "end_seconds": 1525.88,
+          "evidence": "والوزن الثالث مفعل وهو الوزن الشان فقال",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "032-32",
+          "start_seconds": 1525.88,
+          "end_seconds": 1531.0,
+          "evidence": "الوجه الضم مفعول هذا قليل كما قلنا شاب",
+          "span_key": "semantic-004-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "032-32",
+          "start_seconds": 1531.0,
+          "end_seconds": 3233.68,
+          "evidence": "سنكتب لن نكتب سنكتب الاوزان التي قد تشتم هو قال فعول لفعل اللازم طب عندنا سعى لا",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "032-32",
+          "start_seconds": 3233.68,
+          "end_seconds": 3237.84,
+          "evidence": "نحو الملكه الشلل والعرج والحور والعمل نعوذ",
+          "span_key": "semantic-006-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "032-32",
+          "start_seconds": 3237.84,
+          "end_seconds": 3721.66,
+          "evidence": "الكمالين الفقرة من المقاييس كم؟ تسعة هنا يقرأ ستة يبقى كم؟ ثلاثة وهي",
+          "span_key": "semantic-007-teaching",
+          "kind": "teaching"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/laamiya-af3al/matn/344/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/laamiya-af3al/sharh/133416/book.md",
+        "livres/shamela/laamiya-af3al/sharh-alt/3863/book.md"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/shamela/laamiya-af3al/matn/344/book.md",
+          "text_line": 2147,
+          "text_lines": [
+            2147,
+            2149,
+            2151,
+            2153,
+            2155,
+            2157,
+            2158
+          ],
+          "anchor_exact": "٦٤ - «فَعْلَانُ، فِعْلَانُ، فُعْلَانٌ »، وَنَحْوُ «جَلاً … رِضاً ، هُدىً، وَصَلَاحٍ »، ثُمَّ زِدْ «فَعِلَا»",
+          "assertion_ar": "الأبيات الكاملة المثبتة تحمل الحكم أو المثال الذي تبنى عليه الوحدة.",
+          "excerpt": "٦٤ - «فَعْلَانُ، فِعْلَانُ، فُعْلَانٌ »، وَنَحْوُ «جَلاً … رِضاً ، هُدىً، وَصَلَاحٍ »، ثُمَّ زِدْ «فَعِلَا»"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/laamiya-af3al/verification-ledger.json",
+        "module_index": 24,
+        "source_minutes": 62.03,
+        "estimate_method": "12 minutes de travail + 1 minute par 8 minutes de source, borné à 15–25"
+      }
+    },
+    {
+      "id": "laamiya-af3al-module-25-المقيس-من-مصادر-الثلاثي",
+      "title": "المقيس من مصادر الثلاثي",
+      "estimated_study_minutes": 19,
+      "audio_spans": [
+        {
+          "lesson_id": "033-33",
+          "start_seconds": 0.0,
+          "end_seconds": 749.77,
+          "evidence": "ولايات الوله يريها الناس في الحج او يريها اهل البيت في الحج الرفاءه والولايه والحجابه",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "033-33",
+          "start_seconds": 749.77,
+          "end_seconds": 752.73,
+          "evidence": "مثال الفرار كاوق العبد اباقه",
+          "span_key": "semantic-002-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "033-33",
+          "start_seconds": 752.73,
+          "end_seconds": 1498.145,
+          "evidence": "الافعال التي تدل على خصله اي على صفه القياس في مصدرها فعاله ولو كانت على غير فاعله",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "033-33",
+          "start_seconds": 1498.145,
+          "end_seconds": 1501.32,
+          "evidence": "هذا الاصلي كمثل ضربت زيدا ضربا",
+          "span_key": "semantic-004-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "033-33",
+          "start_seconds": 1501.32,
+          "end_seconds": 3307.78,
+          "evidence": "لا يصاب الهيئه من غير فلان طيب انا اريدك نعبر عن الهيئه فلان هذا يستغفر بطريقه معينه",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/laamiya-af3al/matn/344/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/laamiya-af3al/sharh/133416/book.md",
+        "livres/shamela/laamiya-af3al/sharh-alt/3863/book.md"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/shamela/laamiya-af3al/matn/344/book.md",
+          "text_line": 2272,
+          "text_lines": [
+            2272,
+            2273,
+            2274,
+            2276,
+            2278,
+            2280,
+            2282
+          ],
+          "anchor_exact": "٧١ - «فَعْلٌ» مَقِيسُ الْمُعَدَّى ، وَ «الْفُعُولُ » لِغَيْـ … ـرِهِ؛ سِوَى فِعْلِ صَوْتٍ ذَا «الْفُعَالُ » جَلَا",
+          "assertion_ar": "الأبيات الكاملة المثبتة تحمل الحكم أو المثال الذي تبنى عليه الوحدة.",
+          "excerpt": "٧١ - «فَعْلٌ» مَقِيسُ الْمُعَدَّى ، وَ «الْفُعُولُ » لِغَيْـ … ـرِهِ؛ سِوَى فِعْلِ صَوْتٍ ذَا «الْفُعَالُ » جَلَا"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/laamiya-af3al/verification-ledger.json",
+        "module_index": 25,
+        "source_minutes": 55.13,
+        "estimate_method": "12 minutes de travail + 1 minute par 8 minutes de source, borné à 15–25"
+      }
+    },
+    {
+      "id": "laamiya-af3al-module-26-مصدر-المرة-والهيئة",
+      "title": "مصدر المرة والهيئة",
+      "estimated_study_minutes": 18,
+      "audio_spans": [
+        {
+          "lesson_id": "034-34",
+          "start_seconds": 0.0,
+          "end_seconds": 2065.47,
+          "evidence": "والتالف ابو بعيد المزيد فيه بتضعيف العينه وهو فعاله فمصدر التفعيل ان كان صحيحا له كعلم تعليما وتفعيله",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "034-34",
+          "start_seconds": 2065.47,
+          "end_seconds": 2068.83,
+          "evidence": "كان صحيحا عليه نحو استخرج استخاره.",
+          "span_key": "semantic-002-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "034-34",
+          "start_seconds": 2068.83,
+          "end_seconds": 2070.75,
+          "evidence": "وان كان معتلها",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "034-34",
+          "start_seconds": 2070.75,
+          "end_seconds": 2075.71,
+          "evidence": "فتحذف عليه وتعوض عنها الباء نحو استعان استعانة.",
+          "span_key": "semantic-004-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "034-34",
+          "start_seconds": 2075.71,
+          "end_seconds": 2951.4202,
+          "evidence": "احيانا بسبب كبار السن؟ الإنسانب ما ينحني غاره؟ لا ولكن هو يقصد الأحدب هو فعلا",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "034-34",
+          "start_seconds": 2951.4202,
+          "end_seconds": 2954.54,
+          "evidence": "الهمزه العارضه في نحو الطياره",
+          "span_key": "semantic-006-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "034-34",
+          "start_seconds": 2954.54,
+          "end_seconds": 3013.09,
+          "evidence": "طيب الكلام الآجرو فيه زيادات لم تصل اليها بعد",
+          "span_key": "semantic-007-teaching",
+          "kind": "teaching"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/laamiya-af3al/matn/344/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/laamiya-af3al/sharh/133416/book.md",
+        "livres/shamela/laamiya-af3al/sharh-alt/3863/book.md"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/shamela/laamiya-af3al/matn/344/book.md",
+          "text_line": 2373,
+          "text_lines": [
+            2373,
+            2375,
+            2377,
+            2379
+          ],
+          "anchor_exact": "٧٧ - لِمَرَّةٍ «فَعْلَةٌ »، وَ «فِعْلَةً » وَضَعُوا … لِهَيْئَةٍ غَالِباً كَـ «مِشْيَةِ الْخُيَلَا »",
+          "assertion_ar": "الأبيات الكاملة المثبتة تحمل الحكم أو المثال الذي تبنى عليه الوحدة.",
+          "excerpt": "٧٧ - لِمَرَّةٍ «فَعْلَةٌ »، وَ «فِعْلَةً » وَضَعُوا … لِهَيْئَةٍ غَالِباً كَـ «مِشْيَةِ الْخُيَلَا »"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/laamiya-af3al/verification-ledger.json",
+        "module_index": 26,
+        "source_minutes": 50.22,
+        "estimate_method": "12 minutes de travail + 1 minute par 8 minutes de source, borné à 15–25"
+      }
+    },
+    {
+      "id": "laamiya-af3al-module-27-مصادر-الخماسي-والسداسي",
+      "title": "مصادر الخماسي والسداسي",
+      "estimated_study_minutes": 18,
+      "audio_spans": [
+        {
+          "lesson_id": "035-35",
+          "start_seconds": 0.0,
+          "end_seconds": 903.12,
+          "evidence": "فالالف الاولى هي العايق والثانية. زائدة. زائدة. فبحسب المحذوف يكون الوزن.",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "035-35",
+          "start_seconds": 903.12,
+          "end_seconds": 906.95996,
+          "evidence": "كمثل مره ومده وعد المضاعف",
+          "span_key": "semantic-002-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "035-35",
+          "start_seconds": 906.95996,
+          "end_seconds": 2083.2349,
+          "evidence": "ما يتاثرون ام لا قال واضممه يعني ما قبل الاخر من فعل الت زيد اواه واكثره سابق حرفي اقبال العلل جميلا",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "035-35",
+          "start_seconds": 2083.2349,
+          "end_seconds": 2086.62,
+          "evidence": "نحو زكّاه تزكيةً وصلى تصليةً.",
+          "span_key": "semantic-004-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "035-35",
+          "start_seconds": 2086.62,
+          "end_seconds": 2392.4302,
+          "evidence": "ولكن اجرى الشاعر المعتل مجرى الصحيح. كما اجره الصحيح مجرى المعتل. وهو المشار إليه بقوله وللعال منه ربما بُذل. أي وربما بُذله أعطي وزنُ تفعيلة لفعل العالم من لا من اعتل.",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "035-35",
+          "start_seconds": 2392.4302,
+          "end_seconds": 2394.75,
+          "evidence": "نحو طرابلسا القوم لمبتية.",
+          "span_key": "semantic-006-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "035-35",
+          "start_seconds": 2394.75,
+          "end_seconds": 2717.1199,
+          "evidence": "عشان تجمعي? لا يقال النجح زيد ورسب سعيد ايضا. لا لابد ان تكون مع شيئين ماذا?",
+          "span_key": "semantic-007-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "035-35",
+          "start_seconds": 2717.1199,
+          "end_seconds": 2719.965,
+          "evidence": "نحو قاتله قتالاً ومقاتلةً.",
+          "span_key": "semantic-008-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "035-35",
+          "start_seconds": 2719.965,
+          "end_seconds": 2769.45,
+          "evidence": "ولكن المنقول عن سيبويه أن المقيس هو المفاعلة فقط لتعيّنها",
+          "span_key": "semantic-009-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "035-35",
+          "start_seconds": 2769.45,
+          "end_seconds": 2773.53,
+          "evidence": "ظالماً فيما فامه يا نحو ياسره ميسرة",
+          "span_key": "semantic-010-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "035-35",
+          "start_seconds": 2773.53,
+          "end_seconds": 2927.33,
+          "evidence": "قال والنوع السابع الرباعي المزيد فيه همزة القطع. وهو افعال. فمصدره الافعال ان كان صريح العينك اكرما.",
+          "span_key": "semantic-011-teaching",
+          "kind": "teaching"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/laamiya-af3al/matn/344/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/laamiya-af3al/sharh/133416/book.md",
+        "livres/shamela/laamiya-af3al/sharh-alt/3863/book.md"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/shamela/laamiya-af3al/matn/344/book.md",
+          "text_line": 2392,
+          "text_lines": [
+            2392,
+            2394
+          ],
+          "anchor_exact": "٧٨ - بِكَسْرِ ثَالِثِ هَمْزِ الْوَصْلِ مَصْدَرُ فِعْـ … ـلٍ حَازَهُ مَعَ مَدِّ مَا الْأَخِيرُ تَلَا",
+          "assertion_ar": "الأبيات الكاملة المثبتة تحمل الحكم أو المثال الذي تبنى عليه الوحدة.",
+          "excerpt": "٧٨ - بِكَسْرِ ثَالِثِ هَمْزِ الْوَصْلِ مَصْدَرُ فِعْـ … ـلٍ حَازَهُ مَعَ مَدِّ مَا الْأَخِيرُ تَلَا"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/laamiya-af3al/verification-ledger.json",
+        "module_index": 27,
+        "source_minutes": 48.79,
+        "estimate_method": "12 minutes de travail + 1 minute par 8 minutes de source, borné à 15–25"
+      }
+    },
+    {
+      "id": "laamiya-af3al-module-28-مصادر-أفعل-وفعّل-وفعلل",
+      "title": "مصادر أفعل وفعّل وفعلل",
+      "estimated_study_minutes": 18,
+      "audio_spans": [
+        {
+          "lesson_id": "036-36",
+          "start_seconds": 0.0,
+          "end_seconds": 1049.95,
+          "evidence": "العاري من اللام المعتل العاري عن المجرد من اللام المعتله ربما ايضا يبذل له وزنت تفعيله",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "036-36",
+          "start_seconds": 1049.95,
+          "end_seconds": 1056.75,
+          "evidence": "المعتل الله نحو زكاه تزكيه وصلى تصليه وشذ فيه وزن التفعيل",
+          "span_key": "semantic-002-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "036-36",
+          "start_seconds": 1056.75,
+          "end_seconds": 1384.01,
+          "evidence": "ولا تنكر عليه بانه مسموع عن العرض وان كان القياس في مصدر تفعل الصحيح التفاعل",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "036-36",
+          "start_seconds": 1384.01,
+          "end_seconds": 1388.17,
+          "evidence": "يعني يكون وزن استفعال بالتاء كمثل استقامه",
+          "span_key": "semantic-004-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "036-36",
+          "start_seconds": 1388.17,
+          "end_seconds": 1393.155,
+          "evidence": "ويكون وزن افعال",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "036-36",
+          "start_seconds": 1393.155,
+          "end_seconds": 1397.235,
+          "evidence": "بالتاء كمثل اقاما ها اقامه فذكر",
+          "span_key": "semantic-006-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "036-36",
+          "start_seconds": 1397.235,
+          "end_seconds": 1541.8151,
+          "evidence": "الافعال المصوغ منه اي من ذلك الفعل ان كان على وزن افعاله طبعا الافعال يكون من افعال فقط",
+          "span_key": "semantic-007-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "036-36",
+          "start_seconds": 1541.8151,
+          "end_seconds": 1544.4,
+          "evidence": "كما قلنا لا يمكن اجتماع الالفين",
+          "span_key": "semantic-008-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "036-36",
+          "start_seconds": 1544.4,
+          "end_seconds": 2632.02,
+          "evidence": "الهيئه من الثلاث فهناك في الثلاث ذكر المره والهيئه وهنا ذكر المره فقط في غير الفلاني ولم يذك بالهيئه لان الهيئه لا تصاب الا",
+          "span_key": "semantic-009-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "036-36",
+          "start_seconds": 2632.02,
+          "end_seconds": 2635.22,
+          "evidence": "كذلك مثلا مثال اخر الفعل داخل",
+          "span_key": "semantic-010-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "036-36",
+          "start_seconds": 2635.22,
+          "end_seconds": 3078.16,
+          "evidence": "تراه اما على مفعل واما على مفعل لا يخر على ذلك مولد على مفعل ومدخل على",
+          "span_key": "semantic-011-teaching",
+          "kind": "teaching"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/laamiya-af3al/matn/344/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/laamiya-af3al/sharh/133416/book.md",
+        "livres/shamela/laamiya-af3al/sharh-alt/3863/book.md"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/shamela/laamiya-af3al/matn/344/book.md",
+          "text_line": 2413,
+          "text_lines": [
+            2413,
+            2414,
+            2415,
+            2417,
+            2419,
+            2420,
+            2421,
+            2423
+          ],
+          "anchor_exact": "٨٠ - لِـ «فَعْلَلَ» ائْتِ بِـ «فِعْلَالٍ ، وَفَعْلَلَةٍ» … وَ «فَعَّلَ» اجْعَلْ لَهُ «التَّفْعِيلَ » حَيْثُ خَلَا",
+          "assertion_ar": "الأبيات الكاملة المثبتة تحمل الحكم أو المثال الذي تبنى عليه الوحدة.",
+          "excerpt": "٨٠ - لِـ «فَعْلَلَ» ائْتِ بِـ «فِعْلَالٍ ، وَفَعْلَلَةٍ» … وَ «فَعَّلَ» اجْعَلْ لَهُ «التَّفْعِيلَ » حَيْثُ خَلَا"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/laamiya-af3al/verification-ledger.json",
+        "module_index": 28,
+        "source_minutes": 51.3,
+        "estimate_method": "12 minutes de travail + 1 minute par 8 minutes de source, borné à 15–25"
+      }
+    },
+    {
+      "id": "laamiya-af3al-module-29-معاني-المفعل-والمفعل",
+      "title": "معاني المفعل والمفعل",
+      "estimated_study_minutes": 19,
+      "audio_spans": [
+        {
+          "lesson_id": "037-37",
+          "start_seconds": 0.0,
+          "end_seconds": 424.82,
+          "evidence": "الفعل اخرج ما اسمه المفعول? مخرج. مخرج. وهكذا الزمن والمكان والبيني.",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "037-37",
+          "start_seconds": 424.82,
+          "end_seconds": 431.7,
+          "evidence": "المسجد، واضحِ الأمر؟ لذلك بدأنا به وما كتبناه لأنه كما قلنا فيه",
+          "span_key": "semantic-002-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "037-37",
+          "start_seconds": 431.7,
+          "end_seconds": 1082.625,
+          "evidence": "نبدأ او بصيغه باسم الزمام موسم المكان وبعد ذلك نتكلم عن المصدر",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "037-37",
+          "start_seconds": 1082.625,
+          "end_seconds": 1086.5901,
+          "evidence": "الواحده التي لمفعل هي حاله مثال الواو",
+          "span_key": "semantic-004-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "037-37",
+          "start_seconds": 1086.5901,
+          "end_seconds": 1107.415,
+          "evidence": "فالمثال الواو في الميمي مفع وفي زمانه المكان ايضا",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "037-37",
+          "start_seconds": 1107.415,
+          "end_seconds": 1115.51,
+          "evidence": "مسح كمثل هناك خر مخرج كمثل هناك وامام ضربه ها فنقول هنا مضرب مضرب وهنا هنا تقول مضرب",
+          "span_key": "semantic-006-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "037-37",
+          "start_seconds": 1115.51,
+          "end_seconds": 1541.675,
+          "evidence": "في من الساعه تعه و30 الصبح من التاسعه والنصف صباحا نعم",
+          "span_key": "semantic-007-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "037-37",
+          "start_seconds": 1541.675,
+          "end_seconds": 1545.1951,
+          "evidence": "ياتي مقرونا بالتاء كقول مقبره",
+          "span_key": "semantic-008-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "037-37",
+          "start_seconds": 1545.1951,
+          "end_seconds": 1928.3049,
+          "evidence": "صحيح ام لا اه فياتون على وزن مفعل بكسر للعين وعده موعدا اي وعدا وهذا موعد زيده اي مكان وعده او",
+          "span_key": "semantic-009-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "037-37",
+          "start_seconds": 1928.3049,
+          "end_seconds": 1932.5449,
+          "evidence": "نحو هذا مضرب زيد اي مكان ضربه او",
+          "span_key": "semantic-010-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "037-37",
+          "start_seconds": 1932.5449,
+          "end_seconds": 2293.2449,
+          "evidence": "بكثره مطلقا ما معنىه مطلقه يعني في المصدر او في الظرفين",
+          "span_key": "semantic-011-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "037-37",
+          "start_seconds": 2293.2449,
+          "end_seconds": 2294.525,
+          "evidence": "كما قلنا",
+          "span_key": "semantic-012-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "037-37",
+          "start_seconds": 2294.525,
+          "end_seconds": 2686.235,
+          "evidence": "ولا مصدر قال ومعنى البيت واتي ايها الصرفي من كل فل ثلاثي المتصرف لا",
+          "span_key": "semantic-013-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "037-37",
+          "start_seconds": 2686.235,
+          "end_seconds": 2689.9949,
+          "evidence": "للدلالة على مصدره نحو كوما يكرم مكرما.",
+          "span_key": "semantic-014-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "037-37",
+          "start_seconds": 2689.9949,
+          "end_seconds": 2703.95,
+          "evidence": "وخرج يخرج مخرجا اي خروجا. وفرح يفرح مفرحا اي فرحا وذهب يذهب مذهبا اي ذهابا",
+          "span_key": "semantic-015-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "037-37",
+          "start_seconds": 2703.95,
+          "end_seconds": 2707.335,
+          "evidence": "الذي فع فيه الفعل نحو هذا مكرمزيد",
+          "span_key": "semantic-016-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "037-37",
+          "start_seconds": 2707.335,
+          "end_seconds": 2988.865,
+          "evidence": "الذي يأتي مضارعه على يفعل بالظلم او على يفعل بالفتح في كون المفعل منه مفوح العين مطلقا",
+          "span_key": "semantic-017-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "037-37",
+          "start_seconds": 2988.865,
+          "end_seconds": 2997.68,
+          "evidence": "نحو وجلى يوجل موجلا وقد صرح به غيره لكن خصصه بدور الدين بنحو عج يعدوا ووافق يثق،",
+          "span_key": "semantic-018-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "037-37",
+          "start_seconds": 2997.68,
+          "end_seconds": 3279.215,
+          "evidence": "اذا ما اعتل لام اي اذا كان لام الفعل حرف علة بل يعتبر ويرجح جانب اللامي ويصير",
+          "span_key": "semantic-019-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "037-37",
+          "start_seconds": 3279.215,
+          "end_seconds": 3282.62,
+          "evidence": "من نحو ضربه يضربه وحين يحن",
+          "span_key": "semantic-020-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "037-37",
+          "start_seconds": 3282.62,
+          "end_seconds": 3412.68,
+          "evidence": "وما مضارعه مكسور معتل الله كرما او معتل الفاء و و كوعد هذا الذي سوى في سوى ذلك اكسل",
+          "span_key": "semantic-021-teaching",
+          "kind": "teaching"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/laamiya-af3al/matn/344/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/laamiya-af3al/sharh/133416/book.md",
+        "livres/shamela/laamiya-af3al/sharh-alt/3863/book.md"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/shamela/laamiya-af3al/matn/344/book.md",
+          "text_line": 2554,
+          "text_lines": [
+            2554,
+            2555,
+            2557,
+            2559,
+            2560,
+            2561
+          ],
+          "anchor_exact": "٩٠ - مِنْ ذِي الثَّلَاثَةِ - لَا «يَفْعِلْ» لَهُ - ائْتِ بِـ «مَفْـ … ـعَلٍ» لِمَصْدَرٍ اوْ مَا فِيهِ قَدْ عُمِلَا",
+          "assertion_ar": "الأبيات الكاملة المثبتة تحمل الحكم أو المثال الذي تبنى عليه الوحدة.",
+          "excerpt": "٩٠ - مِنْ ذِي الثَّلَاثَةِ - لَا «يَفْعِلْ» لَهُ - ائْتِ بِـ «مَفْـ … ـعَلٍ» لِمَصْدَرٍ اوْ مَا فِيهِ قَدْ عُمِلَا"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/laamiya-af3al/verification-ledger.json",
+        "module_index": 29,
+        "source_minutes": 56.88,
+        "estimate_method": "12 minutes de travail + 1 minute par 8 minutes de source, borné à 15–25"
+      }
+    },
+    {
+      "id": "laamiya-af3al-module-30-صياغة-الزمان-والمكان-والمصدر-الميمي",
+      "title": "صياغة الزمان والمكان والمصدر الميمي",
+      "estimated_study_minutes": 19,
+      "audio_spans": [
+        {
+          "lesson_id": "038-38",
+          "start_seconds": 0.0,
+          "end_seconds": 542.21,
+          "evidence": "صيحة يا الآب? مظلمة بقيس في المصدر. شاهدهم في الظرف. مظلمه بقيس في الظرف شاذ في في",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "038-38",
+          "start_seconds": 542.21,
+          "end_seconds": 545.685,
+          "evidence": "انتم ما يا اخوانا كمثل مظلمة.",
+          "span_key": "semantic-002-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "038-38",
+          "start_seconds": 545.685,
+          "end_seconds": 563.23,
+          "evidence": "شاذ دول اخر وقد يكونان بقيسين في وزن معا وشاذان في وشاذين",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "038-38",
+          "start_seconds": 563.23,
+          "end_seconds": 566.27,
+          "evidence": "الخلاصة المهم ان هناك شبها.",
+          "span_key": "semantic-004-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "038-38",
+          "start_seconds": 566.27,
+          "end_seconds": 681.23,
+          "evidence": "القياس فيهما بالفاتح مسجد. صحيح، صحيح، وردَ الجسدُ مسجدُ إلى المسجدُ شاذٌ فيهما.",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "038-38",
+          "start_seconds": 681.23,
+          "end_seconds": 688.065,
+          "evidence": "هذا هو المقصود يعني. كما قلنا في مفعل ومفعل ايضا. المهم ان هناك شذوذا.",
+          "span_key": "semantic-006-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "038-38",
+          "start_seconds": 688.065,
+          "end_seconds": 726.56,
+          "evidence": "صحيح أم لا? صحيح. بلا شك الضم شاب. مشروق في المبتدأ والظرف شابة.",
+          "span_key": "semantic-007-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "038-38",
+          "start_seconds": 726.56,
+          "end_seconds": 730.8,
+          "evidence": "كما قلنا لا يلزم ان يكون الوجهان شاذليل في النوعين.",
+          "span_key": "semantic-008-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "038-38",
+          "start_seconds": 730.8,
+          "end_seconds": 2522.0,
+          "evidence": "وكان الجارُّ والمجرور في قوله من احسب وضرب. حالٌ من قوله وزنُ مفعلَة. أي وشتَّ وزنُ مفعلةٍ حالة كونه مصوغًا من مصدر إحسٍ. ومصوغًا من ضرب، حالةَ كونه كائنًا مع هذه المذكورات في كونه معدودًا من الضرب الذي فيه وجهان أي والعشرون",
+          "span_key": "semantic-009-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "038-38",
+          "start_seconds": 2522.0,
+          "end_seconds": 2527.76,
+          "evidence": "فه عظمه كقول سبحانه كبر مقت عند الله ان تقولوا ما لا",
+          "span_key": "semantic-010-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "038-38",
+          "start_seconds": 2527.76,
+          "end_seconds": 3519.16,
+          "evidence": "يقال قربت الشمس تغرم من باب نصر غربا ومغربا وهذا مغرب الشمس بالكسر على الشذوذ فيهما",
+          "span_key": "semantic-011-teaching",
+          "kind": "teaching"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/laamiya-af3al/matn/344/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/laamiya-af3al/sharh/133416/book.md",
+        "livres/shamela/laamiya-af3al/sharh-alt/3863/book.md"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/shamela/laamiya-af3al/matn/344/book.md",
+          "text_line": 2554,
+          "text_lines": [
+            2554,
+            2555,
+            2557,
+            2559,
+            2560,
+            2561
+          ],
+          "anchor_exact": "٩٠ - مِنْ ذِي الثَّلَاثَةِ - لَا «يَفْعِلْ» لَهُ - ائْتِ بِـ «مَفْـ … ـعَلٍ» لِمَصْدَرٍ اوْ مَا فِيهِ قَدْ عُمِلَا",
+          "assertion_ar": "الأبيات الكاملة المثبتة تحمل الحكم أو المثال الذي تبنى عليه الوحدة.",
+          "excerpt": "٩٠ - مِنْ ذِي الثَّلَاثَةِ - لَا «يَفْعِلْ» لَهُ - ائْتِ بِـ «مَفْـ … ـعَلٍ» لِمَصْدَرٍ اوْ مَا فِيهِ قَدْ عُمِلَا"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/laamiya-af3al/verification-ledger.json",
+        "module_index": 30,
+        "source_minutes": 58.65,
+        "estimate_method": "12 minutes de travail + 1 minute par 8 minutes de source, borné à 15–25"
+      }
+    },
+    {
+      "id": "laamiya-af3al-module-31-شواذ-المفعل-والمفعلة",
+      "title": "شواذ المفعل والمفعلة",
+      "estimated_study_minutes": 19,
+      "audio_spans": [
+        {
+          "lesson_id": "039-39",
+          "start_seconds": 0.0,
+          "end_seconds": 3192.05,
+          "evidence": "قيل البكر مستخرج الماء كان اسم مكان واذا قيل الصباح مستخرج الماء كان اسم زمان واذا قيل مستخرج المال صع كان مصدرا",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/laamiya-af3al/matn/344/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/laamiya-af3al/sharh/133416/book.md",
+        "livres/shamela/laamiya-af3al/sharh-alt/3863/book.md"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/shamela/laamiya-af3al/matn/344/book.md",
+          "text_line": 2721,
+          "text_lines": [
+            2721,
+            2723,
+            2724,
+            2726,
+            2728,
+            2730
+          ],
+          "anchor_exact": "٩٩ - مِنِ «ائْوِ، وَاغْفِرْ، وَعُذْرٍ، وَاحْمِ» : «مَفْعِلَةٌ » … وَمِنْ «رَزَا ، وَاعْرِفِ، اظْنُنْ، مَنْبِتٌ » وُصِلَا",
+          "assertion_ar": "الأبيات الكاملة المثبتة تحمل الحكم أو المثال الذي تبنى عليه الوحدة.",
+          "excerpt": "٩٩ - مِنِ «ائْوِ، وَاغْفِرْ، وَعُذْرٍ، وَاحْمِ» : «مَفْعِلَةٌ » … وَمِنْ «رَزَا ، وَاعْرِفِ، اظْنُنْ، مَنْبِتٌ » وُصِلَا"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/laamiya-af3al/verification-ledger.json",
+        "module_index": 31,
+        "source_minutes": 53.2,
+        "estimate_method": "12 minutes de travail + 1 minute par 8 minutes de source, borné à 15–25"
+      }
+    },
+    {
+      "id": "laamiya-af3al-module-32-مفعلة-الدالة-على-الكثرة",
+      "title": "مفعلة الدالة على الكثرة",
+      "estimated_study_minutes": 19,
+      "audio_spans": [
+        {
+          "lesson_id": "040-40",
+          "start_seconds": 0.0,
+          "end_seconds": 327.22498,
+          "evidence": "للدلالة على كثرة موجود الشيء في المكان.",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "040-40",
+          "start_seconds": 327.22498,
+          "end_seconds": 331.9,
+          "evidence": "نحو أسبعت الأرضُ فهي مُصبعةٌ،",
+          "span_key": "semantic-002-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "040-40",
+          "start_seconds": 331.9,
+          "end_seconds": 2340.025,
+          "evidence": "أي قد نُقل كل منهما عن العرب في الدلالة على كثرة ما كثر في الأرض. باب المفعلة فيقولون أسبحت الأرض، فهيم أسبحة. أي كثيرة السمع",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "040-40",
+          "start_seconds": 2340.025,
+          "end_seconds": 2343.065,
+          "evidence": "اذا الخلاصة.",
+          "span_key": "semantic-004-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "040-40",
+          "start_seconds": 2343.065,
+          "end_seconds": 3283.3298,
+          "evidence": "المعاني الجديده انتم معي اه تذكروا هذه المعاني او الالفاظ الجديده العاميه المهم",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "040-40",
+          "start_seconds": 3283.3298,
+          "end_seconds": 3284.655,
+          "evidence": "كما قلنا",
+          "span_key": "semantic-006-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "040-40",
+          "start_seconds": 3284.655,
+          "end_seconds": 3448.76,
+          "evidence": "كان يقصد بها الآلة فلماذا قال به ولم يقل بها",
+          "span_key": "semantic-007-teaching",
+          "kind": "teaching"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/laamiya-af3al/matn/344/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/laamiya-af3al/sharh/133416/book.md",
+        "livres/shamela/laamiya-af3al/sharh-alt/3863/book.md"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/shamela/laamiya-af3al/matn/344/book.md",
+          "text_line": 2835,
+          "text_lines": [
+            2835,
+            2836,
+            2837,
+            2838,
+            2840
+          ],
+          "anchor_exact": "١٠٤ - مِنِ اسْمِ مَا كَثُرَ اسْمُ الْأَرْضِ «مَفْعَلَةٌ» … كَمِثْلِ «مَسْبَعَةٍ» ، وَالزَّائِدُ اخْتُزِلَا",
+          "assertion_ar": "الأبيات الكاملة المثبتة تحمل الحكم أو المثال الذي تبنى عليه الوحدة.",
+          "excerpt": "١٠٤ - مِنِ اسْمِ مَا كَثُرَ اسْمُ الْأَرْضِ «مَفْعَلَةٌ» … كَمِثْلِ «مَسْبَعَةٍ» ، وَالزَّائِدُ اخْتُزِلَا"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/laamiya-af3al/verification-ledger.json",
+        "module_index": 32,
+        "source_minutes": 57.48,
+        "estimate_method": "12 minutes de travail + 1 minute par 8 minutes de source, borné à 15–25"
+      }
+    },
+    {
+      "id": "laamiya-af3al-module-33-اسم-الآلة-القياسي-والسماعي",
+      "title": "اسم الآلة القياسي والسماعي",
+      "estimated_study_minutes": 22,
+      "audio_spans": [
+        {
+          "lesson_id": "040-40",
+          "start_seconds": 0.0,
+          "end_seconds": 327.22498,
+          "evidence": "للدلالة على كثرة موجود الشيء في المكان.",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "040-40",
+          "start_seconds": 327.22498,
+          "end_seconds": 331.9,
+          "evidence": "نحو أسبعت الأرضُ فهي مُصبعةٌ،",
+          "span_key": "semantic-002-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "040-40",
+          "start_seconds": 331.9,
+          "end_seconds": 2340.025,
+          "evidence": "أي قد نُقل كل منهما عن العرب في الدلالة على كثرة ما كثر في الأرض. باب المفعلة فيقولون أسبحت الأرض، فهيم أسبحة. أي كثيرة السمع",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "040-40",
+          "start_seconds": 2340.025,
+          "end_seconds": 2343.065,
+          "evidence": "اذا الخلاصة.",
+          "span_key": "semantic-004-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "040-40",
+          "start_seconds": 2343.065,
+          "end_seconds": 3283.3298,
+          "evidence": "المعاني الجديده انتم معي اه تذكروا هذه المعاني او الالفاظ الجديده العاميه المهم",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "040-40",
+          "start_seconds": 3283.3298,
+          "end_seconds": 3284.655,
+          "evidence": "كما قلنا",
+          "span_key": "semantic-006-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "040-40",
+          "start_seconds": 3284.655,
+          "end_seconds": 3448.76,
+          "evidence": "كان يقصد بها الآلة فلماذا قال به ولم يقل بها",
+          "span_key": "semantic-007-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "041-41",
+          "start_seconds": 0.0,
+          "end_seconds": 718.99,
+          "evidence": "بسم الله والصلاه والسلام على رسول الله وعلى آله وصحبه ومنتبع الله أما بعد فقد وصلنا",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "041-41",
+          "start_seconds": 718.99,
+          "end_seconds": 725.31,
+          "evidence": "قال وسمع فيه المصعد كما قلنا هذه الالفاظ الشاذه قد سمعها القياس",
+          "span_key": "semantic-002-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "041-41",
+          "start_seconds": 725.31,
+          "end_seconds": 1370.535,
+          "evidence": "اما المكحل بكسر الميم وفتحي العين على القياس فيهما وهو الميل الذي يجعل به الكحل في عين",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "041-41",
+          "start_seconds": 1374.215,
+          "end_seconds": 1386.16,
+          "evidence": "في المعالي والبيان والبديع",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/laamiya-af3al/matn/344/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/laamiya-af3al/sharh/133416/book.md",
+        "livres/shamela/laamiya-af3al/sharh-alt/3863/book.md"
+      ],
+      "canonical_citations": [
+        {
+          "status": "located",
+          "path": "livres/shamela/laamiya-af3al/matn/344/book.md",
+          "text_line": 2875,
+          "text_lines": [
+            2875,
+            2876,
+            2878
+          ],
+          "anchor_exact": "١٠٧ - كَـ «مِفْعَلٍ، وَكَمِفْعَالٍ، وَمِفْعَلَةٍ» … مِنَ الثُّلَاثِيْ صُغِ اسْمَ مَا بِهِ عُمِلَا",
+          "assertion_ar": "الأبيات الكاملة المثبتة تحمل الحكم أو المثال الذي تبنى عليه الوحدة.",
+          "excerpt": "١٠٧ - كَـ «مِفْعَلٍ، وَكَمِفْعَالٍ، وَمِفْعَلَةٍ» … مِنَ الثُّلَاثِيْ صُغِ اسْمَ مَا بِهِ عُمِلَا"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/laamiya-af3al/verification-ledger.json",
+        "module_index": 33,
+        "source_minutes": 80.52,
+        "estimate_method": "12 minutes de travail + 1 minute par 8 minutes de source, borné à 15–25"
+      }
+    },
+    {
+      "id": "laamiya-af3al-module-34-خلاصة-تصريف-الفعل-ومشتقاته",
+      "title": "خلاصة تصريف الفعل ومشتقاته",
+      "estimated_study_minutes": 19,
+      "audio_spans": [
+        {
+          "lesson_id": "001-1",
+          "start_seconds": 0.0,
+          "end_seconds": 1442.955,
+          "evidence": "هناك شيء اسمه اس اسم الفاعل واسم المفعول اليسك كذلك ايه ده هناك شيء في الصرف اسمه اسم الفاعل واسمه ماذا",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "001-1",
+          "start_seconds": 1442.955,
+          "end_seconds": 1448.395,
+          "evidence": "كمثل المفرد والمثنى والجمع.",
+          "span_key": "semantic-002-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "001-1",
+          "start_seconds": 1448.395,
+          "end_seconds": 1721.77,
+          "evidence": "ليس هنا مفرد او مثنى او جم ليس هناك صغير ليس هنا نسب هذا يتعلق بدروس الافعال",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "001-1",
+          "start_seconds": 1721.77,
+          "end_seconds": 1724.345,
+          "evidence": "كما قلنا هذا كلام خص بالافعال",
+          "span_key": "semantic-004-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "001-1",
+          "start_seconds": 1724.345,
+          "end_seconds": 2097.155,
+          "evidence": "فالدرس الاول اوزان الفعل المجرد الثاني اوزان المزيد وفيه صياغه المضارع وصياغه الامر",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "001-1",
+          "start_seconds": 2097.155,
+          "end_seconds": 2101.3599,
+          "evidence": "كمثل الملخص الصرفي الذي نشرحه",
+          "span_key": "semantic-006-example",
+          "kind": "example"
+        },
+        {
+          "lesson_id": "001-1",
+          "start_seconds": 2101.3599,
+          "end_seconds": 2184.851,
+          "evidence": "دس شيئا في علم الصرف قبل ان يب دا معنا في هذا",
+          "span_key": "semantic-007-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "041-41",
+          "start_seconds": 0.0,
+          "end_seconds": 718.99,
+          "evidence": "بسم الله والصلاه والسلام على رسول الله وعلى آله وصحبه ومنتبع الله أما بعد فقد وصلنا",
+          "span_key": "semantic-001-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "041-41",
+          "start_seconds": 718.99,
+          "end_seconds": 725.31,
+          "evidence": "قال وسمع فيه المصعد كما قلنا هذه الالفاظ الشاذه قد سمعها القياس",
+          "span_key": "semantic-002-repetition",
+          "kind": "repetition"
+        },
+        {
+          "lesson_id": "041-41",
+          "start_seconds": 725.31,
+          "end_seconds": 1370.535,
+          "evidence": "اما المكحل بكسر الميم وفتحي العين على القياس فيهما وهو الميل الذي يجعل به الكحل في عين",
+          "span_key": "semantic-003-teaching",
+          "kind": "teaching"
+        },
+        {
+          "lesson_id": "041-41",
+          "start_seconds": 1374.215,
+          "end_seconds": 1386.16,
+          "evidence": "في المعالي والبيان والبديع",
+          "span_key": "semantic-005-teaching",
+          "kind": "teaching"
+        }
+      ],
+      "canonical_refs": [
+        "livres/shamela/laamiya-af3al/matn/344/book.md"
+      ],
+      "supporting_refs": [
+        "livres/shamela/laamiya-af3al/sharh/133416/book.md",
+        "livres/shamela/laamiya-af3al/sharh-alt/3863/book.md"
+      ],
+      "canonical_citations": [
+        {
+          "status": "absent_in_local_canonical",
+          "topic": "مقدمة شرح أو معنى وزن زائد",
+          "reason": "المتن المحلي لا يصرح بهذه الدعوى التعليمية؛ مستندها الشرح الصوتي الكامل.",
+          "supporting_basis": "spans sémantiques localisés dans les batches"
+        }
+      ],
+      "verification": {
+        "transcript": "verified",
+        "grammar": "verified",
+        "arabic": "verified",
+        "pedagogy": "verified"
+      },
+      "verification_evidence": {
+        "ledger": ".superpowers/sdd/all-courses/laamiya-af3al/verification-ledger.json",
+        "module_index": 34,
+        "source_minutes": 59.46,
+        "estimate_method": "12 minutes de travail + 1 minute par 8 minutes de source, borné à 15–25"
+      }
+    }
+  ],
+  "excluded_spans": [
+    {
+      "lesson_id": "001-1",
+      "start_seconds": 2184.851,
+      "end_seconds": 2187.54,
+      "reason": "تنظيم أو موعد مصرح به، لا يحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "005-5",
+      "start_seconds": 3.4399998,
+      "end_seconds": 8.96,
+      "reason": "تنظيم أو موعد مصرح به، لا يحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "005-5",
+      "start_seconds": 3996.98,
+      "end_seconds": 4000.23,
+      "reason": "تنظيم أو موعد مصرح به، لا يحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "007-7",
+      "start_seconds": 4404.2246,
+      "end_seconds": 4407.087,
+      "reason": "تنظيم أو موعد مصرح به، لا يحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "014-14",
+      "start_seconds": 4085.983,
+      "end_seconds": 4087.45,
+      "reason": "تنظيم أو موعد مصرح به، لا يحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "023-23",
+      "start_seconds": 3064.8052,
+      "end_seconds": 3068.885,
+      "reason": "تنظيم أو موعد مصرح به، لا يحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "023-23",
+      "start_seconds": 3070.165,
+      "end_seconds": 3085.0598,
+      "reason": "تنظيم أو موعد مصرح به، لا يحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "030-30",
+      "start_seconds": 1875.33,
+      "end_seconds": 1882.0686,
+      "reason": "تنظيم أو موعد مصرح به، لا يحمل قاعدة صرفية مستقلة."
+    },
+    {
+      "lesson_id": "041-41",
+      "start_seconds": 1370.535,
+      "end_seconds": 1374.215,
+      "reason": "تنظيم أو موعد مصرح به، لا يحمل قاعدة صرفية مستقلة."
+    }
+  ]
+}

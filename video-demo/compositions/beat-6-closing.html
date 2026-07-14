@@ -1,0 +1,563 @@
+<template id="beat-6-closing-template">
+  <div data-hf-id="hf-b6-root" id="beat-6-closing" data-composition-id="beat-6-closing" data-width="1920" data-height="1080" data-start="0" data-duration="3">
+    <link rel="preload" href="capture/assets/fonts/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf" as="font" type="font/ttf" crossorigin="anonymous">
+    <link rel="preload" href="capture/assets/fonts/RrQ5bpV-9Dd1b1OAGA6M9PkyDuVBePeKNaxcsss0Y7bwWslkrA.ttf" as="font" type="font/ttf" crossorigin="anonymous">
+
+    <div data-hf-id="hf-b6-field" class="closing-field" aria-hidden="true"></div>
+    <div data-hf-id="hf-b6-halo" class="closing-halo" aria-hidden="true"></div>
+    <canvas data-hf-id="hf-b6-dust" class="closing-dust" width="1920" height="1080" data-layout-ignore aria-hidden="true"></canvas>
+
+    <svg data-hf-id="hf-b6-rings" class="study-geometry" viewBox="0 0 1920 1080" data-layout-ignore aria-hidden="true">
+      <ellipse data-hf-id="hf-b6-ring-outer" class="study-ring ring-outer" cx="960" cy="370" rx="700" ry="235" pathLength="100"></ellipse>
+      <ellipse data-hf-id="hf-b6-ring-middle" class="study-ring ring-middle" cx="960" cy="370" rx="520" ry="174" pathLength="100"></ellipse>
+      <ellipse data-hf-id="hf-b6-ring-inner" class="study-ring ring-inner" cx="960" cy="370" rx="340" ry="114" pathLength="100"></ellipse>
+      <path data-hf-id="hf-b6-connector-left" class="node-connector connector-left" d="M398 398 L398 434" pathLength="100"></path>
+      <path data-hf-id="hf-b6-connector-center" class="node-connector connector-center" d="M960 398 L960 452" pathLength="100"></path>
+      <path data-hf-id="hf-b6-connector-right" class="node-connector connector-right" d="M1522 398 L1522 434" pathLength="100"></path>
+      <circle data-hf-id="hf-b6-node-left" class="study-node node-left" cx="398" cy="398" r="9"></circle>
+      <circle data-hf-id="hf-b6-node-center" class="study-node node-center" cx="960" cy="398" r="9"></circle>
+      <circle data-hf-id="hf-b6-node-right" class="study-node node-right" cx="1522" cy="398" r="9"></circle>
+    </svg>
+
+    <main data-hf-id="hf-b6-content" class="closing-content">
+      <h1 data-hf-id="hf-b6-cadence" class="closing-cadence" aria-label="Learn. Practice. Progress.">
+        <span data-hf-id="hf-b6-learn" class="cadence-word cadence-learn">Learn.</span>
+        <span data-hf-id="hf-b6-practice" class="cadence-word cadence-practice">Practice.</span>
+        <span data-hf-id="hf-b6-progress" class="cadence-word cadence-progress">Progress.</span>
+      </h1>
+
+      <section data-hf-id="hf-b6-lockup" class="brand-lockup" aria-label="Cours d'Arabe, Mahmoud Al-Shafii">
+        <div data-hf-id="hf-b6-project" class="project-name">
+          <span data-hf-id="hf-b6-project-cours" class="project-word">Cours</span>
+          <span data-hf-id="hf-b6-project-darabe" class="project-word project-accent">d'Arabe</span>
+        </div>
+        <svg data-hf-id="hf-b6-baseline" class="brand-baseline" viewBox="0 0 760 16" data-layout-ignore aria-hidden="true">
+          <path data-hf-id="hf-b6-baseline-path" class="brand-baseline-path" d="M0 8 H760"></path>
+        </svg>
+        <div data-hf-id="hf-b6-arabic" class="arabic-signature" lang="ar" dir="rtl">محمود الشافعي</div>
+      </section>
+
+      <svg data-hf-id="hf-b6-corner-left" class="registration-corner corner-left" viewBox="0 0 48 48" data-layout-ignore aria-hidden="true">
+        <path data-hf-id="hf-b6-corner-left-path" d="M2 46 V2 H46"></path>
+        <circle data-hf-id="hf-b6-corner-left-dot" cx="12" cy="12" r="3"></circle>
+      </svg>
+      <svg data-hf-id="hf-b6-corner-right" class="registration-corner corner-right" viewBox="0 0 48 48" data-layout-ignore aria-hidden="true">
+        <path data-hf-id="hf-b6-corner-right-path" d="M2 2 H46 V46"></path>
+        <circle data-hf-id="hf-b6-corner-right-dot" cx="36" cy="12" r="3"></circle>
+      </svg>
+    </main>
+
+    <style>
+      @font-face {
+        font-family: "Cours Inter Closing";
+        src: url("capture/assets/fonts/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf") format("truetype");
+        font-weight: 800;
+        font-style: normal;
+        font-display: block;
+      }
+
+      @font-face {
+        font-family: "Cours Naskh Closing";
+        src: url("capture/assets/fonts/RrQ5bpV-9Dd1b1OAGA6M9PkyDuVBePeKNaxcsss0Y7bwWslkrA.ttf") format("truetype");
+        font-weight: 700;
+        font-style: normal;
+        font-display: block;
+      }
+
+      #beat-6-closing {
+        position: relative;
+        width: 1920px;
+        height: 1080px;
+        overflow: hidden;
+        isolation: isolate;
+        color: #e2e8f0;
+        background-color: #06090f;
+      }
+
+      #beat-6-closing *,
+      #beat-6-closing *::before,
+      #beat-6-closing *::after {
+        box-sizing: border-box;
+      }
+
+      .closing-field,
+      .closing-halo,
+      .closing-dust,
+      .study-geometry {
+        position: absolute;
+        inset: 0;
+        width: 1920px;
+        height: 1080px;
+        pointer-events: none;
+      }
+
+      .closing-field {
+        z-index: 0;
+        background-color: #06090f;
+        background-image:
+          radial-gradient(circle at 50% 40%, rgba(19, 27, 40, 0.76) 0, rgba(12, 17, 25, 0.32) 34%, rgba(6, 9, 15, 0) 62%),
+          linear-gradient(90deg, rgba(148, 163, 184, 0.028) 1px, transparent 1px),
+          linear-gradient(rgba(148, 163, 184, 0.022) 1px, transparent 1px);
+        background-size: auto, 96px 96px, 96px 96px;
+      }
+
+      .closing-halo {
+        z-index: 1;
+        left: 180px;
+        top: 40px;
+        width: 1560px;
+        height: 840px;
+        background: radial-gradient(ellipse at 50% 42%, rgba(240, 180, 41, 0.21) 0, rgba(240, 180, 41, 0.065) 30%, rgba(240, 180, 41, 0) 68%);
+        transform-origin: 50% 42%;
+        will-change: transform, opacity;
+      }
+
+      .closing-dust {
+        z-index: 2;
+        will-change: transform, opacity;
+      }
+
+      .study-geometry {
+        z-index: 3;
+        overflow: visible;
+      }
+
+      .study-ring,
+      .node-connector {
+        fill: none;
+        vector-effect: non-scaling-stroke;
+        will-change: stroke-dashoffset, opacity;
+      }
+
+      .study-ring {
+        stroke: rgba(240, 180, 41, 0.2);
+        stroke-width: 2;
+        stroke-dasharray: 100;
+        stroke-dashoffset: 0;
+      }
+
+      .ring-middle {
+        stroke: rgba(148, 163, 184, 0.18);
+      }
+
+      .ring-inner {
+        stroke: rgba(240, 180, 41, 0.3);
+      }
+
+      .node-connector {
+        stroke: rgba(240, 180, 41, 0.52);
+        stroke-width: 2;
+        stroke-dasharray: 100;
+        stroke-dashoffset: 0;
+      }
+
+      .study-node {
+        fill: #f0b429;
+        stroke: #06090f;
+        stroke-width: 5;
+        transform-box: fill-box;
+        transform-origin: center;
+        filter: drop-shadow(0 0 12px rgba(240, 180, 41, 0.7));
+        will-change: transform, opacity;
+      }
+
+      .closing-content {
+        position: relative;
+        z-index: 4;
+        width: 1920px;
+        height: 1080px;
+      }
+
+      .closing-cadence {
+        position: absolute;
+        left: 150px;
+        top: 230px;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        align-items: center;
+        width: 1620px;
+        height: 170px;
+        margin: 0;
+        font-family: "Cours Inter Closing", Inter, sans-serif;
+        font-size: 88px;
+        font-weight: 800;
+        line-height: 1;
+        letter-spacing: -0.055em;
+        white-space: nowrap;
+      }
+
+      .cadence-word {
+        display: block;
+        min-width: 1px;
+        min-height: 88px;
+        color: #f8fafc;
+        text-align: center;
+        text-shadow: 0 14px 46px rgba(6, 9, 15, 0.82);
+        will-change: transform, opacity;
+      }
+
+      .cadence-practice {
+        color: #f0b429;
+      }
+
+      .brand-lockup {
+        position: absolute;
+        left: 150px;
+        top: 470px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 1500px;
+        height: 300px;
+      }
+
+      .project-name {
+        display: flex;
+        align-items: baseline;
+        justify-content: center;
+        width: 1500px;
+        min-height: 112px;
+        gap: 0.23em;
+        color: #f8fafc;
+        font-family: "Cours Inter Closing", Inter, sans-serif;
+        font-size: 104px;
+        font-weight: 800;
+        line-height: 1;
+        letter-spacing: -0.052em;
+        white-space: nowrap;
+        text-shadow: 0 22px 64px rgba(6, 9, 15, 0.78);
+      }
+
+      .project-word {
+        display: inline-block;
+        min-width: 1px;
+        min-height: 104px;
+        will-change: transform, opacity;
+      }
+
+      .project-accent {
+        color: #f0b429;
+      }
+
+      .brand-baseline {
+        display: block;
+        width: 760px;
+        height: 16px;
+        margin-top: 12px;
+        overflow: visible;
+      }
+
+      .brand-baseline-path {
+        fill: none;
+        stroke: #f0b429;
+        stroke-width: 5;
+        stroke-linecap: square;
+        transform-box: fill-box;
+        transform-origin: left center;
+        filter: drop-shadow(0 0 12px rgba(240, 180, 41, 0.28));
+        will-change: transform;
+      }
+
+      .arabic-signature {
+        display: block;
+        width: max-content;
+        min-width: 1px;
+        min-height: 49px;
+        margin-top: 16px;
+        color: #e2e8f0;
+        font-family: "Cours Naskh Closing", serif;
+        font-size: 38px;
+        font-weight: 700;
+        line-height: 1.28;
+        text-align: center;
+        white-space: nowrap;
+        will-change: transform, opacity;
+      }
+
+      .registration-corner {
+        position: absolute;
+        width: 48px;
+        height: 48px;
+        overflow: visible;
+        fill: none;
+        stroke: #f0b429;
+        stroke-width: 2;
+        stroke-linecap: square;
+        transform-origin: center;
+        will-change: transform, opacity;
+      }
+
+      .registration-corner circle {
+        fill: #f0b429;
+        stroke: none;
+      }
+
+      .registration-corner path {
+        stroke-dasharray: 88;
+        stroke-dashoffset: 0;
+      }
+
+      .corner-left {
+        left: 96px;
+        top: 836px;
+      }
+
+      .corner-right {
+        left: 1776px;
+        top: 144px;
+      }
+
+    </style>
+
+    <script>
+      (function drawClosingDust() {
+        const canvas = document.querySelector("#beat-6-closing .closing-dust");
+        const context = canvas.getContext("2d");
+        let seed = 0x1a2b3c4d;
+
+        function seededUnit() {
+          seed |= 0;
+          seed = (seed + 0x6d2b79f5) | 0;
+          let value = Math.imul(seed ^ (seed >>> 15), 1 | seed);
+          value = (value + Math.imul(value ^ (value >>> 7), 61 | value)) ^ value;
+          return ((value ^ (value >>> 14)) >>> 0) / 4294967296;
+        }
+
+        context.clearRect(0, 0, 1920, 1080);
+        for (let index = 0; index < 44; index += 1) {
+          const x = 110 + seededUnit() * 1680;
+          const y = 70 + seededUnit() * 920;
+          const radius = 0.55 + seededUnit() * 1.35;
+          const alpha = 0.18 + seededUnit() * 0.42;
+          context.beginPath();
+          context.arc(x, y, radius, 0, Math.PI * 2);
+          context.fillStyle = `rgba(240, 180, 41, ${alpha.toFixed(3)})`;
+          context.fill();
+        }
+      })();
+    </script>
+
+    <script>
+      (function buildClosingTimeline() {
+        window.__timelines = window.__timelines || {};
+
+        const root = "#beat-6-closing";
+        const timeline = gsap.timeline({ paused: true });
+
+        timeline.fromTo(
+          `${root} .closing-field`,
+          { opacity: 0 },
+          { opacity: 1, duration: 0.12, ease: "sine.out" },
+          0,
+        );
+        timeline.fromTo(
+          `${root} .closing-halo`,
+          { opacity: 0, scale: 0.965 },
+          { opacity: 0.22, scale: 1, duration: 0.25, ease: "power2.out" },
+          0,
+        );
+        timeline.fromTo(
+          `${root} .closing-halo`,
+          { scale: 1 },
+          {
+            scale: 1.035,
+            duration: 2.5,
+            ease: "sine.inOut",
+            immediateRender: false,
+          },
+          0.25,
+        );
+
+        timeline.fromTo(
+          `${root} .closing-dust`,
+          { x: 0, y: 0, opacity: 0 },
+          { x: 2, y: -1, opacity: 0.24, duration: 0.38, ease: "power1.out" },
+          0.12,
+        );
+        timeline.fromTo(
+          `${root} .closing-dust`,
+          { x: 2, y: -1 },
+          {
+            x: 14,
+            y: -9,
+            duration: 2.25,
+            ease: "sine.inOut",
+            immediateRender: false,
+          },
+          0.5,
+        );
+
+        const ringEntrances = [
+          { selector: ".ring-outer", start: 0.12, duration: 0.58, ease: "power2.out" },
+          { selector: ".ring-middle", start: 0.18, duration: 0.48, ease: "expo.out" },
+          { selector: ".ring-inner", start: 0.24, duration: 0.38, ease: "circ.out" },
+        ];
+        ringEntrances.forEach(function drawRing(ring) {
+          timeline.fromTo(
+            `${root} ${ring.selector}`,
+            { strokeDashoffset: 100, opacity: 0 },
+            {
+              strokeDashoffset: 0,
+              opacity: 1,
+              duration: ring.duration,
+              ease: ring.ease,
+            },
+            ring.start,
+          );
+        });
+
+        const connectorEntrances = [
+          { selector: ".connector-left", start: 0.3, duration: 0.28, ease: "power3.out" },
+          { selector: ".connector-center", start: 0.43, duration: 0.22, ease: "circ.out" },
+          { selector: ".connector-right", start: 0.56, duration: 0.18, ease: "expo.out" },
+        ];
+        connectorEntrances.forEach(function drawConnector(connector) {
+          timeline.fromTo(
+            `${root} ${connector.selector}`,
+            { strokeDashoffset: 100, opacity: 0 },
+            {
+              strokeDashoffset: 0,
+              opacity: 1,
+              duration: connector.duration,
+              ease: connector.ease,
+            },
+            connector.start,
+          );
+        });
+
+        const cadenceEntrances = [
+          {
+            word: ".cadence-learn",
+            node: ".node-left",
+            start: 0.3,
+            offset: 48,
+            duration: 0.32,
+            ease: "power4.out",
+          },
+          {
+            word: ".cadence-practice",
+            node: ".node-center",
+            start: 0.45,
+            offset: 32,
+            duration: 0.31,
+            ease: "expo.out",
+          },
+          {
+            word: ".cadence-progress",
+            node: ".node-right",
+            start: 0.62,
+            offset: 18,
+            duration: 0.33,
+            ease: "circ.out",
+          },
+        ];
+        cadenceEntrances.forEach(function landCadence(item) {
+          timeline.fromTo(
+            `${root} ${item.word}`,
+            { y: item.offset, opacity: 0 },
+            {
+              y: 0,
+              opacity: 1,
+              duration: item.duration,
+              ease: item.ease,
+            },
+            item.start,
+          );
+          timeline.fromTo(
+            `${root} ${item.node}`,
+            { scale: 0, opacity: 0 },
+            {
+              scale: 1,
+              opacity: 1,
+              duration: 0.18,
+              ease: "back.out(1.25)",
+            },
+            item.start,
+          );
+          timeline.fromTo(
+            `${root} ${item.node}`,
+            { scale: 1 },
+            {
+              scale: 1.32,
+              duration: 0.08,
+              ease: "sine.out",
+              yoyo: true,
+              repeat: 1,
+              immediateRender: false,
+            },
+            item.start + item.duration - 0.16,
+          );
+        });
+
+        timeline.fromTo(
+          `${root} .project-word:nth-child(1)`,
+          { y: 24, opacity: 0 },
+          { y: 0, opacity: 1, duration: 0.31, ease: "power3.out" },
+          0.86,
+        );
+        timeline.fromTo(
+          `${root} .project-word:nth-child(2)`,
+          { y: 24, opacity: 0 },
+          { y: 0, opacity: 1, duration: 0.31, ease: "expo.out" },
+          0.94,
+        );
+        timeline.fromTo(
+          `${root} .brand-baseline-path`,
+          { scaleX: 0 },
+          { scaleX: 1, duration: 0.33, ease: "power2.out" },
+          0.92,
+        );
+
+        timeline.fromTo(
+          `${root} .arabic-signature`,
+          { y: 18, opacity: 0 },
+          { y: 0, opacity: 1, duration: 0.33, ease: "circ.out" },
+          1.05,
+        );
+
+        const corners = [
+          `${root} .corner-left`,
+          `${root} .corner-right`,
+        ];
+        corners.forEach(function snapCorner(selector, index) {
+          timeline.fromTo(
+            selector,
+            { scale: 0.72, opacity: 0 },
+            {
+              scale: 1,
+              opacity: 1,
+              duration: 0.33 - index * 0.04,
+              ease: index === 0 ? "back.out(1.2)" : "power4.out",
+            },
+            1.05 + index * 0.04,
+          );
+          timeline.fromTo(
+            `${selector} path`,
+            { strokeDashoffset: 88 },
+            {
+              strokeDashoffset: 0,
+              duration: 0.33 - index * 0.04,
+              ease: index === 0 ? "power2.out" : "expo.out",
+            },
+            1.05 + index * 0.04,
+          );
+        });
+
+        timeline.fromTo(
+          root,
+          { opacity: 1 },
+          {
+            opacity: 0,
+            duration: 0.25,
+            ease: "sine.inOut",
+            immediateRender: false,
+          },
+          2.75,
+        );
+
+        window.__timelines["beat-6-closing"] = timeline;
+      })();
+    </script>
+  </div>
+</template>
